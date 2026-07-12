@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate Atom feeds for Gujarat Samachar magazines (Ravi Purti, Shatdal)."""
+"""Generate Atom feeds for Gujarat Samachar magazines and Drishti IAS Hindi columns."""
 
 from __future__ import annotations
 
@@ -13,17 +13,22 @@ import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Iterable
+from typing import Callable, Iterable
 from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin
 from urllib.request import Request, urlopen
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 
-BASE = "https://www.gujaratsamachar.com"
 USER_AGENT = (
-    "Mozilla/5.0 (compatible; gs-magazine-rss/1.0; +https://github.com/)"
-    " AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    "Mozilla/5.0 (compatible; gs-magazine-rss/1.1; +https://github.com/monk-blade/gs-magazine-rss) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+)
+
+GS_BASE = "https://www.gujaratsamachar.com"
+DRISHTI_BASE = "https://www.drishtiias.com"
+DRISHTI_INDEX = (
+    "https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials"
 )
 
 CLEANUP_SELECTORS = [
@@ -39,30 +44,15 @@ CLEANUP_SELECTORS = [
     "style",
     "ev-engagement",
     "img.lazyloading",
-]
-
-
-@dataclass(frozen=True)
-class Magazine:
-    slug: str
-    title: str
-    category_path: str  # e.g. magazines/ravi-purti
-    url_pattern: str  # e.g. /news/ravi-purti/
-
-
-MAGAZINES = [
-    Magazine(
-        slug="ravi-purti",
-        title="Ravi Purti — Gujarat Samachar",
-        category_path="magazines/ravi-purti",
-        url_pattern="/news/ravi-purti/",
-    ),
-    Magazine(
-        slug="shatdal",
-        title="Shatdal — Gujarat Samachar",
-        category_path="magazines/shatdal",
-        url_pattern="/news/shatdal/",
-    ),
+    ".btn-group",
+    ".next-post",
+    ".prev",
+    ".breadcrumb",
+    ".sharethis-inline-share-buttons",
+    ".addtoany_share_save_container",
+    "ul.actions",
+    ".actions",
+    "a.switch_to",
 ]
 
 
@@ -75,6 +65,15 @@ class Article:
     author: str | None = None
 
 
+@dataclass(frozen=True)
+class FeedSpec:
+    slug: str
+    title: str
+    alternate_url: str
+    author_name: str
+    collect: Callable[..., list[Article]]
+
+
 def fetch(url: str, retries: int = 3, pause: float = 1.0) -> str:
     last_err: Exception | None = None
     for attempt in range(1, retries + 1):
@@ -84,7 +83,7 @@ def fetch(url: str, retries: int = 3, pause: float = 1.0) -> str:
                 headers={
                     "User-Agent": USER_AGENT,
                     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                    "Accept-Language": "gu,en;q=0.8",
+                    "Accept-Language": "hi,gu,en;q=0.8",
                 },
             )
             with urlopen(req, timeout=45) as resp:
@@ -99,33 +98,6 @@ def absolutize(base: str, href: str) -> str:
     return urljoin(base, href)
 
 
-def listing_urls(magazine: Magazine, pages: int) -> list[str]:
-    # /category/magazines/<slug>/1 is the canonical first page
-    return [
-        f"{BASE}/category/{magazine.category_path}/{page}"
-        for page in range(1, pages + 1)
-    ]
-
-
-def extract_listing_links(html_text: str, magazine: Magazine) -> list[tuple[str, str]]:
-    soup = BeautifulSoup(html_text, "lxml")
-    items: list[tuple[str, str]] = []
-    seen: set[str] = set()
-    for a in soup.select(".title-wrapper a"):
-        href = a.get("href") or ""
-        if magazine.url_pattern not in href:
-            continue
-        url = absolutize(BASE, href)
-        if url in seen:
-            continue
-        title = a.get_text(" ", strip=True)
-        if not title:
-            continue
-        seen.add(url)
-        items.append((url, title))
-    return items
-
-
 def parse_datetime(soup: BeautifulSoup) -> datetime | None:
     for sel in [
         'meta[property="article:published_time"]',
@@ -136,16 +108,14 @@ def parse_datetime(soup: BeautifulSoup) -> datetime | None:
         el = soup.select_one(sel)
         if not el:
             continue
-        raw = el.get("content") or el.get("datetime") or ""
-        raw = raw.strip()
+        raw = (el.get("content") or el.get("datetime") or "").strip()
         if not raw:
             continue
         try:
-            # Handle Z suffix
             return datetime.fromisoformat(raw.replace("Z", "+00:00"))
         except ValueError:
             pass
-    # JSON-LD
+
     for script in soup.select('script[type="application/ld+json"]'):
         try:
             data = json.loads(script.string or "")
@@ -163,7 +133,31 @@ def parse_datetime(soup: BeautifulSoup) -> datetime | None:
                     return datetime.fromisoformat(str(raw).replace("Z", "+00:00"))
                 except ValueError:
                     continue
+
+    # Drishti often shows "11 Jul 2026" near the title
+    text = soup.get_text(" ", strip=True)
+    m = re.search(
+        r"\b(\d{1,2})\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{4})\b",
+        text,
+    )
+    if m:
+        try:
+            return datetime.strptime(m.group(0), "%d %b %Y").replace(tzinfo=timezone.utc)
+        except ValueError:
+            pass
     return None
+
+
+def parse_date_from_drishti_url(url: str) -> datetime | None:
+    # .../news-analysis/11-07-2026 or .../prelims-facts/11-07-2026
+    m = re.search(r"/(\d{2})-(\d{2})-(\d{4})/?$", url)
+    if not m:
+        return None
+    day, month, year = m.groups()
+    try:
+        return datetime(int(year), int(month), int(day), tzinfo=timezone.utc)
+    except ValueError:
+        return None
 
 
 def extract_author(soup: BeautifulSoup) -> str | None:
@@ -183,110 +177,44 @@ def extract_author(soup: BeautifulSoup) -> str | None:
     return None
 
 
-def clean_content(node) -> str:
+def clean_content(node: Tag, base: str) -> str:
+    from bs4 import Comment
+
     for sel in CLEANUP_SELECTORS:
         for junk in node.select(sel):
             junk.decompose()
-    # Drop 1x1 trackers
+    for comment in node.find_all(string=lambda t: isinstance(t, Comment)):
+        comment.extract()
     for img in node.select("img"):
         src = img.get("src") or ""
         if "track_1x1" in src or img.get("width") == "1" or img.get("height") == "1":
             img.decompose()
-    # Absolutize remaining links/images
     for tag in node.select("[href], [src]"):
         if tag.has_attr("href"):
-            tag["href"] = absolutize(BASE, tag["href"])
+            tag["href"] = absolutize(base, tag["href"])
         if tag.has_attr("src"):
-            tag["src"] = absolutize(BASE, tag["src"])
+            tag["src"] = absolutize(base, tag["src"])
     return str(node)
-
-
-def fetch_article(url: str, fallback_title: str) -> Article | None:
-    try:
-        page = fetch(url)
-    except RuntimeError as exc:
-        print(f"  ! skip article {url}: {exc}", file=sys.stderr)
-        return None
-    soup = BeautifulSoup(page, "lxml")
-    title_el = soup.select_one("h1") or soup.title
-    title = (
-        title_el.get_text(" ", strip=True)
-        if title_el
-        else fallback_title
-    )
-    title = re.sub(r"\s*\|\s*Gujarat Samachar.*$", "", title).strip() or fallback_title
-
-    content_el = soup.select_one(".article-cms-content") or soup.select_one(
-        ".gutenberg-content"
-    )
-    if not content_el:
-        print(f"  ! no content for {url}", file=sys.stderr)
-        return None
-
-    return Article(
-        url=url,
-        title=title,
-        content_html=clean_content(content_el),
-        published=parse_datetime(soup),
-        author=extract_author(soup),
-    )
-
-
-def collect_articles(magazine: Magazine, pages: int, delay: float) -> list[Article]:
-    links: list[tuple[str, str]] = []
-    seen: set[str] = set()
-    for listing in listing_urls(magazine, pages):
-        print(f"  listing {listing}")
-        try:
-            html_text = fetch(listing)
-        except RuntimeError as exc:
-            print(f"  ! {exc}", file=sys.stderr)
-            continue
-        for url, title in extract_listing_links(html_text, magazine):
-            if url in seen:
-                continue
-            seen.add(url)
-            links.append((url, title))
-        time.sleep(delay)
-
-    articles: list[Article] = []
-    for url, title in links:
-        print(f"  article {url}")
-        art = fetch_article(url, title)
-        if art:
-            articles.append(art)
-        time.sleep(delay)
-    return articles
 
 
 def atom_text(value: str) -> str:
     return html.escape(value, quote=False)
 
 
-def build_atom(
-    magazine: Magazine,
-    articles: Iterable[Article],
-    feed_self_url: str | None,
-) -> str:
-    return render_atom_manual(
-        magazine,
-        list(articles),
-        feed_self_url,
-        datetime.now(timezone.utc),
-    )
-
-
-def render_atom_manual(
-    magazine: Magazine,
+def render_atom(
+    slug: str,
+    title: str,
+    alternate_url: str,
+    author_name: str,
     articles: list[Article],
     feed_self_url: str | None,
-    now: datetime,
 ) -> str:
+    now = datetime.now(timezone.utc)
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<feed xmlns="http://www.w3.org/2005/Atom">',
-        f"  <title>{atom_text(magazine.title)}</title>",
-        f'  <link rel="alternate" href="{atom_text(BASE + "/category/" + magazine.category_path)}"/>',
+        f"  <title>{atom_text(title)}</title>",
+        f'  <link rel="alternate" href="{atom_text(alternate_url)}"/>',
     ]
     if feed_self_url:
         lines.append(
@@ -295,8 +223,8 @@ def render_atom_manual(
     lines.extend(
         [
             f"  <updated>{now.isoformat()}</updated>",
-            f"  <id>urn:gs-magazine-rss:{magazine.slug}</id>",
-            "  <author><name>Gujarat Samachar</name></author>",
+            f"  <id>urn:gs-magazine-rss:{slug}</id>",
+            f"  <author><name>{atom_text(author_name)}</name></author>",
         ]
     )
 
@@ -311,12 +239,7 @@ def render_atom_manual(
         lines.append(f"    <published>{ts.isoformat()}</published>")
         lines.append(f"    <updated>{ts.isoformat()}</updated>")
         if art.author:
-            lines.append(
-                f"    <author><name>{atom_text(art.author)}</name></author>"
-            )
-        # Escape only XML-significant chars that would break the document,
-        # keeping tags intact: wrap as text by escaping <>& for safety then
-        # using type=html with properly escaped content (standard Atom).
+            lines.append(f"    <author><name>{atom_text(art.author)}</name></author>")
         safe_html = (
             art.content_html.replace("&", "&amp;")
             .replace("<", "&lt;")
@@ -332,10 +255,302 @@ def render_atom_manual(
 def feed_fingerprint(path: Path) -> str | None:
     if not path.exists():
         return None
-    # Ignore <updated> timestamps when comparing
     text = path.read_text(encoding="utf-8")
     text = re.sub(r"<updated>[^<]+</updated>", "", text)
     return hashlib.sha256(text.encode()).hexdigest()
+
+
+# --- Gujarat Samachar -------------------------------------------------------
+
+
+@dataclass(frozen=True)
+class Magazine:
+    slug: str
+    title: str
+    category_path: str
+    url_pattern: str
+
+
+MAGAZINES = [
+    Magazine(
+        slug="ravi-purti",
+        title="Ravi Purti — Gujarat Samachar",
+        category_path="magazines/ravi-purti",
+        url_pattern="/news/ravi-purti/",
+    ),
+    Magazine(
+        slug="shatdal",
+        title="Shatdal — Gujarat Samachar",
+        category_path="magazines/shatdal",
+        url_pattern="/news/shatdal/",
+    ),
+]
+
+
+def fetch_gs_article(url: str, fallback_title: str) -> Article | None:
+    try:
+        page = fetch(url)
+    except RuntimeError as exc:
+        print(f"  ! skip article {url}: {exc}", file=sys.stderr)
+        return None
+    soup = BeautifulSoup(page, "lxml")
+    title_el = soup.select_one("h1") or soup.title
+    title = title_el.get_text(" ", strip=True) if title_el else fallback_title
+    title = re.sub(r"\s*\|\s*Gujarat Samachar.*$", "", title).strip() or fallback_title
+    content_el = soup.select_one(".article-cms-content") or soup.select_one(
+        ".gutenberg-content"
+    )
+    if not content_el:
+        print(f"  ! no content for {url}", file=sys.stderr)
+        return None
+    return Article(
+        url=url,
+        title=title,
+        content_html=clean_content(content_el, GS_BASE),
+        published=parse_datetime(soup),
+        author=extract_author(soup),
+    )
+
+
+def collect_gs_magazine(magazine: Magazine, pages: int, delay: float) -> list[Article]:
+    links: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for page in range(1, pages + 1):
+        listing = f"{GS_BASE}/category/{magazine.category_path}/{page}"
+        print(f"  listing {listing}")
+        try:
+            html_text = fetch(listing)
+        except RuntimeError as exc:
+            print(f"  ! {exc}", file=sys.stderr)
+            continue
+        soup = BeautifulSoup(html_text, "lxml")
+        for a in soup.select(".title-wrapper a"):
+            href = a.get("href") or ""
+            if magazine.url_pattern not in href:
+                continue
+            url = absolutize(GS_BASE, href)
+            title = a.get_text(" ", strip=True)
+            if not title or url in seen:
+                continue
+            seen.add(url)
+            links.append((url, title))
+        time.sleep(delay)
+
+    articles: list[Article] = []
+    for url, title in links:
+        print(f"  article {url}")
+        art = fetch_gs_article(url, title)
+        if art:
+            articles.append(art)
+        time.sleep(delay)
+    return articles
+
+
+# --- Drishti IAS ------------------------------------------------------------
+
+
+def drishti_column_box(soup: BeautifulSoup, subheading_class: str) -> Tag | None:
+    """Return the `.column.three.box-toggle` whose `.subheading` has the given class."""
+    for box in soup.select(".column.three.box-toggle"):
+        sub = box.select_one(".subheading")
+        if not sub:
+            continue
+        classes = sub.get("class") or []
+        if subheading_class in classes:
+            return box
+    return None
+
+
+def column_links(box: Tag) -> list[tuple[str, str]]:
+    items: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for a in box.select("a[href]"):
+        title = a.get_text(" ", strip=True)
+        href = a.get("href") or ""
+        if not title or not href:
+            continue
+        url = absolutize(DRISHTI_BASE, href)
+        if url in seen:
+            continue
+        seen.add(url)
+        items.append((title, url))
+    return items
+
+
+def fetch_drishti_article(
+    url: str,
+    fallback_title: str,
+    fallback_date: datetime | None = None,
+) -> Article | None:
+    try:
+        page = fetch(url)
+    except RuntimeError as exc:
+        print(f"  ! skip article {url}: {exc}", file=sys.stderr)
+        return None
+    soup = BeautifulSoup(page, "lxml")
+    title_el = soup.select_one(".article-detail h1") or soup.select_one("h1") or soup.title
+    title = title_el.get_text(" ", strip=True) if title_el else fallback_title
+    title = re.sub(r"\s*\|\s*Drishti.*$", "", title, flags=re.I).strip() or fallback_title
+
+    content_el = soup.select_one(".article-detail")
+    if not content_el:
+        print(f"  ! no content for {url}", file=sys.stderr)
+        return None
+
+    return Article(
+        url=url,
+        title=title,
+        content_html=clean_content(content_el, DRISHTI_BASE),
+        published=parse_datetime(soup) or fallback_date or parse_date_from_drishti_url(url),
+        author=extract_author(soup) or "Drishti IAS",
+    )
+
+
+def expand_drishti_day_page(day_url: str, delay: float) -> list[tuple[str, str, datetime | None]]:
+    """From a daily digest page, collect individual article (title, url, day_date)."""
+    print(f"  day {day_url}")
+    try:
+        html_text = fetch(day_url)
+    except RuntimeError as exc:
+        print(f"  ! {exc}", file=sys.stderr)
+        return []
+    soup = BeautifulSoup(html_text, "lxml")
+    day_date = parse_date_from_drishti_url(day_url)
+    items: list[tuple[str, str, datetime | None]] = []
+    seen: set[str] = set()
+    for a in soup.select(".article-detail h1 a"):
+        title = a.get_text(" ", strip=True)
+        href = a.get("href") or ""
+        if not title or not href:
+            continue
+        url = absolutize(DRISHTI_BASE, href)
+        if url in seen:
+            continue
+        seen.add(url)
+        items.append((title, url, day_date))
+    time.sleep(delay)
+    return items
+
+
+def collect_drishti_current_affairs(days: int, delay: float) -> list[Article]:
+    """Green column: date digests → individual daily-news-analysis articles."""
+    print(f"  index {DRISHTI_INDEX}")
+    soup = BeautifulSoup(fetch(DRISHTI_INDEX), "lxml")
+    box = drishti_column_box(soup, "bg-green")
+    if not box:
+        raise RuntimeError("Drishti current-affairs column (.bg-green) not found")
+
+    day_links = [
+        (title, url)
+        for title, url in column_links(box)
+        if "/news-analysis/" in url and re.search(r"/\d{2}-\d{2}-\d{4}/?$", url)
+    ][:days]
+    print(f"  {len(day_links)} day digests")
+
+    article_links: list[tuple[str, str, datetime | None]] = []
+    seen: set[str] = set()
+    for _, day_url in day_links:
+        for title, url, day_date in expand_drishti_day_page(day_url, delay):
+            if url in seen:
+                continue
+            seen.add(url)
+            article_links.append((title, url, day_date))
+
+    articles: list[Article] = []
+    for title, url, day_date in article_links:
+        print(f"  article {url}")
+        art = fetch_drishti_article(url, title, day_date)
+        if art:
+            articles.append(art)
+        time.sleep(delay)
+    return articles
+
+
+def collect_drishti_editorials(limit: int, delay: float) -> list[Article]:
+    """Purple column: direct editorial article links."""
+    print(f"  index {DRISHTI_INDEX}")
+    soup = BeautifulSoup(fetch(DRISHTI_INDEX), "lxml")
+    box = drishti_column_box(soup, "bg-purple")
+    if not box:
+        raise RuntimeError("Drishti editorials column (.bg-purple) not found")
+
+    links = [
+        (title, url)
+        for title, url in column_links(box)
+        if "/daily-news-editorials/" in url or "/daily-updates/daily-news-editorials/" in url
+    ][:limit]
+    print(f"  {len(links)} editorials")
+
+    articles: list[Article] = []
+    for title, url in links:
+        print(f"  article {url}")
+        art = fetch_drishti_article(url, title)
+        if art:
+            articles.append(art)
+        time.sleep(delay)
+    return articles
+
+
+def collect_drishti_prelims_facts(days: int, delay: float) -> list[Article]:
+    """Pink column: date digests → individual prelims-facts articles."""
+    print(f"  index {DRISHTI_INDEX}")
+    soup = BeautifulSoup(fetch(DRISHTI_INDEX), "lxml")
+    box = drishti_column_box(soup, "bg-pink")
+    if not box:
+        raise RuntimeError("Drishti prelims-facts column (.bg-pink) not found")
+
+    day_links = [
+        (title, url)
+        for title, url in column_links(box)
+        if "/prelims-facts/" in url and re.search(r"/\d{2}-\d{2}-\d{4}/?$", url)
+    ][:days]
+    print(f"  {len(day_links)} day digests")
+
+    article_links: list[tuple[str, str, datetime | None]] = []
+    seen: set[str] = set()
+    for _, day_url in day_links:
+        for title, url, day_date in expand_drishti_day_page(day_url, delay):
+            if url in seen:
+                continue
+            # Prefer true prelims-facts article URLs; skip cross-links into other sections
+            if "/prelims-facts/" not in url and "/daily-news-analysis/" not in url:
+                # still allow if it's under daily-updates
+                if "/daily-updates/" not in url:
+                    continue
+            seen.add(url)
+            article_links.append((title, url, day_date))
+
+    articles: list[Article] = []
+    for title, url, day_date in article_links:
+        print(f"  article {url}")
+        art = fetch_drishti_article(url, title, day_date)
+        if art:
+            articles.append(art)
+        time.sleep(delay)
+    return articles
+
+
+def write_feed(
+    out_dir: Path,
+    slug: str,
+    title: str,
+    alternate_url: str,
+    author_name: str,
+    articles: list[Article],
+    base_feed_url: str,
+) -> bool:
+    if not articles:
+        print(f"  ! no articles for {slug}", file=sys.stderr)
+        return False
+    self_url = f"{base_feed_url.rstrip('/')}/{slug}.xml" if base_feed_url else None
+    atom = render_atom(slug, title, alternate_url, author_name, articles, self_url)
+    out_path = out_dir / f"{slug}.xml"
+    old_fp = feed_fingerprint(out_path)
+    out_path.write_text(atom, encoding="utf-8")
+    new_fp = feed_fingerprint(out_path)
+    changed = old_fp != new_fp
+    print(f"  wrote {out_path} ({'changed' if changed else 'content unchanged'})")
+    return changed
 
 
 def main() -> int:
@@ -344,7 +559,19 @@ def main() -> int:
         "--pages",
         type=int,
         default=2,
-        help="Listing pages to crawl per magazine (default: 2 ≈ 20 articles)",
+        help="Gujarat Samachar listing pages per magazine (default: 2)",
+    )
+    parser.add_argument(
+        "--drishti-days",
+        type=int,
+        default=5,
+        help="Drishti CA/Prelims day digests to expand (default: 5)",
+    )
+    parser.add_argument(
+        "--drishti-editorials",
+        type=int,
+        default=12,
+        help="Drishti editorial articles from the purple column (default: 12)",
     )
     parser.add_argument(
         "--delay",
@@ -352,48 +579,81 @@ def main() -> int:
         default=0.6,
         help="Delay between HTTP requests in seconds",
     )
-    parser.add_argument(
-        "--out",
-        type=Path,
-        default=Path("feeds"),
-        help="Output directory for Atom files",
-    )
+    parser.add_argument("--out", type=Path, default=Path("feeds"))
     parser.add_argument(
         "--base-feed-url",
         default="",
-        help="Public base URL for feed files, e.g. https://USER.github.io/gs-magazine-rss/feeds",
+        help="Public base URL for feed files",
+    )
+    parser.add_argument(
+        "--only",
+        nargs="*",
+        default=None,
+        help="Optional feed slugs to generate (default: all)",
     )
     args = parser.parse_args()
-
     args.out.mkdir(parents=True, exist_ok=True)
+    only = set(args.only) if args.only else None
     changed = False
 
-    for magazine in MAGAZINES:
-        print(f"== {magazine.slug} ==")
-        articles = collect_articles(magazine, pages=args.pages, delay=args.delay)
-        print(f"  collected {len(articles)} articles")
-        if not articles:
-            print(f"  ! no articles for {magazine.slug}", file=sys.stderr)
+    # Gujarat Samachar
+    for mag in MAGAZINES:
+        if only and mag.slug not in only:
             continue
-
-        self_url = (
-            f"{args.base_feed_url.rstrip('/')}/{magazine.slug}.xml"
-            if args.base_feed_url
-            else None
-        )
-        atom = build_atom(magazine, articles, self_url)
-        out_path = args.out / f"{magazine.slug}.xml"
-        old_fp = feed_fingerprint(out_path)
-        out_path.write_text(atom, encoding="utf-8")
-        new_fp = feed_fingerprint(out_path)
-        if old_fp != new_fp:
+        print(f"== {mag.slug} ==")
+        articles = collect_gs_magazine(mag, pages=args.pages, delay=args.delay)
+        print(f"  collected {len(articles)} articles")
+        if write_feed(
+            args.out,
+            mag.slug,
+            mag.title,
+            f"{GS_BASE}/category/{mag.category_path}",
+            "Gujarat Samachar",
+            articles,
+            args.base_feed_url,
+        ):
             changed = True
-            print(f"  wrote {out_path} (changed)")
-        else:
-            # Still write so timestamps refresh, but note unchanged body
-            print(f"  wrote {out_path} (content unchanged)")
 
-    # Marker for the workflow
+    # Drishti — three separate feeds
+    drishti_jobs = [
+        (
+            "drishti-current-affairs",
+            "Drishti IAS — करेंट अफेयर्स (Hindi)",
+            lambda: collect_drishti_current_affairs(args.drishti_days, args.delay),
+        ),
+        (
+            "drishti-editorials",
+            "Drishti IAS — प्रमुख एडिटोरियल (Hindi)",
+            lambda: collect_drishti_editorials(args.drishti_editorials, args.delay),
+        ),
+        (
+            "drishti-prelims-facts",
+            "Drishti IAS — प्रिलिम्स फैक्ट्स (Hindi)",
+            lambda: collect_drishti_prelims_facts(args.drishti_days, args.delay),
+        ),
+    ]
+
+    for slug, title, collector in drishti_jobs:
+        if only and slug not in only:
+            continue
+        print(f"== {slug} ==")
+        try:
+            articles = collector()
+        except RuntimeError as exc:
+            print(f"  ! {exc}", file=sys.stderr)
+            continue
+        print(f"  collected {len(articles)} articles")
+        if write_feed(
+            args.out,
+            slug,
+            title,
+            DRISHTI_INDEX,
+            "Drishti IAS",
+            articles,
+            args.base_feed_url,
+        ):
+            changed = True
+
     marker = args.out / ".changed"
     if changed:
         marker.write_text("1\n", encoding="utf-8")

@@ -16,7 +16,7 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -40,20 +40,38 @@ jobs:
           if [ -n "${BASE_FEED_URL}" ]; then
             EXTRA+=(--base-feed-url "${BASE_FEED_URL}")
           fi
-          python generate_feeds.py --pages 2 --delay 0.7 --out feeds "${EXTRA[@]}"
-          test -s feeds/ravi-purti.xml
-          test -s feeds/shatdal.xml
-          grep -q '<entry>' feeds/ravi-purti.xml
-          grep -q '<entry>' feeds/shatdal.xml
+          python generate_feeds.py \
+            --pages 2 \
+            --drishti-days 5 \
+            --drishti-editorials 12 \
+            --delay 0.7 \
+            --out feeds \
+            "${EXTRA[@]}"
+
+          for f in \
+            feeds/ravi-purti.xml \
+            feeds/shatdal.xml \
+            feeds/drishti-current-affairs.xml \
+            feeds/drishti-editorials.xml \
+            feeds/drishti-prelims-facts.xml
+          do
+            test -s "$f"
+            grep -q '<entry>' "$f"
+          done
 
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feeds/ravi-purti.xml feeds/shatdal.xml
+          git add \
+            feeds/ravi-purti.xml \
+            feeds/shatdal.xml \
+            feeds/drishti-current-affairs.xml \
+            feeds/drishti-editorials.xml \
+            feeds/drishti-prelims-facts.xml
           if git diff --staged --quiet; then
             echo "No feed changes to commit"
             exit 0
           fi
-          git commit -m "chore: refresh Ravi Purti and Shatdal feeds"
+          git commit -m "chore: refresh Gujarat Samachar and Drishti feeds"
           git push

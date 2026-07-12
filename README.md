@@ -1,17 +1,29 @@
-# Gujarat Samachar magazine RSS
+# Gujarat Samachar + Drishti IAS RSS
 
-GitHub Actions scrapes **Ravi Purti** and **Shatdal** from [Gujarat Samachar](https://www.gujaratsamachar.com), including listing pagination (`/1`, `/2`, …), and publishes clean Atom feeds.
+GitHub Actions scrapes magazine/current-affairs pages and publishes clean Atom feeds.
 
-## Feeds (after first successful Action run)
+## Feeds
 
-Replace `USER` with your GitHub username:
+| Feed | URL |
+|------|-----|
+| Ravi Purti | https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/ravi-purti.xml |
+| Shatdal | https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/shatdal.xml |
+| Drishti — करेंट अफेयर्स | https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/drishti-current-affairs.xml |
+| Drishti — प्रमुख एडिटोरियल | https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/drishti-editorials.xml |
+| Drishti — प्रिलिम्स फैक्ट्स | https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/drishti-prelims-facts.xml |
 
-| Magazine | Feed URL |
-|----------|----------|
-| Ravi Purti | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/ravi-purti.xml` |
-| Shatdal | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/shatdal.xml` |
+Source page for Drishti columns:  
+https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials
 
 Add those URLs in FreshRSS. Leave **Article CSS selector** empty — full HTML is already in the feed.
+
+## How Drishti columns are scraped
+
+| Column | Selector | Strategy |
+|--------|----------|----------|
+| करेंट अफेयर्स (green) | `.subheading.bg-green` | Date digests → expand `.article-detail h1 a` |
+| प्रमुख एडिटोरियल (purple) | `.subheading.bg-purple` | Direct editorial article links |
+| प्रिलिम्स फैक्ट्स (pink) | `.subheading.bg-pink` | Date digests → expand `.article-detail h1 a` |
 
 ## Local run
 
@@ -19,19 +31,22 @@ Add those URLs in FreshRSS. Leave **Article CSS selector** empty — full HTML i
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python generate_feeds.py --pages 2 --out feeds
+
+# all feeds
+python generate_feeds.py --pages 2 --drishti-days 5 --out feeds
+
+# Drishti only
+python generate_feeds.py --only drishti-current-affairs drishti-editorials drishti-prelims-facts --drishti-days 3 --out feeds
 ```
 
-## GitHub setup
+## GitHub
 
-1. Create a new GitHub repo and push this project.
-2. Actions → **Update magazine feeds** → **Run workflow** (or wait for the 6-hour cron).
-3. Optional repo variable `BASE_FEED_URL`  
-   e.g. `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds`  
-   (sets Atom `<link rel="self">`).
+1. Actions → **Update magazine feeds** → **Run workflow**
+2. Optional repo variable `BASE_FEED_URL`  
+   `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds`
 
 ## Notes
 
-- Default crawl: **2 listing pages** per magazine (~20 articles each).
-- Public RSS-Bridge hosts are flaky for this site; this Action is the stable path.
-- Be polite to the origin: the script uses delays between requests.
+- Gujarat Samachar: 2 listing pages by default (~20 articles each).
+- Drishti: 5 day digests for CA/Prelims; 12 editorials from the purple column.
+- Be polite to origins: the script delays between requests.
