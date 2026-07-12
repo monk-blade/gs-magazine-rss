@@ -335,6 +335,13 @@ MAGAZINES = [
         category_path="magazines/shatdal",
         url_pattern="/news/shatdal/",
     ),
+    Magazine(
+        slug="editorial",
+        title="Editorial — Gujarat Samachar",
+        category_path="editorial",
+        # Category mixes delhi-ni-vaat, news-focus, editorial, prasangpat, tantri-lekh, etc.
+        url_pattern="/news/",
+    ),
 ]
 
 

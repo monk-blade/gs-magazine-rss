@@ -10,6 +10,7 @@ In FreshRSS, append `#force_feed` (GitHub raw serves `text/plain`):
 |------|-----|
 | Ravi Purti | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/ravi-purti.xml#force_feed` |
 | Shatdal | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/shatdal.xml#force_feed` |
+| Editorial | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/editorial.xml#force_feed` |
 | Drishti — करेंट अफेयर्स | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/drishti-current-affairs.xml#force_feed` |
 | Drishti — प्रमुख एडिटोरियल | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/drishti-editorials.xml#force_feed` |
 | Drishti — प्रिलिम्स फैक्ट्स | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/drishti-prelims-facts.xml#force_feed` |

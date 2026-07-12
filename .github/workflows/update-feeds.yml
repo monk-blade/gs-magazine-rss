@@ -52,6 +52,7 @@ jobs:
           for f in \
             feeds/ravi-purti.xml \
             feeds/shatdal.xml \
+            feeds/editorial.xml \
             feeds/drishti-current-affairs.xml \
             feeds/drishti-editorials.xml \
             feeds/drishti-prelims-facts.xml
@@ -67,6 +68,7 @@ jobs:
           git add \
             feeds/ravi-purti.xml \
             feeds/shatdal.xml \
+            feeds/editorial.xml \
             feeds/drishti-current-affairs.xml \
             feeds/drishti-editorials.xml \
             feeds/drishti-prelims-facts.xml
