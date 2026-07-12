@@ -1,0 +1,59 @@
+name: Update magazine feeds
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate feeds
+        env:
+          # Optional: set repo variable BASE_FEED_URL for Atom <link rel="self">
+          # e.g. https://raw.githubusercontent.com/<user>/gs-magazine-rss/main/feeds
+          BASE_FEED_URL: ${{ vars.BASE_FEED_URL }}
+        run: |
+          EXTRA=()
+          if [ -n "${BASE_FEED_URL}" ]; then
+            EXTRA+=(--base-feed-url "${BASE_FEED_URL}")
+          fi
+          python generate_feeds.py --pages 2 --delay 0.7 --out feeds "${EXTRA[@]}"
+          test -s feeds/ravi-purti.xml
+          test -s feeds/shatdal.xml
+          grep -q '<entry>' feeds/ravi-purti.xml
+          grep -q '<entry>' feeds/shatdal.xml
+
+      - name: Commit and push feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feeds/ravi-purti.xml feeds/shatdal.xml
+          if git diff --staged --quiet; then
+            echo "No feed changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: refresh Ravi Purti and Shatdal feeds"
+          git push
