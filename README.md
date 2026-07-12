@@ -8,8 +8,8 @@ Replace `USER` with your GitHub username:
 
 | Magazine | Feed URL |
 |----------|----------|
-| Ravi Purti | `https://raw.githubusercontent.com/USER/gs-magazine-rss/main/feeds/ravi-purti.xml` |
-| Shatdal | `https://raw.githubusercontent.com/USER/gs-magazine-rss/main/feeds/shatdal.xml` |
+| Ravi Purti | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/ravi-purti.xml` |
+| Shatdal | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/shatdal.xml` |
 
 Add those URLs in FreshRSS. Leave **Article CSS selector** empty — full HTML is already in the feed.
 
@@ -27,7 +27,7 @@ python generate_feeds.py --pages 2 --out feeds
 1. Create a new GitHub repo and push this project.
 2. Actions → **Update magazine feeds** → **Run workflow** (or wait for the 6-hour cron).
 3. Optional repo variable `BASE_FEED_URL`  
-   e.g. `https://raw.githubusercontent.com/USER/gs-magazine-rss/main/feeds`  
+   e.g. `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds`  
    (sets Atom `<link rel="self">`).
 
 ## Notes

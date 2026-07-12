@@ -33,7 +33,7 @@ jobs:
       - name: Generate feeds
         env:
           # Optional: set repo variable BASE_FEED_URL for Atom <link rel="self">
-          # e.g. https://raw.githubusercontent.com/<user>/gs-magazine-rss/main/feeds
+          # e.g. https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds
           BASE_FEED_URL: ${{ vars.BASE_FEED_URL }}
         run: |
           EXTRA=()
