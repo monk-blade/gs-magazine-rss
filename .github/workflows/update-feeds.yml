@@ -16,7 +16,7 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 90
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -41,9 +41,10 @@ jobs:
             EXTRA+=(--base-feed-url "${BASE_FEED_URL}")
           fi
           python generate_feeds.py \
-            --pages 2 \
-            --drishti-days 5 \
-            --drishti-editorials 12 \
+            --max-articles 50 \
+            --pages 5 \
+            --drishti-days 30 \
+            --drishti-editorials 50 \
             --delay 0.7 \
             --out feeds \
             "${EXTRA[@]}"

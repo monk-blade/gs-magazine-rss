@@ -98,6 +98,57 @@ def absolutize(base: str, href: str) -> str:
     return urljoin(base, href)
 
 
+def normalize_url(url: str) -> str:
+    """Canonicalize URL for deduplication (scheme/host case, trailing slash, tracking params)."""
+    from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+
+    parts = urlsplit(url.strip())
+    scheme = parts.scheme.lower()
+    netloc = parts.netloc.lower()
+    path = parts.path.rstrip("/") or "/"
+    # Drop common tracking / fragment noise
+    query_pairs = [
+        (k, v)
+        for k, v in parse_qsl(parts.query, keep_blank_values=True)
+        if not k.lower().startswith("utm_")
+        and k.lower() not in {"fbclid", "gclid", "mc_cid", "mc_eid"}
+    ]
+    query = urlencode(query_pairs)
+    return urlunsplit((scheme, netloc, path, query, ""))
+
+
+def normalize_title(title: str) -> str:
+    t = re.sub(r"\s+", " ", title).strip().casefold()
+    return t
+
+
+def dedupe_articles(articles: list[Article], limit: int | None = None) -> list[Article]:
+    """Keep first occurrence by URL, then by title; optionally cap length."""
+    out: list[Article] = []
+    seen_urls: set[str] = set()
+    seen_titles: set[str] = set()
+    dropped = 0
+    hit_limit = False
+    for art in articles:
+        key_url = normalize_url(art.url)
+        key_title = normalize_title(art.title)
+        if key_url in seen_urls or (key_title and key_title in seen_titles):
+            dropped += 1
+            continue
+        seen_urls.add(key_url)
+        if key_title:
+            seen_titles.add(key_title)
+        out.append(art)
+        if limit is not None and len(out) >= limit:
+            hit_limit = True
+            break
+    if dropped:
+        print(f"  deduped away {dropped} duplicate(s)")
+    if hit_limit:
+        print(f"  capped at {limit} articles")
+    return out
+
+
 def parse_datetime(soup: BeautifulSoup) -> datetime | None:
     for sel in [
         'meta[property="article:published_time"]',
@@ -312,10 +363,14 @@ def fetch_gs_article(url: str, fallback_title: str) -> Article | None:
     )
 
 
-def collect_gs_magazine(magazine: Magazine, pages: int, delay: float) -> list[Article]:
+def collect_gs_magazine(
+    magazine: Magazine, pages: int, delay: float, max_articles: int
+) -> list[Article]:
     links: list[tuple[str, str]] = []
     seen: set[str] = set()
     for page in range(1, pages + 1):
+        if len(links) >= max_articles:
+            break
         listing = f"{GS_BASE}/category/{magazine.category_path}/{page}"
         print(f"  listing {listing}")
         try:
@@ -328,12 +383,14 @@ def collect_gs_magazine(magazine: Magazine, pages: int, delay: float) -> list[Ar
             href = a.get("href") or ""
             if magazine.url_pattern not in href:
                 continue
-            url = absolutize(GS_BASE, href)
+            url = normalize_url(absolutize(GS_BASE, href))
             title = a.get_text(" ", strip=True)
             if not title or url in seen:
                 continue
             seen.add(url)
             links.append((url, title))
+            if len(links) >= max_articles:
+                break
         time.sleep(delay)
 
     articles: list[Article] = []
@@ -341,9 +398,10 @@ def collect_gs_magazine(magazine: Magazine, pages: int, delay: float) -> list[Ar
         print(f"  article {url}")
         art = fetch_gs_article(url, title)
         if art:
+            art.url = normalize_url(art.url)
             articles.append(art)
         time.sleep(delay)
-    return articles
+    return dedupe_articles(articles, limit=max_articles)
 
 
 # --- Drishti IAS ------------------------------------------------------------
@@ -369,7 +427,7 @@ def column_links(box: Tag) -> list[tuple[str, str]]:
         href = a.get("href") or ""
         if not title or not href:
             continue
-        url = absolutize(DRISHTI_BASE, href)
+        url = normalize_url(absolutize(DRISHTI_BASE, href))
         if url in seen:
             continue
         seen.add(url)
@@ -423,7 +481,7 @@ def expand_drishti_day_page(day_url: str, delay: float) -> list[tuple[str, str, 
         href = a.get("href") or ""
         if not title or not href:
             continue
-        url = absolutize(DRISHTI_BASE, href)
+        url = normalize_url(absolutize(DRISHTI_BASE, href))
         if url in seen:
             continue
         seen.add(url)
@@ -432,7 +490,9 @@ def expand_drishti_day_page(day_url: str, delay: float) -> list[tuple[str, str, 
     return items
 
 
-def collect_drishti_current_affairs(days: int, delay: float) -> list[Article]:
+def collect_drishti_current_affairs(
+    days: int, delay: float, max_articles: int
+) -> list[Article]:
     """Green column: date digests → individual daily-news-analysis articles."""
     print(f"  index {DRISHTI_INDEX}")
     soup = BeautifulSoup(fetch(DRISHTI_INDEX), "lxml")
@@ -450,23 +510,30 @@ def collect_drishti_current_affairs(days: int, delay: float) -> list[Article]:
     article_links: list[tuple[str, str, datetime | None]] = []
     seen: set[str] = set()
     for _, day_url in day_links:
+        if len(article_links) >= max_articles:
+            break
         for title, url, day_date in expand_drishti_day_page(day_url, delay):
             if url in seen:
                 continue
             seen.add(url)
             article_links.append((title, url, day_date))
+            if len(article_links) >= max_articles:
+                break
 
     articles: list[Article] = []
     for title, url, day_date in article_links:
         print(f"  article {url}")
         art = fetch_drishti_article(url, title, day_date)
         if art:
+            art.url = normalize_url(art.url)
             articles.append(art)
         time.sleep(delay)
-    return articles
+    return dedupe_articles(articles, limit=max_articles)
 
 
-def collect_drishti_editorials(limit: int, delay: float) -> list[Article]:
+def collect_drishti_editorials(
+    limit: int, delay: float, max_articles: int
+) -> list[Article]:
     """Purple column: direct editorial article links."""
     print(f"  index {DRISHTI_INDEX}")
     soup = BeautifulSoup(fetch(DRISHTI_INDEX), "lxml")
@@ -474,11 +541,12 @@ def collect_drishti_editorials(limit: int, delay: float) -> list[Article]:
     if not box:
         raise RuntimeError("Drishti editorials column (.bg-purple) not found")
 
+    cap = min(limit, max_articles)
     links = [
         (title, url)
         for title, url in column_links(box)
         if "/daily-news-editorials/" in url or "/daily-updates/daily-news-editorials/" in url
-    ][:limit]
+    ][:cap]
     print(f"  {len(links)} editorials")
 
     articles: list[Article] = []
@@ -486,12 +554,15 @@ def collect_drishti_editorials(limit: int, delay: float) -> list[Article]:
         print(f"  article {url}")
         art = fetch_drishti_article(url, title)
         if art:
+            art.url = normalize_url(art.url)
             articles.append(art)
         time.sleep(delay)
-    return articles
+    return dedupe_articles(articles, limit=max_articles)
 
 
-def collect_drishti_prelims_facts(days: int, delay: float) -> list[Article]:
+def collect_drishti_prelims_facts(
+    days: int, delay: float, max_articles: int
+) -> list[Article]:
     """Pink column: date digests → individual prelims-facts articles."""
     print(f"  index {DRISHTI_INDEX}")
     soup = BeautifulSoup(fetch(DRISHTI_INDEX), "lxml")
@@ -509,6 +580,8 @@ def collect_drishti_prelims_facts(days: int, delay: float) -> list[Article]:
     article_links: list[tuple[str, str, datetime | None]] = []
     seen: set[str] = set()
     for _, day_url in day_links:
+        if len(article_links) >= max_articles:
+            break
         for title, url, day_date in expand_drishti_day_page(day_url, delay):
             if url in seen:
                 continue
@@ -519,15 +592,18 @@ def collect_drishti_prelims_facts(days: int, delay: float) -> list[Article]:
                     continue
             seen.add(url)
             article_links.append((title, url, day_date))
+            if len(article_links) >= max_articles:
+                break
 
     articles: list[Article] = []
     for title, url, day_date in article_links:
         print(f"  article {url}")
         art = fetch_drishti_article(url, title, day_date)
         if art:
+            art.url = normalize_url(art.url)
             articles.append(art)
         time.sleep(delay)
-    return articles
+    return dedupe_articles(articles, limit=max_articles)
 
 
 def write_feed(
@@ -556,22 +632,28 @@ def write_feed(
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
+        "--max-articles",
+        type=int,
+        default=50,
+        help="Max articles per feed after dedupe (default: 50)",
+    )
+    parser.add_argument(
         "--pages",
         type=int,
-        default=2,
-        help="Gujarat Samachar listing pages per magazine (default: 2)",
+        default=5,
+        help="Gujarat Samachar listing pages per magazine (default: 5 ≈ 50 items)",
     )
     parser.add_argument(
         "--drishti-days",
         type=int,
-        default=5,
-        help="Drishti CA/Prelims day digests to expand (default: 5)",
+        default=30,
+        help="Drishti CA/Prelims day digests to expand (default: 30)",
     )
     parser.add_argument(
         "--drishti-editorials",
         type=int,
-        default=12,
-        help="Drishti editorial articles from the purple column (default: 12)",
+        default=50,
+        help="Drishti editorial articles from the purple column (default: 50)",
     )
     parser.add_argument(
         "--delay",
@@ -595,13 +677,16 @@ def main() -> int:
     args.out.mkdir(parents=True, exist_ok=True)
     only = set(args.only) if args.only else None
     changed = False
+    max_articles = max(1, args.max_articles)
 
     # Gujarat Samachar
     for mag in MAGAZINES:
         if only and mag.slug not in only:
             continue
         print(f"== {mag.slug} ==")
-        articles = collect_gs_magazine(mag, pages=args.pages, delay=args.delay)
+        articles = collect_gs_magazine(
+            mag, pages=args.pages, delay=args.delay, max_articles=max_articles
+        )
         print(f"  collected {len(articles)} articles")
         if write_feed(
             args.out,
@@ -619,17 +704,23 @@ def main() -> int:
         (
             "drishti-current-affairs",
             "Drishti IAS — करेंट अफेयर्स (Hindi)",
-            lambda: collect_drishti_current_affairs(args.drishti_days, args.delay),
+            lambda: collect_drishti_current_affairs(
+                args.drishti_days, args.delay, max_articles
+            ),
         ),
         (
             "drishti-editorials",
             "Drishti IAS — प्रमुख एडिटोरियल (Hindi)",
-            lambda: collect_drishti_editorials(args.drishti_editorials, args.delay),
+            lambda: collect_drishti_editorials(
+                args.drishti_editorials, args.delay, max_articles
+            ),
         ),
         (
             "drishti-prelims-facts",
             "Drishti IAS — प्रिलिम्स फैक्ट्स (Hindi)",
-            lambda: collect_drishti_prelims_facts(args.drishti_days, args.delay),
+            lambda: collect_drishti_prelims_facts(
+                args.drishti_days, args.delay, max_articles
+            ),
         ),
     ]
 

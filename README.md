@@ -4,18 +4,20 @@ GitHub Actions scrapes magazine/current-affairs pages and publishes clean Atom f
 
 ## Feeds
 
+In FreshRSS, append `#force_feed` (GitHub raw serves `text/plain`):
+
 | Feed | URL |
 |------|-----|
-| Ravi Purti | https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/ravi-purti.xml |
-| Shatdal | https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/shatdal.xml |
-| Drishti — करेंट अफेयर्स | https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/drishti-current-affairs.xml |
-| Drishti — प्रमुख एडिटोरियल | https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/drishti-editorials.xml |
-| Drishti — प्रिलिम्स फैक्ट्स | https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/drishti-prelims-facts.xml |
+| Ravi Purti | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/ravi-purti.xml#force_feed` |
+| Shatdal | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/shatdal.xml#force_feed` |
+| Drishti — करेंट अफेयर्स | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/drishti-current-affairs.xml#force_feed` |
+| Drishti — प्रमुख एडिटोरियल | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/drishti-editorials.xml#force_feed` |
+| Drishti — प्रिलिम्स फैक्ट्स | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/drishti-prelims-facts.xml#force_feed` |
 
 Source page for Drishti columns:  
 https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials
 
-Add those URLs in FreshRSS. Leave **Article CSS selector** empty — full HTML is already in the feed.
+Leave **Article CSS selector** empty — full HTML is already in the feed.
 
 ## How Drishti columns are scraped
 
@@ -32,11 +34,11 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
-# all feeds
-python generate_feeds.py --pages 2 --drishti-days 5 --out feeds
+# all feeds (~50 articles each, deduped)
+python generate_feeds.py --max-articles 50 --out feeds
 
 # Drishti only
-python generate_feeds.py --only drishti-current-affairs drishti-editorials drishti-prelims-facts --drishti-days 3 --out feeds
+python generate_feeds.py --only drishti-current-affairs drishti-editorials drishti-prelims-facts --out feeds
 ```
 
 ## GitHub
@@ -47,6 +49,8 @@ python generate_feeds.py --only drishti-current-affairs drishti-editorials drish
 
 ## Notes
 
-- Gujarat Samachar: 2 listing pages by default (~20 articles each).
-- Drishti: 5 day digests for CA/Prelims; 12 editorials from the purple column.
+- Default: **50 articles** per feed after URL/title dedupe.
+- Gujarat Samachar: 5 listing pages (capped at `--max-articles`).
+- Drishti: up to 30 day digests for CA/Prelims; 50 editorials from the purple column.
+- Deduplication: normalized URL (trailing slash / utm stripped) and normalized title.
 - Be polite to origins: the script delays between requests.
