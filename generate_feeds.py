@@ -15,7 +15,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Callable, Iterable
 from urllib.error import HTTPError, URLError
-from urllib.parse import urljoin
+from urllib.parse import quote, urljoin, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 from bs4 import BeautifulSoup, Tag
@@ -79,7 +79,7 @@ def fetch(url: str, retries: int = 3, pause: float = 1.0) -> str:
     for attempt in range(1, retries + 1):
         try:
             req = Request(
-                url,
+                encode_url(url),
                 headers={
                     "User-Agent": USER_AGENT,
                     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -92,6 +92,14 @@ def fetch(url: str, retries: int = 3, pause: float = 1.0) -> str:
             last_err = exc
             time.sleep(pause * attempt)
     raise RuntimeError(f"Failed to fetch {url}: {last_err}")
+
+
+def encode_url(url: str) -> str:
+    """Percent-encode Unicode URL components before passing them to urllib."""
+    parts = urlsplit(url)
+    path = quote(parts.path, safe="/%:@-._~!$&'()*+,;=")
+    query = quote(parts.query, safe="=&/%:@-._~!$'()*+,;?[]")
+    return urlunsplit((parts.scheme, parts.netloc, path, query, parts.fragment))
 
 
 def absolutize(base: str, href: str) -> str:
@@ -114,7 +122,7 @@ def normalize_url(url: str) -> str:
         and k.lower() not in {"fbclid", "gclid", "mc_cid", "mc_eid"}
     ]
     query = urlencode(query_pairs)
-    return urlunsplit((scheme, netloc, path, query, ""))
+    return encode_url(urlunsplit((scheme, netloc, path, query, "")))
 
 
 def normalize_title(title: str) -> str:
