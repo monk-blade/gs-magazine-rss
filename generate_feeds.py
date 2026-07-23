@@ -12,6 +12,7 @@ import sys
 import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Callable, Iterable
 from urllib.error import HTTPError, URLError
@@ -30,6 +31,10 @@ DRISHTI_BASE = "https://www.drishtiias.com"
 DRISHTI_INDEX = (
     "https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials"
 )
+BUSINESS_STANDARD_RSS = "https://www.business-standard.com/rss/opinion/columns-10502.rss"
+BUSINESS_STANDARD_BASE = "https://www.business-standard.com"
+INDIAN_EXPRESS_EXPLAINED = "https://indianexpress.com/section/explained/"
+INDIAN_EXPRESS_BASE = "https://indianexpress.com"
 
 CLEANUP_SELECTORS = [
     ".social-share-wrapper",
@@ -378,6 +383,175 @@ def fetch_gs_article(url: str, fallback_title: str) -> Article | None:
     )
 
 
+def parse_rss_date(value: str) -> datetime | None:
+    try:
+        return parsedate_to_datetime(value.strip())
+    except (TypeError, ValueError, OverflowError):
+        return None
+
+
+def fetch_business_standard_article(
+    url: str, fallback_title: str, fallback_date: datetime | None
+) -> Article | None:
+    try:
+        page = fetch(url)
+    except RuntimeError as exc:
+        print(f"  ! skip article {url}: {exc}", file=sys.stderr)
+        return None
+
+    soup = BeautifulSoup(page, "lxml")
+    title_el = soup.select_one("h1") or soup.title
+    title = title_el.get_text(" ", strip=True) if title_el else fallback_title
+    title = re.sub(r"\s*\|\s*Business Standard.*$", "", title, flags=re.I).strip()
+    title = title or fallback_title
+
+    content_el = None
+    for selector in (
+        '[itemprop="articleBody"]',
+        ".article-content",
+        ".article-body",
+        ".story-content",
+        ".story-content-area",
+        ".story-body",
+    ):
+        candidate = soup.select_one(selector)
+        if candidate and len(candidate.get_text(" ", strip=True)) > 200:
+            content_el = candidate
+            break
+    if content_el is None:
+        candidate = soup.select_one("article")
+        if candidate and len(candidate.get_text(" ", strip=True)) > 200:
+            content_el = candidate
+    if content_el is None:
+        print(f"  ! no content for {url}", file=sys.stderr)
+        return None
+
+    return Article(
+        url=url,
+        title=title,
+        content_html=clean_content(content_el, BUSINESS_STANDARD_BASE),
+        published=parse_datetime(soup) or fallback_date,
+        author=extract_author(soup) or "Business Standard",
+    )
+
+
+def collect_business_standard_opinion(
+    delay: float, max_articles: int
+) -> list[Article]:
+    """RSS links → Business Standard article pages with full HTML content."""
+    print(f"  rss {BUSINESS_STANDARD_RSS}")
+    soup = BeautifulSoup(fetch(BUSINESS_STANDARD_RSS), "xml")
+    links: list[tuple[str, str, datetime | None]] = []
+    seen: set[str] = set()
+    for item in soup.find_all("item"):
+        title = item.find("title")
+        link = item.find("link")
+        if not title or not link:
+            continue
+        url = normalize_url(absolutize(BUSINESS_STANDARD_BASE, link.get_text(strip=True)))
+        if not url or url in seen:
+            continue
+        seen.add(url)
+        date_el = item.find("pubDate")
+        links.append(
+            (
+                title.get_text(" ", strip=True),
+                url,
+                parse_rss_date(date_el.get_text() if date_el else ""),
+            )
+        )
+        if len(links) >= max_articles:
+            break
+
+    print(f"  {len(links)} RSS articles")
+    articles: list[Article] = []
+    for title, url, published in links:
+        print(f"  article {url}")
+        art = fetch_business_standard_article(url, title, published)
+        if art:
+            art.url = normalize_url(art.url)
+            articles.append(art)
+        time.sleep(delay)
+    return dedupe_articles(articles, limit=max_articles)
+
+
+def fetch_indian_express_article(url: str, fallback_title: str) -> Article | None:
+    try:
+        page = fetch(url)
+    except RuntimeError as exc:
+        print(f"  ! skip article {url}: {exc}", file=sys.stderr)
+        return None
+
+    soup = BeautifulSoup(page, "lxml")
+    title_el = soup.select_one("h1") or soup.title
+    title = title_el.get_text(" ", strip=True) if title_el else fallback_title
+    title = re.sub(r"\s*\|\s*The Indian Express.*$", "", title, flags=re.I).strip()
+    title = title or fallback_title
+
+    content_el = None
+    for selector in (
+        '[itemprop="articleBody"]',
+        ".story-details",
+        ".story-details__content",
+        ".article-content",
+        ".article-body",
+        ".full-details",
+        ".story__content",
+    ):
+        candidate = soup.select_one(selector)
+        if candidate and len(candidate.get_text(" ", strip=True)) > 200:
+            content_el = candidate
+            break
+    if content_el is None:
+        candidate = soup.select_one("article")
+        if candidate and len(candidate.get_text(" ", strip=True)) > 200:
+            content_el = candidate
+    if content_el is None:
+        print(f"  ! no content for {url}", file=sys.stderr)
+        return None
+
+    return Article(
+        url=url,
+        title=title,
+        content_html=clean_content(content_el, INDIAN_EXPRESS_BASE),
+        published=parse_datetime(soup),
+        author=extract_author(soup) or "The Indian Express",
+    )
+
+
+def collect_indian_express_explained(
+    delay: float, max_articles: int
+) -> list[Article]:
+    """Explained section links → article pages with full HTML content."""
+    print(f"  section {INDIAN_EXPRESS_EXPLAINED}")
+    soup = BeautifulSoup(fetch(INDIAN_EXPRESS_EXPLAINED), "lxml")
+    links: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for anchor in soup.select('a[href*="/article/"]'):
+        title = anchor.get_text(" ", strip=True)
+        href = anchor.get("href") or ""
+        if not title or not href:
+            continue
+        url = normalize_url(absolutize(INDIAN_EXPRESS_BASE, href))
+        if url in seen or url == normalize_url(INDIAN_EXPRESS_EXPLAINED):
+            continue
+        seen.add(url)
+        links.append((title, url))
+        if len(links) >= max_articles:
+            break
+
+    print(f"  {len(links)} section articles")
+    articles: list[Article] = []
+    for title, url in links:
+        print(f"  article {url}")
+        art = fetch_indian_express_article(url, title)
+        if art:
+            art.url = normalize_url(art.url)
+            articles.append(art)
+        time.sleep(delay)
+    return dedupe_articles(articles, limit=max_articles)
+
+
 def collect_gs_magazine(
     magazine: Magazine, pages: int, delay: float, max_articles: int
 ) -> list[Article]:
@@ -693,6 +867,46 @@ def main() -> int:
     only = set(args.only) if args.only else None
     changed = False
     max_articles = max(1, args.max_articles)
+
+    if not only or "business-standard-opinion" in only:
+        slug = "business-standard-opinion"
+        print(f"== {slug} ==")
+        try:
+            articles = collect_business_standard_opinion(args.delay, max_articles)
+        except RuntimeError as exc:
+            print(f"  ! {exc}", file=sys.stderr)
+        else:
+            print(f"  collected {len(articles)} articles")
+            if write_feed(
+                args.out,
+                slug,
+                "Business Standard — Opinion Columns",
+                BUSINESS_STANDARD_RSS,
+                "Business Standard",
+                articles,
+                args.base_feed_url,
+            ):
+                changed = True
+
+    if not only or "indian-express-explained" in only:
+        slug = "indian-express-explained"
+        print(f"== {slug} ==")
+        try:
+            articles = collect_indian_express_explained(args.delay, max_articles)
+        except RuntimeError as exc:
+            print(f"  ! {exc}", file=sys.stderr)
+        else:
+            print(f"  collected {len(articles)} articles")
+            if write_feed(
+                args.out,
+                slug,
+                "The Indian Express — Explained",
+                INDIAN_EXPRESS_EXPLAINED,
+                "The Indian Express",
+                articles,
+                args.base_feed_url,
+            ):
+                changed = True
 
     # Gujarat Samachar
     for mag in MAGAZINES:

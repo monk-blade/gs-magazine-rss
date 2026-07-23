@@ -8,6 +8,8 @@ In FreshRSS, append `#force_feed` (GitHub raw serves `text/plain`):
 
 | Feed | URL |
 |------|-----|
+| Business Standard — Opinion Columns | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/business-standard-opinion.xml#force_feed` |
+| The Indian Express — Explained | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/indian-express-explained.xml#force_feed` |
 | Ravi Purti | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/ravi-purti.xml#force_feed` |
 | Shatdal | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/shatdal.xml#force_feed` |
 | Editorial | `https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds/editorial.xml#force_feed` |
@@ -19,6 +21,12 @@ Source page for Drishti columns:
 https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials
 
 Leave **Article CSS selector** empty — full HTML is already in the feed.
+
+Business Standard Opinion Columns source RSS:
+https://www.business-standard.com/rss/opinion/columns-10502.rss
+
+The Indian Express Explained source page:
+https://indianexpress.com/section/explained/
 
 ## How Drishti columns are scraped
 
@@ -53,5 +61,7 @@ python generate_feeds.py --only drishti-current-affairs drishti-editorials drish
 - Default: **50 articles** per feed after URL/title dedupe.
 - Gujarat Samachar: 5 listing pages (capped at `--max-articles`).
 - Drishti: up to 30 day digests for CA/Prelims; 50 editorials from the purple column.
+- Business Standard Opinion: source RSS links are expanded into full article HTML.
+- The Indian Express Explained: section links are expanded into full article HTML.
 - Deduplication: normalized URL (trailing slash / utm stripped) and normalized title.
 - Be polite to origins: the script delays between requests.
