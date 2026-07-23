@@ -12,7 +12,6 @@ import sys
 import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
-from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Callable, Iterable
 from urllib.error import HTTPError, URLError
@@ -31,7 +30,7 @@ DRISHTI_BASE = "https://www.drishtiias.com"
 DRISHTI_INDEX = (
     "https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials"
 )
-BUSINESS_STANDARD_RSS = "https://www.business-standard.com/rss/opinion/columns-10502.rss"
+BUSINESS_STANDARD_OPINION = "https://www.business-standard.com/opinion"
 BUSINESS_STANDARD_BASE = "https://www.business-standard.com"
 INDIAN_EXPRESS_EXPLAINED = "https://indianexpress.com/section/explained/"
 INDIAN_EXPRESS_BASE = "https://indianexpress.com"
@@ -420,13 +419,6 @@ def fetch_gs_article(url: str, fallback_title: str) -> Article | None:
     )
 
 
-def parse_rss_date(value: str) -> datetime | None:
-    try:
-        return parsedate_to_datetime(value.strip())
-    except (TypeError, ValueError, OverflowError):
-        return None
-
-
 def fetch_business_standard_article(
     url: str,
     fallback_title: str,
@@ -478,46 +470,45 @@ def fetch_business_standard_article(
 def collect_business_standard_opinion(
     delay: float, max_articles: int, fetch_page: Callable[[str], str]
 ) -> list[Article]:
-    """RSS links → Business Standard article pages with full HTML content."""
-    print(f"  rss {BUSINESS_STANDARD_RSS}")
-    soup = BeautifulSoup(fetch_page(BUSINESS_STANDARD_RSS), "xml")
-    links: list[tuple[str, str, datetime | None]] = []
+    """Opinion page links → Business Standard article pages with full HTML content."""
+    print(f"  page {BUSINESS_STANDARD_OPINION}")
+    soup = BeautifulSoup(fetch_page(BUSINESS_STANDARD_OPINION), "lxml")
+    links: list[tuple[str, str]] = []
     seen: set[str] = set()
-    for item in soup.find_all("item"):
-        title = item.find("title")
-        link = item.find("link")
-        if not title or not link:
+    for anchor in soup.select("a[href]"):
+        title = anchor.get_text(" ", strip=True)
+        href = anchor.get("href") or ""
+        if not title or not href:
             continue
-        url = normalize_url(absolutize(BUSINESS_STANDARD_BASE, link.get_text(strip=True)))
-        if not url or url in seen:
+        url = normalize_url(absolutize(BUSINESS_STANDARD_BASE, href))
+        parts = urlsplit(url)
+        if (
+            parts.netloc != "www.business-standard.com"
+            or not parts.path.startswith("/opinion/")
+            or not parts.path.endswith(".html")
+            or url in seen
+        ):
             continue
         seen.add(url)
-        date_el = item.find("pubDate")
-        links.append(
-            (
-                title.get_text(" ", strip=True),
-                url,
-                parse_rss_date(date_el.get_text() if date_el else ""),
-            )
-        )
+        links.append((title, url))
         if len(links) >= max_articles:
             break
 
     if not links:
-        raise RuntimeError("Business Standard RSS returned no articles")
+        raise RuntimeError("Business Standard Opinion page returned no articles")
 
-    print(f"  {len(links)} RSS articles")
+    print(f"  {len(links)} opinion articles")
     articles: list[Article] = []
-    for title, url, published in links:
+    for title, url in links:
         print(f"  article {url}")
-        art = fetch_business_standard_article(url, title, published, fetch_page)
+        art = fetch_business_standard_article(url, title, None, fetch_page)
         if art:
             art.url = normalize_url(art.url)
             articles.append(art)
         time.sleep(delay)
     articles = dedupe_articles(articles, limit=max_articles)
     if not articles:
-        raise RuntimeError("Business Standard returned no full-text articles")
+        raise RuntimeError("Business Standard Opinion page returned no full-text articles")
     return articles
 
 
@@ -939,7 +930,7 @@ def main() -> int:
                             args.out,
                             slug,
                             "Business Standard — Opinion Columns",
-                            BUSINESS_STANDARD_RSS,
+                            BUSINESS_STANDARD_OPINION,
                             "Business Standard",
                             articles,
                             args.base_feed_url,

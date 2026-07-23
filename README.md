@@ -22,8 +22,8 @@ https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials
 
 Leave **Article CSS selector** empty — full HTML is already in the feed.
 
-Business Standard Opinion Columns source RSS:
-https://www.business-standard.com/rss/opinion/columns-10502.rss
+Business Standard Opinion source page:
+https://www.business-standard.com/opinion
 
 The Indian Express Explained source page:
 https://indianexpress.com/section/explained/
@@ -62,7 +62,7 @@ python generate_feeds.py --only drishti-current-affairs drishti-editorials drish
 - Default: **50 articles** per feed after URL/title dedupe.
 - Gujarat Samachar: 5 listing pages (capped at `--max-articles`).
 - Drishti: up to 30 day digests for CA/Prelims; 50 editorials from the purple column.
-- Business Standard Opinion: source RSS links are expanded into full article HTML.
+- Business Standard Opinion: opinion-page links are expanded into full article HTML.
 - The Indian Express Explained: section links are expanded into full article HTML.
 - Business Standard and Indian Express are fetched through a shared headless Chromium session.
 - Deduplication: normalized URL (trailing slash / utm stripped) and normalized title.
