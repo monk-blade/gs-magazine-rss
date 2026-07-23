@@ -50,7 +50,6 @@ jobs:
             "${EXTRA[@]}"
 
           for f in \
-            feeds/business-standard-opinion.xml \
             feeds/indian-express-explained.xml \
             feeds/ravi-purti.xml \
             feeds/shatdal.xml \
@@ -63,19 +62,19 @@ jobs:
             grep -q '<entry>' "$f"
           done
 
+          # Business Standard may reject automated RSS requests with HTTP 403.
+          # Keep the last published file when available, but do not block other feeds.
+          if [ -s feeds/business-standard-opinion.xml ]; then
+            grep -q '<entry>' feeds/business-standard-opinion.xml
+          else
+            echo "Business Standard feed unavailable; continuing without it"
+          fi
+
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add \
-            feeds/business-standard-opinion.xml \
-            feeds/indian-express-explained.xml \
-            feeds/ravi-purti.xml \
-            feeds/shatdal.xml \
-            feeds/editorial.xml \
-            feeds/drishti-current-affairs.xml \
-            feeds/drishti-editorials.xml \
-            feeds/drishti-prelims-facts.xml
+          git add feeds/*.xml
           if git diff --staged --quiet; then
             echo "No feed changes to commit"
             exit 0
