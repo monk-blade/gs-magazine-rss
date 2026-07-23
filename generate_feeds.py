@@ -503,6 +503,9 @@ def collect_business_standard_opinion(
         if len(links) >= max_articles:
             break
 
+    if not links:
+        raise RuntimeError("Business Standard RSS returned no articles")
+
     print(f"  {len(links)} RSS articles")
     articles: list[Article] = []
     for title, url, published in links:
@@ -512,7 +515,10 @@ def collect_business_standard_opinion(
             art.url = normalize_url(art.url)
             articles.append(art)
         time.sleep(delay)
-    return dedupe_articles(articles, limit=max_articles)
+    articles = dedupe_articles(articles, limit=max_articles)
+    if not articles:
+        raise RuntimeError("Business Standard returned no full-text articles")
+    return articles
 
 
 def fetch_indian_express_article(
@@ -926,9 +932,10 @@ def main() -> int:
                         )
                     except RuntimeError as exc:
                         print(f"  ! {exc}", file=sys.stderr)
+                        return 1
                     else:
                         print(f"  collected {len(articles)} articles")
-                        if write_feed(
+                        if not write_feed(
                             args.out,
                             slug,
                             "Business Standard — Opinion Columns",
@@ -937,7 +944,8 @@ def main() -> int:
                             articles,
                             args.base_feed_url,
                         ):
-                            changed = True
+                            return 1
+                        changed = True
 
                 if not only or "indian-express-explained" in only:
                     slug = "indian-express-explained"

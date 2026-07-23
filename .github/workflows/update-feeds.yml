@@ -53,6 +53,7 @@ jobs:
             "${EXTRA[@]}"
 
           for f in \
+            feeds/business-standard-opinion.xml \
             feeds/indian-express-explained.xml \
             feeds/ravi-purti.xml \
             feeds/shatdal.xml \
@@ -64,14 +65,6 @@ jobs:
             test -s "$f"
             grep -q '<entry>' "$f"
           done
-
-          # Business Standard may reject automated RSS requests with HTTP 403.
-          # Keep the last published file when available, but do not block other feeds.
-          if [ -s feeds/business-standard-opinion.xml ]; then
-            grep -q '<entry>' feeds/business-standard-opinion.xml
-          else
-            echo "Business Standard feed unavailable; continuing without it"
-          fi
 
       - name: Commit and push feeds
         run: |
