@@ -30,6 +30,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Install Playwright Chromium
+        run: python -m playwright install --with-deps chromium
+
       - name: Generate feeds
         env:
           # Optional: set repo variable BASE_FEED_URL for Atom <link rel="self">

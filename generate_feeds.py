@@ -79,6 +79,43 @@ class FeedSpec:
     collect: Callable[..., list[Article]]
 
 
+class BrowserFetcher:
+    """Reusable headless Chromium fetcher for sites that need a real browser."""
+
+    def __enter__(self) -> "BrowserFetcher":
+        try:
+            from playwright.sync_api import sync_playwright
+        except ImportError as exc:
+            raise RuntimeError(
+                "Playwright is required for Business Standard and Indian Express feeds"
+            ) from exc
+
+        self._playwright = sync_playwright().start()
+        self._browser = self._playwright.chromium.launch(headless=True)
+        self._context = self._browser.new_context(
+            user_agent=USER_AGENT,
+            locale="en-IN",
+            viewport={"width": 1365, "height": 900},
+        )
+        return self
+
+    def __exit__(self, exc_type, exc_value, traceback) -> None:
+        self._context.close()
+        self._browser.close()
+        self._playwright.stop()
+
+    def fetch(self, url: str) -> str:
+        page = self._context.new_page()
+        try:
+            page.goto(encode_url(url), wait_until="domcontentloaded", timeout=45_000)
+            page.wait_for_timeout(750)
+            return page.content()
+        except Exception as exc:
+            raise RuntimeError(f"Browser failed to fetch {url}: {exc}") from exc
+        finally:
+            page.close()
+
+
 def fetch(url: str, retries: int = 3, pause: float = 1.0) -> str:
     last_err: Exception | None = None
     for attempt in range(1, retries + 1):
@@ -391,10 +428,13 @@ def parse_rss_date(value: str) -> datetime | None:
 
 
 def fetch_business_standard_article(
-    url: str, fallback_title: str, fallback_date: datetime | None
+    url: str,
+    fallback_title: str,
+    fallback_date: datetime | None,
+    fetch_page: Callable[[str], str],
 ) -> Article | None:
     try:
-        page = fetch(url)
+        page = fetch_page(url)
     except RuntimeError as exc:
         print(f"  ! skip article {url}: {exc}", file=sys.stderr)
         return None
@@ -436,11 +476,11 @@ def fetch_business_standard_article(
 
 
 def collect_business_standard_opinion(
-    delay: float, max_articles: int
+    delay: float, max_articles: int, fetch_page: Callable[[str], str]
 ) -> list[Article]:
     """RSS links → Business Standard article pages with full HTML content."""
     print(f"  rss {BUSINESS_STANDARD_RSS}")
-    soup = BeautifulSoup(fetch(BUSINESS_STANDARD_RSS), "xml")
+    soup = BeautifulSoup(fetch_page(BUSINESS_STANDARD_RSS), "xml")
     links: list[tuple[str, str, datetime | None]] = []
     seen: set[str] = set()
     for item in soup.find_all("item"):
@@ -467,7 +507,7 @@ def collect_business_standard_opinion(
     articles: list[Article] = []
     for title, url, published in links:
         print(f"  article {url}")
-        art = fetch_business_standard_article(url, title, published)
+        art = fetch_business_standard_article(url, title, published, fetch_page)
         if art:
             art.url = normalize_url(art.url)
             articles.append(art)
@@ -475,9 +515,11 @@ def collect_business_standard_opinion(
     return dedupe_articles(articles, limit=max_articles)
 
 
-def fetch_indian_express_article(url: str, fallback_title: str) -> Article | None:
+def fetch_indian_express_article(
+    url: str, fallback_title: str, fetch_page: Callable[[str], str]
+) -> Article | None:
     try:
-        page = fetch(url)
+        page = fetch_page(url)
     except RuntimeError as exc:
         print(f"  ! skip article {url}: {exc}", file=sys.stderr)
         return None
@@ -520,11 +562,11 @@ def fetch_indian_express_article(url: str, fallback_title: str) -> Article | Non
 
 
 def collect_indian_express_explained(
-    delay: float, max_articles: int
+    delay: float, max_articles: int, fetch_page: Callable[[str], str]
 ) -> list[Article]:
     """Explained section links → article pages with full HTML content."""
     print(f"  section {INDIAN_EXPRESS_EXPLAINED}")
-    soup = BeautifulSoup(fetch(INDIAN_EXPRESS_EXPLAINED), "lxml")
+    soup = BeautifulSoup(fetch_page(INDIAN_EXPRESS_EXPLAINED), "lxml")
     links: list[tuple[str, str]] = []
     seen: set[str] = set()
     for anchor in soup.select('a[href*="/article/"]'):
@@ -544,7 +586,7 @@ def collect_indian_express_explained(
     articles: list[Article] = []
     for title, url in links:
         print(f"  article {url}")
-        art = fetch_indian_express_article(url, title)
+        art = fetch_indian_express_article(url, title, fetch_page)
         if art:
             art.url = normalize_url(art.url)
             articles.append(art)
@@ -868,45 +910,58 @@ def main() -> int:
     changed = False
     max_articles = max(1, args.max_articles)
 
-    if not only or "business-standard-opinion" in only:
-        slug = "business-standard-opinion"
-        print(f"== {slug} ==")
+    browser_needed = {
+        "business-standard-opinion",
+        "indian-express-explained",
+    }
+    if not only or browser_needed & only:
         try:
-            articles = collect_business_standard_opinion(args.delay, max_articles)
-        except RuntimeError as exc:
-            print(f"  ! {exc}", file=sys.stderr)
-        else:
-            print(f"  collected {len(articles)} articles")
-            if write_feed(
-                args.out,
-                slug,
-                "Business Standard — Opinion Columns",
-                BUSINESS_STANDARD_RSS,
-                "Business Standard",
-                articles,
-                args.base_feed_url,
-            ):
-                changed = True
+            with BrowserFetcher() as browser:
+                if not only or "business-standard-opinion" in only:
+                    slug = "business-standard-opinion"
+                    print(f"== {slug} ==")
+                    try:
+                        articles = collect_business_standard_opinion(
+                            args.delay, max_articles, browser.fetch
+                        )
+                    except RuntimeError as exc:
+                        print(f"  ! {exc}", file=sys.stderr)
+                    else:
+                        print(f"  collected {len(articles)} articles")
+                        if write_feed(
+                            args.out,
+                            slug,
+                            "Business Standard — Opinion Columns",
+                            BUSINESS_STANDARD_RSS,
+                            "Business Standard",
+                            articles,
+                            args.base_feed_url,
+                        ):
+                            changed = True
 
-    if not only or "indian-express-explained" in only:
-        slug = "indian-express-explained"
-        print(f"== {slug} ==")
-        try:
-            articles = collect_indian_express_explained(args.delay, max_articles)
+                if not only or "indian-express-explained" in only:
+                    slug = "indian-express-explained"
+                    print(f"== {slug} ==")
+                    try:
+                        articles = collect_indian_express_explained(
+                            args.delay, max_articles, browser.fetch
+                        )
+                    except RuntimeError as exc:
+                        print(f"  ! {exc}", file=sys.stderr)
+                    else:
+                        print(f"  collected {len(articles)} articles")
+                        if write_feed(
+                            args.out,
+                            slug,
+                            "The Indian Express — Explained",
+                            INDIAN_EXPRESS_EXPLAINED,
+                            "The Indian Express",
+                            articles,
+                            args.base_feed_url,
+                        ):
+                            changed = True
         except RuntimeError as exc:
             print(f"  ! {exc}", file=sys.stderr)
-        else:
-            print(f"  collected {len(articles)} articles")
-            if write_feed(
-                args.out,
-                slug,
-                "The Indian Express — Explained",
-                INDIAN_EXPRESS_EXPLAINED,
-                "The Indian Express",
-                articles,
-                args.base_feed_url,
-            ):
-                changed = True
 
     # Gujarat Samachar
     for mag in MAGAZINES:
