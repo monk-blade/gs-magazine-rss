@@ -52,6 +52,8 @@ jobs:
             --out feeds \
             "${EXTRA[@]}"
 
+          python cleanup_feeds.py --feeds feeds
+
           for f in \
             feeds/business-standard-opinion.xml \
             feeds/indian-express-explained.xml \

@@ -44,6 +44,9 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python -m playwright install chromium
 
+# Clean existing generated feeds (also run automatically in GitHub Actions)
+python cleanup_feeds.py --feeds feeds
+
 # all feeds (~50 articles each, deduped)
 python generate_feeds.py --max-articles 50 --out feeds
 
@@ -65,5 +68,6 @@ python generate_feeds.py --only drishti-current-affairs drishti-editorials drish
 - Business Standard Opinion: opinion-page links are expanded into full article HTML.
 - The Indian Express Explained: section links are expanded into full article HTML.
 - Business Standard and Indian Express are fetched through a shared headless Chromium session.
+- Generated content is sanitized to remove ads, tracking, wrappers, and empty markup while preserving article images.
 - Deduplication: normalized URL (trailing slash / utm stripped) and normalized title.
 - Be polite to origins: the script delays between requests.

@@ -18,7 +18,9 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import quote, urljoin, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup, Comment, Tag
+
+VERBOSE = False
 
 USER_AGENT = (
     "Mozilla/5.0 (compatible; gs-magazine-rss/1.1; +https://github.com/monk-blade/gs-magazine-rss) "
@@ -47,7 +49,6 @@ CLEANUP_SELECTORS = [
     "script",
     "style",
     "ev-engagement",
-    "img.lazyloading",
     ".btn-group",
     ".next-post",
     ".prev",
@@ -58,6 +59,51 @@ CLEANUP_SELECTORS = [
     ".actions",
     "a.switch_to",
 ]
+
+CONTENT_TAGS = {
+    "a",
+    "b",
+    "blockquote",
+    "br",
+    "code",
+    "em",
+    "figcaption",
+    "figure",
+    "h2",
+    "h3",
+    "h4",
+    "hr",
+    "i",
+    "img",
+    "li",
+    "ol",
+    "p",
+    "pre",
+    "s",
+    "strong",
+    "table",
+    "tbody",
+    "td",
+    "th",
+    "thead",
+    "tr",
+    "u",
+    "ul",
+}
+
+NOISE_TEXT = {
+    "advertisement",
+    "listen to this article",
+    "read more",
+    "share this article",
+    "story continues below this ad",
+    "subscribe to our newsletter",
+}
+
+
+def debug(message: str) -> None:
+    if VERBOSE:
+        print(message)
 
 
 @dataclass
@@ -192,9 +238,9 @@ def dedupe_articles(articles: list[Article], limit: int | None = None) -> list[A
             hit_limit = True
             break
     if dropped:
-        print(f"  deduped away {dropped} duplicate(s)")
+        debug(f"  deduped away {dropped} duplicate(s)")
     if hit_limit:
-        print(f"  capped at {limit} articles")
+        debug(f"  capped at {limit} articles")
     return out
 
 
@@ -278,8 +324,6 @@ def extract_author(soup: BeautifulSoup) -> str | None:
 
 
 def clean_content(node: Tag, base: str) -> str:
-    from bs4 import Comment
-
     for sel in CLEANUP_SELECTORS:
         for junk in node.select(sel):
             junk.decompose()
@@ -294,7 +338,70 @@ def clean_content(node: Tag, base: str) -> str:
             tag["href"] = absolutize(base, tag["href"])
         if tag.has_attr("src"):
             tag["src"] = absolutize(base, tag["src"])
-    return str(node)
+    return sanitize_content(str(node), base)
+
+
+def sanitize_content(html_fragment: str, base: str = "") -> str:
+    """Keep readable article markup, links, and real images only."""
+    soup = BeautifulSoup(html_fragment, "html.parser")
+    root = soup.body or soup
+
+    for selector in CLEANUP_SELECTORS:
+        for junk in root.select(selector):
+            junk.decompose()
+
+    for comment in root.find_all(string=lambda text: isinstance(text, Comment)):
+        comment.extract()
+
+    for node in list(root.find_all(["aside", "div", "li", "p", "section", "span"])):
+        text = re.sub(r"\s+", " ", node.get_text(" ", strip=True)).casefold()
+        if text in NOISE_TEXT or text.startswith("story continues below this ad"):
+            node.decompose()
+
+    for image in list(root.select("img")):
+        src = ""
+        source_attr = ""
+        for attr in (
+            "data-src",
+            "data-original",
+            "data-lazy-src",
+            "data-srcset",
+            "src",
+            "srcset",
+        ):
+            candidate = (image.get(attr) or "").strip()
+            if candidate and not candidate.startswith("data:image"):
+                src = candidate.split(",", 1)[0].strip().split()[0]
+                source_attr = attr
+                break
+        placeholder_size = source_attr in {"src", "srcset"} and (
+            image.get("width") == "1" or image.get("height") == "1"
+        )
+        if not src or "track_1x1" in src or placeholder_size:
+            image.decompose()
+            continue
+        image.attrs = {
+            "src": absolutize(base, src),
+            **({"alt": image.get("alt", "").strip()} if image.get("alt") else {}),
+        }
+
+    for tag in list(root.find_all(True)):
+        if tag.name not in CONTENT_TAGS:
+            tag.unwrap()
+            continue
+        if tag.name == "a":
+            href = (tag.get("href") or "").strip()
+            if href and not href.lower().startswith(("http://", "https://", "mailto:")):
+                href = absolutize(base, href)
+            tag.attrs = {"href": href} if href else {}
+        elif tag.name not in {"img"}:
+            tag.attrs = {}
+
+    for tag in list(root.find_all(["a", "b", "em", "i", "s", "strong", "u"])):
+        if not tag.get_text(strip=True) and not tag.find("img"):
+            tag.decompose()
+
+    return "".join(str(child) for child in root.contents).strip()
 
 
 def atom_text(value: str) -> str:
@@ -471,7 +578,7 @@ def collect_business_standard_opinion(
     delay: float, max_articles: int, fetch_page: Callable[[str], str]
 ) -> list[Article]:
     """Opinion page links → Business Standard article pages with full HTML content."""
-    print(f"  page {BUSINESS_STANDARD_OPINION}")
+    debug(f"  page {BUSINESS_STANDARD_OPINION}")
     soup = BeautifulSoup(fetch_page(BUSINESS_STANDARD_OPINION), "lxml")
     links: list[tuple[str, str]] = []
     seen: set[str] = set()
@@ -497,10 +604,10 @@ def collect_business_standard_opinion(
     if not links:
         raise RuntimeError("Business Standard Opinion page returned no articles")
 
-    print(f"  {len(links)} opinion articles")
+    debug(f"  {len(links)} opinion articles")
     articles: list[Article] = []
     for title, url in links:
-        print(f"  article {url}")
+        debug(f"  article {url}")
         art = fetch_business_standard_article(url, title, None, fetch_page)
         if art:
             art.url = normalize_url(art.url)
@@ -562,7 +669,7 @@ def collect_indian_express_explained(
     delay: float, max_articles: int, fetch_page: Callable[[str], str]
 ) -> list[Article]:
     """Explained section links → article pages with full HTML content."""
-    print(f"  section {INDIAN_EXPRESS_EXPLAINED}")
+    debug(f"  section {INDIAN_EXPRESS_EXPLAINED}")
     soup = BeautifulSoup(fetch_page(INDIAN_EXPRESS_EXPLAINED), "lxml")
     links: list[tuple[str, str]] = []
     seen: set[str] = set()
@@ -579,10 +686,10 @@ def collect_indian_express_explained(
         if len(links) >= max_articles:
             break
 
-    print(f"  {len(links)} section articles")
+    debug(f"  {len(links)} section articles")
     articles: list[Article] = []
     for title, url in links:
-        print(f"  article {url}")
+        debug(f"  article {url}")
         art = fetch_indian_express_article(url, title, fetch_page)
         if art:
             art.url = normalize_url(art.url)
@@ -600,7 +707,7 @@ def collect_gs_magazine(
         if len(links) >= max_articles:
             break
         listing = f"{GS_BASE}/category/{magazine.category_path}/{page}"
-        print(f"  listing {listing}")
+        debug(f"  listing {listing}")
         try:
             html_text = fetch(listing)
         except RuntimeError as exc:
@@ -623,7 +730,7 @@ def collect_gs_magazine(
 
     articles: list[Article] = []
     for url, title in links:
-        print(f"  article {url}")
+        debug(f"  article {url}")
         art = fetch_gs_article(url, title)
         if art:
             art.url = normalize_url(art.url)
@@ -694,7 +801,7 @@ def fetch_drishti_article(
 
 def expand_drishti_day_page(day_url: str, delay: float) -> list[tuple[str, str, datetime | None]]:
     """From a daily digest page, collect individual article (title, url, day_date)."""
-    print(f"  day {day_url}")
+    debug(f"  day {day_url}")
     try:
         html_text = fetch(day_url)
     except RuntimeError as exc:
@@ -722,7 +829,7 @@ def collect_drishti_current_affairs(
     days: int, delay: float, max_articles: int
 ) -> list[Article]:
     """Green column: date digests → individual daily-news-analysis articles."""
-    print(f"  index {DRISHTI_INDEX}")
+    debug(f"  index {DRISHTI_INDEX}")
     soup = BeautifulSoup(fetch(DRISHTI_INDEX), "lxml")
     box = drishti_column_box(soup, "bg-green")
     if not box:
@@ -733,7 +840,7 @@ def collect_drishti_current_affairs(
         for title, url in column_links(box)
         if "/news-analysis/" in url and re.search(r"/\d{2}-\d{2}-\d{4}/?$", url)
     ][:days]
-    print(f"  {len(day_links)} day digests")
+    debug(f"  {len(day_links)} day digests")
 
     article_links: list[tuple[str, str, datetime | None]] = []
     seen: set[str] = set()
@@ -750,7 +857,7 @@ def collect_drishti_current_affairs(
 
     articles: list[Article] = []
     for title, url, day_date in article_links:
-        print(f"  article {url}")
+        debug(f"  article {url}")
         art = fetch_drishti_article(url, title, day_date)
         if art:
             art.url = normalize_url(art.url)
@@ -763,7 +870,7 @@ def collect_drishti_editorials(
     limit: int, delay: float, max_articles: int
 ) -> list[Article]:
     """Purple column: direct editorial article links."""
-    print(f"  index {DRISHTI_INDEX}")
+    debug(f"  index {DRISHTI_INDEX}")
     soup = BeautifulSoup(fetch(DRISHTI_INDEX), "lxml")
     box = drishti_column_box(soup, "bg-purple")
     if not box:
@@ -775,11 +882,11 @@ def collect_drishti_editorials(
         for title, url in column_links(box)
         if "/daily-news-editorials/" in url or "/daily-updates/daily-news-editorials/" in url
     ][:cap]
-    print(f"  {len(links)} editorials")
+    debug(f"  {len(links)} editorials")
 
     articles: list[Article] = []
     for title, url in links:
-        print(f"  article {url}")
+        debug(f"  article {url}")
         art = fetch_drishti_article(url, title)
         if art:
             art.url = normalize_url(art.url)
@@ -792,7 +899,7 @@ def collect_drishti_prelims_facts(
     days: int, delay: float, max_articles: int
 ) -> list[Article]:
     """Pink column: date digests → individual prelims-facts articles."""
-    print(f"  index {DRISHTI_INDEX}")
+    debug(f"  index {DRISHTI_INDEX}")
     soup = BeautifulSoup(fetch(DRISHTI_INDEX), "lxml")
     box = drishti_column_box(soup, "bg-pink")
     if not box:
@@ -803,7 +910,7 @@ def collect_drishti_prelims_facts(
         for title, url in column_links(box)
         if "/prelims-facts/" in url and re.search(r"/\d{2}-\d{2}-\d{4}/?$", url)
     ][:days]
-    print(f"  {len(day_links)} day digests")
+    debug(f"  {len(day_links)} day digests")
 
     article_links: list[tuple[str, str, datetime | None]] = []
     seen: set[str] = set()
@@ -825,7 +932,7 @@ def collect_drishti_prelims_facts(
 
     articles: list[Article] = []
     for title, url, day_date in article_links:
-        print(f"  article {url}")
+        debug(f"  article {url}")
         art = fetch_drishti_article(url, title, day_date)
         if art:
             art.url = normalize_url(art.url)
@@ -901,7 +1008,14 @@ def main() -> int:
         default=None,
         help="Optional feed slugs to generate (default: all)",
     )
+    parser.add_argument(
+        "--verbose",
+        action="store_true",
+        help="Print listing, article, and deduplication debug output",
+    )
     args = parser.parse_args()
+    global VERBOSE
+    VERBOSE = args.verbose
     args.out.mkdir(parents=True, exist_ok=True)
     only = set(args.only) if args.only else None
     changed = False
