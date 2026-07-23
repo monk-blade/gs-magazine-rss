@@ -136,11 +136,18 @@ class BrowserFetcher:
             ) from exc
 
         self._playwright = sync_playwright().start()
-        self._browser = self._playwright.chromium.launch(headless=True)
+        self._browser = self._playwright.chromium.launch(
+            headless=True,
+            args=["--disable-blink-features=AutomationControlled"],
+        )
         self._context = self._browser.new_context(
             user_agent=USER_AGENT,
             locale="en-IN",
             viewport={"width": 1365, "height": 900},
+            extra_http_headers={"Accept-Language": "en-IN,en;q=0.9"},
+        )
+        self._context.add_init_script(
+            "Object.defineProperty(navigator, 'webdriver', {get: () => undefined});"
         )
         return self
 
@@ -150,15 +157,30 @@ class BrowserFetcher:
         self._playwright.stop()
 
     def fetch(self, url: str) -> str:
-        page = self._context.new_page()
-        try:
-            page.goto(encode_url(url), wait_until="domcontentloaded", timeout=45_000)
-            page.wait_for_timeout(750)
-            return page.content()
-        except Exception as exc:
-            raise RuntimeError(f"Browser failed to fetch {url}: {exc}") from exc
-        finally:
-            page.close()
+        last_error: Exception | None = None
+        for attempt in range(1, 4):
+            page = self._context.new_page()
+            try:
+                response = page.goto(
+                    encode_url(url), wait_until="domcontentloaded", timeout=45_000
+                )
+                if response and response.status >= 400:
+                    raise RuntimeError(f"HTTP {response.status}")
+                # Business Standard can populate the article list shortly after
+                # DOMContentLoaded, especially on a fresh GitHub Actions runner.
+                page.wait_for_timeout(2_000)
+                content = page.content()
+                if len(content) < 500:
+                    raise RuntimeError("empty or incomplete HTML response")
+                return content
+            except Exception as exc:
+                last_error = exc
+                debug(f"  browser retry {attempt}/3 for {url}: {exc}")
+                if attempt < 3:
+                    time.sleep(attempt)
+            finally:
+                page.close()
+        raise RuntimeError(f"Browser failed to fetch {url}: {last_error}") from last_error
 
 
 def fetch(url: str, retries: int = 3, pause: float = 1.0) -> str:
@@ -579,27 +601,35 @@ def collect_business_standard_opinion(
 ) -> list[Article]:
     """Opinion page links → Business Standard article pages with full HTML content."""
     debug(f"  page {BUSINESS_STANDARD_OPINION}")
-    soup = BeautifulSoup(fetch_page(BUSINESS_STANDARD_OPINION), "lxml")
     links: list[tuple[str, str]] = []
-    seen: set[str] = set()
-    for anchor in soup.select("a[href]"):
-        title = anchor.get_text(" ", strip=True)
-        href = anchor.get("href") or ""
-        if not title or not href:
-            continue
-        url = normalize_url(absolutize(BUSINESS_STANDARD_BASE, href))
-        parts = urlsplit(url)
-        if (
-            parts.netloc != "www.business-standard.com"
-            or not parts.path.startswith("/opinion/")
-            or not parts.path.endswith(".html")
-            or url in seen
-        ):
-            continue
-        seen.add(url)
-        links.append((title, url))
-        if len(links) >= max_articles:
+    for attempt in range(1, 4):
+        soup = BeautifulSoup(fetch_page(BUSINESS_STANDARD_OPINION), "lxml")
+        seen: set[str] = set()
+        for anchor in soup.select("a[href]"):
+            title = anchor.get_text(" ", strip=True)
+            href = anchor.get("href") or ""
+            if not title or not href:
+                continue
+            url = normalize_url(absolutize(BUSINESS_STANDARD_BASE, href))
+            parts = urlsplit(url)
+            hostname = (parts.hostname or "").lower()
+            if (
+                hostname not in {"business-standard.com", "www.business-standard.com"}
+                or not parts.path.lower().startswith("/opinion/")
+                or not parts.path.lower().endswith(".html")
+                or not re.search(r"\d{8,}", parts.path)
+                or url in seen
+            ):
+                continue
+            seen.add(url)
+            links.append((title, url))
+            if len(links) >= max_articles:
+                break
+        if links:
             break
+        debug(f"  no opinion links found; retry {attempt}/3")
+        if attempt < 3:
+            time.sleep(max(1.0, delay) * attempt)
 
     if not links:
         raise RuntimeError("Business Standard Opinion page returned no articles")
