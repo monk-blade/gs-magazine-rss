@@ -140,8 +140,13 @@ class BrowserFetcher:
             headless=True,
             args=["--disable-blink-features=AutomationControlled"],
         )
+        browser_major = self._browser.version.split(".", 1)[0]
+        browser_user_agent = (
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+            f"(KHTML, like Gecko) Chrome/{browser_major}.0.0.0 Safari/537.36"
+        )
         self._context = self._browser.new_context(
-            user_agent=USER_AGENT,
+            user_agent=browser_user_agent,
             locale="en-IN",
             viewport={"width": 1365, "height": 900},
             extra_http_headers={"Accept-Language": "en-IN,en;q=0.9"},
@@ -165,7 +170,19 @@ class BrowserFetcher:
                     encode_url(url), wait_until="domcontentloaded", timeout=45_000
                 )
                 if response and response.status >= 400:
-                    raise RuntimeError(f"HTTP {response.status}")
+                    if response.status == 403 and is_business_standard_url(url):
+                        debug(
+                            "  Business Standard blocked direct browser request; "
+                            "using HTML reader fallback"
+                        )
+                        page.set_extra_http_headers({"x-respond-with": "html"})
+                        response = page.goto(
+                            reader_url(url),
+                            wait_until="domcontentloaded",
+                            timeout=45_000,
+                        )
+                    if response and response.status >= 400:
+                        raise RuntimeError(f"HTTP {response.status}")
                 # Business Standard can populate the article list shortly after
                 # DOMContentLoaded, especially on a fresh GitHub Actions runner.
                 page.wait_for_timeout(2_000)
@@ -209,6 +226,17 @@ def encode_url(url: str) -> str:
     path = quote(parts.path, safe="/%:@-._~!$&'()*+,;=")
     query = quote(parts.query, safe="=&/%:@-._~!$'()*+,;?[]")
     return urlunsplit((parts.scheme, parts.netloc, path, query, parts.fragment))
+
+
+def is_business_standard_url(url: str) -> bool:
+    hostname = (urlsplit(url).hostname or "").lower()
+    return hostname in {"business-standard.com", "www.business-standard.com"}
+
+
+def reader_url(url: str) -> str:
+    """Build a Jina Reader URL while retaining the original page URL in its path."""
+    encoded = encode_url(url)
+    return "https://r.jina.ai/http://" + encoded.split("://", 1)[1]
 
 
 def absolutize(base: str, href: str) -> str:
