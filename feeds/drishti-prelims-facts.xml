@@ -2,15 +2,486 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Drishti IAS — प्रिलिम्स फैक्ट्स (Hindi)</title>
 <link href="https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials" rel="alternate"/>
-<updated>2026-07-27T10:24:47.298960+00:00</updated>
+<updated>2026-07-27T15:31:20.563686+00:00</updated>
 <id>urn:gs-magazine-rss:drishti-prelims-facts</id>
 <author><name>Drishti IAS</name></author>
+<entry>
+<title>वैज्ञानिकों द्वारा याक के लिये IoT-आधारित हेल्थ ट्रैकर विकसित</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/scientists-develop-iot-based-health-tracker-for-yaks</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/scientists-develop-iot-based-health-tracker-for-yaks" rel="alternate"/>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">वैज्ञानिकों द्वारा याक के लिये IoT-आधारित हेल्थ ट्रैकर विकसित
+
+
+
+
+
+
+
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Achievements-of-Indians-in-science-and-technology"&gt;विज्ञान और प्रौद्योगिकी में भारतीयों की उपलब्धियाँ&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.thehindu.com/news/national/scientists-develop-health-tracker-for-high-altitude-yaks/article71190428.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;भारतीय वैज्ञानिकों ने &lt;b&gt;उच्च तुंगता वाले &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/himalayan-yak"&gt;&lt;b&gt;याक&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, विशेष रूप से अंतर्राष्ट्रीय सीमा के समीप स्थित दूरस्थ हिमालयी चरागाह क्षेत्रों में&lt;/b&gt;, उनके स्वास्थ्य और उनकी गतिविधियों की निगरानी के लिये &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/iot-revolution-and-smart-future"&gt;&lt;b&gt;IoT&lt;/b&gt;&lt;/a&gt;-आधारित स्मार्ट कॉलर विकसित किया है।&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; भारतीय याक (&lt;i&gt;बॉस ग्रुनिएन्स&lt;/i&gt;), जिसे “&lt;b&gt;हिमालय का जहाज़&lt;/b&gt;” कहा जाता है, एक उच्च-तुंगता वाला गोवंशीय पशु है, जो अत्यधिक शीत में जीवित रहने की क्षमता के लिये जाना जाता है। यह हिमालयी समुदायों के लिये एक महत्त्वपूर्ण आजीविका संसाधन है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रसार:&lt;/b&gt; भारत में लगभग &lt;b&gt;58,000 याक पाए जाते हैं, जिनमें से लगभग आधे लद्दाख में पाए जाते &lt;/b&gt;हैं। अन्य प्रमुख याक पालन क्षेत्र &lt;b&gt;अरुणाचल प्रदेश, सिक्किम, हिमाचल प्रदेश और उत्तराखंड &lt;/b&gt;हैं। जंगली याक मुख्य रूप से &lt;b&gt;तिब्बती पठार&lt;/b&gt; में पाए जाते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;आवास:&lt;/b&gt; याक सामान्यतः &lt;b&gt;3,200 से 5,400 मीटर की ऊँचाई के बीच उच्च-तुंगता वाले अल्पाइन घास के मैदानों, अल्पाइन स्टेपी और मरुस्थलीय स्टेपी क्षेत्रों&lt;/b&gt; में निवास करते हैं। वे शीतल पठारी क्षेत्रों को पसंद करते हैं और घास, काई तथा लाइकेन की खोज में मौसमी रूप से प्रवास कर सकते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भौतिक विशेषताएँ:&lt;/b&gt; जंगली नर याक का वज़न &lt;b&gt;1,000 किलोग्राम &lt;/b&gt;तक हो सकता है, जबकि &lt;b&gt;मादाओं का वज़न लगभग 300 किलोग्राम&lt;/b&gt; होता है। इनमें लंबे काले-भूरे बाल, घुमावदार सींग, चौड़े खुर, बड़े फेफड़े, लाल रक्त कोशिकाओं की उच्च संख्या तथा उच्च हीमोग्लोबिन सांद्रता होती है, जो इन्हें कम ऑक्सीजन वाले वातावरण में जीवित रहने में सक्षम बनाती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;व्यवहार और भोजन संबंधी आदतें:&lt;/b&gt; याक मुख्य रूप से दिन के समय चरने वाले पशु हैं, जो झुंडों में रहते हैं। &lt;b&gt;मादाएँ और युवा याक सामान्यतः बड़े समूहों का निर्माण करते &lt;/b&gt;हैं, जबकि वयस्क नर प्रायः अकेले या छोटे समूहों में रहते हैं। इनके आहार में घास, झाड़ियाँ, शाकीय पौधे, काई, लाइकेन और अन्य निम्न-विकसित वनस्पतियाँ शामिल होती हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रजनन और जीवनकाल:&lt;/b&gt; जंगली याक का प्रजनन काल सामान्यतः सितंबर में प्रारंभ होता है और लगभग नौ माह की गर्भावधि के बाद जून में शावकों का जन्म होता है। मादाएँ सामान्यतः प्रत्येक &lt;b&gt;दो वर्ष में एक याक को जन्म देती&lt;/b&gt; हैं और जंगली याक लगभग 25 वर्षों तक जीवित रह सकते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;संरक्षण की स्थिति (जंगली याक) (&lt;/b&gt;&lt;b&gt;&lt;i&gt;बॉस म्यूटस&lt;/i&gt;&lt;/b&gt;&lt;b&gt;):&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;IUCN लाल सूची: सुभेद्य (संकटग्रस्त होने की कगार पर)&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;CITES: परिशिष्ट I&lt;/li&gt;
+&lt;li&gt;वन्यजीव संरक्षण अधिनियम, 1972: अनुसूची I&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260727113735-9e0ded44.png"&gt;&lt;img alt="Scientists Develop IoT-Based Health Tracker for Yaks" src="http://drishtiias.com/hindi/images/uploads/upload-20260727113735-9e0ded44.png"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;और पढ़ें:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/digitising-india-s-agriculture"&gt;&lt;b&gt;भारत की कृषि का डिजिटलीकरण&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+</entry>
+<entry>
+<title>महाराष्ट्र को मिलेगा भारत का पहला AI-संचालित पक्षी अभयारण्य</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/maharashtra-to-get-india-s-1st-ai-powered-bird-sanctuary</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/maharashtra-to-get-india-s-1st-ai-powered-bird-sanctuary" rel="alternate"/>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">महाराष्ट्र को मिलेगा भारत का पहला AI-संचालित पक्षी अभयारण्य
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/environment-ecology"&gt;जैव विविधता एवं पर्यावरण&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/ Conservation"&gt;संरक्षण&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://timesofindia.indiatimes.com/life-style/travel/news/indias-first-ai-powered-bird-sanctuary-is-coming-to-maharashtra-heres-what-travellers-can-expect/articleshow/132551100.cms"&gt;&lt;b&gt;स्रोत: टाइम्स ऑफ इंडिया &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;महाराष्ट्र ने &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/eco-sensitive-zone-around-thane-creek-flamingo-sanctuary"&gt;&lt;b&gt;ठाणे क्रीक फ्लेमिंगो अभयारण्य&lt;/b&gt;&lt;/a&gt; में &lt;b&gt;₹45 करोड़ की लागत से एक इको-नेचर पार्क&lt;/b&gt; के विकास को स्वीकृति प्रदान की है, जिसमें भारत का पहला &lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper3/artificial-intelligence-23"&gt;&lt;b&gt;कृत्रिम बुद्धिमत्ता (AI)&lt;/b&gt;&lt;/a&gt; - &lt;b&gt;संचालित &lt;/b&gt;पक्षियों की पहचान&lt;b&gt; एवं निगरानी केंद्र&lt;/b&gt; स्थापित किया जाएगा।&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;AI-आधारित निगरानी प्रणाली:&lt;/b&gt; अभयारण्य में पक्षियों की प्रजातियों की पहचान करने, प्रवासन के पैटर्न को ट्रैक करने और वैज्ञानिक आँकड़े एकत्र करने के लिये &lt;b&gt;कृत्रिम बुद्धिमत्ता आधारित कैमरों तथा  निगरानी प्रणालियों&lt;/b&gt; का उपयोग किया जाएगा। यह तकनीक स्वचालित छवि और ध्वनि पहचान के माध्यम से पार्क के &lt;b&gt;1.5 किलोमीटर क्षेत्र&lt;/b&gt; में पक्षियों की गतिविधियों का विश्लेषण करेगी।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;ठाणे क्रीक फ्लेमिंगो अभयारण्य:&lt;/b&gt; मुंबई और नवी मुंबई के बीच ठाणे क्रीक के तट पर स्थित इस अभयारण्य को &lt;b&gt;वर्ष 2015 में वन्यजीव अभयारण्य&lt;/b&gt; घोषित किया गया था तथा यह भारत का पहला समर्पित फ्लेमिंगो अभयारण्य है।&lt;/li&gt;
+&lt;li&gt;यह एक महत्त्वपूर्ण तटीय आर्द्रभूमि पारितंत्र है, जो हज़ारों फ्लेमिंगो तथा &lt;b&gt;200 से अधिक पक्षी प्रजातियों&lt;/b&gt;, जिनमें बड़े फ्लेमिंगो, छोटे फ्लेमिंगो, बगुले, एग्रेट, तटीय पक्षी और किंगफिशर शामिल हैं, को आश्रय प्रदान करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रवासी महत्त्व:&lt;/b&gt; यह अभयारण्य &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/convention-on-migratory-species"&gt;&lt;b&gt;मध्य एशियाई फ्लाईवे&lt;/b&gt;&lt;/a&gt; का एक भाग है, जो यूरोप, मध्य एशिया और भारतीय उपमहाद्वीप को जोड़ने वाला एक महत्त्वपूर्ण प्रवासी मार्ग है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;फ्लेमिंगो से संबंधित मुख्य तथ्य&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/flamingos,-himalayan-ibex-and-blue-sheep"&gt;&lt;b&gt;फ्लेमिंगो&lt;/b&gt;&lt;/a&gt; &lt;b&gt;लंबे जल पक्षी&lt;/b&gt; होते हैं, जो अपनी लंबी, &lt;b&gt;S-आकार की गर्दन और छड़ी जैसी टाँगों&lt;/b&gt; के लिये जाने जाते हैं।
+&lt;ul&gt;
+&lt;li&gt;ये &lt;b&gt;अत्यधिक सामाजिक पक्षी&lt;/b&gt; होते हैं और प्रायः &lt;b&gt;उथले, पोषक तत्त्वों से समृद्ध जल निकायों&lt;/b&gt; जैसे- &lt;b&gt;खारे लैगून, लवणीय मैदानों और क्षारीय झीलों&lt;/b&gt; में बड़े झुंडों में देखे जाते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रजातियाँ:&lt;/b&gt; विश्व स्तर पर &lt;b&gt;उष्णकटिबंधीय और उपोष्णकटिबंधीय क्षेत्रों&lt;/b&gt; में फ्लेमिंगो की 6 प्रजातियाँ पाई जाती हैं, जिनमें से &lt;b&gt;भारत में केवल 2 प्रजातियाँ (बड़े फ्लेमिंगो एवं छोटे फ्लेमिंगो) &lt;/b&gt;पाई जाती हैं।
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;अन्य प्रजातियाँ:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;चिली फ्लेमिंगो &lt;/b&gt;(फीनिकोप्टेरस चिलेन्सिस)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;अमेरिकी/कैरेबियाई फ्लेमिंगो&lt;/b&gt; (&lt;i&gt;फीनिकॉप्टेरस रबर&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;एंडियन फ्लेमिंगो&lt;/b&gt; (&lt;i&gt;फीनिकोपारस एंडिनस&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;जेम्स या पुना फ्लेमिंगो&lt;/b&gt; (&lt;i&gt;फीनिकोपारस जेम्सी&lt;/i&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;आहार एवं रंग:&lt;/b&gt; फ्लेमिंगो &lt;b&gt;शैवाल, मोलस्क और क्रस्टेशियनों&lt;/b&gt; का भोजन के रूप में सेवन करते हैं। इनके &lt;b&gt;पंखों का रंग, जो सफेद से गुलाबी &lt;/b&gt;और नारंगी रंग तक हो सकता है, इनके आहार में उपस्थित &lt;b&gt;कैरोटीनॉइड वर्णकों&lt;/b&gt; द्वारा निर्धारित होता है। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;आवास एवं खतरा:&lt;/b&gt; फ्लेमिंगो भोजन एवं प्रजनन के लिये उथली आर्द्रभूमियों, कीचड़युक्त तटीय क्षेत्रों और तटीय लैगून पर निर्भर रहते हैं। इनके प्रमुख खतरों में आवास क्षरण, प्रदूषण, तटीय विकास, मानवीय हस्तक्षेप तथा जल गुणवत्ता में परिवर्तन शामिल हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;और पढ़ें:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/flamingos,-himalayan-ibex-and-blue-sheep"&gt;&lt;b&gt;फ्लेमिंगो, हिमालयन आइबेक्स और ब्लू शीप&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<title>निर्यात हेतु भारत ने इन्वेंटरी-आधारित ई-कॉमर्स मॉडल में</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-allows-fdi-in-inventory-based-e-commerce-model-for-exports</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-allows-fdi-in-inventory-based-e-commerce-model-for-exports" rel="alternate"/>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">निर्यात हेतु भारत ने इन्वेंटरी-आधारित ई-कॉमर्स मॉडल में
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://economictimes.indiatimes.com/news/economy/foreign-trade/india-allows-fdi-in-ecomm-inventory-model-for-exports/articleshow/132591346.cms?from=mdr"&gt;&lt;b&gt;स्रोत: इकॉनोमिक्स टाइम्स &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;सरकार ने &lt;b&gt;प्रत्यक्ष विदेशी निवेश (FDI) नीति&lt;/b&gt; में संशोधन किया है, जिसके अंतर्गत विदेशी वित्तपोषित ई-कॉमर्स संस्थाओं को भारत में निर्मित या उत्पादित वस्तुओं के निर्यात के लिये विशेष रूप से इन्वेंटरी बनाए रखने की अनुमति प्रदान की गई है। &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260727115651-04ba0643.png"&gt;&lt;img alt="India Allows FDI in Inventory-Based E-Commerce Model for Exports" src="http://drishtiias.com/hindi/images/uploads/upload-20260727115651-04ba0643.png"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;संशोधित प्रत्यक्ष विदेशी निवेश (FDI) नीति के प्रमुख तथ्य क्या हैं? &lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय: &lt;/b&gt;अब विदेशी स्वामित्व वाली ई-कॉमर्स कंपनियाँ &lt;b&gt;भारत में इन्वेंटरी का स्वामित्व एवं प्रबंधन&lt;/b&gt; कर सकती हैं, बशर्ते कि वस्तुओं का निर्माण या उत्पादन भारत में हुआ हो और उनका विक्रय केवल विदेशी  बाज़ारों में किया जाए। &lt;b&gt;उद्योग एवं आंतरिक व्यापार संवर्द्धन विभाग (DPIIT)&lt;/b&gt; ने इन्वेंटरी-आधारित ई-कॉमर्स पर प्रतिबंधों में निर्यात-विशिष्ट अपवाद का प्रावधान किया है। 
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;हालाँकि घरेलू खुदरा बिक्री के लिये विदेशी वित्तपोषित इन्वेंटरी-आधारित ई-कॉमर्स अभी भी प्रतिबंधित&lt;/b&gt; है, जिससे छोटे व्यापारियों के लिये सुरक्षा उपायों तथा बहु-ब्रांड खुदरा क्षेत्र में FDI पर प्रतिबंध को बनाए रखा गया है। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;उद्देश्य: &lt;/b&gt;इस नीति का उद्देश्य &lt;b&gt;भारतीय विक्रेताओं की वैश्विक बाज़ारों तक पहुँच&lt;/b&gt; को बेहतर बनाना, निर्यात को बढ़ावा देना तथा MSME के अनुपालन संबंधी बोझ को कम करना है। यह उपाय &lt;b&gt;टियर-2 एवं टियर-3 नगरों के निर्माताओं, कारीगरों एवं छोटे व्यवसायों&lt;/b&gt; को हस्तशिल्प, परिधान, पुस्तकों, कला, रत्न एवं आभूषण जैसे उत्पादों के निर्यात में सहायता प्रदान कर सकता है। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;लाभार्थी: &lt;/b&gt;अमेज़ॅन (Amazon) एवं वॉलमार्ट के स्वामित्व वाले फ्लिपकार्ट (Flipkart) जैसे वैश्विक प्लेटफॉर्म भारतीय निर्माताओं से उत्पाद प्राप्त कर सकते हैं, इन्वेंटरी का प्रबंधन कर सकते हैं तथा निर्यात से संबंधित दस्तावेज़ीकरण, परीक्षण, लेबलिंग एवं ट्रेसबिलिटी आवश्यकताओं को पूरा कर सकते हैं। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;क्रियान्वयन: &lt;/b&gt;यह निर्णय &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/fema-pmla"&gt;&lt;b&gt;विदेशी मुद्रा प्रबंधन अधिनियम, 1999&lt;/b&gt;&lt;/a&gt; के अंतर्गत संबंधित अधिसूचना जारी होने के पश्चात प्रभावी होगा। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;वर्तमान नीति:&lt;/b&gt; भारत में पहले केवल &lt;b&gt;मार्केटप्लेस आधारित ई-कॉमर्स&lt;/b&gt; और &lt;b&gt;B2B ई-कॉमर्स&lt;/b&gt; में स्वचालित मार्ग के तहत &lt;b&gt;100% प्रत्यक्ष विदेशी निवेश (FDI)&lt;/b&gt; की अनुमति थी, जबकि &lt;b&gt;इन्वेंट्री आधारित मॉडल &lt;/b&gt;में FDI को प्रतिबंधित किया गया था। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;चिंताएँ:&lt;/b&gt; आलोचकों का तर्क है कि निर्यात और&lt;b&gt; घरेलू इन्वेंट्री को अलग-अलग रखना&lt;/b&gt; तथा उनकी प्रभावी निगरानी करना कठिन हो सकता है। इससे &lt;b&gt;भविष्य में घरेलू बाज़ार में विदेशी वित्तपोषित इन्वेंट्री &lt;/b&gt;आधारित ई-कॉमर्स मॉडल को अनुमति देने का दबाव उत्पन्न हो सकता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260727115605-67666cf9.png"&gt;&lt;img alt="FDI Policy Evolution for Ecom" src="http://drishtiias.com/hindi/images/uploads/upload-20260727115605-67666cf9.png"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;महत्त्व&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;निर्यात संवर्द्धन:&lt;/b&gt; यह भारतीय विक्रेताओं को वैश्विक उपभोक्ताओं तक पहुँच बनाने और वाणिज्यिक निर्यात के विस्तार के लिये एक अतिरिक्त ई-कॉमर्स माध्यम उपलब्ध कराता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;लघु एवं मध्यम उद्यमों (SMEs) के लिये समर्थन:&lt;/b&gt; यह परिधान, आभूषण, हस्तशिल्प, घरेलू उत्पाद तथा जैविक कल्याण (Organic Wellness) जैसे क्षेत्रों में कार्यरत छोटे और मध्यम उद्यमों को अंतर्राष्ट्रीय बाज़ारों तक पहुँच सुगम बनाकर उनकी प्रतिस्पर्द्धात्मक क्षमता को बढ़ावा देता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;क्षेत्रीय निर्माताओं के लिये अवसर:&lt;/b&gt; यह टियर-2 और टियर-3 नगरों के निर्माताओं को विदेशी उपभोक्ता आधार का विस्तार करने तथा वैश्विक व्यापार में अधिक प्रभावी भागीदारी करने का अवसर प्रदान करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;दीर्घकालिक आर्थिक प्रभाव:&lt;/b&gt; यह भारत के विनिर्माण और निर्यात वृद्धि के लक्ष्यों को समर्थन प्रदान करता है, जिसमें वर्ष 2030 तक संचयी ई-कॉमर्स निर्यात को &lt;b&gt;80 बिलियन डॉलर&lt;/b&gt; तक पहुँचाने का लक्ष्य शामिल है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;प्रमुख ई-कॉमर्स मॉडल्स के बीच अंतर&lt;/b&gt;&lt;/h2&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;विशेषता&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;इन्वेंटरी-आधारित मॉडल&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;मार्केटप्लेस मॉडल&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;वस्तुओं का स्वामित्व&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;ई-कॉमर्स कंपनी के स्वामित्व में&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;विक्रेताओं के स्वामित्व में&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;प्लेटफार्म की भूमिका&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;एक ई-कॉमर्स इकाई स्वयं इन्वेंट्री का स्वामित्व रखती है तथा उपभोक्ताओं को सीधे वस्तुओं की बिक्री करती है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;प्लेटफॉर्म खरीदारों और विक्रेताओं के बीच एक मध्यस्थ (Facilitator) के रूप में कार्य करता है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;भारत में प्रत्यक्ष विदेशी निवेश (FDI) की स्थिति &lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;नई नीति के अंतर्गत केवल निर्यात के लिये अनुमति प्राप्त&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;स्वचालित मार्ग के अंतर्गत 100% तक प्रत्यक्ष विदेशी निवेश (FDI) की अनुमति है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;घरेलू खुदरा व्यापार&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;घरेलू बिक्री के लिये विदेशी वित्तपोषित इन्वेंट्री आधारित B2C ई-कॉमर्स अभी भी प्रतिबंधित है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;विदेशी वित्तपोषित प्लेटफॉर्म मार्केटप्लेस नियमों के तहत घरेलू बिक्री को सुगम बना सकते हैं, लेकिन वे विक्रेताओं की इन्वेंट्री का स्वामित्व या नियंत्रण नहीं रख सकते।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;निर्यात की संभावना&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;सीधे निर्यात में सहायता&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;विक्रेता-संचालित निर्यात&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 1. भारत की FDI नीति में ई-कॉमर्स से संबंधित हालिया परिवर्तन क्या है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;उत्तर:&lt;/b&gt; सरकार ने घरेलू स्तर पर निर्मित या उत्पादित वस्तुओं के निर्यात के लिये विशेष रूप से &lt;b&gt;इन्वेंटरी-आधारित ई-कॉमर्स मॉडल में प्रत्यक्ष विदेशी निवेश (FDI) &lt;/b&gt;की अनुमति प्रदान की है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 2. FDI नीति में यह परिवर्तन किस संगठन द्वारा किया गया?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;उत्तर:&lt;/b&gt; यह नीतिगत परिवर्तन वाणिज्य एवं उद्योग मंत्रालय के अंतर्गत &lt;b&gt;उद्योग एवं आंतरिक व्यापार संवर्द्धन विभाग (DPIIT)&lt;/b&gt; द्वारा किया गया।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 3. क्या घरेलू उपभोक्ताओं के लिये इन्वेंटरी-आधारित ई-कॉमर्स में FDI की अनुमति है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;उत्तर:&lt;/b&gt; नहीं। &lt;b&gt;घरेलू खुदरा बिक्री&lt;/b&gt; के लिये इन्वेंटरी-आधारित ई-कॉमर्स में FDI &lt;b&gt;अभी भी प्रतिबंधित&lt;/b&gt; है। यह छूट केवल निर्यात के लिये लागू होती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 4. इन्वेंटरी-आधारित ई-कॉमर्स मॉडल क्या है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;उत्तर:&lt;/b&gt; इन्वेंटरी-आधारित ई-कॉमर्स मॉडल में ई-कॉमर्स इकाई &lt;b&gt;वस्तुओं की इन्वेंटरी का स्वामित्व और नियंत्रण रखती&lt;/b&gt; है तथा उन्हें सीधे उपभोक्ताओं या खरीदारों को बेचती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 5. इन्वेंटरी-आधारित मॉडल, मार्केटप्लेस मॉडल से किस प्रकार भिन्न है?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;इन्वेंटरी-आधारित मॉडल:&lt;/b&gt; ई-कॉमर्स इकाई वस्तुओं का क्रय, भंडारण एवं प्रत्यक्ष विक्रय करती है&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;मार्केटप्लेस मॉडल:&lt;/b&gt; प्लेटफॉर्म केवल खरीदारों एवं विक्रेताओं के मध्य एक मध्यस्थ के रूप में कार्य करता है तथा स्वयं वस्तुओं की इन्वेंटरी का स्वामित्व नहीं रखता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;i&gt;प्रिलिम्स&lt;/i&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न. निम्नलिखित पर विचार कीजिये: (2021)&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;विदेशी मुद्रा संपरिवर्तनीय बॉण्ड &lt;/li&gt;
+&lt;li&gt;कुछ शर्तों के साथ विदेशी संस्थागत निवेश&lt;/li&gt;
+&lt;li&gt;वैश्विक निक्षेपागार (डिपॉजिटरी) प्राप्तियाँ&lt;/li&gt;
+&lt;li&gt;अनिवासी विदेशी जमा  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;उपर्युक्त में से किसे/किन्हें विदेशी प्रत्यक्ष निवेश में सम्मिलित किया जा सकता है/किये जा सकते हैं?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;(a) 1, 2 और 3&lt;/p&gt;
+&lt;p&gt;(b) केवल 3&lt;/p&gt;
+&lt;p&gt;(c) 2 और 4&lt;/p&gt;
+&lt;p&gt;(d) 1 और 4&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर: (a) &lt;/b&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न. भारत में प्रत्यक्ष विदेशी निवेश के संदर्भ में, निम्नलिखित में से कौन-सी उसकी प्रमुख विशेषता मानी जाती है ? (2020)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;(a) यह मूलत: किसी सूचीबद्ध कंपनी में पूंजीगत साधनों द्वारा किया जाने वाला निवेश है।&lt;/p&gt;
+&lt;p&gt;(b) यह मुख्यतः ऋण सृजित न करने वाला पूंजी प्रवाह है।&lt;/p&gt;
+&lt;p&gt;(c) यह ऐसा निवेश है जिससे ऋण-समाशोधन अपेक्षित होता है।&lt;/p&gt;
+&lt;p&gt;(d) यह विदेशी संस्थागत निवेशकों द्वारा सरकारी प्रतिभूतियों में किया जाने वाला निवेश है।  &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर: (b)&lt;/b&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;i&gt;मेन्स&lt;/i&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; भारतीय अर्थव्यवस्था के विकास में एफ.डी.आई. की आवश्यकता की पुष्टि कीजिये। हस्ताक्षरित समझौता ज्ञापनों तथा वास्तविक एफ.डी.आई. के बीच अंतर क्यों है? भारत में वास्तविक एफ.डी.आई. को बढ़ाने के लिये सुधारात्मक कदम सुझाइये। (2016)&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<title>सारनाथ: भारत का 45वाँ यूनेस्को विश्व धरोहर स्थल</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/sarnath-india-s-45th-unesco-world-heritage-site</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/sarnath-india-s-45th-unesco-world-heritage-site" rel="alternate"/>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">सारनाथ: भारत का 45वाँ यूनेस्को विश्व धरोहर स्थल
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies - I"&gt;सामान्य अध्ययन-I&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Indian-architecture"&gt;भारतीय वास्तुकला&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Indian-heritage-site"&gt;भारतीय विरासत स्थल&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289399®=3&amp;amp;lang=1"&gt;&lt;b&gt;स्रोत: पीआईबी&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;दक्षिण कोरिया के &lt;b&gt;बुसान गणराज्य&lt;/b&gt; में आयोजित &lt;b&gt;विश्व धरोहर समिति के 48वें सत्र&lt;/b&gt; के दौरान उत्तर प्रदेश स्थित &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/sarnath-nominated-for-unesco-world-heritage"&gt;&lt;b&gt;प्राचीन बौद्ध स्थल सारनाथ&lt;/b&gt;&lt;/a&gt; को &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-adds-7-natural-sites-to-unesco-tentative-list"&gt;&lt;b&gt;यूनेस्को विश्व धरोहर सूची&lt;/b&gt;&lt;/a&gt; में शामिल किया गया है। &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;सारनाथ को शामिल किये जाने के साथ, भारत में अब &lt;b&gt;45 यूनेस्को विश्व धरोहर स्थल&lt;/b&gt; हो गए हैं। विश्व धरोहर स्थलों की संख्या के आधार पर भारत &lt;b&gt;वैश्विक स्तर पर छठे&lt;/b&gt; स्थान पर तथा &lt;b&gt;एशिया-प्रशांत क्षेत्र में&lt;/b&gt; दूसरे स्थान पर है। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;सारनाथ के प्राचीन बौद्ध स्थल के बारे में मुख्य तथ्य क्या हैं?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;सारनाथ का ऐतिहासिक एवं आध्यात्मिक महत्त्व: &lt;/b&gt;सारनाथ को बौद्ध परंपरा में उस पवित्र स्थल के रूप में सार्वभौमिक मान्यता प्राप्त है, जहाँ &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/buddha-path-to-enlightenment"&gt;&lt;b&gt;गौतम बुद्ध&lt;/b&gt;&lt;/a&gt; ने &lt;b&gt;बोधगया में ज्ञान प्राप्ति&lt;/b&gt; के पश्चात &lt;b&gt;6वीं शताब्दी ईसा पूर्व&lt;/b&gt; में अपना प्रथम उपदेश दिया था।
+&lt;ul&gt;
+&lt;li&gt;यह ऐतिहासिक घटना &lt;b&gt;“धर्म के चक्र का प्रवर्तन” (Turning of the Wheel of the Law) अर्थात &lt;/b&gt;&lt;b&gt;&lt;i&gt;“धर्मचक्र प्रवर्तन”&lt;/i&gt;&lt;/b&gt; के रूप में जानी जाती है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;संघ का जन्मस्थान: &lt;/b&gt;सारनाथ में ही बुद्ध ने अपने प्रथम शिष्यों को उपदेश दिया, जो &lt;b&gt;बौद्ध भिक्षु संघ&lt;/b&gt; के औपचारिक आरंभ तथा &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/buddha-s-relevance-to-the-modern-youth"&gt;&lt;b&gt;आर्य अष्टांगिक मार्ग&lt;/b&gt;&lt;/a&gt; के प्रतिपादन का प्रतीक था।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;चार प्रमुख तीर्थ स्थलों में से एक: &lt;/b&gt;स्वयं बुद्ध ने सारनाथ को&lt;b&gt; बौद्ध तीर्थयात्रा&lt;/b&gt; के चार प्रमुख स्थलों में से एक के रूप में निर्दिष्ट किया था (अन्य तीन स्थल &lt;b&gt;लुंबिनी, बोधगया और कुशीनगर&lt;/b&gt; हैं)।
+&lt;ul&gt;
+&lt;li&gt;इस समावेशन के साथ, इन चार प्रमुख स्थलों में से तीन- &lt;b&gt;लुंबिनी (नेपाल), &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/mahabodhi-temple-3"&gt;&lt;b&gt;बोधगया स्थित महाबोधि मंदिर (भारत)&lt;/b&gt;&lt;/a&gt;&lt;b&gt; तथा अब सारनाथ (भारत)&lt;/b&gt; यूनेस्को विश्व धरोहर संपत्तियों के रूप में संरक्षित हैं। &lt;/li&gt;
+&lt;li&gt;ये कई अन्य महत्त्वपूर्ण बौद्ध विश्व धरोहर स्थलों से भी जुड़ गए हैं, जिनमें &lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper1/world-heritage-sites-in-india"&gt;&lt;b&gt;साँची, नालंदा एवं अजंता (भारत)&lt;/b&gt;&lt;/a&gt;&lt;b&gt;; अनुराधापुरा (श्रीलंका); पहाड़पुर (बांग्लादेश); तथा तक्षशिला एवं तख्त-ए-बाही (पाकिस्तान)&lt;/b&gt; शामिल हैं। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;ऐतिहासिक नामकरण: &lt;/b&gt;प्राचीन ग्रंथों में सारनाथ का उल्लेख विभिन्न नामों से किया गया है, जिनमें ऋषिपत्तन, इशिपत्तन एवं मृगदाव (हिरण उद्यान) शामिल हैं। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;राष्ट्रीय प्रतीकों की प्राप्ति: &lt;/b&gt;यहाँ किये गए उत्खननों से प्रसिद्ध &lt;a href="https://www.drishtiias.com/hindi/mind-map/gs-paper1/mauryakaleen-arts"&gt;&lt;b&gt;मौर्यकालीन सिंह शीर्ष&lt;/b&gt;&lt;/a&gt; प्राप्त हुआ, जो बाद में &lt;b&gt;भारत का राष्ट्रीय प्रतीक&lt;/b&gt; बना तथा &lt;b&gt;शास्त्रीय गुप्त कला काल&lt;/b&gt; की &lt;b&gt;धर्मचक्र प्रवर्तन बुद्ध प्रतिमा &lt;/b&gt;भी प्राप्त हुई। 
+&lt;ul&gt;
+&lt;li&gt;ये दोनों कलाकृतियाँ भारत के सबसे प्राचीन स्थल संग्रहालय में संरक्षित हैं, जिसकी स्थापना वर्ष 1904 में सारनाथ में की गई थी। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;यूनेस्को विश्व धरोहर स्थल के रूप में सारनाथ&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;यूनेस्को चयन मानदंड:&lt;/b&gt; सारनाथ को वर्ष &lt;b&gt;1998 में भारत की संभावित सूची (Tentative List)&lt;/b&gt; में सम्मिलित किया गया था। इस स्थल को &lt;b&gt;मानदंड (iii)&lt;/b&gt; के अंतर्गत एक महत्त्वपूर्ण तीर्थ स्थल के रूप में इसके निरंतर आध्यात्मिक महत्त्व तथा &lt;b&gt;मानदंड (vi)&lt;/b&gt; के अंतर्गत भगवान बुद्ध के जीवन, उनके उपदेशों और &lt;b&gt;त्रिरत्न (बुद्ध, धर्म और संघ)&lt;/b&gt; की अवधारणा के साथ इसके &lt;b&gt;प्रत्यक्ष एवं मूर्त संबंध के आधार पर नामांकित &lt;/b&gt;किया गया।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्थल के घटक:&lt;/b&gt; यूनेस्को द्वारा मान्यता प्राप्त इस &lt;b&gt;क्रमिक संपत्ति (Serial Property)&lt;/b&gt; में उत्तर प्रदेश के वाराणसी स्थित &lt;b&gt;चौखंडी स्तूप&lt;/b&gt; (एक ऊँची ईंट निर्मित संरचना), जिसे परंपरागत रूप से वह स्थान माना जाता है जहाँ गौतम बुद्ध अपने प्रथम पाँच शिष्यों से मिले थे तथा सारनाथ के पुरातात्त्विक अवशेष सम्मिलित हैं। इन अवशेषों में &lt;b&gt;धमेख स्तूप, धर्मराजिका स्तूप, मूलगंधकुटी विहार और अशोक स्तंभ&lt;/b&gt; प्रमुख हैं।
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;धमेख स्तूप:&lt;/b&gt; यह एक विशाल बेलनाकार स्तूप है, जो उस स्थान को चिह्नित करता है जहाँ गौतम बुद्ध ने अपना प्रथम उपदेश &lt;b&gt;(धर्मचक्र प्रवर्तन)&lt;/b&gt; दिया था।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;धर्मराजिका स्तूप:&lt;/b&gt; यह सबसे&lt;b&gt; प्राचीन बौद्ध स्तूपों में से एक&lt;/b&gt; है। परंपरागत मान्यता के अनुसार, इसका निर्माण सम्राट अशोक द्वारा बुद्ध के पवित्र अवशेषों को स्थापित करने के लिये कराया गया था।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;मूलगंधकुटी विहार:&lt;/b&gt; ऐसा माना जाता है कि यह &lt;b&gt;स्थान सारनाथ में बुद्ध के प्रथम&lt;/b&gt; &lt;b&gt;वर्षावास (Varshavasa)&lt;/b&gt; के दौरान उनके निवास स्थल को चिह्नित करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;अशोक स्तंभ:&lt;/b&gt; यह तीसरी शताब्दी ईसा पूर्व में सम्राट अशोक द्वारा स्थापित एक बलुआ पत्थर का स्तंभ है। इसका &lt;b&gt;सिंह शीर्ष&lt;/b&gt; भारत का&lt;b&gt; राष्ट्रीय प्रतीक &lt;/b&gt;है।&lt;/li&gt;
+&lt;li&gt;यह स्थल प्राचीन मंदिरों, मठों &lt;b&gt;(विहारों)&lt;/b&gt;, तीर्थ स्थलों तथा अन्य पुरातात्त्विक संरचनाओं के अवशेषों को भी संरक्षित करता है, जो दो सहस्राब्दियों से अधिक समय में &lt;b&gt;बौद्ध शिक्षा, तीर्थयात्रा और मठवासी जीवन के एक प्रमुख केंद्र के रूप में सारनाथ के ऐतिहासिक विकास&lt;/b&gt; को दर्शाते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;यूनेस्को विश्व धरोहर स्थल क्या है?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; &lt;b&gt;विश्व धरोहर स्थल (World Heritage Site)&lt;/b&gt; ऐसे महत्त्वपूर्ण स्थल, स्मारक या क्षेत्र होते हैं, जिन्हें &lt;b&gt;संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक और सांस्कृतिक संगठन (UNESCO)&lt;/b&gt; के तत्त्वावधान में संचालित एक अंतर्राष्ट्रीय संधि के अंतर्गत विधिक संरक्षण प्रदान किया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;1972 का कन्वेंशन:&lt;/b&gt; इन स्थलों का नामांकन वर्ष &lt;b&gt;1972 में अंगीकृत ‘विश्व सांस्कृतिक एवं प्राकृतिक धरोहरों के संरक्षण से संबंधित कन्वेंशन’ &lt;/b&gt;के प्रावधानों के आधार पर किया जाता है। वर्तमान में इस सूची में &lt;b&gt;170 देशों की 1,248 संपत्तियाँ&lt;/b&gt; सम्मिलित हैं।
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;यूनेस्को की विश्व धरोहर समिति &lt;/b&gt;अपने &lt;b&gt;‘विश्व धरोहर कार्यक्रम’&lt;/b&gt; के माध्यम से विश्व धरोहर स्थलों की सूची का संरक्षण, प्रबंधन और संचालन करती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भारत ने वर्ष 1977 में इस कन्वेंशन का अनुसमर्थन (Ratification) किया था।&lt;/b&gt; इसके अतिरिक्त, भारत ने वर्ष &lt;b&gt;2021 से 2025 तक यूनेस्को विश्व धरोहर समिति के सदस्य&lt;/b&gt; के रूप में कार्य किया और &lt;b&gt;जुलाई 2024 में नई दिल्ली में विश्व धरोहर समिति के 46वें सत्र&lt;/b&gt; की मेज़बानी भी की।
+&lt;ul&gt;
+&lt;li&gt;भारत के पास यूनेस्को की संभावित सूची में 69 स्थल सम्मिलित हैं। यह सूची विश्व धरोहर सूची में भविष्य के नामांकन के लिये एक अनिवार्य पूर्वापेक्षा है।&lt;/li&gt;
+&lt;li&gt;प्रत्येक सदस्य राष्ट्र प्रतिवर्ष केवल एक स्थल को विश्व धरोहर सूची में शामिल किये जाने के लिये विश्व धरोहर समिति के विचारार्थ नामांकित कर सकता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;भारत में यूनेस्को विश्व धरोहर से संबंधित सभी मामलों के लिये &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/asi-to-delist-lost-monuments"&gt;&lt;b&gt;भारतीय पुरातत्त्व सर्वेक्षण (ASI) &lt;/b&gt;&lt;/a&gt;नोडल एजेंसी के रूप में कार्य करता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;श्रेणियाँ:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;सांस्कृतिक:&lt;/b&gt; ऐसे स्थल जिनमें ऐतिहासिक इमारतें, पुरातात्त्विक स्थल तथा स्मारकीय मूर्तिकला से संबंधित कृतियाँ सम्मिलित होती हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्राकृतिक:&lt;/b&gt; ऐसे स्थल जिनमें उत्कृष्ट भौतिक, जैविक और भू-वैज्ञानिक संरचनाएँ पाई जाती हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;मिश्रित:&lt;/b&gt; ऐसे स्थल जिनमें उत्कृष्ट प्राकृतिक एवं सांस्कृतिक दोनों प्रकार के मूल्य विद्यमान होते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;उदाहरण:&lt;/b&gt; ग्रीस का माउंट ओलिंपस तथा भारत का&lt;b&gt; खांगचेंदज़ोंगा राष्ट्रीय उद्यान&lt;/b&gt;।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;खतरे में पड़े विश्व धरोहर स्थलों की सूची:&lt;/b&gt; यह एक पृथक तंत्र है, जिसका उद्देश्य अंतर्राष्ट्रीय समुदाय को उन परिस्थितियों के संबंध में सूचित करना है, जो किसी संपत्ति के उन विशिष्ट गुणों के लिये खतरा उत्पन्न करती हैं, जिनके आधार पर उसे विश्व धरोहर सूची में शामिल किया गया था। इन खतरों में &lt;b&gt;सशस्त्र संघर्ष, प्राकृतिक आपदाएँ, अनियंत्रित शहरीकरण&lt;/b&gt; आदि शामिल हैं। इसका उद्देश्य सुधारात्मक उपायों को शीघ्र लागू करने में सहायता प्रदान करना है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;आपातकालीन नामांकन प्रक्रिया:&lt;/b&gt; यह वर्ष &lt;b&gt;1972 के यूनेस्को विश्व धरोहर कन्वेंशन&lt;/b&gt; के अंतर्गत एक विशेष व्यवस्था है, जिसके माध्यम से ऐसे स्थलों को &lt;b&gt;विश्व धरोहर सूची में त्वरित (Fast-track) प्रक्रिया द्वारा&lt;/b&gt; शामिल किया जा सकता है, जो&lt;b&gt; तत्काल एवं गंभीर खतरों का सामना कर रहे&lt;/b&gt; हों और जिन्हें शीघ्र अंतर्राष्ट्रीय मान्यता एवं संरक्षण की आवश्यकता हो।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रभाव:&lt;/b&gt; यूनेस्को विश्व धरोहर स्थल के रूप में मान्यता प्राप्त होने से किसी स्थल को &lt;b&gt;वैश्विक पहचान, अंतर्राष्ट्रीय संधियों के अंतर्गत विधिक संरक्षण तथा संरक्षण निधि &lt;/b&gt;प्राप्त करने की पात्रता मिलती है। हालाँकि इससे &lt;b&gt;अत्यधिक पर्यटन (Over-tourism)&lt;/b&gt; और व्यावसायिक दबाव जैसी चुनौतियाँ भी उत्पन्न हो सकती हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;वर्ष 2026 में जारी यूनेस्को की संकटग्रस्त विश्व धरोहर स्थलों की सूची&lt;/b&gt;&lt;/h2&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;विश्व धरोहर स्थल&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;देश/क्षेत्र&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;स्थिति / प्रमुख खतरे&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;बोमा-बैडिंगिलो प्रवासी परिदृश्य&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;दक्षिण सूडान&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;आपातकालीन पंजीकरण&lt;/b&gt;; अवसंरचना विकास, व्यावसायिक अवैध शिकार, वन्यजीव तस्करी, असुरक्षा और कमज़ोर संरक्षण क्षमता से खतरे में।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;माउंट अमेल महल&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;लेबनान&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;आपातकालीन पंजीकरण;&lt;/b&gt; चल रहे सशस्त्र संघर्ष से गंभीर रूप से खतरे में है, जिससे व्यापक क्षति हो रही है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;सेबेस्टिया&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;फिलिस्तीन राज्य&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;आपातकालीन पंजीकरण;&lt;/b&gt; संघर्ष, प्रस्तावित "सामरिया" राष्ट्रीय उद्यान, विकास के दबाव, भूमि उपयोग में परिवर्तन और पुरातात्त्विक अवशेषों के क्षरण से खतरे में है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;टॉरिक चेरसोनिस का प्राचीन शहर और उसका चोरा&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;यूक्रेन (क्रीमिया)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;अस्थायी कब्ज़े, अनधिकृत निर्माण और स्थल की अखंडता में गिरावट के कारण इसे &lt;b&gt;विश्व धरोहर खतरे की सूची में शामिल किया गया &lt;/b&gt;है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;पारामारिबो का ऐतिहासिक शहर&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;सूरीनाम&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;इसके ऐतिहासिक शहरी परिदृश्य को प्रभावित करने वाले असंगत आधुनिक निर्माण के कारण इसे &lt;b&gt;विश्व धरोहर खतरे की सूची में शामिल किया गया है।&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;टायर &lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;लेबनान&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;इसके संरक्षण को खतरे में डालने वाली चल रही शत्रुताओं के कारण इसे &lt;b&gt;विश्व धरोहर खतरे की सूची में शामिल किया गया है।&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;1. यूनेस्को विश्व धरोहर स्थल क्या है?&lt;br/&gt;&lt;/b&gt;यूनेस्को विश्व धरोहर स्थल कोई &lt;b&gt;सांस्कृतिक, प्राकृतिक या मिश्रित संपत्ति &lt;/b&gt;होती है, जिसे वर्ष 1972 के विश्व धरोहर अभिसमय के अंतर्गत उसके &lt;b&gt;उत्कृष्ट सार्वभौमिक मूल्य (OUV)&lt;/b&gt; के लिये मान्यता प्रदान की जाती है और इसे मानवता की साझा विरासत के एक भाग के रूप में संरक्षित किया जाता है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. सारनाथ को यूनेस्को विश्व धरोहर सूची में क्यों शामिल किया गया?&lt;br/&gt;&lt;/b&gt;सारनाथ को &lt;b&gt;मानदंड (iii) और (vi) &lt;/b&gt;के अंतर्गत शामिल किया गया, क्योंकि यह एक &lt;b&gt;प्रमुख बौद्ध तीर्थ केंद्र&lt;/b&gt; के रूप में अपनी स्थायी भूमिका तथा &lt;b&gt;बुद्ध के प्रथम उपदेश, बौद्ध संघ एवं त्रिरत्न (तीन रत्नों) &lt;/b&gt;के साथ अपने प्रत्यक्ष संबंध के लिये जाना जाता है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. यूनेस्को के अंतर्गत आपातकालीन नामांकन प्रक्रिया क्या है?&lt;br/&gt;&lt;/b&gt;यह &lt;b&gt;वर्ष 1972 के विश्व धरोहर अभिसमय&lt;/b&gt; के अंतर्गत एक &lt;b&gt;त्वरित प्रक्रिया &lt;/b&gt;है, जो &lt;b&gt;तत्काल और गंभीर खतरों&lt;/b&gt; का सामना कर रहे स्थलों को सूचीबद्ध करने की अनुमति देती है तथा उन्हें शीघ्र अंतर्राष्ट्रीय मान्यता तथा संरक्षण प्रदान करने में सहायता करती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. संकटग्रस्त विश्व धरोहर स्थलों की सूची क्या है?&lt;br/&gt;&lt;/b&gt;यह यूनेस्को की एक व्यवस्था है, जिसके अंतर्गत &lt;b&gt;सशस्त्र संघर्ष, प्राकृतिक आपदाओं, अनियंत्रित विकास या अन्य जोखिमों से प्रभावित विश्व धरोहर स्थलों &lt;/b&gt;की पहचान की जाती है। यह अंतर्राष्ट्रीय सहायता और सुधारात्मक उपायों को जुटाने में सहायता करती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. विश्व धरोहर संरक्षण में भारतीय पुरातत्त्व सर्वेक्षण (ASI) की क्या भूमिका है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;भारतीय पुरातत्त्व सर्वेक्षण (ASI)&lt;/b&gt; भारत में यूनेस्को विश्व धरोहर से संबंधित मामलों की प्रमुख एजेंसी है और यह विश्व धरोहर स्थलों के &lt;b&gt;नामांकन, संरक्षण, सुरक्षा, निगरानी और प्रबंधन &lt;/b&gt;के लिये उत्तरदायी है।&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;प्रश्न. यूनेस्को (UNESCO) द्वारा जारी विश्व धरोहर सूची में शामिल की गई निम्नलिखित संपत्तियों पर विचार कीजिये: ( 2024)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;शांतिनिकेतन&lt;/li&gt;
+&lt;li&gt;रानी-की-वाव&lt;/li&gt;
+&lt;li&gt;होयसल के पवित्र मंदिर समूहु&lt;/li&gt;
+&lt;li&gt;बोधगया स्थित महाबोधि मंदिर परिसर&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;उपर्युक्त में से कितनी संपत्तियों को वर्ष 2023 में शामिल किया गया? &lt;/p&gt;
+&lt;p&gt;(a) केवल एक&lt;/p&gt;
+&lt;p&gt;(b) केवल दो&lt;/p&gt;
+&lt;p&gt;(c) केवल तीन&lt;/p&gt;
+&lt;p&gt;(d) सभी चार&lt;/p&gt;
+&lt;p&gt;उत्तर: (b)&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;मेन्स:&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;प्रश्न 1. भारतीय कला विरासत का संरक्षण वर्तमान समय की आवश्यकता है। चर्चा कीजिये। (2018) &lt;/p&gt;
+&lt;p&gt;प्रश्न 2. भारतीय दर्शन एवं परंपरा ने भारतीय स्मारकों की कल्पना और आकार देने एवं उनकी कला में महत्त्वपूर्ण भूमिका निभाई है। विवेचना कीजिये। (2020) &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<title>कॉमनवेल्थ गेम्स 2026 में मीराबाई चानू को वेटलिफ्टिंग में पहला स्वर्ण पदक</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/mirabai-chanu-wins-india-s-1st-gold-at-commonwealth-games-2026-in-weightlifting</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/mirabai-chanu-wins-india-s-1st-gold-at-commonwealth-games-2026-in-weightlifting" rel="alternate"/>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">कॉमनवेल्थ गेम्स 2026 में मीराबाई चानू को वेटलिफ्टिंग में पहला स्वर्ण पदक
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.thehindu.com/sport/mirabai-completes-hattrick-of-golds-at-commonwealth-games/article71270013.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;स्कॉटलैंड के ग्लासगो &lt;/b&gt;में आयोजित&lt;b&gt; वर्ष 2026 के &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-will-host-the-commonwealth-games-2030"&gt;&lt;b&gt;कॉमनवेल्थ गेम्स&lt;/b&gt;&lt;/a&gt; में भारत ने प्रभावशाली शुरुआत की, जहाँ &lt;b&gt;मीराबाई चानू ने महिलाओं की 48 किग्रा श्रेणी में स्वर्ण पदक जीतकर &lt;/b&gt;उल्लेखनीय उपलब्धि हासिल की, जबकि चनंबम रिशिकांता सिंह और राजा मुथुपांडी ने क्रमशः पुरुषों की 60 किग्रा एवं 65 किग्रा श्रेणियों में रजत पदक प्राप्त किये। &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;सैखोम मीराबाई चानू (महिला 48 किग्रा):&lt;/b&gt; &lt;b&gt;मणिपुर की वर्ष 2020 टोक्यो ओलंपिक रजत पदक विजेता&lt;/b&gt; ने कुल 190 किग्रा भार (85 किग्रा स्नैच + 105 किग्रा क्लीन एंड जर्क) उठाकर भारत के लिये वर्ष 2026 कॉमनवेल्थ गेम्स का पहला स्वर्ण पदक जीता।
+&lt;ul&gt;
+&lt;li&gt;उन्होंने &lt;b&gt;स्नैच, क्लीन एंड जर्क और कुल भार उठाने में कॉमनवेल्थ गेम्स के रिकॉर्ड&lt;/b&gt; को तोड़ा तथा &lt;b&gt;गोल्ड कोस्ट (2018) और बर्मिंघम (2022)&lt;/b&gt; के बाद निरंतर तीसरे कॉमनवेल्थ गेम्स में स्वर्ण पदक जीतकर ऐतिहासिक उपलब्धि हासिल की। उन्होंने वर्ष 2014 के ग्लासगो में रजत पदक भी जीता था।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;रिषिकांत सिंह (पुरुष 60 किग्रा):&lt;/b&gt; &lt;b&gt;मणिपुर &lt;/b&gt;के इस भारोत्तोलक ने कुल 264 किग्रा भार उठाकर &lt;b&gt;रजत पदक&lt;/b&gt; हासिल किया।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;राजा मुथुपांडी (पुरुष 65 किग्रा):&lt;/b&gt; तमिलनाडु के इस वेटलिफ्टर ने कुल 286 किग्रा भार उठाकर भारत की पदक तालिका में एक और रजत पदक जोड़ा।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;नोट:&lt;/b&gt; भारत ने &lt;b&gt;वर्ष 1934 के लंदन गेम्स&lt;/b&gt; में &lt;b&gt;पहली बार हिस्सा&lt;/b&gt; लिया, &lt;b&gt;रशीद अनवर के ज़रिये अपना पहला CWG मेडल (रेसलिंग में ब्रॉन्ज़) &lt;/b&gt;जीता और &lt;b&gt;वर्ष 1958 के कार्डिफ गेम्स में मिल्खा सिंह के ज़रिये 440 यार्ड इवेंट&lt;/b&gt; में अपना पहला गोल्ड मेडल जीता। &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;और पढ़ें: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/23rd-commonwealth-games-2026#:~:text=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%81%E0%A4%96%20%E0%A4%96%E0%A5%87%E0%A4%B2%3A%20%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7%202026%20%E0%A4%95%E0%A5%87,%E0%A4%AE%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BC%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%9C%E0%A5%82%E0%A4%A1%E0%A5%8B%20%E0%A4%B6%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%B2%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4"&gt;&lt;b&gt;वर्ष 2026 के राष्ट्रमंडल खेलों का 23वाँ संस्करण&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-will-host-the-commonwealth-games-2030"&gt;&lt;b&gt;कॉमनवेल्थ गेम्स 2030 की मेज़बानी भारत करेगा&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <title>अमृत भारत स्टेशन योजना</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/amrit-bharat-station-scheme-4</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/amrit-bharat-station-scheme-4" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">अमृत भारत स्टेशन योजना 
 
@@ -83,8 +554,8 @@
 <title>राष्ट्रपति की रोमानिया की राजकीय यात्रा</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/president-s-state-visit-to-romania</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/president-s-state-visit-to-romania" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">राष्ट्रपति की रोमानिया की राजकीय यात्रा
 
@@ -128,8 +599,8 @@
 <title>ब्राजील के अमेज़ॅन वर्षावन में वनाग्नि का ऐतिहासिक निम्नतम स्तर</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/brazil-s-amazon-records-historic-low-in-forest-fires</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/brazil-s-amazon-records-historic-low-in-forest-fires" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">ब्राजील के अमेज़ॅन वर्षावन में वनाग्नि का ऐतिहासिक निम्नतम स्तर
 
@@ -178,8 +649,8 @@
 <title>विशेष गहन पुनरीक्षण के दायरे पर सर्वोच्च न्यायालय की स्पष्टता</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/supreme-court-clarifies-scope-of-special-intensive-revision</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/supreme-court-clarifies-scope-of-special-intensive-revision" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">विशेष गहन पुनरीक्षण के दायरे पर सर्वोच्च न्यायालय की स्पष्टता
 
@@ -204,8 +675,8 @@
 <title>राष्ट्रीय डोपिंग-रोधी (संशोधन) अधिनियम, 2025</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/national-anti-doping-amendment-act,-2025</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/national-anti-doping-amendment-act,-2025" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">राष्ट्रीय डोपिंग-रोधी (संशोधन) अधिनियम, 2025
 
@@ -303,8 +774,8 @@
 <title>स्पेस ऑन्कोलॉजी और कैंसर उपचार</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/space-oncology-and-cancer-treatment</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/space-oncology-and-cancer-treatment" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">स्पेस ऑन्कोलॉजी और कैंसर उपचार
 
@@ -387,8 +858,8 @@
 <title>वर्ष 2026 के राष्ट्रमंडल खेलों का 23वाँ संस्करण</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/23rd-commonwealth-games-2026</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/23rd-commonwealth-games-2026" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">वर्ष 2026 के राष्ट्रमंडल खेलों का 23वाँ संस्करण
 
@@ -443,8 +914,8 @@
 <title>थिरु सुब्रमण्यम शिवा की पुण्यतिथि</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/death-anniversary-of-thiru-subramania-siva</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/death-anniversary-of-thiru-subramania-siva" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">थिरु सुब्रमण्यम शिवा की पुण्यतिथि
 
@@ -495,8 +966,8 @@
 <title>व्हाइट-बेलीड हेरॉन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/white-bellied-heron-1</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/white-bellied-heron-1" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">व्हाइट-बेलीड हेरॉन
 
@@ -562,8 +1033,8 @@
 <title>बीटा पिक्टोरिस के चारों ओर नए बहिर्ग्रह की खोज</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/new-exoplanet-discovered-around-beta-pictoris</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/new-exoplanet-discovered-around-beta-pictoris" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">बीटा पिक्टोरिस के चारों ओर नए बहिर्ग्रह की खोज
 
@@ -605,8 +1076,8 @@
 <title>पैलेट गन और शॉक बैटन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/pellet-guns-and-shock-batons</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/pellet-guns-and-shock-batons" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">पैलेट गन और शॉक बैटन
 
@@ -648,8 +1119,8 @@
 <title>बोरोफीन-आधारित ग्रीन लुब्रिकेंट</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/borophene-based-green-lubricant</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/borophene-based-green-lubricant" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">बोरोफीन-आधारित ग्रीन लुब्रिकेंट
 
@@ -687,8 +1158,8 @@
 <title>पॉलिमर करेंसी नोट</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/polymer-currency-notes</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/polymer-currency-notes" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">पॉलिमर करेंसी नोट
 
@@ -813,8 +1284,8 @@
 <title>QDENGA: भारत की पहली डेंगू वैक्सीन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/qdenga-india-s-1st-dengue-vaccine</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/qdenga-india-s-1st-dengue-vaccine" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">QDENGA: भारत की पहली डेंगू वैक्सीन
 
@@ -862,8 +1333,8 @@
 <title>राष्ट्रपति द्वारा मोल्दोवा और उत्तर मैसेडोनिया की यात्रा</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/presidential-visits-to-moldova-and-north-macedonia</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/presidential-visits-to-moldova-and-north-macedonia" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">राष्ट्रपति द्वारा मोल्दोवा और उत्तर मैसेडोनिया की यात्रा
 
@@ -921,8 +1392,8 @@
 <title>भारत का पहला इमर्सिव लैंग्वेज म्यूज़ियम</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-immersive-language-museum</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-immersive-language-museum" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत का पहला इमर्सिव लैंग्वेज म्यूज़ियम
 
@@ -954,8 +1425,8 @@
 <title>पूगा घाटी में भारत का पहला भूतापीय कुआँ</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-geothermal-wells-commissioned-at-puga-valley</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-geothermal-wells-commissioned-at-puga-valley" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">पूगा घाटी में भारत का पहला भूतापीय कुआँ
 
@@ -1042,8 +1513,8 @@
 <title>भारत बना मत्स्य पालन सब्सिडी पर विश्व व्यापार संगठन समझौते का पक्षकार</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-becomes-party-to-wto-agreement-on-fisheries-subsidies</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-becomes-party-to-wto-agreement-on-fisheries-subsidies" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत बना मत्स्य पालन सब्सिडी पर विश्व व्यापार संगठन समझौते का पक्षकार 
 
@@ -1088,8 +1559,8 @@
 <title>मंगल पांडे की जयंती</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/birth-anniversary-of-mangal-pandey-1</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/birth-anniversary-of-mangal-pandey-1" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">मंगल पांडे की जयंती
 
@@ -1136,8 +1607,8 @@
 <title>आधार वर्ष 2022-23 पर आधारित प्रमुख उद्योगों का संयुक्त सूचकांक</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/index-of-core-industries-with-base-year-2022-23</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/index-of-core-industries-with-base-year-2022-23" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">आधार वर्ष 2022-23 पर आधारित प्रमुख उद्योगों का संयुक्त सूचकांक
 
@@ -1392,8 +1863,8 @@
 <title>विश्व AI सहयोग संगठन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/world-ai-cooperation-organization</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/world-ai-cooperation-organization" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">विश्व AI सहयोग संगठन
 
@@ -1576,8 +2047,8 @@
 <title>आर. वैरामुथु को 60वाँ ज्ञानपीठ पुरस्कार प्रदान किया गया</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/r-vairamuthu-conferred-60th-jnanpith-award</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/r-vairamuthu-conferred-60th-jnanpith-award" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">आर. वैरामुथु को 60वाँ ज्ञानपीठ पुरस्कार प्रदान किया गया
 
@@ -1629,8 +2100,8 @@
 <title>भारत की पहली नाइट सफारी</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-first-night-safari</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-first-night-safari" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत की पहली नाइट सफारी
 
@@ -1777,8 +2248,8 @@
 <title>चित्तीदार हिरण</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/spotted-deer</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/spotted-deer" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">चित्तीदार हिरण
 
@@ -1827,8 +2298,8 @@
 <title>गिर में इंडियन ग्रे हॉर्नबिल की ब्रीडिंग</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/breeding-of-indian-grey-hornbills-in-gir</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/breeding-of-indian-grey-hornbills-in-gir" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">गिर में इंडियन ग्रे हॉर्नबिल की ब्रीडिंग
 
@@ -1868,8 +2339,8 @@
 <title>सुंदरबन सीमा पर पहली बार बाड़बंदी</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/first-ever-fencing-of-sundarbans-border</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/first-ever-fencing-of-sundarbans-border" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">सुंदरबन सीमा पर पहली बार बाड़बंदी
 
@@ -1930,8 +2401,8 @@
 <title>व्हाइट रैबिट टेक्नोलॉजी पर आधारित भारतीय मानक समय प्रसार प्रदर्शन नेटवर्क</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/white-rabbit-technology-based-ist-dissemination-demonstration-network</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/white-rabbit-technology-based-ist-dissemination-demonstration-network" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">व्हाइट रैबिट टेक्नोलॉजी पर आधारित भारतीय मानक समय प्रसार प्रदर्शन नेटवर्क
 
@@ -2035,8 +2506,8 @@
 <title>सेमाग्लूटाइड पेटेंट की समाप्ति और भारत के लिये अवसर</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/semaglutide-patent-expiry-and-opportunities-for-india</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/semaglutide-patent-expiry-and-opportunities-for-india" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">सेमाग्लूटाइड पेटेंट की समाप्ति और भारत के लिये अवसर
 
@@ -2183,8 +2654,8 @@
 <title>अमेरिकी सेना में टेस्टोस्टेरोन स्क्रीनिंग अनिवार्य</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/us-military-s-mandatory-testosterone-screening</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/us-military-s-mandatory-testosterone-screening" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">अमेरिकी सेना में टेस्टोस्टेरोन स्क्रीनिंग अनिवार्य
 
@@ -2226,8 +2697,8 @@
 <title>जम्मू-कश्मीर की मानसबल झील का पारिस्थितिक पुनरुद्धार</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/ecological-recovery-of-j-k-s-manasbal-lake</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/ecological-recovery-of-j-k-s-manasbal-lake" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">जम्मू-कश्मीर की मानसबल झील का पारिस्थितिक पुनरुद्धार
 
@@ -2277,8 +2748,8 @@
 <title>भारत की पहली हाइड्रोजन-संचालित ट्रेन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-hydrogen-powered-train</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-hydrogen-powered-train" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत की पहली हाइड्रोजन-संचालित ट्रेन
 
@@ -2317,8 +2788,8 @@
 <title>कोडेक्स कमीशन द्वारा तीन मसालों के लिये वैश्विक मानक अपनाए गए</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/codex-commission-adopts-global-standards-for-three-spices</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/codex-commission-adopts-global-standards-for-three-spices" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">कोडेक्स कमीशन द्वारा तीन मसालों के लिये वैश्विक मानक अपनाए गए
 
@@ -2375,8 +2846,8 @@
 <title>गगनयान मिशन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/gaganyaan-mission-6</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/gaganyaan-mission-6" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">गगनयान मिशन
 
@@ -2473,8 +2944,8 @@
 <title>बैंकों के लिये डेटा गवर्नेंस फ्रेमवर्क पर RBI की रेगुलेटरी गाइडेंस</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/rbi-s-regulatory-guidance-on-data-governance-framework-for-banks</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/rbi-s-regulatory-guidance-on-data-governance-framework-for-banks" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">बैंकों के लिये डेटा गवर्नेंस फ्रेमवर्क पर RBI की रेगुलेटरी गाइडेंस
 
@@ -2506,8 +2977,8 @@
 <title>के. कामराज की जयंती</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/birth-anniversary-of-k-kamaraj</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/birth-anniversary-of-k-kamaraj" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">के. कामराज की जयंती
 
@@ -2564,8 +3035,8 @@
 <title>साइक्लोस्पोरियासिस का प्रकोप</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/cyclosporiasis-outbreak</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/cyclosporiasis-outbreak" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">साइक्लोस्पोरियासिस का प्रकोप
 
@@ -2601,8 +3072,8 @@
 <title>सर्वोच्च न्यायालय द्वारा तमिलनाडु में गौ-हत्या पर मद्रास उच्च न्यायालय के व्यापक प्रतिबंध पर रोक</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/sc-stays-madras-hc-s-blanket-ban-on-cow-slaughter-in-tamil-nadu</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/sc-stays-madras-hc-s-blanket-ban-on-cow-slaughter-in-tamil-nadu" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">सर्वोच्च न्यायालय द्वारा तमिलनाडु में गौ-हत्या पर मद्रास उच्च न्यायालय के व्यापक प्रतिबंध पर रोक
 
@@ -2639,8 +3110,8 @@
 <title>निपुण भारत मिशन और बुनियादी शिक्षा</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/nipun-bharat-mission-and-foundational-learning</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/nipun-bharat-mission-and-foundational-learning" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">निपुण भारत मिशन और बुनियादी शिक्षा
 
@@ -2735,8 +3206,8 @@
 <title>भारत द्वारा बलात श्रम के तहत निर्मित वस्तुओं के आयात पर प्रतिबंध</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-bans-import-of-goods-made-using-forced-labour</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-bans-import-of-goods-made-using-forced-labour" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत द्वारा बलात श्रम के तहत निर्मित वस्तुओं के आयात पर प्रतिबंध
 
@@ -2773,8 +3244,8 @@
 <title>केंद्र ने पैराक्वाट डाइक्लोराइड पर प्रतिबंध की अधिसूचना जारी की</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/centre-notifies-ban-on-paraquat-dichloride</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/centre-notifies-ban-on-paraquat-dichloride" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">केंद्र ने पैराक्वाट डाइक्लोराइड पर प्रतिबंध की अधिसूचना जारी की
 
@@ -2804,8 +3275,8 @@
 <title>डिजिटल जोखिम रिपोर्ट 2025-26</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/digital-threat-report-2025-26</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/digital-threat-report-2025-26" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">डिजिटल जोखिम रिपोर्ट 2025-26
 
@@ -2899,8 +3370,8 @@
 <title>सेवा उत्पादन का पहला उप-क्षेत्रीय परीक्षण सूचकांक</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/1st-sub-sectoral-trial-index-of-services-production</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/1st-sub-sectoral-trial-index-of-services-production" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">सेवा उत्पादन का पहला उप-क्षेत्रीय परीक्षण सूचकांक
 
@@ -2934,8 +3405,8 @@
 <title>नागरिक पंजीकरण प्रणाली (CRS) रिपोर्ट 2024</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/civil-registration-system-crs-report-2024</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/civil-registration-system-crs-report-2024" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">नागरिक पंजीकरण प्रणाली (CRS) रिपोर्ट 2024
 
@@ -3024,8 +3495,8 @@
 <title>इंटरनेट ब्लैकआउट की तैयारी के मामले में भारत का 9वाँ स्थान</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-ranked-9th-in-internet-blackout-preparedness</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-ranked-9th-in-internet-blackout-preparedness" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">इंटरनेट ब्लैकआउट की तैयारी के मामले में भारत का 9वाँ स्थान
 
@@ -3087,8 +3558,8 @@
 <title>लद्दाख के सभी 7 ज़िलों में स्वायत्त पर्वतीय परिषदों के विस्तार का प्रस्ताव</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/ladakh-to-extend-autonomous-hill-councils-to-all-7-districts</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/ladakh-to-extend-autonomous-hill-councils-to-all-7-districts" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
+<published>2026-07-27T00:00:00+00:00</published>
+<updated>2026-07-27T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">लद्दाख के सभी 7 ज़िलों में स्वायत्त पर्वतीय परिषदों के विस्तार का प्रस्ताव
 
@@ -3120,394 +3591,5 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</content>
-</entry>
-<entry>
-<title>भारत में पहली बार 'पैरट बोर्नावायरस 4' की पहचान</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/parrot-bornavirus-4-identified-for-1st-time-in-india</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/parrot-bornavirus-4-identified-for-1st-time-in-india" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">भारत में पहली बार 'पैरट बोर्नावायरस 4' की पहचान
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Environmental-Pollution-&amp;amp;-Degradation"&gt;पर्यावरण प्रदूषण और गिरावट&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/sci-tech/energy-and-environment/deadly-bird-virus-pabv-4-identified-for-first-time-in-india/article71201191.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;भारत में पहली बार &lt;b&gt;पैरट बोर्नावायरस 4 (PaBV-4)&lt;/b&gt; की पुष्टि और आनुवंशिक विशेषता का पता चला है, जो देश में कैप्टिव तथा विदेशी पक्षियों के लिये पहले से अज्ञात खतरे को उजागर करता है।&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;PaBV-4 का परिचय:&lt;/b&gt; पैरट बोर्नावायरस, बोर्नाविरीडे परिवार के &lt;b&gt;&lt;i&gt;ऑर्थोबोर्नावायरस&lt;/i&gt;&lt;/b&gt; वंश से संबंधित होते हैं और &lt;b&gt;तोते, पैराकीट, मैकॉ (एक प्रकार का तोता), कॉकटू, कॉकाटील, बजरीगर तथा लवबर्ड&lt;/b&gt; जैसे सिटासाइन बर्ड को संक्रमित करते हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वर्गीकरण:&lt;/b&gt; जीनोम अनुक्रमणों के आधार पर, PaBV के आठ जीनोटाइप दो क्लैड्स में विभाजित हैं — &lt;b&gt;&lt;i&gt;अल्फाप्सिटैसिफॉर्मे&lt;/i&gt;&lt;/b&gt;, जिसमें PaBV-1 से PaBV-4, PaBV-7 और PaBV-8 शामिल हैं तथा &lt;b&gt;बेटाप्सिटैसिफॉर्मे&lt;/b&gt;, जिसमें PaBV-5 एवं PaBV-6 शामिल हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;संबद्ध रोग:&lt;/b&gt; PaBV, &lt;b&gt;प्रॉवेंट्रिक्युलर डाइलेटेशन डिज़ीज़&lt;/b&gt; के कारक हैं, जो एक गंभीर तंत्रिका और पाचन विकार है जिसमें वज़न घटने, मतली, कमज़ोरी, समन्वय की कमी, व्यवहार में बदलाव तथा मृत्यु का कारण बन सकता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;मुख्य निष्कर्ष:&lt;/b&gt; PaBV-4 &lt;b&gt;83 पक्षियों में से 44 में पाया गया, जिनमें PDD से मृत 88% पक्षी और 19% ऐसे पक्षी&lt;/b&gt; शामिल थे जो देखने में स्वस्थ थे।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वैश्विक संबंध:&lt;/b&gt; स्वस्थ दिखने वाले पक्षियों में वायरस की पहचान यह दर्शाती है कि इसका प्रसार बिना लक्षणों के भी हो सकता है, जबकि &lt;b&gt;आनुवंशिक अनुक्रमण&lt;/b&gt; से यह &lt;b&gt;अमेरिका, कनाडा, इज़रायल, जापान और दक्षिण कोरिया &lt;/b&gt;में पाए गए &lt;b&gt;PaBV-4 स्ट्रेन&lt;/b&gt; से निकट समानता दिखाता है, जिससे अंतर्राष्ट्रीय पक्षी व्यापार के माध्यम से इसके विस्तार की संभावना संकेतित होती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;महत्त्व:&lt;/b&gt; यह खोज बाह्य पालतू पशु उद्योग तथा संरक्षण प्रजनन कार्यक्रमों के लिये चिंता का विषय है और क्वारंटीन, नियमित जाँच, पशु चिकित्सा देखभाल, स्वच्छ बाड़ों, सुदृढ़ जैव-सुरक्षा तथा &lt;b&gt;पक्षी रोगों की बेहतर निगरानी&lt;/b&gt; की आवश्यकता को रेखांकित करती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;और पढ़ें:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/avian-flu-2"&gt;&lt;b&gt;एवियन फ्लू&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content>
-</entry>
-<entry>
-<title>चीन का हीलियम निर्यात पर प्रतिबंध और सुभेद्य आपूर्ति शृंखला</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/china-s-helium-export-ban-and-supply-chain-vulnerabilities</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/china-s-helium-export-ban-and-supply-chain-vulnerabilities" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">चीन का हीलियम निर्यात पर प्रतिबंध और सुभेद्य आपूर्ति शृंखला
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Collection-of-resources"&gt;संसाधनों का संग्रहण&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/news/international/chinastemporary-export-ban-on-helium-explained/article71206477.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt; &lt;/h2&gt;
-&lt;p&gt;चीन ने &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/helium-crisis-and-india-s-import-dependence"&gt;&lt;b&gt;हीलियम&lt;/b&gt;&lt;/a&gt; के निर्यात पर अस्थायी और तत्काल प्रतिबंध लगा दिया है। इससे इस महत्त्वपूर्ण संसाधन की वैश्विक आपूर्ति-शृंखला को लेकर चिंताएँ बढ़ गई हैं, विशेषकर उच्च-प्रौद्योगिकी और चिकित्सा उद्योगों के संदर्भ में।&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;जहाँ चीन अपनी हीलियम की 80% से अधिक आवश्यकता आयात करता है, वहीं यह प्रतिबंध अपने मौजूदा भंडार को AI चिप के निर्माण और क्वांटम कंप्यूटिंग जैसे घरेलू उच्च-प्रौद्योगिकी क्षेत्रों के लिये सुरक्षित रखने की संकट-प्रबंधन रणनीति के रूप में कार्य कर रहा है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;हीलियम क्या है?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;मूल गुण:&lt;/b&gt; हीलियम (He) एक रासायनिक तत्त्व है और ब्रह्मांड में &lt;b&gt;सबसे हल्के तथा सबसे अधिक प्रचुर तत्त्वों में दूसरा है&lt;/b&gt; (हाइड्रोजन के बाद)। यह &lt;b&gt;नोबल गैस समूह &lt;/b&gt;में पहला तत्त्व है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भौतिक विशेषताएँ:&lt;/b&gt; यह रंगहीन, गंधहीन, स्वादहीन, विषरहित, गैर-ज्वलनशील और रासायनिक रूप से निष्क्रिय है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;न्यूनतम क्वथनांक:&lt;/b&gt; इसका &lt;b&gt;क्वथनांक सभी तत्त्वों में सबसे कम&lt;/b&gt;, -269°C (4.2 K) है, जिससे यह &lt;b&gt;अत्यंत निम्न तापमान&lt;/b&gt; पर भी द्रव अवस्था में रह सकता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रकटन:&lt;/b&gt; पृथ्वी पर यह एक गैर-नवीकरणीय संसाधन है, जो मुख्यतः भू-पर्पटी के गहरे भागों में यूरेनियम और थोरियम जैसे भारी तत्त्वों के प्राकृतिक रेडियोधर्मी क्षय से बनता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;निष्कर्षण प्रक्रिया:&lt;/b&gt; लाखों वर्षों में हीलियम प्राकृतिक गैस भंडारों में प्रवास करता है। इसे प्राकृतिक गैस के साथ निकाला जाता है, बशर्ते हीलियम की सांद्रता आयतन के हिसाब से कम-से-कम 0.3% हो।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;पृथक्करण और शुद्धता:&lt;/b&gt; निष्कर्षण के बाद, हीलियम को उसकी &lt;b&gt;विशिष्ट क्वथनांक विशेषता का उपयोग करके&lt;/b&gt; प्राकृतिक गैस से अलग किया जाता है। व्यावसायिक-ग्रेड हीलियम को सामान्यतः कम-से-कम 99.997% तक शुद्ध किया जाता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;सहायक स्रोत:&lt;/b&gt; यद्यपि थोड़ी मात्रा तरलीकृत प्राकृतिक गैस (LNG) संयंत्रों या वातावरण से प्राप्त की जा सकती है, ये मात्राएँ वैश्विक मांग की तुलना में नगण्य हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;संवेदनशील वैश्विक हीलियम आपूर्ति शृंखला&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;केंद्रित उत्पादन: &lt;/b&gt;चीन&lt;b&gt; विश्व के कुल हीलियम उत्पादन का केवल लगभग 1.6% उत्पादन&lt;/b&gt; करता है तथा अपनी घरेलू आवश्यकताओं की 80% से अधिक पूर्ति के लिये आयात पर निर्भर है। वैश्विक हीलियम उत्पादन मुख्यतः संयुक्त राज्य अमेरिका, कतर और रूस में केंद्रित है, जबकि कनाडा एवं अल्जीरिया भी महत्त्वपूर्ण आपूर्तिकर्त्ताओं के रूप में भूमिका निभाते हैं।
-&lt;ul&gt;
-&lt;li&gt;रूसी निर्यात पर प्रतिबंधों के साथ-साथ अन्य भू-राजनीतिक एवं रसद संबंधी व्यवधानों ने वैश्विक हीलियम बाज़ार को और अधिक संकुचित कर दिया है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;चोकपॉइंट संबंधी जोखिम: कतर&lt;/b&gt; एशिया के लिये एक प्रमुख हीलियम आपूर्तिकर्त्ता है। चूँकि इसके शिपमेंट को &lt;b&gt;होर्मुज़ जलडमरूमध्य&lt;/b&gt; से होकर गुज़रना पड़ता है, इसलिये पश्चिम एशिया में उत्पन्न क्षेत्रीय सैन्य तनाव वैश्विक हीलियम उपलब्धता के लिये गंभीर जोखिम उत्पन्न करते हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भंडारण एवं परिवहन की जटिलता: &lt;/b&gt;हीलियम को अत्यधिक विशिष्ट निर्वात-आवरणयुक्त स्टेनलेस स्टील पात्रों में &lt;b&gt;क्रायोजेनिक लिक्विड/द्रव&lt;/b&gt; अथवा संपीडित गैस के रूप में संग्रहीत करना आवश्यक होता है (जिनका बड़े पैमाने पर निर्माण चीन द्वारा किया जाता है)।
-&lt;ul&gt;
-&lt;li&gt;यदि परिवहन में विलंब होता है, तो यह &lt;b&gt;“बॉयल-ऑफ” प्रक्रिया के माध्यम से वाष्पीकृत होकर वायुमंडल में विलीन &lt;/b&gt;हो जाता है, जिससे इसकी रसद व्यवस्था अत्यधिक &lt;b&gt;समय-संवेदी&lt;/b&gt; बन जाती है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भारत की संवेदनशीलता: &lt;/b&gt;भारत हीलियम के लिये &lt;b&gt;100% आयात-निर्भर&lt;/b&gt; है, जिसमें &lt;b&gt;50% से अधिक आयात कतर से&lt;/b&gt; किया जाता है। इस कारण वैश्विक आपूर्ति व्यवधानों से स्वास्थ्य सेवा, सेमीकंडक्टर, फाइबर ऑप्टिक्स तथा वैज्ञानिक अनुसंधान जैसे महत्त्वपूर्ण क्षेत्र प्रभावित होने की संभावना रहती है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;मार्च 2026&lt;/b&gt; में &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/south-pars-gas-field-and-middle-east-energy-hubs"&gt;&lt;b&gt;कतर के रास लफ्फान परिसर&lt;/b&gt;&lt;/a&gt; में उत्पन्न व्यवधान के कारण हीलियम की कमी उत्पन्न हुई तथा भारत में हीलियम की कीमतों में &lt;b&gt;35–50% की वृद्धि&lt;/b&gt; दर्ज की गई।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;हीलियम के अनुप्रयोग क्या हैं?&lt;/b&gt;&lt;/h2&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;क्षेत्र&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;अनुप्रयोग&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;भारत के लिये रणनीतिक महत्त्व &lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;स्वास्थ्य सेवा&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;MRI स्कैनर:&lt;/b&gt; हीलियम का अत्यंत निम्न क्वथनांक (-269°C) तथा पूर्ण रासायनिक निष्क्रियता इसे &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/understanding-magnetic-resonance-imaging"&gt;&lt;b&gt;MRI चुंबकों&lt;/b&gt;&lt;/a&gt; &lt;b&gt;की अतिचालकता (Superconductivity) बनाए रखने के लिये क्रायोजेनिक शीतलक &lt;/b&gt;के रूप में उपयोगी बनाती है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;निदानात्मक अवसंरचना:&lt;/b&gt; &lt;b&gt;ग्रामीण स्वास्थ्य सेवा&lt;/b&gt; &lt;b&gt;नेटवर्क &lt;/b&gt;के विस्तार के लिये अत्यंत आवश्यक है। हीलियम की किसी भी कमी से &lt;b&gt;निदान लागत&lt;/b&gt; में प्रत्यक्ष वृद्धि तथा कैंसर उपचार में विलंब हो सकता है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;सेमीकंडक्टर &lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;चिप निर्माण:&lt;/b&gt; अपनी उच्च तापीय चालकता एवं रासायनिक अनुक्रियाशीलता के अभाव के कारण, &lt;b&gt;हीलियम सिलिकॉन वेफर्स के लिये तीव्र एवं समान शीतलन प्रदान करता है तथा उच्च तापमान विनिर्माण के दौरान सुरक्षात्मक वातावरण &lt;/b&gt;निर्मित करता है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;तकनीकी आत्मनिर्भरता:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-semiconductor-mission-2-0"&gt;&lt;b&gt;भारत सेमीकंडक्टर मिशन (ISM)&lt;/b&gt;&lt;/a&gt; के अंतर्गत घरेलू वाणिज्यिक फैब्रिकेशन संयंत्र स्थापित करने की दिशा में अग्रसर है, ऐसे में हीलियम एक अत्यंत महत्त्वपूर्ण बाधा-संसाधन (Bottleneck Resource) है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;अंतरिक्ष एवं एयरोस्पेस &lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;रॉकेट प्रणोदन:&lt;/b&gt; अत्यंत कम घनत्व एवं निम्न क्वथनांक (द्रव हाइड्रोजन के संपर्क में भी गैस अवस्था में रहने की क्षमता) के कारण यह&lt;b&gt; द्रव प्रणोदक टैंकों में दाब बनाए रखने तथा ईंधन लाइनों से वाष्पशील गैसों&lt;/b&gt; &lt;b&gt;को हटाने&lt;/b&gt; के लिये उपयुक्त है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;अंतरिक्ष क्षेत्र में आत्मनिर्भरता:&lt;/b&gt; यह &lt;a href="https://www.drishtiias.com/hindi/important-institution/national-organization/indian-space-research-organization"&gt;&lt;b&gt;इसरो&lt;/b&gt;&lt;/a&gt; के प्रमुख कार्यक्रमों, विशेष रूप से &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/launch-vehicle-mark-3-1"&gt;&lt;b&gt;LVM3&lt;/b&gt;&lt;/a&gt; के क्रायोजेनिक इंजनों तथा आगामी &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/gaganyaan-isro-s-parachute-test-boosts-human-rating-standards"&gt;&lt;b&gt;गगनयान मानव अंतरिक्ष उड़ान मिशन&lt;/b&gt;&lt;/a&gt; के लिये अत्यंत महत्त्वपूर्ण है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;क्वांटम कंप्यूटिंग &lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;डायल्यूशन रेफ्रिजरेटर:&lt;/b&gt; परम शून्य तापमान के निकट द्रव अवस्था में रहने वाला एकमात्र तत्त्व  होने के कारण, यह &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/quantum-computing-5"&gt;&lt;b&gt;क्वांटम प्रोसेसरों (क्यूबिट्स)&lt;/b&gt;&lt;/a&gt; को शीत करने तथा उनकी सूक्ष्म क्वांटम अवस्थाओं को नष्ट होने से बचाने के लिये आवश्यक अत्यधिक निम्न तापमान नियंत्रण प्रदान करता है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;राष्ट्रीय सुरक्षा:&lt;/b&gt; भारत के &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/national-quantum-mission-4"&gt;&lt;b&gt;राष्ट्रीय क्वांटम मिशन&lt;/b&gt;&lt;/a&gt; के अंतर्गत कम्प्यूटेशनल सर्वोच्चता प्राप्त करने के लिये यह एक आधारभूत एवं अपरिहार्य आवश्यकता है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;दूरसंचार &lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;ऑप्टिकल फाइबर:&lt;/b&gt; अपनी उच्च विशिष्ट ऊष्मा धारिता एवं निष्क्रिय प्रकृति के कारण, हीलियम पिघले हुए काँच को तेज़ी से एवं समान रूप से शीत करता है, जब उसे पतले रेशों में परिवर्तित किया जाता है। इससे केबल के भीतर ऑक्सीजन या नाइट्रोजन के सूक्ष्म बुलबुले बनने से रोका जाता है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;डिजिटल अवसंरचना:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/bharatnet-project-3"&gt;&lt;b&gt;भारतनेट&lt;/b&gt;&lt;/a&gt; ग्रामीण ब्रॉडबैंड विस्तार तथा देशव्यापी 5G/6G नेटवर्क के लिये आवश्यक उच्च गुणवत्ता वाले फाइबर-ऑप्टिक केबलों के निर्माण में महत्त्वपूर्ण भूमिका निभाता है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;रक्षा एवं परमाणु क्षेत्र&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;रिसाव का पता लगाना:&lt;/b&gt; हाइड्रोजन को छोड़कर सबसे छोटी परमाणु त्रिज्या तथा ज्वलनशीलता के अभाव के कारण, हीलियम सूक्ष्म संरचनात्मक रिक्तियों से होकर गुज़र सकता है। इसलिये उच्च-दाब निर्वात प्रणालियों के परीक्षण के लिये यह मानक ट्रेसर गैस है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;परमाणु सुरक्षा:&lt;/b&gt; भारत के स्वदेशी परमाणु ऊर्जा संयंत्रों, उन्नत नौसैनिक प्रणोदन प्रणालियों तथा विशिष्ट रक्षा उपकरणों में पूर्ण रिसाव-मुक्तता सुनिश्चित करने में सहायक है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;क्या भारत में हीलियम के घरेलू भंडार हैं?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;बक्रेश्वर थर्मल स्प्रिंग्स (पश्चिम बंगाल): &lt;/b&gt;यह भारत में हीलियम का एक &lt;b&gt;प्रमुख संभावित घरेलू स्रोत&lt;/b&gt; है। इन &lt;b&gt;भू-तापीय झरनों&lt;/b&gt; से उत्सर्जित गैसों में लगभग &lt;b&gt;1.4% हीलियम&lt;/b&gt; की मात्रा पाई जाती है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;परमाणु ऊर्जा विभाग (DAE)&lt;/b&gt; के अंतर्गत &lt;b&gt;वेरिएबल एनर्जी साइक्लोट्रॉन सेंटर (VECC)&lt;/b&gt; ने बक्रेश्वर में इन झरनों से हीलियम के &lt;b&gt;संग्रहण, शुद्धिकरण तथा द्रवीकरण (Liquefaction)&lt;/b&gt; के लिये एक सफल &lt;b&gt;पायलट संयंत्र&lt;/b&gt; स्थापित किया है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;केरल की मोनाजाइट रेत:&lt;/b&gt; हीलियम, भारी तत्त्वों के &lt;b&gt;रेडियोधर्मी क्षय&lt;/b&gt; से उत्पन्न होने वाला एक प्राकृतिक &lt;b&gt;उप-उत्पाद (By-product)&lt;/b&gt; है। थोरियम और यूरेनियम से समृद्ध &lt;b&gt;केरल की मोनाजाइट रेत&lt;/b&gt; में हीलियम प्राकृतिक रूप से संचित रहता है, हालाँकि इसका &lt;b&gt;व्यावसायिक निष्कर्षण अत्यधिक पूंजी-गहन&lt;/b&gt; प्रक्रिया है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;तेल एवं प्राकृतिक गैस बेसिन: ONGC&lt;/b&gt; को संभावित हीलियम भंडारों की पहचान के लिये प्राकृतिक गैस क्षेत्रों, जैसे &lt;b&gt;गोदावरी और महानदी बेसिन&lt;/b&gt;, के सर्वेक्षण एवं मानचित्रण का दायित्व सौंपा गया है। हालाँकि अमेरिकी या कतर की प्राकृतिक गैस की तुलना में भारतीय प्राकृतिक गैस में सामान्यतः &lt;b&gt;हीलियम की मात्रा अपेक्षाकृत कम&lt;/b&gt; पाई जाती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;पढ़ने के लिये यहाँ क्लिक करें:&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/helium-crisis-and-india-s-import-dependence"&gt;&lt;b&gt; हीलियम संकट और भारत की आयात पर निर्भरता&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले सवाल (FAQs)&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;1. दुनिया में हीलियम के उत्पादन में किन देशों का दबदबा है और भारत इसके आयात पर कितना निर्भर है?&lt;/b&gt;&lt;br/&gt;संयुक्त राज्य अमेरिका, कतर और रूस दुनिया के प्रमुख हीलियम उत्पादक देश हैं। भारत हीलियम के लिये 100% आयात पर निर्भर है तथा पारंपरिक रूप से भारत के कुल हीलियम आयात का 50% से अधिक हिस्सा अकेले कतर से आता है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;2. हीलियम के कौन-से गुण इसे उन्नत तकनीकी अनुप्रयोगों के लिये आवश्यक बनाते हैं?&lt;/b&gt; हीलियम का क्वथनांक सभी तत्त्वों में सबसे कम (-269°C या 4.2 K) होता है तथा यह रासायनिक रूप से निष्क्रिय, अज्वलनशील और अत्यधिक ऊष्मा चालक होता है, जिसके कारण यह क्रायोजेनिक्स, अर्द्धचालक तथा MRI स्कैनर जैसे उन्नत तकनीकी अनुप्रयोगों के लिये अत्यंत आवश्यक है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3. मार्च 2026 में कतर में हुई आपूर्ति बाधा ने भारत की हीलियम आपूर्ति को किस प्रकार प्रभावित किया?&lt;/b&gt;कतर के रास लाफान परिसर में हुई आपूर्ति बाधाओं के कारण हीलियम के निर्यात की क्षमता में अस्थायी कमी आई, जिससे आपूर्ति संकट उत्पन्न हुआ और भारत में हीलियम की कीमतों में लगभग 35–50% तक वृद्धि दर्ज की गई।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;4. भारत के अर्द्धचालक और क्वांटम प्रौद्योगिकी कार्यक्रमों के लिये हीलियम क्यों महत्त्वपूर्ण है?&lt;/b&gt;हीलियम सेमीकंडक्टर निर्माण (फैब्रिकेशन) में वेफर को ठंडा करने और नियंत्रित वातावरण प्रदान करने का काम करता है, साथ ही यह क्वांटम प्रोसेसर हेतु अत्यधिक-निम्न (अल्ट्रा-लो) तापमान बनाए रखता है। यही कारण है कि यह 'इंडिया सेमीकंडक्टर मिशन' और 'राष्ट्रीय क्वांटम मिशन' के लिये अत्यंत महत्त्वपूर्ण है।&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ) &lt;/b&gt;&lt;/h2&gt;
-&lt;h2&gt;&lt;b&gt;&lt;i&gt;प्रिलिम्स&lt;/i&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;ब्रुकहेवन नेशनल लेबोरेटरी के वैज्ञानिक दल, जिसमें भारतीय वैज्ञानिक भी सम्मिलित थे, ने ऐंटि-हीलियम केंद्रक के रूप में अब तक का सबसे भारी ऐंटि-द्रव्य उत्पन्न किया।। ऐंटि-द्रव्य उत्पन्न करने की क्या/क्या-क्या विवक्षा/विवकाएँ है/हैं? (2012)&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;यह खनिज पूर्वक्षण और तेल की खोज को अधिक आसान और कम महँगा बना देगा।&lt;/li&gt;
-&lt;li&gt;यह ऐंटि-द्रव्य से निर्मित तारों और आकाशगंगाओं के होने की संभावना की जाँच करने में सहायक होगा।&lt;/li&gt;
-&lt;li&gt;यह ब्रह्मांड के विकास की समझ विकसित करने में सहायक होगा।&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;निम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:&lt;/p&gt;
-&lt;p&gt;(a) केवल 1&lt;/p&gt;
-&lt;p&gt;(b) केवल 2 और 3&lt;/p&gt;
-&lt;p&gt;(c) केवल 3&lt;/p&gt;
-&lt;p&gt;(d) 1, 2 और 3&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर: (b)&lt;/b&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;निम्नलिखित में से कौन-सा/से, मृदा में नाइट्रोजन को बढ़ाता है/बढ़ाते हैं? (2013)&lt;/p&gt;
-&lt;p&gt;1. जंतुओं द्वारा यूरिया का उत्सर्जन&lt;/p&gt;
-&lt;p&gt;2. मनुष्य द्वारा कोयले को जलाना&lt;/p&gt;
-&lt;p&gt;3. वनस्पति की मृत्यु&lt;/p&gt;
-&lt;p&gt;नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:&lt;/p&gt;
-&lt;p&gt;(a) केवल 1&lt;/p&gt;
-&lt;p&gt;(b) केवल 2 और 3&lt;/p&gt;
-&lt;p&gt;(c) केवल 1 और 3&lt;/p&gt;
-&lt;p&gt;(d) 1, 2 और 3&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर: (c)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<title>फू क्वोक द्वीप</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/phu-quoc-island</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/phu-quoc-island" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">फू क्वोक द्वीप
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/अंतर्राष्ट्रीय संबंध"&gt;अंतर्राष्ट्रीय संबंध&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.pressreader.com/india/the-hindu-international-9bn2/20260713/281642491927589?srsltid=AfmBOoozisqZxPgbYpG5AvRb1D3IIgW1zp2ZrdbO1xBLbM7vmpluWWtm"&gt;&lt;b&gt;स्रोत: द हिंदू&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;हाल ही में वियतनाम के &lt;b&gt;फू क्वोक द्वीप (Phu Quoc Island) &lt;/b&gt;के पास एक स्पीडबोट पलटने से कई भारतीय पर्यटकों की मौत (हताहत होने) की खबर सामने आई है। &lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;वियतनाम का फू क्वोक द्वीप&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; फू क्वोक (Phu Quoc), जिसे प्रचलित रूप से &lt;b&gt;“पर्ल आइलैंड” (मोती द्वीप)&lt;/b&gt; कहा जाता है, वियतनाम का &lt;b&gt;सबसे बड़ा द्वीप&lt;/b&gt; है। यह अपने &lt;b&gt;सफेद रेतीले समुद्र तटों, फिरोजी जलराशि, घने वनों, मत्स्यन ग्रामों और विलासितापूर्ण रिसॉर्ट्स&lt;/b&gt; के लिये प्रसिद्ध एक प्रमुख उष्णकटिबंधीय पर्यटन गंतव्य है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;स्थान और आकार:&lt;/b&gt; यह द्वीप &lt;b&gt;कंबोडिया के पास स्थित&lt;/b&gt; है, किंतु पूर्णतः &lt;b&gt;वियतनाम के अधिकार क्षेत्र&lt;/b&gt; के अंतर्गत आता है। लगभग &lt;b&gt;574 वर्ग किलोमीटर&lt;/b&gt; क्षेत्रफल में विस्तृत यह द्वीप उत्तर से दक्षिण तक लगभग &lt;b&gt;50 किलोमीटर&lt;/b&gt; लंबा है तथा &lt;b&gt;22 द्वीपों वाले द्वीपसमूह &lt;/b&gt;का केंद्रीय भाग है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्राकृतिक वातावरण:&lt;/b&gt; फू क्वोक की तटरेखा &lt;b&gt;150 किलोमीटर से अधिक&lt;/b&gt; लंबी है। यहाँ लगभग &lt;b&gt;630 मीटर तक ऊँची पर्वत शृंखलाएँ, सदाबहार वन, झरने, गुफाएँ तथा प्राकृतिक चट्टानी जलकुंड (Rock Pools)&lt;/b&gt; पाए जाते हैं, जो इसकी प्राकृतिक विविधता और पर्यटन आकर्षण को बढ़ाते हैं।
-&lt;ul&gt;
-&lt;li&gt;वर्ष 2006 से फू क्वोक द्वीप के आधे से अधिक क्षेत्र को &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/unesco-designates-11-new-biosphere-reserves"&gt;&lt;b&gt;यूनेस्को (UNESCO) बायोस्फीयर रिज़र्व&lt;/b&gt;&lt;/a&gt; के रूप में संरक्षित किया गया है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अर्थव्यवस्था और स्थानीय उत्पाद:&lt;/b&gt; मत्स्य पालन और कृषि फू क्वोक द्वीप की प्रमुख आर्थिक गतिविधियाँ हैं। यह द्वीप विशेष रूप से &lt;b&gt;फिश सॉस, काली मिर्च तथा मोती उत्पादन&lt;/b&gt; के लिये प्रसिद्ध है, जो स्थानीय आजीविका के साथ-साथ पर्यटन क्षेत्र को भी सुदृढ़ आधार प्रदान करते हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;धार्मिक विरासत:&lt;/b&gt; फू क्वोक में स्थित &lt;b&gt;काओ दाई (Cao Dai) मंदिर&lt;/b&gt; काओदाइज़्म (Caodaism) धर्म की सांस्कृतिक विरासत को दर्शाते हैं। यह एक &lt;b&gt;वियतनामी समन्वयवादी धार्मिक परंपरा&lt;/b&gt; है, जिसमें बौद्ध, ताओ, कन्फ्यूशियस, ईसाई और इस्लाम धर्म के विभिन्न तत्त्वों का समावेश दिखाई देता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260714121037-ba456381.jpg"&gt;&lt;img alt="Phu Quoc Island" src="http://drishtiias.com/hindi/images/uploads/upload-20260714121037-ba456381.jpg"/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;और पढ़ें: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-vietnam-relations-2"&gt;&lt;b&gt;भारत-वियतनाम संबंध&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content>
-</entry>
-<entry>
-<title>AI गवर्नेंस पर संयुक्त राष्ट्र की पहली वैश्विक वार्ता</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/1st-un-global-dialogue-on-ai-governance</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/1st-un-global-dialogue-on-ai-governance" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">AI गवर्नेंस पर संयुक्त राष्ट्र की पहली वैश्विक वार्ता
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Achievements-of-Indians-in-science-and-technology"&gt;विज्ञान और प्रौद्योगिकी में भारतीयों की उपलब्धियाँ&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Artificial-Intelligence"&gt;कृत्रिम बुद्धिमत्ता&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://enterpriseai.economictimes.indiatimes.com/news/industry/indias-kirti-vardhan-singh-to-lead-un-global-dialogue-on-ai-governance/132193210"&gt;&lt;b&gt;स्रोत: इकॉनमिक टाइम्स&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;हाल ही में जिनेवा में &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/un-charts-new-path-for-global-ai-governance"&gt;&lt;b&gt;AI शासन पर संयुक्त राष्ट्र वैश्विक वार्ता&lt;/b&gt;&lt;/a&gt; का पहला सत्र आयोजित किया गया, जिसमें सरकारों, उद्योग, शिक्षा जगत और नागरिक समाज ने &lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper3/artificial-intelligence-23"&gt;&lt;b&gt;कृत्रिम बुद्धिमत्ता&lt;/b&gt;&lt;/a&gt; के शासन के लिये एक सामान्य दृष्टिकोण विकसित करने के लिये भाग लिया। मई 2027 में न्यूयॉर्क में एक दूसरा सत्र आयोजित किया जाएगा।&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; यह &lt;b&gt;संवाद वर्ष 2024 में अपनाई गई वैश्विक डिजिटल संधि&lt;/b&gt; के बाद &lt;a href="https://www.drishtiias.com/hindi/important-institution/international-organization/united-nations"&gt;&lt;b&gt;संयुक्त राष्ट्र महासभा&lt;/b&gt;&lt;/a&gt; &lt;b&gt;संकल्प 79/325 के तहत स्थापित किया गया था। इसका उद्देश्य AI शासन में अंतर्राष्ट्रीय सहयोग, वैज्ञानिक समझ, जवाबदेही और क्षमता निर्माण&lt;/b&gt; को मज़बूत करना है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भारत की स्थिति:&lt;/b&gt; भारत ने एक &lt;b&gt;मानव-केंद्रित, समावेशी, सुरक्षित, विश्वसनीय और भरोसेमंद वैश्विक AI ढाँचा&lt;/b&gt; का आह्वान किया, जिसमें तकनीकी विकास सार्थक मानव निगरानी के अधीन रहे।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;मूल सिद्धांत:&lt;/b&gt; भारत ने तर्क दिया कि &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/shaping-responsible-ai-india-s-evolving-regulatory-framework"&gt;&lt;b&gt;ज़िम्मेदार AI शासन&lt;/b&gt;&lt;/a&gt; को &lt;b&gt;मानवाधिकारों की रक्षा करनी चाहिये, दुरुपयोग और भेदभाव को रोकना &lt;/b&gt;चाहिये, जवाबदेही बनाए रखनी चाहिये एवं यह सुनिश्चित करना चाहिये कि स्वास्थ्य देखभाल, पुलिसिंग और न्याय जैसे महत्त्वपूर्ण क्षेत्रों में मनुष्यों के पास अंतिम अधिकार बना रहे।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वैश्विक दक्षिण और क्षमता अंतराल:&lt;/b&gt; भारत ने इस बात पर ज़ोर दिया कि &lt;b&gt;विकासशील देशों को वैश्विक AI नियम-निर्माण में सार्थक रूप से भाग लेने और AI-नेतृत्व वाले विकास से समान रूप से लाभ उठाने के लिये तकनीकी, वित्तीय एवं संस्थागत सहायता&lt;/b&gt; प्राप्त करनी चाहिये।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भारत का घरेलू दृष्टिकोण:&lt;/b&gt; भारत की &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/india-s-blueprint-for-ai-regulation"&gt;&lt;b&gt;AI के लिये राष्ट्रीय रणनीति&lt;/b&gt;&lt;/a&gt; और &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/ai-and-india-s-governance-future"&gt;&lt;b&gt;AI शासन के लिये राष्ट्रीय दिशानिर्देश&lt;/b&gt;&lt;/a&gt; &lt;b&gt;"सभी के लिये AI”&lt;/b&gt; के दर्शन का पालन करते हैं, जो समावेशी विकास और नवाचार को बढ़ावा देना चाहते हैं, बिना ऐसे प्रतिबंध लगाए जो अनावश्यक रूप से तकनीकी प्रगति में बाधा डालते हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रमुख वैश्विक चिंताएँ:&lt;/b&gt; संवाद ने &lt;b&gt;डीपफेक, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/child-sexual-exploitation-and-abuse"&gt;&lt;b&gt;यौन शोषण&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, बच्चों के लिये खतरे, स्वायत्त हथियार, भ्रामक AI सिस्टम, पर्यावरणीय लागत, असमान पहुँच&lt;/b&gt; और इस संभावना सहित जोखिमों पर प्रकाश डाला कि AI मौज़ूदा आर्थिक, सुरक्षा एवं संप्रभुता अंतरालों को गहरा सकता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;महत्त्व:&lt;/b&gt; भारत और संयुक्त राष्ट्र ने &lt;b&gt;सहमति-आधारित बहुपक्षीय शासन, सामंजस्यपूर्ण सुरक्षा परीक्षण, स्पष्ट कानूनी ज़िम्मेदारी, पारदर्शी पर्यावरणीय रिपोर्टिंग, नवीकरणीय-ऊर्जा-संचालित डेटा केंद्रों और बच्चों तथा मानवाधिकारों&lt;/b&gt; के लिये मजबूत सुरक्षा का आह्वान किया, ताकि AI असमानता का गुणक बनने के बजाय समान प्रगति का एक साधन बन सके।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;और पढ़ें:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/transforming-governance-with-ai-and-dpi"&gt;&lt;b&gt;AI और DPI के साथ शासन में बदलाव&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content>
-</entry>
-<entry>
-<title>भारत नवजात शिशुओं में सेप्सिस से निपटने हेतु NeoSep1 ट्रायल में शामिल</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-joins-neosep1-trial-to-combat-neonatal-sepsis</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-joins-neosep1-trial-to-combat-neonatal-sepsis" rel="alternate"/>
-<published>2026-07-25T00:00:00+00:00</published>
-<updated>2026-07-25T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">भारत नवजात शिशुओं में सेप्सिस से निपटने हेतु NeoSep1 ट्रायल में शामिल
-
-
-
-
-
-
-
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Health"&gt;स्वास्थ्य&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Biotechnology"&gt;जैव प्रौद्योगिकी&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/sci-tech/health/multi-centric-study-to-contain-antimicrobial-resistant-neonatal-sepsis-begins-in-india/article71201226.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt; &lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;जवाहरलाल इंस्टीट्यूट ऑफ पोस्टग्रेजुएट मेडिकल एजुकेशन एंड रिसर्च (JIPMER), पुडुचेरी, एंटीमाइक्रोबियल-प्रतिरोधी &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/un-igme-2025-report-on-child-mortality"&gt;&lt;b&gt;नवजात शिशुओं में सेप्सिस&lt;/b&gt;&lt;/a&gt;&lt;b&gt; के उपचार के लिये सुरक्षित और प्रभावी &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/increasing-efficacy-of-antibiotics"&gt;&lt;b&gt;एंटीबायोटिक कॉमबिनेशन&lt;/b&gt;&lt;/a&gt; की पहचान करने के उद्देश्य से NeoSep1 अंतर्राष्ट्रीय नैदानिक परीक्षण में एक नवजात को नामांकित करने वाला भारत का पहला केंद्र बन गया है।&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;NeoSep1 क्लिनिकल ट्रायल क्या है?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;NeoSep1 क्लिनिकल ट्रायल:&lt;/b&gt; यह &lt;b&gt;ग्लोबल एंटीबायोटिक रिसर्च एंड डेवलपमेंट पार्टनरशिप (GARDP)&lt;/b&gt; द्वारा प्रायोजित एक बहु-केंद्रीय, अंतर्राष्ट्रीय क्लिनिकल ट्रायल है, जो एक गैर-लाभकारी संगठन है जो दवा-प्रतिरोधी संक्रमणों के उपचार हेतु समर्पित है।
-&lt;ul&gt;
-&lt;li&gt;इस परीक्षण का लक्ष्य वर्ष 2028 के अंत तक एशिया और अफ्रीका भर में 3,000 नवजातों को नामांकित करना है।&lt;/li&gt;
-&lt;li&gt;अध्ययन ने घाना, केन्या और दक्षिण अफ्रीका में नवजातों को नामांकित किया है एवं वर्तमान में भारत, वियतनाम तथा पाकिस्तान में जारी है।&lt;/li&gt;
-&lt;li&gt;इसका मलेशिया, बांग्लादेश और युगांडा में विस्तार होने की भी उम्मीद है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;मूल उद्देश्य:&lt;/b&gt; &lt;b&gt;सेप्सिस से पीड़ित नवजातों &lt;/b&gt;के लिये सबसे प्रभावी एंटीबायोटिक कॉमबिनेशन की पहचान करना और विशेष रूप से निम्न और मध्यम आय वाले देशों (LMIC) के लिये साक्ष्य-आधारित उपचार रणनीतियाँ उत्पन्न करना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अभिनव ढाँचा:&lt;/b&gt; यह ट्रायल &lt;b&gt;PRACTical (व्यक्तिगत यादृच्छिक नियंत्रित परीक्षण)&lt;/b&gt; डिज़ाइन का उपयोग करता है।
-&lt;ul&gt;
-&lt;li&gt;यह उपचार करने वाले चिकित्सकों को रेंडम असाइनमेंट से पहले प्रत्येक नवजात के लिये चिकित्सकीय रूप से उपयुक्त एंटीबायोटिक आहार की पहचान करने की अनुमति देता है, जो वास्तविक-विश्व की  प्रयोज्यता को सुनिश्चित करता है और ज़िम्मेदार रोगाणुरोधी प्रबंधन को बढ़ावा देता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भारत की रणनीतिक भागीदारी:&lt;/b&gt; भारत का समावेश महत्त्वपूर्ण है क्योंकि भारतीय अस्पतालों में नवजात सेप्सिस उत्पन्न करने वाला रोगजनक प्रोफाइल &lt;b&gt;उच्च-आय वाले देशों से बहुत भिन्न &lt;/b&gt;है, जिसके लिये स्थानीयकृत, साक्ष्य-आधारित डेटा की आवश्यकता होती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;नवजात शिशुओं में सेप्सिस क्या है?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;परिभाषा:&lt;/b&gt; नवजात शिशुओं में सेप्सिस &lt;b&gt;90 दिन से कम आयु के शिशुओं में होने वाला एक गंभीर&lt;/b&gt;, जीवन-घातक प्रणालीगत रक्तप्रवाह संक्रमण है।
-&lt;ul&gt;
-&lt;li&gt;अपनी अपरिपक्व प्रतिरक्षा प्रणालियों के कारण, नवजात शिशुओं में संक्रमणों को स्थानीय रूप से नियंत्रित करने में विफल हो सकते हैं, जिससे रोगजनक तेज़ी से विफल हो सकते हैं और&lt;b&gt; सेप्टिक शॉक, बहु-अंग विफलता एवं मृत्यु&lt;/b&gt; का कारण बन सकते हैं।&lt;/li&gt;
-&lt;li&gt;यह &lt;b&gt;सेप्टिसीमिया, निमोनिया और मेनिन्जाइटिस&lt;/b&gt; जैसे प्रणालीगत संक्रमणों के रूप में प्रकट हो सकता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वर्गीकरण:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;अर्ली-ऑनसेट सेप्सिस&lt;/b&gt; &lt;b&gt;(EOS):&lt;/b&gt; जीवन के पहले 72 घंटों के भीतर होता है, जो आमतौर पर माँ के प्रसव से पहले या प्रसव के दौरान संचारित रोगजनकों के कारण होता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;लेट-ऑनसेट सेप्सिस (LOS): &lt;/b&gt;72 घंटे और 90 दिन की आयु के बीच होता है, जो आमतौर पर अस्पताल के वातावरण या व्यापक समुदाय में देखा जाता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;कारण: &lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;वैश्विक परिदृश्य: &lt;/b&gt;उच्च आय वाले देशों में ग्रुप बी स्ट्रेप्टोकोकस (GBS) और ई. कोलाई (E. coli) नवजात सेप्सिस के प्रमुख रोगजनक के रूप में पाए जाते हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भारतीय परिदृश्य:&lt;/b&gt; भारत में नवजात सेप्सिस (Neonatal Sepsis) के अधिकांश मामले मुख्यतः &lt;b&gt;ग्राम-नेगेटिव&lt;/b&gt; और प्रायः बहु-औषधि प्रतिरोधी (Multidrug-Resistant - MDR) बैक्टीरिया के कारण होते हैं। इनमें विशेष रूप से क्लेबसिएला न्यूमोनी (Klebsiella pneumoniae), ई. कोलाई (E. coli), एसिनेटोबैक्टर प्रजातियाँ तथा स्यूडोमोनास एरुगिनोसा (Pseudomonas aeruginosa) प्रमुख हैं।
-&lt;ul&gt;
-&lt;li&gt;यह बैक्टीरिया अक्सर मल्टीड्रग-रेसिस्टेंट (कई दवाओं के प्रति प्रतिरोधी) होते हैं, जिससे इनका इलाज करना बेहद कठिन हो जाता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रमुख जोखिम कारक:&lt;/b&gt; नवजात सेप्सिस के प्रमुख जोखिम कारकों में झिल्लियों का लंबे समय तक फटना, मातृ संक्रमण, प्रसव के दौरान स्वच्छता की कमी तथा संक्रमित एम्नियोटिक द्रव शामिल हैं।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;समयपूर्व जन्म और जन्म के समय कम वज़न (Low Birth Weight) अपरिपक्व &lt;/b&gt;प्रतिरक्षा प्रणाली तथा सुरक्षात्मक मातृ एंटीबॉडीज़ (Maternal Antibodies) के सीमित हस्तांतरण के कारण नवजात शिशुओं में संक्रमण के प्रति संवेदनशीलता को काफी बढ़ा देते हैं।&lt;/li&gt;
-&lt;li&gt;लंबे समय तक अस्पताल में भर्ती रहना तथा वेंटिलेटर, अंतःशिरा (IV) लाइनों और सेंट्रल वीनस कैथेटर जैसे आक्रामक चिकित्सीय हस्तक्षेप अस्पताल-जनित संक्रमणों  के जोखिम को बढ़ाते हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;संकेत और लक्षण:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;तापमान में असामान्यता:&lt;/b&gt; हाइपोथर्मिया (शरीर का तापमान कम होना) या बुखार (Fever) नवजात सेप्सिस के प्रमुख संकेतों में शामिल हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;श्वसन संबंधी संकट:&lt;/b&gt; तेज़ श्वसन (Rapid Breathing), घुरघुराहट (Grunting) तथा एपनिया (सांस का अस्थायी रूप से रुकना) जैसे लक्षण दिखाई दे सकते हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;तंत्रिका संबंधी लक्षण:&lt;/b&gt; सुस्ती (Lethargy), चिड़चिड़ापन (Irritability), असामान्य रोना तथा दौरे (Seizures) नवजात सेप्सिस के संकेत हो सकते हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जठरांत्र संबंधी लक्षण:&lt;/b&gt; दूध पीने में कठिनाई, उल्टी तथा पेट फूलना जैसे लक्षण देखे जा सकते हैं।&lt;/li&gt;
-&lt;li&gt;चूँकि ये लक्षण प्रायः सामान्य प्रकृति के होते हैं और नवजात शिशुओं की स्थिति तेज़ी से गंभीर हो सकती है, इसलिये &lt;b&gt;सेप्सिस की थोड़ी-सी भी आशंका होने पर तत्काल चिकित्सकीय हस्तक्षेप (Medical Intervention)&lt;/b&gt; आवश्यक होता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;उपचार प्रोटोकॉल:&lt;/b&gt; नवजात सेप्सिस के उपचार में ब्लड कल्चर के नमूने एकत्र करने के तुरंत बाद व्यापक-स्पेक्ट्रम एंटीबायोटिक्स के माध्यम से शीघ्र उपचार प्रारंभ करना आवश्यक होता है। ब्लड कल्चर संक्रमण की पहचान के लिये निदान का स्वर्ण मानक माना जाता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;बाद में रोगाणुरोधी संवेदनशीलता परीक्षण &lt;/b&gt;के परिणामों तथा नवजात को आवश्यक सहायक देखभाल की ज़रूरतों के आधार पर उपचार को संशोधित किया जाता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;भारत में नवजात शिशुओं में सेप्सिस का बोझ&lt;/b&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उच्च मृत्यु दर का बोझ: &lt;/b&gt;सेप्सिस नवजात शिशुओं में मृत्यु का दूसरा सबसे प्रमुख कारण है और वैश्विक स्तर पर प्रतिवर्ष 10 लाख से अधिक नवजात मृत्यु के लिये उत्तरदायी है।
-&lt;ul&gt;
-&lt;li&gt;भारत में नवजात शिशुओं की होने वाली मौतों में से अनुमानित 30%–40% मौतें नवजात सेप्सिस (नियोनेटल सेप्सिस) के कारण होती हैं, जो सालाना लगभग&lt;b&gt; 2–2.5 लाख रोके जा सकने&lt;/b&gt; वाले मौतों को दर्शाता है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विशिष्ट रोगजनक प्रोफाइल: उच्च आय वाले देशों की तुलना में भारत में नवजात सेप्सिस मुख्यतः ग्राम-नेगेटिव रोगजनकों के कारण होता है, जिनमें बहु-औषधि प्रतिरोध (MDR) का स्तर अत्यधिक पाया जाता है।&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;रोगाणुरोधी प्रतिरोध संकट:&lt;/b&gt; सामान्य रूप से प्रयुक्त एंटीबायोटिक दवाओं के प्रति बढ़ता प्रतिरोध किफायती उपचार विकल्पों की प्रभावशीलता को कम कर रहा है तथा महँगी और अंतिम विकल्प (Last-resort) एंटीबायोटिक्स पर निर्भरता को बढ़ा रहा है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;निदान संबंधी चुनौतियाँ:&lt;/b&gt; &lt;b&gt;ब्लड कल्चर&lt;/b&gt; के परिणाम प्राप्त होने में सामान्यतः &lt;b&gt;48–72 घंटे&lt;/b&gt; का समय लगता है। इसके अतिरिक्त, कम मात्रा में लिये गए रक्त नमूनों या पूर्व में एंटीबायोटिक दिये जाने के कारण कई बार संक्रमणकारी बैक्टीरिया की सही पहचान नहीं हो पाती। इसके परिणामस्वरूप चिकित्सकों को &lt;b&gt;व्यापक-स्पेक्ट्रम अनुभवजन्य एंटीबायोटिक्स &lt;/b&gt;पर निर्भर रहना पड़ता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भारत-विशिष्ट साक्ष्यों की आवश्यकता: &lt;/b&gt;भारत में पाए जाने वाले विशिष्ट रोगजनकों और उनके &lt;b&gt;प्रतिरोध पैटर्न &lt;/b&gt;को समझना आवश्यक है, ताकि नवजात शिशुओं के लिये सुरक्षित, प्रभावी एवं किफायती एंटीबायोटिक संयोजनों की पहचान की जा सके। इस दिशा में &lt;b&gt;‘नियोसेप1’ परीक्षण&lt;/b&gt; जैसी पहलें महत्त्वपूर्ण भूमिका निभाती हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ)&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;1. NeoSep1 नैदानिक परीक्षण क्या है?&lt;br/&gt;&lt;/b&gt;NeoSep1 एक अंतर्राष्ट्रीय बहुकेंद्रीय नैदानिक परीक्षण है, जिसे &lt;b&gt;GARDP &lt;/b&gt;द्वारा प्रायोजित किया गया है। इसका उद्देश्य नवजात सेप्सिस के उपचार हेतु विशेष रूप से निम्न एवं मध्यम आय वाले देशों (LMIC) में सुरक्षित, प्रभावी तथा किफायती एंटीबायोटिक संयोजनों की पहचान करना है। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;2. NeoSep1 परीक्षण में प्रयुक्त PRACTical डिज़ाइन क्या है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;व्यक्तिकृत यादृच्छिक नियंत्रित परीक्षण (Personalised Randomised Controlled Trial - PRACTical) &lt;/b&gt;डिज़ाइन चिकित्सकों को यादृच्छिकीकरण (Randomisation) से पूर्व उपयुक्त एंटीबायोटिक उपचार पद्धतियों का चयन करने की अनुमति देता है, जिससे वास्तविक परिस्थितियों में इसकी उपयोगिता तथा रोगाणुरोधी प्रबंधन (Antimicrobial Stewardship) में सुधार होता है। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3. भारत में नवजात सेप्सिस रोगजनक प्रोफाइल उच्च आय वाले देशों से किस प्रकार भिन्न है?&lt;br/&gt;&lt;/b&gt;भारत में नवजात सेप्सिस के मामले &lt;b&gt;बहु-औषधि प्रतिरोधी ग्राम-ऋणात्मक जीवाणुओं&lt;/b&gt; द्वारा अधिक प्रभावित होते हैं, जिनमें &lt;i&gt;क्लेबसिएला निमोनिया (Klebsiella pneumoniae), एसिनेटोबैक्टर (Acinetobacter) तथा स्यूडोमोनास एरुगिनोसा (Pseudomonas aeruginosa) &lt;/i&gt;प्रमुख हैं, जबकि उच्च आय वाले देशों में&lt;b&gt; ग्रुप B स्ट्रेप्टोकोकस (GBS)&lt;/b&gt; प्रमुख रोगजनक है। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;4. भारत में नवजात सेप्सिस के उपचार में रोगाणुरोधी प्रतिरोध एक प्रमुख चुनौती क्यों है?&lt;br/&gt;&lt;/b&gt;सामान्यतः प्रयुक्त एंटीबायोटिक दवाओं के प्रति उच्च प्रतिरोध उपचार विकल्पों को सीमित करता है, &lt;b&gt;व्यापक स्पेक्ट्रम वाली एंटीबायोटिक&lt;/b&gt; दवाओं के अनुभवजन्य उपयोग को बढ़ावा देता है तथा महँगी अथवा अंतिम विकल्प वाली दवाओं पर निर्भरता बढ़ाता है। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;5. NeoSep1 परीक्षण में भारत की भागीदारी महत्त्वपूर्ण क्यों है?&lt;br/&gt;&lt;/b&gt;यह परीक्षण &lt;b&gt;एंटीबायोटिक उपचार पद्धतियों के संबंध में भारत-विशिष्ट &lt;/b&gt;साक्ष्य उत्पन्न कर सकता है, रोगाणुरोधी प्रबंधन को सुदृढ़ कर सकता है, औषधि-प्रतिरोधी नवजात सेप्सिस के उपचार में सुधार ला सकता है तथा नवजात मृत्यु दर को कम करने में योगदान दे सकता है। &lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ)&lt;/b&gt;&lt;/h2&gt;
-&lt;h2&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;प्रश्न 1. निम्नलिखित में से कौन-से, भारत में सूक्ष्मजैविक रोगजनकों में बहु-औषध प्रतिरोध के होने के कारण हैं? (2019)&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;कुछ व्यक्तियों में आनुवंशिक पूर्ववृत्ति (जेनेटिक प्रीडिस्पोज़ीशन) का होना।  &lt;/li&gt;
-&lt;li&gt;रोगों के उपचार के लिये वैज्ञानिकों (एंटिबॉयोटिक्स) की गलत खुराक लेना।  &lt;/li&gt;
-&lt;li&gt;पशुधन फार्मिंग प्रतिजैविकों का इस्तेमाल करना।  &lt;/li&gt;
-&lt;li&gt;कुछ व्यक्तियों में चिरकालिक रोगों की बहुलता होना।&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये: &lt;/p&gt;
-&lt;p&gt;(a) केवल 1 और 2&lt;/p&gt;
-&lt;p&gt;(b) केवल 2 और 3&lt;/p&gt;
-&lt;p&gt;(c) केवल 1, 3 और 4&lt;/p&gt;
-&lt;p&gt;(d) केवल 2, 3 और 4 &lt;/p&gt;
-&lt;p&gt;उत्तर: (b)&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;&lt;em&gt;&lt;b&gt;मेन्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;प्रश्न. क्या एंटीबायोटिकों का अति-उपयोग और डॉक्टरी नुस्खे के बिना मुक्त उपलब्धता, भारत में औषधि-प्रतिरोधी रोगों के अंशदाता हो सकते हैं? अनुवीक्षण और नियंत्रण की क्या क्रियाविधियाँ उपलब्ध हैं? इस संबंध में विभिन्न मुद्दों पर समालोचनात्मक चर्चा कीजिये। (2014)&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
