@@ -169,6 +169,7 @@ class BrowserFetcher:
                 response = page.goto(
                     encode_url(url), wait_until="domcontentloaded", timeout=45_000
                 )
+                used_reader_fallback = False
                 if response and response.status >= 400:
                     if response.status == 403 and is_business_standard_url(url):
                         debug(
@@ -181,12 +182,22 @@ class BrowserFetcher:
                             wait_until="domcontentloaded",
                             timeout=45_000,
                         )
+                        used_reader_fallback = True
                     if response and response.status >= 400:
                         raise RuntimeError(f"HTTP {response.status}")
-                # Business Standard can populate the article list shortly after
-                # DOMContentLoaded, especially on a fresh GitHub Actions runner.
-                page.wait_for_timeout(2_000)
-                content = page.content()
+                if used_reader_fallback and response:
+                    # The reader replies with Content-Type: text/plain, so
+                    # Chromium renders the HTML source escaped inside a <pre>
+                    # instead of parsing it into a DOM. page.content() would
+                    # return that unusable wrapper — use the raw response
+                    # body (the actual HTML source) instead.
+                    content = response.text()
+                else:
+                    # Business Standard can populate the article list shortly
+                    # after DOMContentLoaded, especially on a fresh GitHub
+                    # Actions runner.
+                    page.wait_for_timeout(2_000)
+                    content = page.content()
                 if len(content) < 500:
                     raise RuntimeError("empty or incomplete HTML response")
                 return content
