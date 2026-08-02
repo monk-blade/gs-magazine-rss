@@ -181,17 +181,16 @@ class BrowserFetcher:
                 encode_url(url), wait_until="domcontentloaded", timeout=45_000
             )
             if response and response.status >= 400:
-                if response.status == 403 and is_business_standard_url(url):
+                if response.status == 403 and uses_reader_fallback(url):
                     print(
-                        "  Business Standard blocked browser request; "
+                        f"  {reader_fallback_label(url)} blocked browser request; "
                         "using HTML reader fallback",
                         file=sys.stderr,
                     )
                     return fetch_reader_html(url)
                 raise RuntimeError(f"HTTP {response.status}")
-            # Business Standard can populate the article list shortly
-            # after DOMContentLoaded, especially on a fresh GitHub
-            # Actions runner.
+            # Some sites populate article lists shortly after
+            # DOMContentLoaded, especially on a fresh GitHub Actions runner.
             page.wait_for_timeout(2_000)
             content = page.content()
             if len(content) < 500:
@@ -214,7 +213,7 @@ class BrowserFetcher:
 
 
 def fetch_reader_html(url: str) -> str:
-    """Fetch Business Standard HTML through Jina Reader via urllib."""
+    """Fetch blocked-site HTML through Jina Reader via urllib."""
     headers = {
         "User-Agent": READER_USER_AGENT,
         "x-respond-with": "html",
@@ -258,9 +257,32 @@ def encode_url(url: str) -> str:
     return urlunsplit((parts.scheme, parts.netloc, path, query, parts.fragment))
 
 
+def uses_reader_fallback(url: str) -> bool:
+    hostname = (urlsplit(url).hostname or "").lower()
+    return hostname in {
+        "business-standard.com",
+        "www.business-standard.com",
+        "indianexpress.com",
+        "www.indianexpress.com",
+    }
+
+
+def reader_fallback_label(url: str) -> str:
+    if is_business_standard_url(url):
+        return "Business Standard"
+    if is_indian_express_url(url):
+        return "Indian Express"
+    return "Site"
+
+
 def is_business_standard_url(url: str) -> bool:
     hostname = (urlsplit(url).hostname or "").lower()
     return hostname in {"business-standard.com", "www.business-standard.com"}
+
+
+def is_indian_express_url(url: str) -> bool:
+    hostname = (urlsplit(url).hostname or "").lower()
+    return hostname in {"indianexpress.com", "www.indianexpress.com"}
 
 
 def reader_url(url: str) -> str:
