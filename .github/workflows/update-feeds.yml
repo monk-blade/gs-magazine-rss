@@ -38,7 +38,6 @@ jobs:
           # Optional: set repo variable BASE_FEED_URL for Atom <link rel="self">
           # e.g. https://raw.githubusercontent.com/monk-blade/gs-magazine-rss/master/feeds
           BASE_FEED_URL: ${{ vars.BASE_FEED_URL }}
-          PROXY_URL: ${{ secrets.PROXY_URL }}
         run: |
           EXTRA=()
           if [ -n "${BASE_FEED_URL}" ]; then
