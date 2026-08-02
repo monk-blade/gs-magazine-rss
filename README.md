@@ -42,7 +42,6 @@ https://indianexpress.com/section/explained/
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python -m playwright install chromium
 
 # Clean existing generated feeds (also run automatically in GitHub Actions)
 python cleanup_feeds.py --feeds feeds
@@ -67,8 +66,7 @@ python generate_feeds.py --only drishti-current-affairs drishti-editorials drish
 - Drishti: up to 30 day digests for CA/Prelims; 50 editorials from the purple column.
 - Business Standard Opinion: opinion-page links are expanded into full article HTML.
 - The Indian Express Explained: section links are expanded into full article HTML.
-- Business Standard and Indian Express are fetched through a shared headless Chromium session.
-- If Business Standard's Akamai edge returns HTTP 403, the same Playwright session retries through an HTML reader transport.
+- Business Standard and Indian Express use urllib with a Jina Reader fallback when direct requests return HTTP 403.
 - Generated content is sanitized to remove ads, tracking, wrappers, and empty markup while preserving article images.
 - Deduplication: normalized URL (trailing slash / utm stripped) and normalized title.
 - Be polite to origins: the script delays between requests.

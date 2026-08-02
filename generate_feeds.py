@@ -137,81 +137,6 @@ class FeedSpec:
     collect: Callable[..., list[Article]]
 
 
-class BrowserFetcher:
-    """Reusable headless Chromium fetcher for sites that need a real browser."""
-
-    def __enter__(self) -> "BrowserFetcher":
-        try:
-            from playwright.sync_api import sync_playwright
-        except ImportError as exc:
-            raise RuntimeError(
-                "Playwright is required for Business Standard and Indian Express feeds"
-            ) from exc
-
-        self._playwright = sync_playwright().start()
-        self._browser = self._playwright.chromium.launch(
-            headless=True,
-            args=["--disable-blink-features=AutomationControlled"],
-        )
-        browser_major = self._browser.version.split(".", 1)[0]
-        browser_user_agent = (
-            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-            f"(KHTML, like Gecko) Chrome/{browser_major}.0.0.0 Safari/537.36"
-        )
-        self._context = self._browser.new_context(
-            user_agent=browser_user_agent,
-            locale="en-IN",
-            viewport={"width": 1365, "height": 900},
-            extra_http_headers={"Accept-Language": "en-IN,en;q=0.9"},
-        )
-        self._context.add_init_script(
-            "Object.defineProperty(navigator, 'webdriver', {get: () => undefined});"
-        )
-        return self
-
-    def __exit__(self, exc_type, exc_value, traceback) -> None:
-        self._context.close()
-        self._browser.close()
-        self._playwright.stop()
-
-    def _fetch_once(self, url: str) -> str:
-        page = self._context.new_page()
-        try:
-            response = page.goto(
-                encode_url(url), wait_until="domcontentloaded", timeout=45_000
-            )
-            if response and response.status >= 400:
-                if response.status == 403 and uses_reader_fallback(url):
-                    print(
-                        f"  {reader_fallback_label(url)} blocked browser request; "
-                        "using HTML reader fallback",
-                        file=sys.stderr,
-                    )
-                    return fetch_reader_html(url)
-                raise RuntimeError(f"HTTP {response.status}")
-            # Some sites populate article lists shortly after
-            # DOMContentLoaded, especially on a fresh GitHub Actions runner.
-            page.wait_for_timeout(2_000)
-            content = page.content()
-            if len(content) < 500:
-                raise RuntimeError("empty or incomplete HTML response")
-            return content
-        finally:
-            page.close()
-
-    def fetch(self, url: str) -> str:
-        last_error: Exception | None = None
-        for attempt in range(1, 4):
-            try:
-                return self._fetch_once(url)
-            except Exception as exc:
-                last_error = exc
-                debug(f"  browser retry {attempt}/3 for {url}: {exc}")
-            if attempt < 3:
-                time.sleep(attempt)
-        raise RuntimeError(f"Browser failed to fetch {url}: {last_error}") from last_error
-
-
 def fetch_reader_html(url: str) -> str:
     """Fetch blocked-site HTML through Jina Reader via urllib."""
     headers = {
@@ -228,6 +153,23 @@ def fetch_reader_html(url: str) -> str:
     if len(content) < 500:
         raise RuntimeError("empty or incomplete HTML response")
     return content
+
+
+def fetch_page(url: str) -> str:
+    """Fetch a page, falling back to Jina Reader for bot-blocked sites."""
+    if not uses_reader_fallback(url):
+        return fetch(url)
+    try:
+        return fetch(url, retries=1, pause=0)
+    except RuntimeError as exc:
+        if "403" not in str(exc):
+            raise
+        print(
+            f"  {reader_fallback_label(url)} blocked direct request; "
+            "using HTML reader fallback",
+            file=sys.stderr,
+        )
+        return fetch_reader_html(url)
 
 
 def fetch(url: str, retries: int = 3, pause: float = 1.0) -> str:
@@ -1136,55 +1078,51 @@ def main() -> int:
         "indian-express-explained",
     }
     if not only or browser_needed & only:
-        try:
-            with BrowserFetcher() as browser:
-                if not only or "business-standard-opinion" in only:
-                    slug = "business-standard-opinion"
-                    print(f"== {slug} ==")
-                    try:
-                        articles = collect_business_standard_opinion(
-                            args.delay, max_articles, browser.fetch
-                        )
-                    except RuntimeError as exc:
-                        print(f"  ! {exc}", file=sys.stderr)
-                        return 1
-                    else:
-                        print(f"  collected {len(articles)} articles")
-                        if not write_feed(
-                            args.out,
-                            slug,
-                            "Business Standard — Opinion Columns",
-                            BUSINESS_STANDARD_OPINION,
-                            "Business Standard",
-                            articles,
-                            args.base_feed_url,
-                        ):
-                            return 1
-                        changed = True
+        if not only or "business-standard-opinion" in only:
+            slug = "business-standard-opinion"
+            print(f"== {slug} ==")
+            try:
+                articles = collect_business_standard_opinion(
+                    args.delay, max_articles, fetch_page
+                )
+            except RuntimeError as exc:
+                print(f"  ! {exc}", file=sys.stderr)
+                return 1
+            else:
+                print(f"  collected {len(articles)} articles")
+                if not write_feed(
+                    args.out,
+                    slug,
+                    "Business Standard — Opinion Columns",
+                    BUSINESS_STANDARD_OPINION,
+                    "Business Standard",
+                    articles,
+                    args.base_feed_url,
+                ):
+                    return 1
+                changed = True
 
-                if not only or "indian-express-explained" in only:
-                    slug = "indian-express-explained"
-                    print(f"== {slug} ==")
-                    try:
-                        articles = collect_indian_express_explained(
-                            args.delay, max_articles, browser.fetch
-                        )
-                    except RuntimeError as exc:
-                        print(f"  ! {exc}", file=sys.stderr)
-                    else:
-                        print(f"  collected {len(articles)} articles")
-                        if write_feed(
-                            args.out,
-                            slug,
-                            "The Indian Express — Explained",
-                            INDIAN_EXPRESS_EXPLAINED,
-                            "The Indian Express",
-                            articles,
-                            args.base_feed_url,
-                        ):
-                            changed = True
-        except RuntimeError as exc:
-            print(f"  ! {exc}", file=sys.stderr)
+        if not only or "indian-express-explained" in only:
+            slug = "indian-express-explained"
+            print(f"== {slug} ==")
+            try:
+                articles = collect_indian_express_explained(
+                    args.delay, max_articles, fetch_page
+                )
+            except RuntimeError as exc:
+                print(f"  ! {exc}", file=sys.stderr)
+            else:
+                print(f"  collected {len(articles)} articles")
+                if write_feed(
+                    args.out,
+                    slug,
+                    "The Indian Express — Explained",
+                    INDIAN_EXPRESS_EXPLAINED,
+                    "The Indian Express",
+                    articles,
+                    args.base_feed_url,
+                ):
+                    changed = True
 
     # Gujarat Samachar
     for mag in MAGAZINES:
