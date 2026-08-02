@@ -27,6 +27,8 @@ USER_AGENT = (
     "Mozilla/5.0 (compatible; gs-magazine-rss/1.1; +https://github.com/monk-blade/gs-magazine-rss) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 )
+# Jina Reader rejects bot identifiers and some Chrome-style user agents.
+READER_USER_AGENT = "Mozilla/5.0 (compatible; gs-magazine-rss/1.1)"
 
 GS_BASE = "https://www.gujaratsamachar.com"
 DRISHTI_BASE = "https://www.drishtiias.com"
@@ -154,6 +156,23 @@ def proxy_url_for_urllib() -> str | None:
     return f"{scheme}://{auth}{parts.hostname}:{port}"
 
 
+def open_url(
+    url: str,
+    headers: dict[str, str],
+    via_proxy: bool = False,
+    timeout: int = 45,
+) -> str:
+    """Fetch a URL with urllib, optionally via proxy."""
+    req = Request(encode_url(url), headers=headers)
+    proxy_url = proxy_url_for_urllib() if via_proxy else None
+    if proxy_url:
+        opener = build_opener(ProxyHandler({"http": proxy_url, "https": proxy_url}))
+        with opener.open(req, timeout=timeout) as resp:
+            return resp.read().decode("utf-8", errors="replace")
+    with urlopen(req, timeout=timeout) as resp:
+        return resp.read().decode("utf-8", errors="replace")
+
+
 @dataclass
 class Article:
     url: str
@@ -235,41 +254,26 @@ class BrowserFetcher:
         )
         return self._proxy_context
 
-    def _fetch_once(self, url: str, context) -> str:
+    def _fetch_once(self, url: str, context, via_proxy: bool = False) -> str:
         page = context.new_page()
         try:
             response = page.goto(
                 encode_url(url), wait_until="domcontentloaded", timeout=45_000
             )
-            used_reader_fallback = False
             if response and response.status >= 400:
                 if response.status == 403 and is_business_standard_url(url):
-                    debug(
-                        "  Business Standard blocked direct browser request; "
-                        "using HTML reader fallback"
+                    print(
+                        "  Business Standard blocked browser request; "
+                        "using HTML reader fallback",
+                        file=sys.stderr,
                     )
-                    page.set_extra_http_headers({"x-respond-with": "html"})
-                    response = page.goto(
-                        reader_url(url),
-                        wait_until="domcontentloaded",
-                        timeout=45_000,
-                    )
-                    used_reader_fallback = True
-                if response and response.status >= 400:
-                    raise RuntimeError(f"HTTP {response.status}")
-            if used_reader_fallback and response:
-                # The reader replies with Content-Type: text/plain, so
-                # Chromium renders the HTML source escaped inside a <pre>
-                # instead of parsing it into a DOM. page.content() would
-                # return that unusable wrapper — use the raw response
-                # body (the actual HTML source) instead.
-                content = response.text()
-            else:
-                # Business Standard can populate the article list shortly
-                # after DOMContentLoaded, especially on a fresh GitHub
-                # Actions runner.
-                page.wait_for_timeout(2_000)
-                content = page.content()
+                    return fetch_reader_html(url, via_proxy=via_proxy)
+                raise RuntimeError(f"HTTP {response.status}")
+            # Business Standard can populate the article list shortly
+            # after DOMContentLoaded, especially on a fresh GitHub
+            # Actions runner.
+            page.wait_for_timeout(2_000)
+            content = page.content()
             if len(content) < 500:
                 raise RuntimeError("empty or incomplete HTML response")
             return content
@@ -288,11 +292,14 @@ class BrowserFetcher:
                 if context is None:
                     continue
                 try:
-                    return self._fetch_once(url, context)
+                    return self._fetch_once(url, context, via_proxy=use_proxy)
                 except Exception as exc:
                     last_error = exc
                     if "HTTP 403" in str(exc) and not use_proxy and self._proxy_config:
-                        debug(f"  HTTP 403 for {url}; retrying via proxy")
+                        print(
+                            f"  HTTP 403 for {url}; retrying via proxy",
+                            file=sys.stderr,
+                        )
                         continue
                     debug(
                         f"  browser retry {attempt}/3 for {url}"
@@ -304,6 +311,30 @@ class BrowserFetcher:
         raise RuntimeError(f"Browser failed to fetch {url}: {last_error}") from last_error
 
 
+def fetch_reader_html(url: str, via_proxy: bool = False) -> str:
+    """Fetch Business Standard HTML through Jina Reader via urllib."""
+    headers = {
+        "User-Agent": READER_USER_AGENT,
+        "x-respond-with": "html",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    }
+    try:
+        content = open_url(reader_url(url), headers, via_proxy=via_proxy)
+    except HTTPError as exc:
+        if exc.code == 403 and not via_proxy and get_proxy_config():
+            print(
+                f"  HTML reader blocked for {url}; retrying via proxy",
+                file=sys.stderr,
+            )
+            return fetch_reader_html(url, via_proxy=True)
+        raise RuntimeError(f"HTTP {exc.code}") from exc
+    except (URLError, TimeoutError) as exc:
+        raise RuntimeError(str(exc)) from exc
+    if len(content) < 500:
+        raise RuntimeError("empty or incomplete HTML response")
+    return content
+
+
 def fetch(url: str, retries: int = 3, pause: float = 1.0, via_proxy: bool = False) -> str:
     last_err: Exception | None = None
     headers = {
@@ -313,18 +344,11 @@ def fetch(url: str, retries: int = 3, pause: float = 1.0, via_proxy: bool = Fals
     }
     for attempt in range(1, retries + 1):
         try:
-            req = Request(encode_url(url), headers=headers)
-            proxy_url = proxy_url_for_urllib() if via_proxy else None
-            if proxy_url:
-                opener = build_opener(ProxyHandler({"http": proxy_url, "https": proxy_url}))
-                with opener.open(req, timeout=45) as resp:
-                    return resp.read().decode("utf-8", errors="replace")
-            with urlopen(req, timeout=45) as resp:
-                return resp.read().decode("utf-8", errors="replace")
+            return open_url(url, headers, via_proxy=via_proxy)
         except HTTPError as exc:
             last_err = exc
             if exc.code == 403 and not via_proxy and get_proxy_config():
-                debug(f"  HTTP 403 for {url}; retrying via proxy")
+                print(f"  HTTP 403 for {url}; retrying via proxy", file=sys.stderr)
                 return fetch(url, retries=retries, pause=pause, via_proxy=True)
             time.sleep(pause * attempt)
         except (URLError, TimeoutError) as exc:
