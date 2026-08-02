@@ -7,6 +7,7 @@ import argparse
 import hashlib
 import html
 import json
+import os
 import re
 import sys
 import time
@@ -16,7 +17,7 @@ from pathlib import Path
 from typing import Callable, Iterable
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote, urljoin, urlsplit, urlunsplit
-from urllib.request import Request, urlopen
+from urllib.request import ProxyHandler, Request, build_opener, urlopen
 
 from bs4 import BeautifulSoup, Comment, Tag
 
@@ -106,6 +107,53 @@ def debug(message: str) -> None:
         print(message)
 
 
+def get_proxy_config() -> dict[str, str] | None:
+    """Return Playwright/urllib proxy settings from environment variables."""
+    proxy_url = os.environ.get("PROXY_URL", "").strip()
+    if proxy_url:
+        parts = urlsplit(proxy_url)
+        if not parts.hostname:
+            return None
+        port = parts.port or (443 if parts.scheme == "https" else 80)
+        scheme = parts.scheme or "http"
+        config = {"server": f"{scheme}://{parts.hostname}:{port}"}
+        if parts.username:
+            config["username"] = parts.username
+        if parts.password:
+            config["password"] = parts.password
+        return config
+
+    server = os.environ.get("PROXY_SERVER", "").strip()
+    if not server:
+        return None
+    config: dict[str, str] = {"server": server}
+    username = os.environ.get("PROXY_USERNAME", "").strip()
+    password = os.environ.get("PROXY_PASSWORD", "").strip()
+    if username:
+        config["username"] = username
+    if password:
+        config["password"] = password
+    return config
+
+
+def proxy_url_for_urllib() -> str | None:
+    """Build a proxy URL suitable for urllib ProxyHandler."""
+    config = get_proxy_config()
+    if not config:
+        return None
+    parts = urlsplit(config["server"])
+    if not parts.hostname:
+        return None
+    port = parts.port or (443 if parts.scheme == "https" else 80)
+    scheme = parts.scheme or "http"
+    auth = ""
+    username = config.get("username")
+    password = config.get("password")
+    if username and password:
+        auth = f"{quote(username, safe='')}:{quote(password, safe='')}@"
+    return f"{scheme}://{auth}{parts.hostname}:{port}"
+
+
 @dataclass
 class Article:
     url: str
@@ -135,6 +183,7 @@ class BrowserFetcher:
                 "Playwright is required for Business Standard and Indian Express feeds"
             ) from exc
 
+        self._proxy_config = get_proxy_config()
         self._playwright = sync_playwright().start()
         self._browser = self._playwright.chromium.launch(
             headless=True,
@@ -154,78 +203,131 @@ class BrowserFetcher:
         self._context.add_init_script(
             "Object.defineProperty(navigator, 'webdriver', {get: () => undefined});"
         )
+        self._proxy_context = None
         return self
 
     def __exit__(self, exc_type, exc_value, traceback) -> None:
+        if self._proxy_context is not None:
+            self._proxy_context.close()
         self._context.close()
         self._browser.close()
         self._playwright.stop()
 
+    def _proxy_context_for_fetch(self):
+        if self._proxy_context is not None:
+            return self._proxy_context
+        if not self._proxy_config:
+            return None
+        browser_major = self._browser.version.split(".", 1)[0]
+        browser_user_agent = (
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+            f"(KHTML, like Gecko) Chrome/{browser_major}.0.0.0 Safari/537.36"
+        )
+        self._proxy_context = self._browser.new_context(
+            proxy=self._proxy_config,
+            user_agent=browser_user_agent,
+            locale="en-IN",
+            viewport={"width": 1365, "height": 900},
+            extra_http_headers={"Accept-Language": "en-IN,en;q=0.9"},
+        )
+        self._proxy_context.add_init_script(
+            "Object.defineProperty(navigator, 'webdriver', {get: () => undefined});"
+        )
+        return self._proxy_context
+
+    def _fetch_once(self, url: str, context) -> str:
+        page = context.new_page()
+        try:
+            response = page.goto(
+                encode_url(url), wait_until="domcontentloaded", timeout=45_000
+            )
+            used_reader_fallback = False
+            if response and response.status >= 400:
+                if response.status == 403 and is_business_standard_url(url):
+                    debug(
+                        "  Business Standard blocked direct browser request; "
+                        "using HTML reader fallback"
+                    )
+                    page.set_extra_http_headers({"x-respond-with": "html"})
+                    response = page.goto(
+                        reader_url(url),
+                        wait_until="domcontentloaded",
+                        timeout=45_000,
+                    )
+                    used_reader_fallback = True
+                if response and response.status >= 400:
+                    raise RuntimeError(f"HTTP {response.status}")
+            if used_reader_fallback and response:
+                # The reader replies with Content-Type: text/plain, so
+                # Chromium renders the HTML source escaped inside a <pre>
+                # instead of parsing it into a DOM. page.content() would
+                # return that unusable wrapper — use the raw response
+                # body (the actual HTML source) instead.
+                content = response.text()
+            else:
+                # Business Standard can populate the article list shortly
+                # after DOMContentLoaded, especially on a fresh GitHub
+                # Actions runner.
+                page.wait_for_timeout(2_000)
+                content = page.content()
+            if len(content) < 500:
+                raise RuntimeError("empty or incomplete HTML response")
+            return content
+        finally:
+            page.close()
+
     def fetch(self, url: str) -> str:
         last_error: Exception | None = None
         for attempt in range(1, 4):
-            page = self._context.new_page()
-            try:
-                response = page.goto(
-                    encode_url(url), wait_until="domcontentloaded", timeout=45_000
+            for use_proxy in (False, True):
+                if use_proxy and not self._proxy_config:
+                    continue
+                context = (
+                    self._proxy_context_for_fetch() if use_proxy else self._context
                 )
-                used_reader_fallback = False
-                if response and response.status >= 400:
-                    if response.status == 403 and is_business_standard_url(url):
-                        debug(
-                            "  Business Standard blocked direct browser request; "
-                            "using HTML reader fallback"
-                        )
-                        page.set_extra_http_headers({"x-respond-with": "html"})
-                        response = page.goto(
-                            reader_url(url),
-                            wait_until="domcontentloaded",
-                            timeout=45_000,
-                        )
-                        used_reader_fallback = True
-                    if response and response.status >= 400:
-                        raise RuntimeError(f"HTTP {response.status}")
-                if used_reader_fallback and response:
-                    # The reader replies with Content-Type: text/plain, so
-                    # Chromium renders the HTML source escaped inside a <pre>
-                    # instead of parsing it into a DOM. page.content() would
-                    # return that unusable wrapper — use the raw response
-                    # body (the actual HTML source) instead.
-                    content = response.text()
-                else:
-                    # Business Standard can populate the article list shortly
-                    # after DOMContentLoaded, especially on a fresh GitHub
-                    # Actions runner.
-                    page.wait_for_timeout(2_000)
-                    content = page.content()
-                if len(content) < 500:
-                    raise RuntimeError("empty or incomplete HTML response")
-                return content
-            except Exception as exc:
-                last_error = exc
-                debug(f"  browser retry {attempt}/3 for {url}: {exc}")
-                if attempt < 3:
-                    time.sleep(attempt)
-            finally:
-                page.close()
+                if context is None:
+                    continue
+                try:
+                    return self._fetch_once(url, context)
+                except Exception as exc:
+                    last_error = exc
+                    if "HTTP 403" in str(exc) and not use_proxy and self._proxy_config:
+                        debug(f"  HTTP 403 for {url}; retrying via proxy")
+                        continue
+                    debug(
+                        f"  browser retry {attempt}/3 for {url}"
+                        f"{' via proxy' if use_proxy else ''}: {exc}"
+                    )
+                    break
+            if attempt < 3:
+                time.sleep(attempt)
         raise RuntimeError(f"Browser failed to fetch {url}: {last_error}") from last_error
 
 
-def fetch(url: str, retries: int = 3, pause: float = 1.0) -> str:
+def fetch(url: str, retries: int = 3, pause: float = 1.0, via_proxy: bool = False) -> str:
     last_err: Exception | None = None
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "hi,gu,en;q=0.8",
+    }
     for attempt in range(1, retries + 1):
         try:
-            req = Request(
-                encode_url(url),
-                headers={
-                    "User-Agent": USER_AGENT,
-                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                    "Accept-Language": "hi,gu,en;q=0.8",
-                },
-            )
+            req = Request(encode_url(url), headers=headers)
+            proxy_url = proxy_url_for_urllib() if via_proxy else None
+            if proxy_url:
+                opener = build_opener(ProxyHandler({"http": proxy_url, "https": proxy_url}))
+                with opener.open(req, timeout=45) as resp:
+                    return resp.read().decode("utf-8", errors="replace")
             with urlopen(req, timeout=45) as resp:
                 return resp.read().decode("utf-8", errors="replace")
-        except (HTTPError, URLError, TimeoutError) as exc:
+        except HTTPError as exc:
+            last_err = exc
+            if exc.code == 403 and not via_proxy and get_proxy_config():
+                debug(f"  HTTP 403 for {url}; retrying via proxy")
+                return fetch(url, retries=retries, pause=pause, via_proxy=True)
+            time.sleep(pause * attempt)
+        except (URLError, TimeoutError) as exc:
             last_err = exc
             time.sleep(pause * attempt)
     raise RuntimeError(f"Failed to fetch {url}: {last_err}")
