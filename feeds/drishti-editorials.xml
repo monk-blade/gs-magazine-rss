@@ -2,9 +2,293 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Drishti IAS — प्रमुख एडिटोरियल (Hindi)</title>
 <link href="https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials" rel="alternate"/>
-<updated>2026-08-05T03:46:32.216368+00:00</updated>
+<updated>2026-08-05T09:19:40.178147+00:00</updated>
 <id>urn:gs-magazine-rss:drishti-editorials</id>
 <author><name>Drishti IAS</name></author>
+<entry>
+<title>डेटा केंद्रों की संवहनीयता</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/sustainability-of-data-centres</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/sustainability-of-data-centres" rel="alternate"/>
+<published>2026-08-04T00:00:00+00:00</published>
+<updated>2026-08-04T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">डेटा केंद्रों की संवहनीयता
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Achievements-of-Indians-in-science-and-technology"&gt;विज्ञान और प्रौद्योगिकी में भारतीयों की उपलब्धियाँ&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Information-Technology-and-Computers"&gt;सूचना प्रौद्योगिकी और कंप्यूटर&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;यह एडिटोरियल 03/08/2026 को द इकोनॉमिक टाइम्स में प्रकाशित &lt;a href="https://economictimes.indiatimes.com/opinion/et-editorial/roll-out-the-durree-for-ais-annadata/articleshow/132839080.cms"&gt;“Roll out the Durree for AI's AnnaData”&lt;/a&gt; शीर्षक वाले लेख पर आधारित है। लेख में इस बात पर प्रकाश डाला गया है कि भारत तकनीकी संप्रभुता प्राप्त करने तथा वैश्विक AI कार्यभार को सॅंभालने के लिये अनुकूल नीतिगत प्रोत्साहनों, अवसंरचनात्मक स्थिति एवं संस्थागत निवेशों के माध्यम से अपने डेटा सेंटर अवसंरचना का तेज़ी से विस्तार कर रहा है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रिलिम्स के लिये: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/foreign-direct-investment-in-india"&gt;&lt;b&gt;प्रत्यक्ष विदेशी निवेश (FDI)&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/sustainable-e-waste-management-strategies"&gt;&lt;b&gt;ई-अपशिष्ट&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/indias-renewable-energy-revolution"&gt;&lt;b&gt;नवीकरणीय ऊर्जा&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/dpdp-act-2023-and-dpdp-rules-2025"&gt;&lt;b&gt;डिजिटल व्यक्तिगत डेटा संरक्षण (DPDP) अधिनियम, 2023&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/10-years-of-the-unified-payments-interface"&gt;&lt;b&gt;UPI&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-s-data-centre-capacity-set-to-reach-9-gw-by-2032"&gt;&lt;b&gt;डेटा सेंटर&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-ai-mission"&gt;&lt;b&gt;IndiaAI मिशन&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/revised-procurement-norms-for-ai-computing"&gt;&lt;b&gt;ग्राफिक्स प्रोसेसिंग यूनिट&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/licensing-and-regulation-of-submarine-cable-landing-in-india"&gt;&lt;b&gt;सबसी (सबमरीन) केबल&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/concerns-for-aadhaar-in-india"&gt;&lt;b&gt;आधार&lt;/b&gt;&lt;/a&gt;&lt;b&gt;,&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/aadhaar-mascot-udai"&gt;&lt;b&gt;UIDAI&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/loksabha-rajyasabha-discussions/the-big-picture-india-and-the-vaccination-drive"&gt;&lt;b&gt;Co-WIN&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/state-pcs-current-affairs/ayushman-bharat-digital-mission-abdm"&gt;&lt;b&gt;ABDM&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/conserving-india-s-coastal-ecosystems"&gt;&lt;b&gt;राष्ट्रीय सतत तटीय प्रबंधन केंद्र&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-skills-study"&gt;&lt;b&gt;राष्ट्रीय कौशल विकास निगम&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/investment-under-pli-schemes"&gt;&lt;b&gt;PLI योजना&lt;/b&gt;&lt;/a&gt;                      &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;मेन्स के लिये: &lt;/b&gt;डेटा केंद्रों से संबंधित प्रमुख तथ्य, उनके विस्तार के प्राथमिक उत्प्रेरक, महत्त्व, चिंताएँ और आगे की राह &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/data-localisation-2"&gt;&lt;b&gt;डेटा के स्थानीयकरण&lt;/b&gt;&lt;/a&gt; संबंधी अनिवार्यताओं और AI के विस्तार से प्रेरित होकर, भारत का डेटा सेंटर क्षेत्र तेज़ी से बढ़ रहा है। &lt;b&gt;डिजिटल अवसंरचना और &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/foreign-direct-investment-in-india"&gt;&lt;b&gt;प्रत्यक्ष विदेशी निवेश (FDI)&lt;/b&gt;&lt;/a&gt;&lt;b&gt; को बढ़ावा&lt;/b&gt; देने के साथ-साथ, यह &lt;b&gt;वृद्धि ग्रिड स्थिरता, जल संकट एवं &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/sustainable-e-waste-management-strategies"&gt;&lt;b&gt;ई-अपशिष्ट&lt;/b&gt;&lt;/a&gt;&lt;b&gt; से संबंधित गंभीर चुनौतियाँ &lt;/b&gt;भी खड़ी करती है। सतत विस्तार के लिये &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/indias-renewable-energy-revolution"&gt;&lt;b&gt;नवीकरणीय ऊर्जा&lt;/b&gt;&lt;/a&gt; &lt;b&gt;और उन्नत शीतलन प्रणालियों की ओर संक्रमण &lt;/b&gt;करना अत्यंत महत्त्वपूर्ण है।  &lt;/p&gt;
+&lt;h2&gt;डेटा सेंटर क्या होते हैं?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय: &lt;/b&gt;डेटा सेंटर&lt;b&gt; एक समर्पित भौतिक सुविधा, भवन या कमरा &lt;/b&gt;है जिसका उपयोग&lt;b&gt; कंप्यूटर सिस्टम, सर्वर एवं संबंधित दूरसंचार व भंडारण अवसंरचना को रखने के लिये&lt;/b&gt; किया जाता है। 
+&lt;ul&gt;
+&lt;li&gt;वे डिजिटल वर्ल्ड की &lt;b&gt;केंद्रीकृत रीढ़&lt;/b&gt; हैं, जिन्हें &lt;b&gt;भारी मात्रा में डेटा को संग्रहीत करने, प्रोसेस करने और वितरित करने के लिये डिज़ाइन&lt;/b&gt; किया गया है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;डेटा सेंटर के प्रमुख घटक:&lt;/b&gt; 
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;सर्वर और कंप्यूटर हार्डवेयर: &lt;/b&gt;शक्तिशाली कंप्यूटर, जो &lt;b&gt;एप्लीकेशन का संचालन&lt;/b&gt; करते हैं, रिक्वेस्ट को प्रोसेस करते हैं और गणना करते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भंडारण प्रणालियाँ: &lt;/b&gt;उच्च क्षमता वाली &lt;b&gt;हार्ड डिस्क ड्राइव (HDD) &lt;/b&gt;और सॉलिड-स्टेट ड्राइव (SSD) को &lt;b&gt;स्टोरेज एरिया नेटवर्क (SAN) &lt;/b&gt;या नेटवर्क-अटैच्ड स्टोरेज (NAS) में व्यवस्थित किया जाता है ताकि पेटबाइट्स तक की सूचना संग्रहीत की जा सके।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;नेटवर्किंग उपकरण: &lt;/b&gt;राउटर, स्विच एवं फायरवॉल जो सर्वरों को एक दूसरे से और बाह्य दुनिया (इंटरनेट) से जोड़ते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;विद्युत अवसंरचना: निर्बाध 24/7/365 संचालन सुनिश्चित करने के लिये &lt;/b&gt;अतिरिक्त विद्युत आपूर्ति, &lt;b&gt;निर्बाध विद्युत आपूर्ति (UPS) &lt;/b&gt;और बैकअप डीज़ल जनरेटर।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;शीतलन प्रणाली: &lt;/b&gt;कंप्यूटर हार्डवेयर की सघन पंक्तियों द्वारा उत्पन्न भारी मात्रा में उष्मा को दूर करने के लिये &lt;b&gt;सटीक एयर कंडीशनर, तरल शीतलन लूप और वेंटिलेशन पंखे &lt;/b&gt;आवश्यक हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भौतिक सुरक्षा: महत्त्वपूर्ण डेटा को भौतिक चोरी या छेड़-छाड़ से बचाने के लिये &lt;/b&gt;बहुस्तरीय सुरक्षा उपाय— जिनमें &lt;b&gt;बायोमेट्रिक एक्सेस कंट्रोल, 24/7 निगरानी एवं सुरक्षाकर्मी शामिल &lt;/b&gt;हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;डेटा केंद्रों के प्रकार:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;एंटरप्राइज़ डेटा सेंटर: &lt;/b&gt;ये किसी एक&lt;b&gt; संगठन &lt;/b&gt;(जैसे: बैंक या बड़ी कंपनी) द्वारा केवल अपने आंतरिक उपयोग के लिये बनाए, स्वामित्व में लिये और संचालित किये जाते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;कोलोकेशन डेटा सेंटर: &lt;/b&gt;ऐसी सुविधाएँ जहाँ कोई संगठन अपने सर्वर और नेटवर्किंग हार्डवेयर को रखने के लिये &lt;b&gt;भौतिक स्थान, विद्युत और शीतलन किराए पर &lt;/b&gt;लेता है तथा &lt;b&gt;अन्य किरायेदारों के साथ अवसंरचना की लागत साझा&lt;/b&gt; करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;हाइपरस्केल डेटा सेंटर: &lt;/b&gt;प्रमुख &lt;b&gt;क्लाउड प्रदाताओं &lt;/b&gt;(जैसे: &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/aws-outage-and-the-risks-of-cloud-centralisation"&gt;&lt;b&gt;अमेज़ॅन वेब सर्विसेज़&lt;/b&gt;&lt;/a&gt;, माइक्रोसॉफ्ट एज़्योर या गूगल क्लाउड) द्वारा संचालित विशाल सुविधाएँ जिनमें बड़े पैमाने पर स्केलेबिलिटी तथा क्लाउड कंप्यूटिंग के लिये डिज़ाइन किये गए लाखों सर्वर होते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रबंधित सेवा डेटा केंद्र: &lt;/b&gt;ये ऐसी सुविधाएँ हैं जिनका प्रबंधन किसी &lt;b&gt;तृतीय-पक्ष सेवा प्रदाता द्वारा &lt;/b&gt;किया जाता है, जो ग्राहक कंपनियों के लिये हार्डवेयर &lt;b&gt;रख-रखाव, डेटा प्रबंधन और परिचालन संबंधी कार्य &lt;/b&gt;करता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भौगोलिक वितरण: &lt;/b&gt;विश्व स्तर पर डेटा केंद्र मुख्य रूप से &lt;b&gt;अमेरिका, चीन &lt;/b&gt;एवं &lt;b&gt;पश्चिमी यूरोप में केंद्रित&lt;/b&gt; हैं, जिनमें से 40% से अधिक सुविधाएँ अमेरिका में स्थित हैं। 
+&lt;ul&gt;
+&lt;li&gt;भारत में विकास तेज़ी से बढ़ रहा है, राष्ट्रीय क्षमता का 60% से अधिक हिस्सा &lt;b&gt;मुंबई, चेन्नई एवं दिल्ली-NCR जैसे केंद्रों में केंद्रित&lt;/b&gt; है, जो क्लाउड कंप्यूटिंग में भारी वृद्धि, डेटा स्थानीयकरण जनादेश और बढ़ते AI कार्यभार से प्रेरित है।  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;भारत में डेटा केंद्रों के विस्तार के प्रमुख उत्प्रेरक क्या हैं? &lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;डेटा स्थानीयकरण जनादेश और संप्रभु अनुपालन: ‘&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/dpdp-act-2023-and-dpdp-rules-2025"&gt;&lt;b&gt;डिजिटल व्यक्तिगत डेटा संरक्षण (DPDP) अधिनियम, 2023&lt;/b&gt;&lt;/a&gt;&lt;b&gt;’&lt;/b&gt; (जिसे चरणबद्ध तरीके से लागू किया जा रहा है तथा जिसका पूर्ण अनुपालन &lt;b&gt;मई 2027&lt;/b&gt; से अनिवार्य होगा) तथा विभिन्न क्षेत्रों के लिये लागू किये गये अधिक कठोर नियामकीय प्रावधान— विशेषकर &lt;b&gt;‘भारतीय रिज़र्व बैंक’&lt;/b&gt; का यह अनिवार्य निर्देश कि सभी &lt;b&gt;‘भुगतान प्रणाली’&lt;/b&gt; से संबंधित डेटा का भंडारण केवल भारत में ही किया जाये, साथ ही &lt;b&gt;‘महत्त्वपूर्ण डेटा प्रत्ययी’&lt;/b&gt; के लिये संभावित ‘डेटा स्थानीयकरण’ दायित्व, देश के भीतर डेटा भंडारण की माँग को बढ़ावा देते हैं। 
+&lt;ul&gt;
+&lt;li&gt;इन संयुक्त नियामक दबावों ने वैश्विक क्लाउड प्रदाताओं, BFSI संस्थानों और बहुराष्ट्रीय निगमों को विदेशी भंडारण पर पूरी तरह से निर्भर रहने के बजाय &lt;b&gt;घरेलू डेटा-सेंटर क्षमता का विस्तार&lt;/b&gt; करने के लिये विवश किया है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;डिजिटल लेन-देन और उपभोक्ता डेटा में तीव्र वृद्धि: &lt;/b&gt;भारत में अभूतपूर्व मात्रा में रियल-टाइम के डिजिटल लेन-देन होते हैं। &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/10-years-of-the-unified-payments-interface"&gt;&lt;b&gt;UPI&lt;/b&gt;&lt;/a&gt;&lt;b&gt; जैसे प्लेटफॉर्म द्वारा प्रति माह अरबों लेन-देन प्रोसेस होने &lt;/b&gt;और&lt;b&gt; विशाल ई-कॉमर्स बाज़ार के कारण, दैनिक डेटा उत्पादन में भारी वृद्धि&lt;/b&gt; हुई है। 
+&lt;ul&gt;
+&lt;li&gt;सस्ते मोबाइल डेटा का उपयोग करने वाले स्मार्टफोन &lt;b&gt;उपयोगकर्त्ताओं की संख्या 650 मिलियन से अधिक&lt;/b&gt; हो जाने के साथ, निरंतर उपभोक्ता ट्रैफिक स्ट्रीम को प्रोसेस करने के लिये हाइपरस्केल स्टोरेज क्षमता महत्त्वपूर्ण है।  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;सरकार की सक्रिय नीतिगत सहायता और प्रोत्साहन: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-s-data-centre-capacity-set-to-reach-9-gw-by-2032"&gt;&lt;b&gt;डेटा सेंटर&lt;/b&gt;&lt;/a&gt; को आधिकारिक &lt;b&gt;'अवसंरचना'&lt;/b&gt; का दर्जा देने से डेवलपर्स को कम ब्याज दरों पर संस्थागत ऋण प्राप्त करने की सुविधा मिली है। 
+&lt;ul&gt;
+&lt;li&gt;इसके अतिरिक्त, नीतिगत समर्थन के रूप में दीर्घकालिक कर अवकाश— जिसकी अवधि वर्ष 2047 तक हो सकती है, एक महत्त्वपूर्ण उत्प्रेरक के रूप में कार्य कर रहा है। यह सुविधा उन पात्र विदेशी कंपनियों के लिये है, जो भारत स्थित डेटा केंद्रों के माध्यम से वैश्विक क्लाउड सेवाएँ प्रदान करती हैं। यह प्रावधान केंद्रीय बजट 2026–27 में प्रस्तुत किया गया त&lt;b&gt;था ‘वित्त अधिनियम, 2026’ के माध्यम से इसे वैधानिक प्रभाव &lt;/b&gt;प्रदान किया गया।  &lt;/li&gt;
+&lt;li&gt;उदाहरण के लिये, &lt;b&gt;गुजरात की डेटा सेंटर नीति (वर्ष 2026-29) &lt;/b&gt;का लक्ष्य &lt;b&gt;7.5 गीगावाट &lt;/b&gt;क्षमता और 6 लाख करोड़ रुपये का निवेश है, जबकि &lt;b&gt;आंध्र प्रदेश &lt;/b&gt;विशाखापत्तनम में लगभग &lt;b&gt;5 गीगावाट क्षमता का लक्ष्य &lt;/b&gt;रख रहा है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;AI-ML कार्यभार में वृद्धि और उच्च-घनत्व अवसंरचना: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-ai-mission"&gt;&lt;b&gt;IndiaAI मिशन&lt;/b&gt;&lt;/a&gt; के परिचालन शुरू होने से विशेषीकृत कंप्यूटिंग शक्ति की आवश्यकता में तेज़ी आई है। आधुनिक AI कार्यभार के लिये प्रति रैक 30 किलोवाट से लेकर 100 किलोवाट से अधिक की &lt;b&gt;अत्यधिक रैक डेंसिटी की आवश्यकता &lt;/b&gt;होती है (पारंपरिक 5-10 किलोवाट सेटअप की तुलना में)। 
+&lt;ul&gt;
+&lt;li&gt;राष्ट्रीय स्तर पर गठित ढाँचों के माध्यम से शामिल किये गए हज़ारों उच्च-प्रदर्शन &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/revised-procurement-norms-for-ai-computing"&gt;&lt;b&gt;ग्राफिक्स प्रोसेसिंग यूनिट (GPU)&lt;/b&gt;&lt;/a&gt; को सपोर्ट करने के लिये, ऑपरेटर तीव्रता से GPU-तैयार, लिक्विड-कूल्ड डेटा सेंटर सुविधाओं का विस्तार कर रहे हैं। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;रणनीतिक पनडुब्बी केबल लैंडिंग स्टेशन (CLS): भारत की तटीय भौगोलिक स्थिति &lt;/b&gt;यूरोप, मध्य पूर्व और दक्षिण पूर्व एशिया के बीच  &lt;b&gt;अंतर्राष्ट्रीय यातायात &lt;/b&gt;के लिये एक महत्त्वपूर्ण कनेक्टिविटी पुल का काम करती है।
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;मुंबई &lt;/b&gt;(जहाँ 14 से अधिक सबमरीन केबल लैंडिंग हैं) और &lt;b&gt;चेन्नई &lt;/b&gt;जैसे: प्रमुख तटीय केंद्रों में &lt;b&gt;बैंडविड्थ का व्यापक विस्तार &lt;/b&gt;देखा जा रहा है, जैसे कि आगामी उच्च क्षमता वाले &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/licensing-and-regulation-of-submarine-cable-landing-in-india"&gt;&lt;b&gt;सबसी (सबमरीन) केबल&lt;/b&gt;&lt;/a&gt; टेराबिट अंतर्राष्ट्रीय बैंडविड्थ प्रदान कर रहे हैं, जो सीधे तौर पर आसपास के क्लस्टर डेटा सेंटर के विकास को गति दे रहे हैं।   &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;सक्रिय हाइपरस्केल और तकनीकी दिग्गज निवेश: &lt;/b&gt;वैश्विक प्रौद्योगिकी क्षेत्र की अग्रणी कंपनियाँ भारत में समर्पित डेटा अवसंरचना विकसित करने के लिये प्रत्यक्ष विदेशी निवेश कर रही हैं। 
+&lt;ul&gt;
+&lt;li&gt;उदाहरण के लिये, &lt;b&gt;अमेज़न वेब सर्विसेज(AWS) हैदराबाद और मुंबई स्थित अपने क्लाउड क्षेत्रों का बहु-अरब डॉलर के निवेश के साथ विस्तार&lt;/b&gt; कर रही है। इसी प्रकार रिलायंस और मेटा के बीच साझेदारी के अंतर्गत गुजरात के जामनगर में विशाल कृत्रिम बुद्धिमत्ता-अनुकूल सुविधाओं का निर्माण किया जा रहा है। इससे स्पष्ट होता है कि वैश्विक स्तर की क्लाउड सेवा कंपनियाँ भविष्य में बाज़ार हिस्सेदारी सुरक्षित करने के लिये कई मेगावाट क्षमता वाले विशाल डेटा केंद्र परिसरों का तीव्र गति से विकास कर रही हैं। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;टियर-2 और टियर-3 शहरों में एज कंप्यूटिंग का विस्तार: &lt;/b&gt;यद्यपि प्राथमिक क्षमता मुंबई, चेन्नई और दिल्ली-NCR जैसे टियर-1 केंद्रों में केंद्रित है, तथापि &lt;b&gt;5G नेटवर्क और फिक्स्ड-वायरलेस एक्सेस (FWA) के तेज़ी से विस्तार से मांग का विकेंद्रीकरण&lt;/b&gt; हो रहा है। 
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;स्थानीयकृत कंटेंट डिस्ट्रीब्यूशन, ऑनलाइन गेमिंग और IoT अनुप्रयोगों &lt;/b&gt;के लिये विलंब को कम करने हेतु ऑपरेटर &lt;b&gt;पुणे, जयपुर, कोच्चि एवं अहमदाबाद &lt;/b&gt;जैसे उभरते टियर-2 बाज़ारों में तेज़ी से एज डेटा सेंटर का निर्माण कर रहे हैं।  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260805070014-9c8de330.png"&gt;&lt;img alt="DATA_CENTRE_EVOLUTION" src="http://drishtiias.com/hindi/images/uploads/upload-20260805070014-9c8de330.png"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;डेटा केंद्रों का महत्त्व और उनसे जुड़ी चिंताएँ क्या हैं?&lt;/h2&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;महत्त्व&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;चिंता&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;डिजिटल पब्लिक इंफ्रास्ट्रक्चर (DPI) एकीकरण: &lt;/b&gt;यह भारत की&lt;b&gt; ओपन-सोर्स सार्वजनिक प्रणालियों, &lt;/b&gt;जैसे कि &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/aadhaar-mascot-udai"&gt;&lt;b&gt;UIDAI&lt;/b&gt;&lt;/a&gt; इंफ्रास्ट्रक्चर के माध्यम से &lt;a href="https://www.drishtiias.com/daily-updates/daily-news-analysis/aadhaar-mascot-udai"&gt;&lt;b&gt;आधार&lt;/b&gt;&lt;/a&gt; प्रमाणीकरण तथा &lt;a href="https://www.drishtiias.com/hindi/loksabha-rajyasabha-discussions/the-big-picture-india-and-the-vaccination-drive"&gt;&lt;b&gt;Co-WIN&lt;/b&gt;&lt;/a&gt;/&lt;a href="https://www.drishtiias.com/hindi/state-pcs-current-affairs/ayushman-bharat-digital-mission-abdm"&gt;&lt;b&gt;आयुष्मान भारत डिजिटल मिशन (ABDM)&lt;/b&gt;&lt;/a&gt; फ्रेमवर्क को भौतिक रूप से समर्थन देने वाले भंडार के रूप में कार्य करता है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;विषाक्त ई-अपशिष्ट संचय: &lt;/b&gt;उच्च-प्रदर्शन वाले सर्वरों के लिये तीव्र हार्डवेयर नवीनीकरण चक्र (हर 3 से 5 वर्ष में) भारी मात्रा में विषाक्त &lt;b&gt;इलेक्ट्रॉनिक अपशिष्ट (कैडमियम, सीसा और ब्रोमिनेटेड ज्वाला मंदक) उत्पन्न &lt;/b&gt;करते हैं।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;घरेलू अनुसंधान एवं विकास और स्टार्टअप इकोसिस्टम को सशक्त बनाना: &lt;/b&gt;कंप्यूटिंग क्षेत्र में प्रवेश की बाधाओं को कम करता है, जिससे &lt;b&gt;डीप-टेक भारतीय AI स्टार्टअप को स्वदेशी कंप्यूटिंग क्षमता के लिये IndiaAI मिशन के 10,372 करोड़ रुपये के परिव्यय &lt;/b&gt;द्वारा समर्थित सरकारी ढाँचों के तहत स्थानीय क्लाउड सर्वर तक पहुँच प्राप्त करने की अनुमति मिलती है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;जलवायु संबंधी भेद्यता और स्थान निर्धारण संबंधी जोखिम: &lt;/b&gt;तटीय केंद्रों में तेज़ी से विस्तार होने से उच्च घनत्व वाले अवसंरचना को &lt;b&gt;भौतिक जलवायु जोखिमों का सामना &lt;/b&gt;करना पड़ता है, जिनमें &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/cyclone-shakhti"&gt;&lt;b&gt;चक्रवात&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/urban-flooding-in-india-causes,-consequences,-and-solutions"&gt;&lt;b&gt;गंभीर शहरी बाढ़&lt;/b&gt;&lt;/a&gt; और बढ़ते समुद्री स्तर शामिल हैं, जैसा कि &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/conserving-india-s-coastal-ecosystems"&gt;&lt;b&gt;राष्ट्रीय सतत तटीय प्रबंधन केंद्र (NCSCM)&lt;/b&gt;&lt;/a&gt; की रिपोर्टों में दर्ज किया गया है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;टेलीकॉम टावर कन्वर्जेंस और एज सिनर्जी: &lt;/b&gt;यह टेलीकॉम टावरों और माइक्रो डेटा केंद्रों के बीच की सीमा को न्यूनतम कर देता है, जिससे दूरसंचार विभाग (DoT) के लाइसेंसिंग सुधारों द्वारा समर्थित 5G एंटरप्राइज सॉल्यूशन एवं कनेक्टेड वाहनों के लिये &lt;b&gt;अल्ट्रा-लो लेटेंसी रोलआउट में तेज़ी&lt;/b&gt; आती है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;टियर-1 कॉरिडोर में नगरपालिका जल संकट: &lt;/b&gt;वाष्पीकरण शीतलन प्रणालियों पर अत्यधिक निर्भरता &lt;b&gt;नगरपालिका जल आपूर्ति के लिये प्रतिस्पर्द्धा को तीव्र करती है; CEEW की एक रिपोर्ट में अनुमान लगाया गया है कि &lt;/b&gt;बंगलूरू और चेन्नई जैसे संसाधन-सीमित महानगरों में भारत के डेटा सेंटर की जल खपत वर्ष 2025 में 150 बिलियन लीटर से बढ़कर वर्ष &lt;b&gt;2030 तक सालाना 358 बिलियन लीटर से अधिक&lt;/b&gt; हो जाएगी।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;प्रत्यक्ष विदेशी निवेश (FDI) का आकर्षण केंद्र: &lt;/b&gt;यह अरबों डॉलर के निजी इक्विटी प्रवाह के लिये एक प्रमुख आधार के रूप में कार्य करता है, जिसमें आँकड़े महाराष्ट्र, उत्तर प्रदेश एवं तमिलनाडु में वाणिज्यिक रियल एस्टेट पोर्टफोलियो में &lt;b&gt;95 अरब अमेरिकी डॉलर से अधिक के संचयी प्रतिबद्ध निवेश &lt;/b&gt;को दर्शाते हैं।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;कार्बन लॉक-इन और डीजल बैकस्टॉप निर्भरता: &lt;/b&gt;निरंतर बेस-लोड आवश्यकताओं के कारण ग्रिड आवृत्ति में गिरावट के दौरान कैप्टिव डीज़ल जनरेटर सेटों पर निरंतर निर्भरता बनी रहती है, जिससे नोएडा एवं मुंबई जैसे घनी औद्योगिक बस्तियों में महीन कणिका पदार्थ प्रदूषण की स्थिति और गंभीर हो जाती है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;कुशल तकनीकी रोज़गार सृजन: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-skills-study"&gt;&lt;b&gt;नेशनल स्किल डेवलपमेंट कॉर्पोरेशन (NSDC)&lt;/b&gt;&lt;/a&gt; के डिजिटल अपस्किलिंग कार्यक्रमों द्वारा समर्थित, &lt;b&gt;HVAC इंजीनियरिंग, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/strengthening-india-s-cyber-defense"&gt;&lt;b&gt;साइबर सुरक्षा&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, क्लाउड आर्किटेक्चर &lt;/b&gt;एवं उच्च-सटीकता सुविधा अनुरक्षण में विशेष रोज़गार के अवसर का सृजन करता है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;गंभीर ग्रिड असंतुलन और चरम भार तनाव: &lt;/b&gt;चौबीसों घंटे लगातार उच्च घनत्व वाली बिजली की खपत से क्षेत्रीय उप-संचरण ग्रिड के अस्थिर होने का खतरा है; विद्युत मंत्रालय द्वारा संसद में प्रस्तुत आधिकारिक आँकड़ों के अनुसार, राष्ट्रीय डेटा केंद्र की बिजली की मांग &lt;b&gt;सत्र 2031-32 तक 26.3 गीगावाट तक पहुँचने का अनुमान&lt;/b&gt; है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;स्थानीय विनिर्माण मूल्य-शृंखला एकीकरण: &lt;/b&gt;बड़े पैमाने पर इलेक्ट्रॉनिक्स विनिर्माण के लिये &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/investment-under-pli-schemes"&gt;&lt;b&gt;उत्पादन-लिंक्ड प्रोत्साहन (PLI) योजना&lt;/b&gt;&lt;/a&gt; जैसे राष्ट्रीय विनिर्माण प्रोत्साहनों के माध्यम से सर्वर रैक, निर्बाध विद्युत आपूर्ति (UPS) इकाइयों एवं स्मार्ट कूलिंग मॉड्यूल की घरेलू असेंबली को प्रोत्साहित करता है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;आपूर्ति शृंखला की भू-राजनीतिक कमज़ोरियाँ: &lt;/b&gt;विदेशी आयातित विशेषीकृत चिप्स, उन्नत GPU और सटीक शीतलन हार्डवेयर पर अत्यधिक निर्भरता घरेलू ऑपरेटरों को बाह्य व्यापार व्यवधानों एवं वैश्विक अर्द्धचालक आपूर्ति शृंखला की बाधाओं के प्रति संवेदनशील बनाती है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;h2&gt;‘डेटा केंद्रों’ पर वैश्विक सर्वोत्तम प्रथाएँ क्या हैं और भारत उनसे क्या सीख सकता है? &lt;/h2&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;देश/क्षेत्र&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;सर्वोत्तम प्रथाएँ &lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;भारत के लिये सीख &lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;सिंगापुर &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;क्षमता संबंधी बाधाएँ उत्पन्न होने के बाद सिंगापुर ने अनियंत्रित विस्तार की नीति से हटकर &lt;b&gt;चयनात्मक आवंटन&lt;/b&gt; की नीति अपनाई। उसकी &lt;b&gt;‘हरित डेटा केंद्र रूपरेखा’&lt;/b&gt; का उद्देश्य ऊर्जा दक्षता में सुधार करते हुए तथा हरित ऊर्जा के मार्गों का विकास करते हुए कम-से-कम &lt;b&gt;300 मेगावाट&lt;/b&gt; अतिरिक्त क्षमता उपलब्ध कराना है। &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;सीमित क्षमता का आवंटन प्रतिस्पर्द्धात्मक आधार पर ऐसे ऊर्जा-दक्ष परियोजनाओं को किया जाना चाहिये, जो उच्च आर्थिक मूल्य सृजित करती हों, न कि प्रत्येक प्रस्तावित सुविधा को स्वीकृति प्रदान की जाये। &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;आयरलैंड &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;वर्ष &lt;b&gt;2022&lt;/b&gt; में डेटा केंद्रों की आयरलैंड की कुल विद्युत खपत में लगभग &lt;b&gt;14%&lt;/b&gt; भागीदारी थी। इसके परिणामस्वरूप आयरलैंड ने ऐसी नीतिगत अवधारणाएँ अपनाईं जिनमें &lt;b&gt;विद्युत ग्रिड क्षमता&lt;/b&gt;, &lt;b&gt;अतिरिक्त नवीकरणीय ऊर्जा सृजन&lt;/b&gt;, &lt;b&gt;स्वच्छ ऊर्जा के साथ सह-स्थितिकरण&lt;/b&gt;, &lt;b&gt;कार्बन-उत्सर्जन में कमी के मार्ग&lt;/b&gt; तथा &lt;b&gt;स्थानीय समुदायों को लाभ&lt;/b&gt; को प्राथमिकता दी गई। &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;विद्युत ग्रिड से संयोजन केवल उपलब्ध क्षमता, प्रणालीगत लचीलेपन, अतिरिक्त नवीकरणीय ऊर्जा उत्पादन तथा मापनीय आर्थिक लाभों के आधार पर ही प्रदान किया जाना चाहिये। &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;डेनमार्क &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;डेटा केंद्रों से निकलने वाली &lt;b&gt;अपशिष्ट ऊष्मा&lt;/b&gt; का उपयोग वहाँ की &lt;b&gt;ज़िला ताप आपूर्ति शृंखलाओं&lt;/b&gt; में बढ़ते हुए स्तर पर किया जा रहा है, जिसे एक सुविकसित ताप-बाज़ार व्यवस्था का समर्थन प्राप्त है। &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;अपशिष्ट ऊष्मा को एक उपयोगी संसाधन के रूप में देखा जा सकता है। यद्यपि भारत में इसका उपयोग घरेलू ताप व्यवस्था की अपेक्षा औद्योगिक प्रक्रियाओं, &lt;b&gt;अवशोषण शीतलन&lt;/b&gt; तथा चयनित शहरी सुविधाओं में अधिक उपयुक्त रहेगा। &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;चीन &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;चीन की &lt;b&gt;‘पूर्व में डेटा, पश्चिम में संगणना (East Data, West Computing)’&lt;/b&gt; पहल का उद्देश्य ऐसे संगणनात्मक कार्यभारों को, जिनमें त्वरित प्रतिक्रिया समय की आवश्यकता नहीं होती, अधिक भूमि एवं नवीकरणीय ऊर्जा उपलब्धता वाले पश्चिमी क्षेत्रों की ओर स्थानांतरित करना है, जबकि त्वरित प्रतिक्रिया समय वाली सेवाओं को पूर्वी क्षेत्रों के उपयोगकर्त्ताओं के निकट ही रखा जाता है। &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;भारत को भी कृत्रिम बुद्धिमत्ता के प्रशिक्षण तथा डेटा भंडारण जैसे ऐसे कार्य, जिनमें त्वरित प्रतिक्रिया समय की आवश्यकता नहीं होती, उन्हें नवीकरणीय ऊर्जा से समृद्ध क्षेत्रों की ओर भौगोलिक रूप से वितरित करना चाहिये, ताकि सभी सुविधाएँ केवल मुंबई, चेन्नई तथा अन्य महानगरों में ही केंद्रित न रहें। &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;नीदरलैंड &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;भूमि, विद्युत तथा स्थानिक नियोजन से सम्बन्धित चिंताओं के कारण वहाँ &lt;b&gt;विशाल-स्तरीय डेटा केंद्रों&lt;/b&gt; के लिये अधिक कठोर स्थान-निर्धारण नियम तथा प्रतिबंध लागू किये गये हैं। &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;विशाल-स्तरीय डेटा केंद्र परियोजनाओं का मूल्यांकन सामान्य वाणिज्यिक निर्माण के रूप में नहीं, बल्कि भूमि एवं ऊर्जा की अत्यधिक आवश्यकता वाली &lt;b&gt;सामरिक अवसंरचना&lt;/b&gt; के रूप में किया जाना चाहिये। &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;सतत विकास संबंधी कौन-सी पद्धतियाँ डेटा सेंटर संचालन को बेहतर बना सकती हैं? &lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;उन्नत शीतलन और वायु प्रवाह प्रबंधन: &lt;/b&gt;गर्म निकास वायु को ठंडी आपूर्ति वायु से भौतिक रूप से अलग करने से &lt;b&gt;तापमानों के मिश्रण &lt;/b&gt;(गर्म गलियारा/ठंडा गलियारा रोकथाम विधि)&lt;b&gt; को रोका जा सकता है&lt;/b&gt;, जिससे शीतलन ऊर्जा की खपत में 40% तक की कमी आती है।  
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परंपरागत एयर कंडीशनिंग से तरल शीतलक (या डायरेक्ट-टू-चिप सिस्टम) &lt;/b&gt;में परिवर्तन आधुनिक AI और GPU क्लस्टर द्वारा उत्पन्न अत्यधिक उच्च घनत्व वाले ताप भार का कुशलतापूर्वक प्रबंधन करता है। &lt;/li&gt;
+&lt;li&gt;ऑपरेटिंग सर्वर के इनलेट तापमान को अद्यतन &lt;b&gt;ASHRAE &lt;/b&gt;(अमेरिकन सोसाइटी ऑफ हीटिंग, रेफ्रिजरेटिंग एंड एयर-कंडीशनिंग इंजीनियर्स) &lt;b&gt;दिशानिर्देशों &lt;/b&gt;(27°C तक) के अनुरूप रखने से सुविधाओं को अत्यधिक शीतलन की तुलना में मैकेनिकल चिलर के कार्यभार में काफी कमी आती है। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;नवीकरणीय ऊर्जा और हरित ऊर्जा का एकीकरण: सौर, पवन और हाइब्रिड ऊर्जा डेवलपर्स &lt;/b&gt;के साथ दीर्घकालिक प्रत्यक्ष खरीद समझौते सुरक्षित किये जाने चाहिये, ताकि संचालन पूरी तरह से हरित ऊर्जा से संचालित हो सके।  
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;अतिरिक्त नवीकरणीय ऊर्जा को संग्रहित करने &lt;/b&gt;के लिये उन्नत भंडारण समाधानों को तैनात किया जाना चाहिये, जिससे ग्रिड की कमी के दौरान जीवाश्म-ईंधन डीजल बैकअप जनरेटर पर निरंतर निर्भरता को प्रतिस्थापित या कम किया जा सके। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;अवसंरचना का आभासीकरण और संसाधन समेकन: &lt;/b&gt;एक ही भौतिक सर्वर पर कई आभासी मशीनों को चलाने से &lt;b&gt;हार्डवेयर उपयोग दर अधिकतम हो जाती है, &lt;/b&gt;जिससे आवश्यक सक्रिय भौतिक सर्वरों की कुल संख्या कम हो जाती है। नवीकरणीय ऊर्जा की उपलब्धता सबसे अधिक होने पर बिजली खपत को कम करने या गणना कार्यों को स्थानांतरित करने के लिये &lt;b&gt;AI-संचालित स्वचालन सॉफ़्टवेयर का उपयोग &lt;/b&gt;किया जाना चाहिये।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;जल प्रबंधन और संरक्षण: &lt;/b&gt;लाखों लीटर नगरपालिका जल की खपत करने वाले खुले वाष्पीकरण शीतलन टावरों से हटकर &lt;b&gt;बंद-लूप सिस्टम,&lt;/b&gt; रुद्धोष्म शीतलन या वायु-शीतित चिलर की ओर संक्रमण करना चाहिये।  
+&lt;ul&gt;
+&lt;li&gt;स्थानीय ताजे जल स्तर पर दबाव कम करने के लिये आवश्यक शीतलन चक्रों के लिये पुनर्चक्रित सीवेज या उपचारित नगरपालिका अपशिष्ट जल का उपयोग किया जाना चाहिये। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;मैट्रिक्स-आधारित प्रदर्शन निगरानी (DCIM): &lt;/b&gt;बिजली उपयोग प्रभावशीलता (PUE) को लगातार ट्रैक किया जाना चाहिये, ताकि यह मापा जा सके कि कितनी ऊर्जा सीधे IT उपकरणों में जा रही है और कितनी कूलिंग एवं लाइटिंग जैसे सहायक प्रणालियों में जा रही है।  
+&lt;ul&gt;
+&lt;li&gt;पर्यावरण संबंधी सख्त जवाबदेही बनाए रखने के लिये &lt;b&gt;जल उपयोग प्रभावशीलता (WUE) &lt;/b&gt;और &lt;b&gt;कार्बन उपयोग प्रभावशीलता (CUE) &lt;/b&gt;जैसे अतिरिक्त परिचालन मानकों की निगरानी की जानी चाहिये।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;चक्रीय अर्थव्यवस्था और ई-अपशिष्ट प्रबंधन: &lt;/b&gt;मौजूदा आईटी घटकों को अपग्रेड, नवीनीकृत और अनुरक्षण किया जाना चाहिये ताकि पूर्ण प्रतिस्थापन से पहले उनकी परिचालन अवधि को अधिकतम किया जा सके। &lt;b&gt;प्रमाणित पुनर्चक्रणकर्त्ताओं के साथ साझेदारी करके &lt;/b&gt;बंद किये गए सर्वरों से विषैले पदार्थों (जैसे सीसा, कैडमियम और दुर्लभ पृथ्वी धातुएँ) को सुरक्षित रूप से पृथक, पुनर्प्राप्त और प्रोसेस किया जाना चाहिये।  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;निष्कर्ष&lt;/h2&gt;
+&lt;p&gt;भारत जैसे-जैसे &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/sarvam-ai-and-the-sovereign-ai-in-india"&gt;&lt;b&gt;AI सॉवरेनिटी&lt;/b&gt;&lt;/a&gt; की ओर अग्रसर हो रहा है, डेटा केंद्रों के रणनीतिक विस्तार में &lt;b&gt;सक्रिय पूंजी निवेश और&lt;/b&gt; &lt;b&gt;सख्त पर्यावरणीय सुरक्षा उपायों के बीच संतुलन &lt;/b&gt;बनाए रखना आवश्यक है। बिजली ग्रिड स्थिरता, नगरपालिका जल संरक्षण और नवीकरणीय ऊर्जा एकीकरण के जटिल अंतर्संबंधों को संतुलित करना ही अंततः यह निर्धारित करेगा कि क्या भारत अगली पीढ़ी के वैश्विक डिजिटल अवसंरचना को स्थायी रूप से स्थापित कर सकता है। &lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;दृष्टि मेन्स प्रश्न&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न: &lt;/b&gt;भारत की डिजिटल अर्थव्यवस्था के लिये डेटा सेंटर के विकास के महत्त्व पर चर्चा कीजिये, साथ ही इससे जुड़ी पर्यावरणीय चिंताओं, विशेष रूप से जल एवं ऊर्जा खपत के संबंध में, का समालोचनात्मक विश्लेषण कीजिये।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;अक्सर पूछे जाने वाले प्रश्न (FAQs)&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 1. भारत में डेटा सेंटर के विकास को बढ़ावा देने वाला प्राथमिक कानूनी जनादेश क्या है?&lt;br/&gt;&lt;/b&gt;डिजिटल व्यक्तिगत डेटा संरक्षण (DPDP) अधिनियम, 2023 के तहत भारतीय नागरिकों के संवेदनशील व्यक्तिगत और वित्तीय डेटा को राष्ट्रीय सीमाओं के भीतर संग्रहित करना अनिवार्य है, जिससे घरेलू डेटा केंद्रों की कानूनी आवश्यकता उत्पन्न होती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 2. 'इंफ्रास्ट्रक्चर' का दर्जा मिलने से डेटा सेंटर क्षेत्र को क्या लाभ होता है?&lt;br/&gt;&lt;/b&gt;इससे डेवलपर्स को कम ब्याज दरों पर संस्थागत ऋण प्राप्त करने की सुविधा मिलती है और विदेशी निवेश को आकर्षित करने में सहायता मिलती है, जिससे इस क्षेत्र के विकास को गति मिलती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 3. डेटा केंद्रों से संबंधित सबसे महत्त्वपूर्ण पर्यावरणीय चिंता क्या है?&lt;br/&gt;&lt;/b&gt;शीतलन के लिये जल की भारी खपत एवं बिजली की उच्च मांग प्रमुख चिंता का विषय है और अनुमान है कि वर्ष 2030 तक जल का उपयोग प्रति वर्ष 358 अरब लीटर से अधिक हो जाएगा। &lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ) &lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;b&gt;&lt;i&gt;प्रिलिम्स &lt;/i&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 1. &lt;/b&gt;विकास की वर्तमान स्थिति में, कृत्रिम बुद्धिमत्ता (Artificial Intelligence), निम्नलिखित में से किस कार्य को प्रभावी रूप से कर सकती है?&lt;b&gt; (2020)&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;औद्योगिक इकाइयों में विद्युत की खपत कम करना&lt;/li&gt;
+&lt;li&gt;सार्थक लघु कहानियों और गीतों की रचना &lt;/li&gt;
+&lt;li&gt;रोगों का निदान &lt;/li&gt;
+&lt;li&gt;टेक्स्ट से स्पीच (Text- to- Speech) में परिवर्तन&lt;/li&gt;
+&lt;li&gt;विद्युत ऊर्जा का बेतार संचरण&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–&lt;/p&gt;
+&lt;p&gt;(a) केवल 1, 2, 3 और 5&lt;/p&gt;
+&lt;p&gt;(b) केवल 1, 3 और 4&lt;/p&gt;
+&lt;p&gt;(c) केवल 2, 4 और 5&lt;/p&gt;
+&lt;p&gt;(d) 1, 2, 3, 4 और 5&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर : (d)&lt;/b&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;मेन्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 2.&lt;/b&gt; सरकारी व्यवसायों के लिये इन-हाउस मशीन-आधारित सर्वर होस्टिंग की तुलना में क्लाउड होस्टिंग के लाभ और सुरक्षा संबंधी निहितार्थों पर चर्चा कीजिये। &lt;b&gt;(2015)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <title>त्वरित न्यायालयों की प्रभावशीलता का विस्तार</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/enhancing-effectiveness-of-fast-track-courts</id>
@@ -4525,169 +4809,5 @@
 &lt;h2&gt;&lt;b&gt;&lt;i&gt;मेन्स&lt;/i&gt;&lt;/b&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;प्रश्न 1. &lt;/b&gt;खाद्य प्रसंस्करण क्षेत्रक की चुनौतियों के समाधान हेतु भारत सरकार द्वारा अपनाई गई नीति को सविस्तार स्पष्ट कीजिये। &lt;b&gt;(2019)&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<title>भारत में शहरी बाढ़: कारण, परिणाम और समाधान</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/urban-flooding-in-india-causes,-consequences,-and-solutions</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/urban-flooding-in-india-causes,-consequences,-and-solutions" rel="alternate"/>
-<published>2026-08-04T00:00:00+00:00</published>
-<updated>2026-08-04T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">भारत में शहरी बाढ़: कारण, परिणाम और समाधान
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/climate-change"&gt;जलवायु परिवर्तन&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/infrastructure"&gt;आधारिक संरचना&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;यह एडिटोरियल 02/07/2026 को हिंदुस्तान टाइम्स में प्रकाशित “&lt;a href="https://www.hindustantimes.com/editorials/a-wash-out-on-urban-flood-prevention-101783004905917.html"&gt;A wash-out on urban flood prevention&lt;/a&gt;” शीर्षक वाले लेख पर आधारित है। यह इस बात पर प्रकाश डालता है कि तीव्र शहरीकरण, जलवायु परिवर्तन तथा कमज़ोर नगर प्रशासन के कारण भारत के शहरों में शहरी बाढ़ एक आवर्ती आपदा बन गई है, जिससे दीर्घकालिक नियोजन तथा समुत्थानशील शहरी अवसंरचना अनिवार्य हो गई है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रिलिम्स के लिये: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/urban-flooding-in-india"&gt;&lt;b&gt;शहरी बाढ़&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-disaster-management-authority-1"&gt;&lt;b&gt;शहरी बाढ़ पर NDMA दिशानिर्देश (2010)&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/amrut-atal-mission-for-rejuvenation-and-urban-transformation-scheme"&gt;&lt;b&gt;AMRUT 2.0&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/important-government-schemes/Ministry%20of%20Housing%20and%20Urban%20Affairs/smart-cities-mission-9"&gt;&lt;b&gt;स्मार्ट सिटी मिशन&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/saving-india-s-wetlands"&gt;&lt;b&gt;आर्द्रभूमि (संरक्षण और प्रबंधन) नियम&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/urban-flooding-in-india"&gt;&lt;b&gt;स्पंज सिटी&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/blue-green-infrastructure"&gt;&lt;b&gt;ब्लू-ग्रीन इन्फ्रास्ट्रक्चर&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/indian-meteorological-department"&gt;&lt;b&gt;IMD&lt;/b&gt;&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;मेन्स के लिये: &lt;/b&gt;भारत में शहरी बाढ़ के कारण, शहरी बाढ़ प्रबंधन में चुनौतियाँ, बाढ़ प्रतिरोधी शहरों के निर्माण के लिये आवश्यक उपाय, आपदा जोखिम न्यूनीकरण में शहरी शासन की भूमिका।&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/imd-s-new-ai-driven-weather-forecasting-systems"&gt;&lt;b&gt;मौसम पूर्वानुमान&lt;/b&gt;&lt;/a&gt;&lt;b&gt; और &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/from-relief-to-resilience-in-disaster-management"&gt;&lt;b&gt;आपदा मोचन तंत्र&lt;/b&gt;&lt;/a&gt;&lt;b&gt; में सुधार के बावजूद, &lt;/b&gt;भारतीय शहरों में &lt;b&gt;शहरी बाढ़ एक वार्षिक समस्या&lt;/b&gt; बन गई है। &lt;b&gt;जलवायु परिवर्तन के कारण अतिवृष्टि&lt;/b&gt; की घटनाएँ बढ़ गई हैं, लेकिन इससे होने वाले &lt;b&gt;नुकसान का मुख्य कारण अनियोजित शहरीकरण, प्राकृतिक जल निकासी प्रणालियों का क्षरण और कमज़ोर नगरपालिका प्रशासन&lt;/b&gt; है। इसलिये, समुत्थानशील शहर के निर्माण हेतु बाढ़ से निपटने की प्रतिक्रिया से परे सक्रिय बाढ़ जोखिम प्रबंधन की आवश्यकता है।&lt;/p&gt;
-&lt;h2&gt;भारत में शहरी बाढ़ के प्रमुख कारण क्या हैं?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;तीव्र शहरीकरण और अनियोजित भूमि उपयोग: &lt;/b&gt;भारत के शहरों का विस्तार बाढ़-जोखिम को शहरी नियोजन में सम्मिलित किये बिना हुआ है, जिसके परिणामस्वरूप बाढ़-मैदानों, झीलों तथा प्राकृतिक जल-निकासी मार्गों पर निर्माण किया गया है। इससे अतिरिक्त वर्षा जल को अवशोषित करने की शहरों की प्राकृतिक क्षमता में उल्लेखनीय कमी आई है।  
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/world-bank-31"&gt;&lt;b&gt;विश्व बैंक&lt;/b&gt;&lt;/a&gt; के अनुसार, भारत उन देशों में शुमार है जहाँ &lt;b&gt;बाढ़-प्रवण क्षेत्रों में शहरी बस्तियों का सबसे तेज़ी से विस्तार &lt;/b&gt;हो रहा है। बाढ़-प्रवण क्षेत्रों में शहरी बस्तियों के सर्वाधिक तीव्र विस्तार वाले देशों में भारत भी सम्मिलित है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्राकृतिक जलाशयों और आर्द्रभूमियों का लुप्त होना: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/saving-india-s-wetlands"&gt;&lt;b&gt;आर्द्रभूमियों&lt;/b&gt;&lt;/a&gt;, झीलों और शहरी तालाबों पर अतिक्रमण के कारण वर्षा जल को नियंत्रित करने वाले प्राकृतिक अवरोधक समाप्त हो गए हैं। इनके लुप्त होने से सतही अपवाह बढ़ जाता है तथा मध्यम वर्षा के दौरान भी शहरी बाढ़ की समस्या और भी गंभीर हो जाती है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उदाहरण: &lt;/b&gt;बंगलूरू ने तीव्र शहरी विस्तार के कारण अपनी परस्पर जुड़ी हुई झील-तंत्र का एक महत्त्वपूर्ण भाग खो दिया है, जिससे वहाँ बार-बार बाढ़ की स्थिति उत्पन्न होती है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;पुरानी तथा समुचित रख-रखाव से वंचित जल-निकासी व्यवस्था: &lt;/b&gt;कई भारतीय शहर दशकों पहले निर्मित वर्षा जल निकासी प्रणालियों पर निर्भर हैं, जो वर्तमान वर्षा की तीव्रता या शहरी विस्तार का सामना करने में असमर्थ हैं। अपर्याप्त गाद की सफाई और अकुशल रख-रखाव से जल निकासी की दक्षता और भी कम हो जाती है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;बॉम्बे हाई कोर्ट &lt;/b&gt;ने हाल ही में &lt;b&gt;बृहन्मुंबई महानगरपालिका (&lt;/b&gt;&lt;b&gt;BMC&lt;/b&gt;&lt;b&gt;) &lt;/b&gt;को निर्देश दिया कि मानसून के दौरान खुले मैनहोल लोगों के जीवन के लिये खतरा न बनें, जिससे नागरिक तैयारियों में विद्यमान मूलभूत कमियाँ उजागर हुईं। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जलवायु परिवर्तन और अतिवृष्टि की घटनाएँ: &lt;/b&gt;जलवायु परिवर्तन ने वर्षा के पैटर्न को बदल दिया है, जिससे कम समय में होने वाली तीव्र वर्षा अधिक आम होती जा रही है। क्लाउड-बर्स्ट (बादल फटने) जैसी ये घटनाएँ कुछ ही घंटों में शहरी जल निकासी प्रणालियों को पूरी तरह से ठप कर देती हैं।
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/indian-meteorological-department"&gt;&lt;b&gt;भारतीय मौसम विज्ञान विभाग (IMD)&lt;/b&gt;&lt;/a&gt; के अनुसार, हाल के दशकों में मध्य और शहरी भारत में अतिवृष्टि की घटनाओं में वृद्धि हुई है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जलरोधी सतहों में वृद्धि: &lt;/b&gt;सड़कों, पार्किंग स्थलों तथा भवनों के तीव्र कंक्रीटीकरण के कारण भूजल पुनर्भरण में भारी कमी आई है तथा सतही अपवाह बढ़ गया है। परिणामस्वरूप अब अल्प अवधि की भारी वर्षा भी गंभीर जलभराव का कारण बन जाती है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;कमज़ोर शहरी स्थानीय निकाय (ULB): &lt;/b&gt;अधिकांश शहरी स्थानीय निकायों के पास प्रभावी बाढ़ नियंत्रण उपायों को लागू करने के लिये &lt;b&gt;पर्याप्त वित्तीय संसाधन, तकनीकी विशेषज्ञता और संस्थागत क्षमता का अभाव &lt;/b&gt;है। जवाबदेही की कमी निवारक कार्रवाई में और विलंब करती है।
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/what-finance-panel-has-said"&gt;&lt;b&gt;15वें वित्त आयोग&lt;/b&gt;&lt;/a&gt; ने सेवा-प्रदाय तथा आपदा-प्रतिरोधक क्षमता को सुदृढ़ करने के लिये नगर निकायों की वित्तीय स्थिति को मज़बूत करने तथा शहरी शासन में सुधार की अनुशंसा की थी। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;ठोस अपशिष्ट प्रबंधन की खराब व्यवस्था: &lt;/b&gt;नगरपालिका अपशिष्ट का अनुचित निपटान प्रायः नालियों और जल निकासी मार्गों को अवरुद्ध कर देता है, जिससे भारी वर्षा के दौरान उनकी जल वहन क्षमता कम हो जाती है। इससे स्थानीय वर्षा व्यापक शहरी बाढ़ में परिवर्तित हो जाती है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;प्लास्टिक अपशिष्ट के कारण नालियों का अवरुद्ध होना&lt;/b&gt; मुंबई, दिल्ली और चेन्नई जैसे शहरों में बाढ़ का एक आवर्ती कारण बना हुआ है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अपर्याप्त पूर्व चेतावनी एवं अति-स्थानीय पूर्वानुमान: &lt;/b&gt;यद्यपि मौसम पूर्वानुमान में काफी सुधार हुआ है, फिर भी कई शहरों में&lt;b&gt; अति-स्थानीय बाढ़ पूर्वानुमान प्रणालियों तथा समन्वित आपातकालीन प्रतिक्रिया तंत्रों का अभाव &lt;/b&gt;है। इससे निकासी और आपातकालीन तैयारियों में विलंब होता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260707113655-efc08006.png"&gt;&lt;img src="http://drishtiias.com/hindi/images/uploads/upload-20260707113655-efc08006.png"/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;बार-बार होने वाली शहरी बाढ़ के क्या परिणाम होते हैं?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;मानव जीवन और सार्वजनिक सुरक्षा का नुकसान: &lt;/b&gt;शहरी बाढ़ के कारण डूबने, बिजली के झटके, इमारतों के ढहने तथा खुले नालों और मैनहोल से जुड़ी दुर्घटनाओं के कारण लोगों की मृत्यु होती है। निचले इलाकों में रहने वाली संवेदनशील आबादी को सबसे अधिक खतरा होता है।
-&lt;ul&gt;
-&lt;li&gt;उदाहरण: वर्ष 2024 में ओल्ड राजिंदर नगर में बाढ़ की घटना के दौरान UPSC के अभ्यर्थियों की मृत्यु ने शहरी आपदा-तैयारी में गंभीर कमियों को उजागर किया। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;आर्थिक गतिविधियों में व्यवधान: &lt;/b&gt;बाढ़ग्रस्त सड़कें, रेलवे एवं हवाई अड्डे आर्थिक गतिविधियों को बाधित करते हैं, आपूर्ति शृंखलाओं में विलंब करते हैं तथा व्यवसायों और परिवारों को महत्त्वपूर्ण वित्तीय नुकसान पहुँचाते हैं।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उदाहरण: &lt;/b&gt;मानसून की भारी बारिश के दौरान मुंबई का उपनगरीय रेल नेटवर्क और सड़क परिवहन प्रायः ठप्प हो जाता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;सार्वजनिक स्वास्थ्य आपातकाल: &lt;/b&gt;स्थिर जल या जल-जमाव मच्छरों के प्रजनन के लिये आदर्श परिस्थितियाँ उत्पन्न करते हैं, जिससे जलजनित तथा परजीवी जनित रोगों की घटनाओं में वृद्धि होती है। बाढ़ पेयजल तथा स्वच्छता अवसंरचना को भी दूषित कर देती है। 
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उदाहरण:&lt;/b&gt; शहरी बाढ़ के बाद प्रायः &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/dengue-6"&gt;&lt;b&gt;डेंगू&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/state-pcs-current-affairs/world-malaria-day-2026"&gt;&lt;b&gt;मलेरिया&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/leptospirosis-and-dengue-outbreaks"&gt;&lt;b&gt;लेप्टोस्पाइरोसिस &lt;/b&gt;&lt;/a&gt;&lt;b&gt;और गैस्ट्रोएंटेराइटिस जैसी बीमारियों का प्रकोप&lt;/b&gt; बढ़ जाता है, विशेषकर घनी आबादी वाली बस्तियों में। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;शहरी अवसंरचना को नुकसान: &lt;/b&gt;बाढ़ का जल सड़कों, पुलों, भूमिगत उपयोगिताओं और सार्वजनिक परिवहन प्रणालियों को नुकसान पहुँचाता है, जिससे अनुरक्षण की लागत बढ़ जाती है तथा शहरी समुत्थानशक्ति क्षीण हो जाती है।
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-disaster-management-authority-1"&gt;&lt;b&gt;NDMA शहरी बाढ़ दिशानिर्देश (2010)&lt;/b&gt;&lt;/a&gt; में के अनुसार, अवसंरचना की संवेदनशीलता बार-बार होने वाली शहरी बाढ़ के प्रमुख परिणामों में से एक है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;शहरी बाढ़ को रोकने के लिये किस प्रकार की रूपरेखा आवश्यक है?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;एकीकृत शहरी बाढ़ प्रबंधन का अंगीकरण: &lt;/b&gt;शहरी बाढ़ प्रबंधन को आपदा के बाद प्रतिक्रियात्मक प्रबंधन से हटकर एकीकृत जोखिम प्रबंधन की ओर ले जाना चाहिये, जिसमें &lt;b&gt;भूमि उपयोग योजना, जल निकासी अवसंरचना, जलवायु अनुकूलन और आपदा तैयारी&lt;/b&gt; को शामिल किया जाए। बाढ़ से निपटने की क्षमता शहरी वृहद योजनाओं का अभिन्न अंग होनी चाहिये।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;शहरी बाढ़ पर NDMA दिशानिर्देश (2010) &lt;/b&gt;जल निकासी, भूमि उपयोग और आपातकालीन प्रतिक्रिया को एकीकृत करते हुए&lt;b&gt; शहर-विशिष्ट शहरी बाढ़ प्रबंधन योजना &lt;/b&gt;तैयार करने की अनुशंसा करते हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;शहरी आर्द्रभूमियों का संरक्षण एवं पुनर्स्थापन: &lt;/b&gt;आर्द्रभूमियों, झीलों, बाढ़ के मैदानों और प्राकृतिक जल निकासी चैनलों को विकास के लिये खाली पड़ी भूमि के बजाय महत्त्वपूर्ण शहरी अवसंरचना के रूप में संरक्षित किया जाना चाहिये। इन पारिस्थितिक तंत्रों का पुनर्स्थापन शहरों की बाढ़ के जल को अवशोषित करने की प्राकृतिक क्षमता को बढ़ाता है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उदाहरण:&lt;/b&gt; हैदराबाद ने कई शहरी झीलों को पुनर्स्थापित करने और बाढ़ से निपटने की क्षमता में सुधार करने के लिये &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/lake-victoria-restoration"&gt;&lt;b&gt;झील पुनर्जीवन कार्यक्रम&lt;/b&gt;&lt;/a&gt; शुरू किया है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रकृति-आधारित समाधानों के माध्यम से स्पंज शहरों का विकास: &lt;/b&gt;शहरों को भूजल पुनर्भरण में सुधार करने और सतही अपवाह को कम करने के लिये शहरी जंगलों, वर्षा उद्यानों, हरित छतों एवं पारगम्य फुटपाथों के माध्यम से पारगम्य सतहों को बढ़ाना चाहिये।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उदाहरण: चीन के स्पंज सिटी कार्यक्रम &lt;/b&gt;ने यह प्रदर्शित किया है कि किस प्रकार हरित अवसंरचना शहरी बाढ़ को काफी हद तक कम कर सकती है, साथ ही शहरी पारिस्थितिकी में सुधार कर सकती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;स्टॉर्म वाटर (वर्षा जल) निकासी अवसंरचना का आधुनिकीकरण: &lt;/b&gt;जल निकासी प्रणालियों को ऐतिहासिक औसत के बजाय &lt;b&gt;अद्यतन वर्षा तीव्रता डेटा और भविष्य के जलवायु अनुमानों का उपयोग करके पुन: डिज़ाइन&lt;/b&gt; किया जाना चाहिये। प्रत्येक मानसून से पहले नियमित गाद निकासी तथा अनुरक्षण को अनिवार्य बनाया जाना चाहिये। 
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;केंद्रीय जन स्वास्थ्य और पर्यावरण अभियांत्रिकी संगठन (&lt;/b&gt;&lt;b&gt;CPHEEO&lt;/b&gt;&lt;b&gt;) &lt;/b&gt;शहरी विकास के अनुमानों के आधार पर शहरी जल निकासी प्रणालियों के आवधिक उन्नयन की अनुशंसा करता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;शहरी स्थानीय निकायों (ULB) को सशक्त बनाना: &lt;/b&gt;बाढ़ नियंत्रण उपायों को प्रभावी ढंग से लागू करने के लिये नगर निकायों को अधिक &lt;b&gt;वित्तीय स्वायत्तता, तकनीकी विशेषज्ञता और संस्थागत क्षमता &lt;/b&gt;की आवश्यकता है। वित्तीय विकेंद्रीकरण के साथ-साथ क्षमता निर्माण भी होना चाहिये।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;15 वें वित्त आयोग &lt;/b&gt;ने शहरी शासन को मज़बूत करने तथा नगरपालिका सेवा वितरण में सुधार लाने के लिये प्रदर्शन-आधारित अनुदानों की अनुशंसा की।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रारंभिक चेतावनी प्रणालियों के लिये प्रौद्योगिकी का लाभ उठाना: &lt;/b&gt;रियल-टाइम में बाढ़ पूर्वानुमान तथा आपातकालीन प्रतिक्रिया के लिये कृत्रिम बुद्धिमत्ता, भौगोलिक सूचना प्रणाली मानचित्रण, इंटरनेट ऑफ थिंग्स सेंसर तथा अति-स्थानीय मौसम पूर्वानुमान का समेकन किया जाना चाहिये। आँकड़ा-आधारित प्रशासन आपदा से होने वाली क्षति को उल्लेखनीय रूप से कम कर सकता है। 
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उदाहरण: IMD का मौसम ऐप &lt;/b&gt;और &lt;b&gt;कॉमन अलर्टिंग प्रोटोकॉल (CAP) &lt;/b&gt;भारत के बहु-खतरा प्रारंभिक चेतावनी तंत्र को सुदृढ़ बना रहे हैं। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;शहरी नियोजन और भूमि उपयोग नियमों को सुदृढ़ करना: &lt;/b&gt;बाढ़ के मैदानों, आर्द्रभूमियों और जल निकासी चैनलों पर निर्माण कार्य पर सख्त प्रतिबंध लगाया जाना चाहिये। प्रमुख अवसंरचना परियोजनाओं को मंजूरी देने से पहले शहरी नियोजन कानूनों में बाढ़ जोखिम आकलन को शामिल किया जाना चाहिये।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उदाहरण: दिल्ली- 2041 की मास्टर प्लान &lt;/b&gt;में जलवायु परिवर्तन के प्रति समुत्थानशीलता बढ़ाने के लिये नीली-हरी अवसंरचना और जल-संवेदनशील शहरी नियोजन को शामिल किया गया है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;ठोस अपशिष्ट प्रबंधन में सुधार: &lt;/b&gt;भारी वर्षा के दौरान नालियों के अवरोध को रोकने के लिये&lt;b&gt; नगरपालिका अपशिष्ट का कुशल संग्रहण और वैज्ञानिक निस्तारण &lt;/b&gt;आवश्यक है। शहरी जल निकासी प्रणालियों के अनुरक्षण के लिये जनभागीदारी भी समान रूप से महत्त्वपूर्ण है। 
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उदाहरण: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/bcc-framework-under-sbm-u-2-0"&gt;&lt;b&gt;स्वच्छ भारत मिशन-अर्बन 2.0&lt;/b&gt;&lt;/a&gt; के तहत, वैज्ञानिक अपशिष्ट प्रबंधन को सतत शहरी विकास के एक महत्त्वपूर्ण घटक के रूप में चिह्नित किया गया है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जलवायु परिवर्तन से सुरक्षित शहरी अवसंरचना को बढ़ावा देना: &lt;/b&gt;भविष्य की शहरी अवसंरचना को ऐतिहासिक मौसम पैटर्न के बजाय अनुमानित जलवायु जोखिमों को ध्यान में रखते हुए डिज़ाइन किया जाना चाहिये। वर्तमान में जलवायु-अनुकूल अवसंरचना में किया गया निवेश भविष्य में आपदा से होने वाली क्षति को कम करेगा। 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/ipcc-ar6-synthesis-report"&gt;&lt;b&gt;IPC की छठी आकलन रिपोर्ट (AR6)&lt;/b&gt;&lt;/a&gt; चेतावनी देती है कि &lt;b&gt;जलवायु परिवर्तन के तहत बढ़ती अतिवृष्टि की घटनाओं के कारण वैश्विक स्तर पर शहरी बाढ़ की तीव्रता बढ़ेगी।&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अंतर-एजेंसी समन्वय को बढ़ावा देना: &lt;/b&gt;शहरी बाढ़ प्रबंधन के लिये नगर निगमों, राज्य आपदा प्रबंधन प्राधिकरणों (SDMA), IMD, CWC, शहरी विकास विभागों एवं आपदा प्रतिक्रिया एजेंसियों के बीच समन्वित कार्रवाई आवश्यक है। स्पष्ट संस्थागत जिम्मेदारियाँ आपातकालीन प्रतिक्रिया को बेहतर बनाती हैं।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उदाहरण: चेन्नई की एकीकृत वर्षा जल निकासी परियोजना में शहरी बाढ़ की पुनरावृत्ति को कम करने के लिये कई राज्य एजेंसियों के बीच समन्वय &lt;/b&gt;शामिल है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;निष्कर्ष&lt;/h2&gt;
-&lt;p&gt;शहरी बाढ़ अब केवल अतिवृष्टि का परिणाम नहीं रह गई है, बल्कि यह कमज़ोर शहरी प्रशासन और अपर्याप्त जलवायु अनुकूलन का भी प्रतीक है। भारतीय शहरों के तेज़ी से विस्तार के साथ, आपदा जोखिम न्यूनीकरण को शहरी नियोजन का एक प्रमुख सिद्धांत बनाना आवश्यक है। &lt;b&gt;प्रकृति-आधारित समाधानों, समुत्थानशील अवसंरचना,&lt;/b&gt; उन्नत पूर्वानुमान प्रणाली तथा अधिक सशक्त नगर प्रशासनिक संस्थानों के एकीकरण के माध्यम से भारत अपने शहरों को बाढ़-प्रवण बस्तियों से जलवायु-सहिष्णु शहरी पारितंत्रों में रूपांतरित कर सकता है। &lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;दृष्टि मेन्स प्रश्न&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;“भारत में शहरी बाढ़ प्राकृतिक आपदाओं की तुलना में शासन व्यवस्था की विफलताओं का अधिक परिणाम है।” बार-बार होने वाली शहरी बाढ़ के कारणों का समालोचनात्मक परीक्षण कीजिये तथा जलवायु परिवर्तन से निपटने में सक्षम शहरों के निर्माण के लिये उपायों का सुझाव दीजिये। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;अक्सर पूछे जाने वाले प्रश्न (FAQs)&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न 1. भारतीय शहरों में शहरी बाढ़ एक लगातार समस्या क्यों बन गई है?&lt;br/&gt;&lt;/b&gt;तेज़ी से हो रहे शहरीकरण, आर्द्रभूमि पर अतिक्रमण, अपर्याप्त जल निकासी अवसंरचना, अकुशल ठोस अपशिष्ट प्रबंधन और जलवायु परिवर्तन के कारण बढ़ती अतिवृष्टि ने शहरी बाढ़ की आवृत्ति में उल्लेखनीय वृद्धि की है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न 2. शहरी बाढ़ के संबंध में NDMA के दिशानिर्देश क्या हैं?&lt;br/&gt;&lt;/b&gt;वर्ष 2010 में जारी किये गए NDMA के दिशानिर्देशों में एकीकृत शहरी नियोजन, प्राकृतिक जल निकासी प्रणालियों का संरक्षण, आधुनिक वर्षा जल अवसंरचना, बाढ़ पूर्वानुमान, GIS-आधारित मानचित्रण और बेहतर संस्थागत समन्वय की अनुशंसा की गई है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt; प्रश्न 3. स्पंज शहर क्या हैं?&lt;br/&gt;&lt;/b&gt;स्पंज सिटीज़ वर्षा जल को अवशोषित करने, संग्रहित करने और धीरे-धीरे छोड़ने के लिये आर्द्रभूमि, पारगम्य फुटपाथ, हरित छत और शहरी वनों जैसे प्रकृति-आधारित समाधानों का उपयोग करती हैं, जिससे शहरी बाढ़ कम होती है तथा भूजल पुनर्भरण में सुधार होता है।&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ) &lt;/b&gt;&lt;/h2&gt;
-&lt;h2&gt;&lt;b&gt;&lt;i&gt;प्रिलिम्स &lt;/i&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न 1. &lt;/b&gt;ऑस्ट्रेलिया में हाल ही में आई बाढ़ का कारण ला नीना माना जा रहा है। ला नीना, एल नीनो से किस प्रकार भिन्न है? &lt;b&gt;(2011)&lt;/b&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;ला नीना की विशेषता भूमध्यरेखीय हिंद महासागर में असामान्य रूप से ठंडे समुद्री तापमान से होती है, जबकि एल नीनो की विशेषता भूमध्यरेखीय प्रशांत महासागर में असामान्य रूप से गर्म समुद्री तापमान से होती है।&lt;/li&gt;
-&lt;li&gt;एल नीनो का भारत के दक्षिण-पश्चिम मानसून पर प्रतिकूल प्रभाव पड़ता है, लेकिन ला नीना का मानसून की जलवायु पर कोई प्रभाव नहीं पड़ता है।&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;उपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?&lt;/p&gt;
-&lt;p&gt;(a) केवल 1 &lt;/p&gt;
-&lt;p&gt;(b) केवल 2 &lt;/p&gt;
-&lt;p&gt;(c) 1 और 2 दोनों &lt;/p&gt;
-&lt;p&gt;(d) न तो 1 और न ही 2&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर: (d)&lt;/b&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;&lt;b&gt;&lt;i&gt;मेन्स&lt;/i&gt;&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न 1. &lt;/b&gt;नदियों को आपस में जोड़ना सूखा, बाढ़ और बाधित जल-परिवहन जैसी बहु-आयामी अन्तर्सम्बन्धित समस्याओं का व्यवहार्य समाधान दे सकता है। आलोचनात्मक परीक्षण कीजिये। &lt;b&gt; (2020)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न 2. &lt;/b&gt;भारत में दशलक्षीय नगरों जिनमें हैदराबाद एवं पुणे जैसे स्मार्ट सिटीज़ भी सम्मिलित हैं, में व्यापक बाढ़ के कारण बताइये। स्थायी निराकरण के उपाय भी सुझाइये।&lt;b&gt;  (2020)&lt;/b&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
