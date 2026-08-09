@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Business Standard — Opinion Columns</title>
 <link href="https://www.business-standard.com/opinion" rel="alternate"/>
-<updated>2026-08-09T07:26:12.044458+00:00</updated>
+<updated>2026-08-09T13:18:53.143711+00:00</updated>
 <id>urn:gs-magazine-rss:business-standard-opinion</id>
 <author><name>Business Standard</name></author>
 <entry>
@@ -573,6 +573,113 @@
 	The real reasons behind India’s persistent PVC deficit need to be examined instead. Domestic capacity has lagged demand for years not only because imports have been cheap but also because India’s PVC manufacturing ecosystem remains underdeveloped. PVC production depends on the availability of ethylene, the basic petrochemical feedstock from which ethylene dichloride (EDC) and vinyl chloride monomer (VCM) are produced. India has limited merchant ethylene availability while the domestic production of EDC and VCM is also inadequate, forcing manufacturers to rely heavily on imported intermediates. Delays in developing integrated petroleum, chemicals and petrochemical investment regions have further constrained access to feedstock and raised logistics costs. Clearly, the answer lies in expanding domestic production rather than restricting imports. That requires improving feedstock availability, building integrated petrochemical infrastructure, ensuring competitive access to EDC and VCM, and accelerating capacity creation. Thus, while gains from protection will be limited to a handful of large producers, it will increase costs and affect economic activity in a variety of sectors.   &lt;strong&gt;Topics :&lt;/strong&gt;&lt;a href="https://www.business-standard.com/about/what-is-jal-jeevan-mission"&gt; Jal Jeevan Mission&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/business-standard-editorial-comment"&gt; Business Standard Editorial Comment&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/editorial-comment"&gt; Editorial Comment&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/bs-opinion"&gt; BS Opinion&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/pvc-pipe"&gt; PVC pipe&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/msmes"&gt; MSMEs&lt;/a&gt;</content>
 </entry>
 <entry>
+<title>Trusted, trained and sometimes a threat: The risk within India's banks</title>
+<id>https://www.business-standard.com/opinion/columns/trusted-trained-and-sometimes-a-threat-the-risk-within-india-s-banks-126080900413_1.html</id>
+<link href="https://www.business-standard.com/opinion/columns/trusted-trained-and-sometimes-a-threat-the-risk-within-india-s-banks-126080900413_1.html" rel="alternate"/>
+<published>2026-08-09T16:35:47+05:30</published>
+<updated>2026-08-09T16:35:47+05:30</updated>
+<author><name>Business Standard</name></author>
+<content type="html">&lt;a href="https://www.business-standard.com/"&gt;Home&lt;/a&gt; / &lt;a href="https://www.business-standard.com/opinion"&gt;Opinion&lt;/a&gt; / &lt;a href="https://www.business-standard.com/opinion/columns"&gt;Columns&lt;/a&gt; / Trusted, trained and sometimes a threat: The risk within India's banksTrusted, trained and sometimes a threat: The risk within India's banks&lt;h2&gt;Behind the forensics and policy responses lies a question that India's banking industry is asking itself today: How to deal with insider bank frauds&lt;/h2&gt;&lt;img alt="bank" src="https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/30/full/1785431718-1899.jpg?im=FitAndFill=(382"/&gt; premium &lt;p&gt;Representative image&lt;/p&gt;&lt;a href="https://www.business-standard.com/author/tamal-bandyopadhyay"&gt;Tamal Bandyopadhyay&lt;/a&gt;7 min read  Last Updated : Aug 09 2026 | 4:35 PM IST
+	The fraudster doesn’t wear a mask or hack in from outside. The fraudster has the key to enter the system (the login password), a designation, and years of institutional trust. 
+ 
+
+	The core banking solution (CBS) has digitised every branch. It has also handed the insider an invisible weapon to attack – to debit accounts, backdate entries, park funds in suspense accounts (a temporary holding place used to record incoming or outgoing funds that cannot be immediately matched), activate dormant accounts of customers and move money to relatives or mule accounts. 
+ 
+
+	The fraudster takes advantage of late generation of activity reports and the lack of staff strength to scrutinise entries immediately after the generation of such reports. It’s not easy to go through the labyrinth of data, manually analyse and detect the loss. 
+ 
+
+	Indeed, banks are well aware of this phenomenon. The fraud cases involving bank staff have fallen from 2,624 in FY21 to 1,935 in FY25, and 400 in the first half of FY26. Staff fraud is only 8 per cent of total cases but likely much higher in value. The decline in numbers suggests that existing controls (maker-checker – where two people are needed to complete a task – job rotation, whistleblower schemes) are working. But more needs to be done. 
+ 
+
+	CBS eliminates manual errors and enables real-time, branch-agnostic processing. It has succeeded on both counts. But the same architecture that lets a customer transact from any branch also lets a bank employee who has access to the system debit multiple accounts, credit funds to an account in a different bank, and route the proceeds to mule accounts or accounts of relatives. Once that is done, recovery becomes difficult. 
+ 
+
+	The most technically dangerous method exploits “value dating” -- the principle that interest accrues from the date of credit entry and not the actual transaction date. A staff member can post a backdated credit, square off the entry on the date of creation, let the system calculate and credit interest for the intervening period, then reverse the principal while leaving the already-credited interest untouched. 
+ 
+
+	Since each debit is matched by a same-day credit reversal, it may escape routine exception reports; losses accumulate silently over years. 
+ 
+
+	Inter-branch office and suspense accounts can also be abused. Funds can be fraudulently parked in such accounts and squared off before the end-of-day cycle closes. System logs capture every user ID involved in both schemes but exception reports, typically, are only reviewed during periodic inspections, not continuously. This gives the insider a wide window of opportunity. 
+ 
+
+	The banks need to shift from annual audits to a "data + behaviour + controls" framework that triggers in real time as staff fraud is hard to catch – the perpetrator already knows what the audit will detect and what it won't. Automated red-flag rules on the CBS/AML (anti-money laundering) layer should fire instantly instead of waiting for the periodic review. 
+ 
+
+	The focus could be on the following activities: 
+&lt;ul&gt;
+&lt;li&gt;
+		Employee access to accounts of relatives, dormant and VIPs without a mapped business reason;&lt;/li&gt;
+&lt;li&gt;
+		After-hours logins (9 PM–6 AM), weekend or holiday system access;&lt;/li&gt;
+&lt;li&gt;
+		Repeated overrides of transaction limits, KYC checks, interest rates or fee waivers;&lt;/li&gt;
+&lt;li&gt;
+		Round-tripping, when the same employee both debits and credits across multiple accounts;&lt;/li&gt;
+&lt;li&gt;
+		Structuring or splitting large transactions to stay under approval thresholds; and&lt;/li&gt;
+&lt;li&gt;
+		Fund transfer following the addition of a beneficiary or any other change in an account.&lt;/li&gt;
+&lt;/ul&gt;
+
+	These apart, biometric login into the system should be non-negotiable. Single biometric identity should not be allowed to play the role of maker and checker of the same transaction. This will prevent the fraudster from stealing and misusing other staff's passwords. 
+ 
+
+	Finally, no ID should be allowed to remain active for more than a specified time, say 15 minutes, if not used. This will minimise the risk of login password-sharing by higher authorities, who often share with their trusted staff the most vulnerable treasure. All banks must make use of user and entity behaviour analytics (UEBA) to baseline normal activity per employee and flag deviations in near-real time. Behavioural signals are important. 
+ 
+
+&lt;strong&gt;What are abnormal activities?&lt;/strong&gt; 
+ 
+&lt;ul&gt;
+&lt;li&gt;
+		Lifestyle and income mismatch. Buying a high-end car, too many overseas holidays beyond means and personal loan defaults;&lt;/li&gt;
+&lt;li&gt;
+		When an employee does not take leave for years, resists transfers and works late every day; and&lt;/li&gt;
+&lt;li&gt;
+		Missing documentation, frequent visits to high-value accounts without any reason, scanning for dormant accounts with requests from related customers.&lt;/li&gt;
+&lt;/ul&gt;
+
+	Structural controls that can ensure early detection of fraud include adoption of the so-called four-eye principle. It’s a governance- and risk-management tool which requires at least two distinct, authorised people to review and approve a critical action, decision, or transaction before it takes effect. No single employee can open an account, disburse a loan, or execute an RTGS transfer by himself or herself. 
+ 
+
+	Other such controls include mandatory job rotation; surprise audits and cash verification; daily automated reconciliation of teller cash, suspense, and general-ledger accounts; and anonymous whistleblower hotlines. Industry estimates that about 40 per cent of staff frauds come to light through the last route. 
+ 
+
+	Senior citizens typically have a single trusted point of contact at a bank branch. Banks should encourage such customers to interact with multiple staff members and any loan sanctioned against a term deposit receipt belonging to a senior citizen should automatically alert a higher-level officer for independent cross-verification. 
+ 
+
+	Deceased-account handling needs the same systemic rigour. As civil registration and KYC databases become better integrated, banks should move towards systems that promptly freeze accounts after verified notification of death. AI-enabled, Aadhaar-linked payment verification can intercept unauthorised withdrawal attempts on unclaimed deposits before funds move. 
+ 
+
+	NRI accounts warrant an additional safety layer, given the physical distance between the customer and the branch. Any loan or lien against an NRI account should require scanned-document verification through large language model-based document authentication tools before approval.  
+ 
+
+	Vigilance departments in Indian banks have limited deployment of AI or machine learning models for preventive vigilance. Most vigilance activity remains reactive – triggered after a complaint or loss rather than by predictive pattern detection. 
+ 
+
+	Industry-wide data on staff-perpetrated fraud, if pooled and modelled, could allow AI systems to learn behavioural baselines for different staff roles, detect deviations over time, and alert administrative and vigilance offices before a loss crystallises rather than after. This is an open frontier for fintech vendors. 
+ 
+
+	Cybersecurity tooling till now has overwhelmingly targeted external, customer-facing fraud, leaving staff behaviour monitoring comparatively underbuilt despite its significant share in the value of frauds. 
+ 
+
+	High attrition and frequent staff movement in private banks mean institutional memory about individual behaviour patterns resets constantly. Newly hired, tech-savvy employees understand the system architecture and its blind spots pretty well. 
+ 
+
+	Robust systems ultimately rest on three commitments: A visible, monthly-communicated zero-tolerance tone from the senior leadership; hard data segregation which doesn’t allow any employee to access accounts belonging to themselves or their immediate family within the CBS; and a mandatory post-incident review after every fraud that updates detection rules to prevent recurrence of similar frauds. 
+ 
+
+	The Reserve Bank of India’s directives asking banks to minimise system-generated internal accounts, a favoured parking spot for fraudulent loan proceeds and broken term deposits reflect the same underlying philosophy -- shift responsibility from human vigilance to a systemic design. When a bank runs millions of daily transactions, a human reviewer will always arrive too late. 
+ 
+
+	Behind the forensics and the policy responses lies a question that India's banking industry is asking itself today: Does working daily with other people's money, in an environment of constrained salaries, rising lifestyle aspirations, and algorithmically addictive betting platforms gradually erode the ethical boundaries for certain bankers? 
+
+&lt;hr/&gt;
+&lt;em&gt;&lt;strong&gt;Writes Banker's Trust every Monday in Business Standard. Latest book Roller Coaster: An Affair with Banking. X handle: TamalBandyo&lt;/strong&gt;&lt;/em&gt;  
+  &lt;b&gt;Disclaimer:&lt;/b&gt; These are personal views of the writer. They do not necessarily reflect the opinion of &lt;a href="https://www.business-standard.com"&gt;www.business-standard.com&lt;/a&gt; or the Business Standard newspaper&lt;strong&gt;Topics :&lt;/strong&gt;&lt;a href="https://www.business-standard.com/topic/bs-opinion"&gt; BS Opinion&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/indian-banking-sector"&gt; Indian banking sector&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/bank-frauds"&gt; Bank frauds&lt;/a&gt;</content>
+</entry>
+<entry>
 <title>Bhagwat's Gen Z outreach signals a pragmatic reset for the RSS leadership</title>
 <id>https://www.business-standard.com/opinion/columns/bhagwat-s-gen-z-outreach-signals-a-pragmatic-reset-for-the-rss-leadership-126080702090_1.html</id>
 <link href="https://www.business-standard.com/opinion/columns/bhagwat-s-gen-z-outreach-signals-a-pragmatic-reset-for-the-rss-leadership-126080702090_1.html" rel="alternate"/>
@@ -755,25 +862,5 @@
 	1. &lt;a href="https://mybs.in/2erZH9W?1785937004"&gt;https://mybs.in/2erZH9W?1785937004&lt;/a&gt; 
 
 	2. &lt;a href="http://hdr2013encomplete.pdf"&gt;hdr2013encomplete.pdf&lt;/a&gt;   &lt;b&gt;Disclaimer:&lt;/b&gt; These are personal views of the writer. They do not necessarily reflect the opinion of &lt;a href="https://www.business-standard.com"&gt;www.business-standard.com&lt;/a&gt; or the Business Standard newspaper&lt;strong&gt;Topics :&lt;/strong&gt;&lt;a href="https://www.business-standard.com/topic/gen-z"&gt; Gen Z&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/jantar-mantar"&gt; Jantar Mantar&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/india-protests"&gt; India protests&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/unemployment"&gt; unemployment&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/jobless-growth"&gt; Jobless growth&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/economic-reforms"&gt; Economic reforms&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/bs-opinion"&gt; BS Opinion&lt;/a&gt;</content>
-</entry>
-<entry>
-<title>Best of BS Opinion: India must align ESG disclosures with global standards</title>
-<id>https://www.business-standard.com/opinion/specials/best-of-bs-opinion-india-must-align-esg-disclosures-with-global-standards-126080401762_1.html</id>
-<link href="https://www.business-standard.com/opinion/specials/best-of-bs-opinion-india-must-align-esg-disclosures-with-global-standards-126080401762_1.html" rel="alternate"/>
-<published>2026-08-05T06:15:37+05:30</published>
-<updated>2026-08-05T06:15:37+05:30</updated>
-<author><name>Business Standard</name></author>
-<content type="html">&lt;a href="https://www.business-standard.com/"&gt;Home&lt;/a&gt; / &lt;a href="https://www.business-standard.com/opinion"&gt;Opinion&lt;/a&gt; / &lt;a href="https://www.business-standard.com/opinion/specials"&gt;Specials&lt;/a&gt; / Best of BS Opinion: India must align ESG disclosures with global standardsBest of BS Opinion: India must align ESG disclosures with global standards&lt;h2&gt;Today's opinions examine PVC import restrictions, India's judicial backlog, reforms to ESG disclosures, digital inequalities in Neet and what Google searches reveal about society&lt;/h2&gt;&lt;img alt="business responsibility and sustainability reporting (BRSR), Environmental, social and governance (ESG)" src="https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/04/full/1785858703-6295.jpg?im=FitAndFill=(382"/&gt;&lt;p&gt;Illustration: Ajaya Mohanty&lt;/p&gt;&lt;a href="https://www.business-standard.com/author/tanmaya-nanda"&gt;Tanmaya Nanda&lt;/a&gt; New Delhi 3 min read  Last Updated : Aug 05 2026 | 6:15 AM IST
-	Hello, and welcome to the Best of BS Opinion, our wrap of the day's Opinion page. 
-
-	India's decision to impose a minimum import price on suspension-grade PVC resin is likely to raise costs across downstream industries without reducing the country's dependence on imports. &lt;strong&gt;Today's first editorial contends&lt;/strong&gt; that, with domestic production meeting only about a third of demand, the measure will strengthen the pricing power of local producers while increasing input costs for manufacturers, infrastructure projects, and exporters. It notes that &lt;a href="https://www.business-standard.com/opinion/editorial/price-protection-minimum-import-price-for-pvc-will-increase-costs-126080401715_1.html?1785864046"&gt;India's persistent PVC deficit reflects structural constraints&lt;/a&gt;, including inadequate feedstock availability and petrochemical infrastructure. A more durable solution would be to expand domestic production capacity, improve access to key inputs, and develop integrated infrastructure.  
-
-	Increasing the sanctioned strength of Supreme Court judges is a welcome step but will have only a limited impact on India's mounting judicial backlog, &lt;strong&gt;notes our second editorial&lt;/strong&gt;. The overwhelming &lt;a href="https://www.business-standard.com/opinion/editorial/justice-delayed-india-needs-comprehensive-justice-system-reforms-126080401725_1.html?1785864046"&gt;burden of cases still lies with High Courts and subordinate&lt;/a&gt; courts, where vacancies, inadequate infrastructure, weak case management, procedural delays, and excessive government litigation continue to impede justice delivery. The mixed record of fast-track courts further underlines the limits of creating specialised courts without broader reforms. Filling judicial vacancies, modernising court administration, expanding technology adoption, and promoting pre-litigation dispute resolution are essential to improving judicial efficiency and contract enforcement. 
-
-	India's business responsibility and sustainability reporting framework should evolve to make environmental, social, and governance disclosures more relevant, comparable, and globally credible, &lt;strong&gt;writes Ajay Tyagi&lt;/strong&gt;. He recommends introducing &lt;a href="https://www.business-standard.com/opinion/columns/india-should-align-esg-disclosures-with-global-reporting-standards-126080401640_1.html?1785864046"&gt;sector-specific reporting templates&lt;/a&gt;, benchmarking corporate performance against government sustainability targets, expanding coverage beyond the top 1,000 listed firms, and creating dedicated ESG committees at the board level. Smaller enterprises should be brought into the framework gradually through a simplified reporting regime. Aligning India's disclosure standards with internationally accepted ESG norms would, he argues, improve transparency and help attract the long-term foreign investment needed to finance sustainable growth. 
-
-	Shifting the undergraduate medical entrance examination to a computer-based format will strengthen the security and credibility of Neet, &lt;strong&gt;argues Dibyasree Ganguly&lt;/strong&gt;, but it also risks disadvantaging &lt;a href="https://www.business-standard.com/opinion/columns/digital-neet-must-ensure-fairness-alongside-greater-security-126080401672_1.html?1785864046"&gt;students with limited access to digital resources&lt;/a&gt;. Drawing on recent survey evidence, she highlights sharp disparities in computer ownership and digital literacy across rural and urban areas, income groups, and gender. Without adequate preparation opportunities, familiarity with digital interfaces could become an unintended determinant of performance. To bridge these access gaps, investments in computer infrastructure, digital literacy, and free practice facilities are essential to ensure that the transition improves not only the examination's integrity but also its fairness. 
-
-	Simon Rogers' &lt;a href="https://www.business-standard.com/book/what-we-ask-google-offers-intriguing-insights-but-few-fresh-revelations-126080401765_1.html?1785864602"&gt;&lt;em&gt;What We Ask Google&lt;/em&gt;&lt;/a&gt; explores what Google Trends data reveal about human behaviour, using search patterns to examine themes ranging from everyday tasks to love, grief, and social change. Arushi Bhaskar finds the book engaging and accessible, particularly in explaining how search data is collected and interpreted, and in tracing shifts in online behaviour after the pandemic. However, she suggests its optimism about what search data says about society is overstated, its focus on the US and UK limits its broader relevance, and its treatment of artificial intelligence's impact on search is surprisingly brief.&lt;h3&gt;More From This Section&lt;/h3&gt;&lt;a href="https://www.business-standard.com/opinion/specials/best-of-bs-opinion-institutions-must-make-room-for-today-s-world-126080301569_1.html"&gt;&lt;img alt="micro business, business" src="https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/03/full/1785775100-6806.jpg?im=FitAndFill=(336"/&gt;&lt;h2&gt;Best of BS Opinion: Institutions must make room for today's world&lt;/h2&gt;&lt;/a&gt;&lt;a href="https://www.business-standard.com/opinion/specials/best-bs-opinion-resilience-needs-many-moving-parts-to-work-together-126080200798_1.html"&gt;&lt;img alt="illustration" src="https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/02/full/1785688737-6957.jpg?im=FitAndFill=(336"/&gt;&lt;h2&gt;Best of BS Opinion: Resilience needs many moving parts to work together&lt;/h2&gt;&lt;/a&gt;&lt;a href="https://www.business-standard.com/opinion/specials/best-of-bs-opinion-what-the-gen-z-protests-tell-us-beyond-the-headlines-126073101731_1.html"&gt;&lt;img alt="Gen Z, memes, political protest, political expression, dissent, social media, Instagram, Jantar Mantar, Dharmendra Pradhan, political communication, protest culture, Habib Jalib, Javed Akhtar, Arjun film, youth politics, digital activism, India opini" src="https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/28/full/1785236487-0222.jpg?im=FitAndFill=(336"/&gt;&lt;h2&gt;Best of BS Opinion: What the Gen Z protests tell us beyond the headlines&lt;/h2&gt;&lt;/a&gt;&lt;a href="https://www.business-standard.com/opinion/specials/best-of-bs-opinion-investors-are-finally-reassessing-ai-valuations-126073001671_1.html"&gt;&lt;img alt="artificial intelligence, AI" src="https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/29/full/1782702120-4619.jpg?im=FitAndFill=(336"/&gt;&lt;h2&gt;Best of BS Opinion: Investors are finally reassessing AI valuations&lt;/h2&gt;&lt;/a&gt;&lt;a href="https://www.business-standard.com/opinion/specials/best-of-bs-opinion-states-must-reduce-debt-in-face-of-redemption-pressures-126072901720_1.html"&gt;&lt;img alt="STATE DEBT, State finances" src="https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/25/full/1782408240-4377.jpg?im=FitAndFill=(336"/&gt;&lt;h2&gt;Best of BS Opinion: States must reduce debt in face of redemption pressures&lt;/h2&gt;&lt;/a&gt;&lt;strong&gt;Topics :&lt;/strong&gt;&lt;a href="https://www.business-standard.com/about/what-is-google"&gt; Google&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/neet-ug"&gt; NEET UG&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/esg"&gt; ESG&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/pvc-pipe"&gt; PVC pipe&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/judicial-backlog"&gt; Judicial backlog&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/google-search"&gt; Google Search&lt;/a&gt;&lt;a href="https://www.business-standard.com/topic/digital-divide"&gt; Digital divide&lt;/a&gt;&lt;p&gt;&lt;a href="https://t.me/bsindiaofficial"&gt;Don't miss the most important news and views of the day. Get them on our   Telegram channel&lt;/a&gt;&lt;/p&gt;&lt;p&gt;First Published: Aug 05 2026 | 6:15 AM IST&lt;/p&gt;</content>
 </entry>
 </feed>
