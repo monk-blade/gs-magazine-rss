@@ -2,9 +2,482 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Drishti IAS — करेंट अफेयर्स (Hindi)</title>
 <link href="https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials" rel="alternate"/>
-<updated>2026-09-02T11:32:50.323412+00:00</updated>
+<updated>2026-09-02T21:11:31.380659+00:00</updated>
 <id>urn:gs-magazine-rss:drishti-current-affairs</id>
 <author><name>Drishti IAS</name></author>
+<entry>
+<title>C-DOT के सुरक्षित कम्युनिकेशन नेटवर्क के लिये 14 स्वदेशी क्वांटम प्रोडक्ट</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/c-dot-unveils-14-indigenous-quantum-products-for-secure-communication-networks</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/c-dot-unveils-14-indigenous-quantum-products-for-secure-communication-networks" rel="alternate"/>
+<published>2026-09-01T00:00:00+00:00</published>
+<updated>2026-09-01T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">C-DOT के सुरक्षित कम्युनिकेशन नेटवर्क के लिये 14 स्वदेशी क्वांटम प्रोडक्ट
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Information-Technology-and-Computers"&gt;सूचना प्रौद्योगिकी और कंप्यूटर&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Achievements-of-Indians-in-science-and-technology"&gt;विज्ञान और प्रौद्योगिकी में भारतीयों की उपलब्धियाँ&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2305167®=48&amp;amp;lang=1"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt; &lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;संचार मंत्रालय के दूरसंचार विभाग (DoT) &lt;/b&gt;के अंतर्गत &lt;b&gt;सेंटर फॉर डेवलपमेंट ऑफ टेलीमैटिक्स (C-DOT)&lt;/b&gt; ने अपनी &lt;b&gt;43वीं स्थापना दिवस समारोह&lt;/b&gt; के दौरान भारत के संचार नेटवर्क की सुरक्षा को सुदृढ़ करने के लिये 14 स्वदेशी क्वांटम उत्पादों का अनावरण किया, जिनमें &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/quantum-computing-5"&gt;&lt;b&gt;क्वांटम कुंजी वितरण (QKD) और पोस्ट-क्वांटम क्रिप्टोग्राफी (PQC)&lt;/b&gt;&lt;/a&gt; पर विशेष ध्यान केंद्रित किया गया।&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;C-DOT द्वारा विकसित प्रमुख क्वांटम तकनीकें कौन-सी हैं?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;क्वांटम कुंजी वितरण (QKD) प्रणालियाँ:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Q-AKSHAY CD:&lt;/b&gt; एक कॉम्पैक्ट फाइबर-आधारित &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/quantum-key-distribution"&gt;&lt;b&gt;क्वांटम कुंजी वितरण (QKD)&lt;/b&gt;&lt;/a&gt; प्रणाली, जो &lt;b&gt;कोहेरेंट वन-वे (COW)&lt;/b&gt; और &lt;b&gt;डिफरेंशियल फेज शिफ्ट (DPS) प्रोटोकॉल &lt;/b&gt;का उपयोग करती है। इसका उपयोग &lt;b&gt;फाइबर नेटवर्क के माध्यम से सुरक्षित क्वांटम कुंजी निर्माण और वितरण&lt;/b&gt; के लिये किया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Q-AKSHAY MD:&lt;/b&gt; एक फाइबर-आधारित &lt;b&gt;QKD&lt;/b&gt; प्रणाली, जो &lt;b&gt;मेजरमेंट डिवाइस इंडिपेंडेंट (MDI)&lt;/b&gt; प्रोटोकॉल का उपयोग करती है। इसका उपयोग &lt;b&gt;मापन उपकरणों से संबंधित कमज़ोरियों &lt;/b&gt;के विरुद्ध बेहतर सुरक्षा के साथ सुरक्षित कुंजी वितरण के लिये किया जाता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;क्वांटम-सेफ एन्क्रिप्टर:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Q-VIKRAM एवं Q-PARAKRAM:&lt;/b&gt; &lt;b&gt;पोस्ट-क्वांटम क्रिप्टोग्राफी (PQC)&lt;/b&gt; एल्गोरिदम पर आधारित &lt;b&gt;रक्षा-स्तरीय क्वांटम-सुरक्षित एन्क्रिप्टर&lt;/b&gt; हैं, जो &lt;b&gt;OSI (ओपन सिस्टम इंटरकनेक्शन) मॉडल की लेयर 2/3 (डेटा लिंक और नेटवर्क लेयर)&lt;/b&gt; पर कार्य करते हैं। इनका उपयोग रणनीतिक और रक्षा संचार को सुरक्षित करने के लिये किया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Q-AMOGH:&lt;/b&gt; एक उच्च क्षमता वाला ऑप्टिकल एन्क्रिप्टर है, जो &lt;b&gt;लेयर 1 पर 200 Gbps&lt;/b&gt; तक क्वांटम-सेफ एन्क्रिप्शन प्रदान करता है। इसका उपयोग &lt;b&gt;उच्च गति वाले ऑप्टिकल संचार नेटवर्क को सुरक्षित करने &lt;/b&gt;के लिये किया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Q-MAHASETU:&lt;/b&gt; एक वाणिज्यिक-स्तरीय क्वांटम-सेफ एन्क्रिप्टर है, जो &lt;b&gt;लेयर 2/3 पर 40 Gbps &lt;/b&gt;तक की क्षमता प्रदान करता है। इसका &lt;b&gt;उपयोग उद्यमों और महत्त्वपूर्ण संचार नेटवर्क&lt;/b&gt; की सुरक्षा के लिये किया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Q-SETU:&lt;/b&gt; एक क्वांटम-सेफ एन्क्रिप्टर है, जो &lt;b&gt;लेयर 3 पर 80 Mbps &lt;/b&gt;तक की क्षमता प्रदान करता है। इसका &lt;b&gt;उपयोग वाणिज्यिक और उद्यम डेटा संचार&lt;/b&gt; को सुरक्षित करने के लिये किया जाता है।
+&lt;ul&gt;
+&lt;li&gt;इसमें &lt;b&gt;राष्ट्रीय मानक एवं प्रौद्योगिकी संस्थान (NIST)&lt;/b&gt; के &lt;b&gt;PQC एल्गोरिदम&lt;/b&gt; को शामिल किया गया है, जो उभरते क्वांटम युग के खतरों से डेटा की सुरक्षा करते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;महत्त्वपूर्ण क्वांटम हार्डवेयर कंपोनेंट:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;C-SPD:&lt;/b&gt; एकल-फोटॉन डिटेक्टर, जिसका उपयोग क्वांटम संचार प्रणालियों में एकल-फोटॉन संकेतों का पता लगाने के लिये किया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;C-RD:&lt;/b&gt; वाइडबैंड रेडियो फ्रीक्वेंसी (RF) ड्राइवर, जिसका उपयोग क्वांटम संचार प्रणालियों में तीव्रता और फेज मॉड्यूलेटर को संचालित करने के लिये किया जाता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;एंड-पॉइंट और एक्सेस नेटवर्क सॉल्यूशन:&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260902115044-6c9a74e7.png"&gt;&lt;b&gt;&lt;img alt="C-DOT_Quantum_Products" src="http://drishtiias.com/hindi/images/uploads/upload-20260902115044-6c9a74e7.png"/&gt;&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;OSI (ओपन सिस्टम्स इंटरकनेक्शन) मॉडल&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;यह एक &lt;b&gt;7-स्तरीय ढाँचा&lt;/b&gt; है, जो यह स्पष्ट करता है कि नेटवर्क के माध्यम से उपकरणों के बीच डेटा किस प्रकार स्थानांतरित होता है:
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;स्तर 1&lt;/b&gt; – &lt;b&gt;भौतिक:&lt;/b&gt; अपरिष्कृत डेटा को भौतिक संकेतों के रूप में प्रेषित करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्तर 2 – डेटा लिंक:&lt;/b&gt; सीधे जुड़े हुए उपकरणों के बीच संचार को नियंत्रित करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्तर 3&lt;/b&gt; – &lt;b&gt;नेटवर्क:&lt;/b&gt; नेटवर्कों के बीच डेटा के &lt;b&gt;रूटिंग और एड्रेसिंग&lt;/b&gt; को नियंत्रित करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्तर 4&lt;/b&gt; –&lt;b&gt; ट्रांसपोर्ट:&lt;/b&gt; विश्वसनीय &lt;b&gt;एंड-टू-एंड डेटा डिलीवरी&lt;/b&gt; सुनिश्चित करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्तर 5 – सत्र:&lt;/b&gt; संचार सत्रों को स्थापित और प्रबंधित करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्तर 6 – प्रस्तुतीकरण:&lt;/b&gt; &lt;b&gt;डेटा प्रारूपण, एन्क्रिप्शन और संपीड़न&lt;/b&gt; का प्रबंधन करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्तर 7 – अनुप्रयोग:&lt;/b&gt; अनुप्रयोगों को सीधे नेटवर्क सेवाएँ प्रदान करता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;क्वांटम की डिस्ट्रिब्यूशन (QKD) और पोस्ट-क्वांटम क्रिप्टोग्राफी (PQC) क्या हैं?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;क्वांटम कंप्यूटिंग:&lt;/b&gt; यह एक उभरता क्षेत्र है, जो पारंपरिक कंप्यूटरों की क्षमताओं से परे कुछ जटिल समस्याओं को हल करने के लिये &lt;b&gt;क्वांटम यांत्रिकी के सिद्धांतों&lt;/b&gt; का उपयोग करता है।
+&lt;ul&gt;
+&lt;li&gt;क्वांटम संबंधी परिघटनाओं का उपयोग करके, क्वांटम कंप्यूटर कुछ विशिष्ट गणनाएँ मिनटों या घंटों में कर सकते हैं, जिन्हें पारंपरिक सुपरकंप्यूटरों द्वारा पूरा करने में हज़ारों वर्ष लग सकते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;क्वांटम की वितरण (QKD) नेटवर्क:&lt;/b&gt; QKD दो उपयोगकर्त्ताओं के बीच गुप्त एन्क्रिप्शन कुंजियों को साझा करने का एक सुरक्षित माध्यम है, जिसमें क्वांटम कणों (फोटॉन) का उपयोग किया जाता है। यह सुनिश्चित करता है कि संचार हैकिंग से सुरक्षित रहे।
+&lt;ul&gt;
+&lt;li&gt;यदि कोई व्यक्ति कुंजी को बीच में रोकने का प्रयास करता है, तो क्वांटम कणों में व्यवधान उत्पन्न हो जाता है (प्रेक्षक प्रभाव और नो-क्लोनिंग नियम के कारण), जिससे उपयोगकर्त्ताओं को तुरंत घुसपैठ की जानकारी मिल जाती है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;पोस्ट-क्वांटम क्रिप्टोग्राफी (PQC):&lt;/b&gt; यह एक प्रकार की एन्क्रिप्शन प्रणाली है, जिसे शक्तिशाली क्वांटम कंप्यूटरों द्वारा किये जाने वाले हमलों के विरुद्ध सुरक्षित रहने के लिये तैयार किया गया है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;क्वांटम की (Key) डिस्ट्रिब्यूशन (QKD)&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;पोस्ट-क्वांटम क्रिप्टोग्राफी (PQC)&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;क्वांटम यांत्रिकी (Quantum Mechanics) पर आधारित&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;शास्त्रीय गणित/क्रिप्टोग्राफी (Classical Mathematics/Cryptography) पर आधारित&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;सुरक्षित रूप से एन्क्रिप्शन कुंजियों का निर्माण और वितरण करता है&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;क्वांटम-प्रतिरोधी एन्क्रिप्शन एल्गोरिदम (Quantum-Resistant Encryption Algorithms) प्रदान करता है&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;सामान्यतः विशेषीकृत क्वांटम संचार अवसंरचना की आवश्यकता होती है&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;मौजूदा संचार नेटवर्कों पर कार्यान्वित किया जा सकता है&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;उदहारण- क्यू-अक्षय सीडी, क्यू-अक्षय एमडी&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;उदहारण- क्यू-सेतु, क्यू-महासेतु, क्यू-विक्रम&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;दूरसंचार विकास केंद्र (C-DOT)&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; &lt;b&gt;दूरसंचार विकास केंद्र (C-DOT)&lt;/b&gt; की स्थापना भारत सरकार द्वारा &lt;b&gt;24 अगस्त, 1984&lt;/b&gt; को &lt;b&gt;दूरसंचार विभाग (DoT)&lt;/b&gt; के अंतर्गत एक दूरसंचार प्रौद्योगिकी विकास केंद्र के रूप में की गई थी। 
+&lt;ul&gt;
+&lt;li&gt;C-DOT एक प्रमुख स्वदेशी दूरसंचार अनुसंधान एवं विकास (R&amp;amp;D) संस्था है, जिसने भारत की दूरसंचार क्रांति में महत्त्वपूर्ण योगदान दिया है, विशेष रूप से ग्रामीण टेलीफोनी और नेटवर्क के डिजिटलीकरण के क्षेत्र में।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रमुख प्रौद्योगिकियाँ:&lt;/b&gt; C-DOT ने &lt;b&gt;नेक्स्ट जनरेशन नेटवर्क (NGN), टेराबिट राउटर, XGS-PON, DWDM, वाई-फाई, नेटवर्क प्रबंधन प्रणाली (NMS), साइबर सुरक्षा और दूरसंचार सॉफ्टवेयर&lt;/b&gt; जैसे क्षेत्रों में नवीन समाधान विकसित किये हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;आईओटी/एम2एम (IoT/M2M):&lt;/b&gt; C-DOT ने &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/iot-revolution-and-smart-future"&gt;&lt;b&gt;इंटरनेट ऑफ थिंग्स (IoT)&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/m2m-communication-and-esim-technologieshttps://www.drishtiias.com/hindi/daily-updates/prelims-facts/m2m-communication-and-esim-technologies"&gt;&lt;b&gt;मशीन-टू-मशीन (M2M)&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, स्मार्ट सिटी और औद्योगिक IoT&lt;/b&gt; को समर्थन प्रदान करने के लिये &lt;b&gt;oneM2M मानकों पर आधारित कॉमन सर्विसेज़ प्लेटफॉर्म (CCSP)&lt;/b&gt; विकसित किया है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;उभरती प्रौद्योगिकियाँ (Emerging Technologies):&lt;/b&gt; C-DOT &lt;b&gt;4G/5G, कृत्रिम बुद्धिमत्ता (AI), क्वांटम संचार और 6G प्रौद्योगिकियों&lt;/b&gt; जैसे उभरते क्षेत्रों में अनुसंधान एवं विकास कार्य कर रहा है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रौद्योगिकी हस्तांतरण:&lt;/b&gt; C-DOT का प्रौद्योगिकी हस्तांतरण मॉडल दूरसंचार उपकरण निर्माताओं और घटक आपूर्तिकर्त्ताओं के एक मज़बूत &lt;b&gt;घरेलू पारिस्थितिकी तंत्र (Domestic Ecosystem)&lt;/b&gt; के निर्माण में सहायक रहा है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;महत्त्व:&lt;/b&gt; C-DOT भारत की आवश्यकताओं के अनुरूप स्वदेशी प्रौद्योगिकियों का विकास करके &lt;b&gt;‘आत्मनिर्भर भारत’, ‘डिजिटल इंडिया’ और स्वदेशी दूरसंचार विनिर्माण&lt;/b&gt; को बढ़ावा दे रहा है।
+&lt;ul&gt;
+&lt;li&gt;इसकी प्रौद्योगिकियों ने &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/bharatnet-project-3"&gt;&lt;b&gt;भारतनेट &lt;/b&gt;&lt;/a&gt;(BharatNet) में महत्त्वपूर्ण योगदान दिया है, जो ग्रामीण क्षेत्रों तक ब्रॉडबैंड कनेक्टिविटी के विस्तार के उद्देश्य से विकसित राष्ट्रीय ऑप्टिकल फाइबर नेटवर्क है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQs)&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;1. क्वांटम कुंजी वितरण (Quantum Key Distribution - QKD) क्या है?&lt;/b&gt; QKD एक ऐसी तकनीक है, जो &lt;b&gt;क्वांटम यांत्रिकी के सिद्धांतों&lt;/b&gt; का उपयोग करके सुरक्षित रूप से एन्क्रिप्शन कुंजियों (Encryption Keys) का निर्माण और वितरण करती है। इसमें क्वांटम अवस्थाओं (Quantum States) में परिवर्तन के माध्यम से किसी भी अवरोधन (Interception) का पता लगाया जा सकता है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. पश्च-क्वांटम क्रिप्टोग्राफी (Post-Quantum Cryptography - PQC) क्या है?&lt;/b&gt;&lt;b&gt;PQC में ऐसी शास्त्रीय क्रिप्टोग्राफिक एल्गोरिदम का उपयोग किया जाता है, &lt;/b&gt;जिन्हें भविष्य के क्वांटम कंप्यूटरों से होने वाले संभावित हमलों का सामना करने के लिये विकसित किया गया है। &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. QKD और PQC में क्या अंतर है?&lt;/b&gt; &lt;b&gt;QKD सुरक्षित कुंजी वितरण के लिये क्वांटम संचार अवसंरचना&lt;/b&gt; का उपयोग करता है, जबकि &lt;b&gt;PQC क्वांटम-प्रतिरोधी गणितीय एल्गोरिदम&lt;/b&gt; का उपयोग करता है, जो सामान्यतः मौजूदा नेटवर्क पर भी कार्य कर सकते हैं।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. Q-AKSHAY CD और Q-AKSHAY MD क्या हैं?&lt;/b&gt; दोनों &lt;b&gt;C-DOT द्वारा विकसित फाइबर-आधारित QKD प्रणालियाँ&lt;/b&gt; हैं। &lt;b&gt;Q-AKSHAY CD&lt;/b&gt; में &lt;b&gt;COW और DPS प्रोटोकॉल&lt;/b&gt; का उपयोग किया जाता है, जबकि &lt;b&gt;Q-AKSHAY MD&lt;/b&gt; में &lt;b&gt;मापन उपकरण स्वतंत्र (Measurement Device Independent - MDI) प्रोटोकॉल&lt;/b&gt; का उपयोग किया जाता है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. C-DOT के स्वदेशी क्वांटम उत्पाद भारत के लिये क्यों महत्त्वपूर्ण हैं?&lt;/b&gt; ये उत्पाद &lt;b&gt;रक्षा, दूरसंचार, उद्यम और महत्त्वपूर्ण संचार नेटवर्क&lt;/b&gt; के लिये स्वदेशी क्वांटम-सुरक्षित समाधान उपलब्ध कराकर &lt;b&gt;आत्मनिर्भर भारत, साइबर सुरक्षा और रणनीतिक स्वायत्तता&lt;/b&gt; को सुदृढ़ करते हैं।&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न  (PYQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स: &lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;'X' का जन्म UK में हुआ। उन्हें वर्ष 2025 में नोबेल पुरस्कार प्रदान किया गया। जब इस पुरस्कार की घोषणा की गई, तब वे एक अमरीकी विश्वविद्यालय में प्रोफेसर थे। 'X' को पहचानिये: (2026)&lt;/p&gt;
+&lt;p&gt;(a) मिशेल एच. डेवोरेट&lt;/p&gt;
+&lt;p&gt;(b) रिचर्ड रॉबसन&lt;/p&gt;
+&lt;p&gt;(c) जोएल मोकिर&lt;/p&gt;
+&lt;p&gt;(d) जॉन क्लार्क&lt;/p&gt;
+&lt;p&gt; &lt;b&gt;उत्तर: (C)&lt;/b&gt; &lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; “क्यूबिट (Qubit)” शब्द का उल्लेख निम्नलिखित में से कौन-से एक प्रसंग में होता है? (2022)&lt;/p&gt;
+&lt;p&gt;(a) क्लाउड सेवाएँ&lt;/p&gt;
+&lt;p&gt;(b) क्वांटम संगणन&lt;/p&gt;
+&lt;p&gt;(c) दृश्य प्रकाश संचार प्रौद्योगिकियाँ&lt;/p&gt;
+&lt;p&gt;(d) बेतार संचार प्रौद्योगिकियाँ &lt;/p&gt;
+&lt;p&gt;उत्तर: (b)&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;मेन्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; "चौथी औद्योगिक क्रांति (डिजिटल क्रांति) के प्रादुर्भाव ने ई-गवर्नेंस को सरकार का अविभाज्य अंग बनाने में पहल की।" चर्चा कीजिये। (2020)&lt;/p&gt;</content>
+</entry>
+<entry>
+<title>भारत की आगामी संवृद्धि में प्रवासी भारतीय समुदाय</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/diaspora-to-shape-india-s-next-growth-chapter</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/diaspora-to-shape-india-s-next-growth-chapter" rel="alternate"/>
+<published>2026-09-01T00:00:00+00:00</published>
+<updated>2026-09-01T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">भारत की आगामी संवृद्धि में प्रवासी भारतीय समुदाय
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Effect-of-Policies-&amp;amp;-Politics-of-Countries-on-India's-Interests"&gt;भारत के हितों पर देशों की नीतियों और राजनीति का प्रभाव&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Government-Policies-&amp;amp;-Interventions"&gt;सरकारी नीतियाँ और हस्तक्षेप&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Collection-of-resources"&gt;संसाधनों का संग्रहण&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;प्रिलिम्स के लिये: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/remittances-anchoring-india-s-external-balances"&gt;&lt;b&gt;रेमिटेंस (प्रेषित धन)&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/unleash-the-strategic-power-of-indian-diaspora"&gt;&lt;b&gt;अनिवासी भारतीय (NRIs), &lt;/b&gt;&lt;/a&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/alternative-investment-fund"&gt;&lt;b&gt;वैकल्पिक निवेश कोष (AIFs), &lt;/b&gt;&lt;/a&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/guidelines-related-to-reits-and-invits"&gt;&lt;b&gt;रियल एस्टेट इन्वेस्टमेंट ट्रस्ट (REITs), &lt;/b&gt;&lt;/a&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/infrastructure-investment-trust-invit-"&gt;&lt;b&gt;इंफ्रास्ट्रक्चर इन्वेस्टमेंट ट्रस्ट (InvITs), &lt;/b&gt;&lt;/a&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/digital-public-infrastructure-3"&gt;&lt;b&gt;डिजिटल पब्लिक इंफ्रास्ट्रक्चर&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/overseas-citizenship-of-india-scheme"&gt;&lt;b&gt;भारत के विदेशी नागरिक (OCIs), &lt;/b&gt;&lt;/a&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/foreign-contribution-regulation-act-3"&gt;&lt;b&gt;विदेशी अंशदान (विनियमन) अधिनियम (FCRA), 2010 &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;मेन्स के लिये: &lt;/b&gt;सॉफ्ट पावर तथा कूटनीतिक संबंधों में प्रवासी समुदाय की भूमिका, प्रेषण और भारत के बाह्य क्षेत्र की प्रत्यास्थता, निवेश एवं विकास पूंजी के स्रोत के रूप में प्रवासी समुदाय।&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://epaper.thehindu.com/ccidist-ws/th/th_international/issues/201987/OPS/GHDGEE5I6.1+GSHGF9HR9.1.html"&gt;&lt;b&gt;स्रोत: द हिंदू&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;चर्चा मे क्यों?&lt;/b&gt; &lt;/h2&gt;
+&lt;p&gt;भारत का &lt;b&gt;35 मिलियन &lt;/b&gt;से अधिक का &lt;b&gt;वैश्विक प्रवासी समुदाय, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-becomes-the-highest-recipient-of-remittances"&gt;&lt;b&gt;प्रेषित धन &lt;/b&gt;&lt;/a&gt;के एक प्रमुख &lt;b&gt;स्रोत &lt;/b&gt;की अपनी पारंपरिक भूमिका से आगे बढ़कर, तीव्र गति से दीर्घकालिक &lt;b&gt;निवेश और विकास पूंजी &lt;/b&gt;के एक संभावित स्रोत के रूप में उभर रहा है।&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;भारत को &lt;b&gt;वित्त वर्ष 2026 (FY26) &lt;/b&gt;में &lt;b&gt;143.6 बिलियन अमेरिकी डॉलर &lt;/b&gt;का &lt;b&gt;रेमिटेंस &lt;/b&gt;(&lt;b&gt;प्रेषित धन)&lt;/b&gt; प्राप्त हुआ, जिसने इसे विश्व में सबसे बड़ा प्राप्तकर्त्ता बना दिया। मज़बूत होते आर्थिक बुनियादी ढाँचों, बढ़ते पूंजी बाज़ारों और बेहतर &lt;b&gt;डिजिटल इंफ्रास्ट्रक्चर &lt;/b&gt;के साथ, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/the-indian-diaspora"&gt;&lt;b&gt;अनिवासी भारतीय (NRIs) &lt;/b&gt;&lt;/a&gt;अब भारत में निवेश के अवसरों की तेज़ी से तलाश कर रहे हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;सारांश&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;भारत का 3.5 करोड़ से अधिक आबादी वाला प्रवासी समुदाय अब मुख्य रूप से प्रेषण (Remittances) के स्रोत से आगे बढ़कर दीर्घकालिक निवेश, विकास पूंजी (Growth Capital), उद्यमिता और तकनीकी विशेषज्ञता के स्रोत के रूप में तेज़ी से परिवर्तित हो रहा है। UPI, GIFT IFSC जैसी डिजिटल अवसंरचनाओं के साथ-साथ AIFs, REITs और InvITs जैसे साधन भारत की विकास यात्रा में प्रवासी समुदाय की अधिक भागीदारी को सुगम बना रहे हैं।&lt;/li&gt;
+&lt;li&gt;हालाँकि प्रतिभा पलायन, प्रतिबंधात्मक आव्रजन नीतियाँ, प्रवासी श्रमिकों की असुरक्षा, पीढ़ीगत जुड़ाव में कमी, विनियामक बाधाएँ, उच्च प्रेषण लागत और सीमित राजनीतिक भागीदारी जैसी चुनौतियाँ इसकी क्षमता को सीमित करती हैं। भारत प्रवासी बॉण्ड (Diaspora Bonds), प्रतिभा परिसंचरण ढाँचे, सुदृढ़ श्रम संरक्षण, क्षेत्र-विशिष्ट प्रवासी परिषदों और अधिक गहन डिजिटल वित्तीय एकीकरण के माध्यम से इन चुनौतियों का समाधान कर सकता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;प्रवासी समुदाय भारत की विकास यात्रा को किस प्रकार आकार दे रहा है?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;प्रेषण (रेमिटेंस) से विकास पूंजी तक:&lt;/b&gt; भारत विश्व में प्रेषण का सबसे बड़ा प्राप्तकर्त्ता बना हुआ है। प्रेषण &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/current-account-deficit-6"&gt;&lt;b&gt;सकल चालू खाता प्राप्तियों &lt;/b&gt;&lt;/a&gt;में 10% से अधिक का योगदान देते हैं, जो चालू खाते और &lt;b&gt;विदेशी मुद्रा भंडार &lt;/b&gt;को समर्थन प्रदान करते हुए भारत के &lt;b&gt;बाह्य क्षेत्र की प्रत्यास्थता &lt;/b&gt;को सुदृढ़ करते हैं।
+&lt;ul&gt;
+&lt;li&gt;प्रवासी समुदाय अब पारिवारिक सहायता तक सीमित रहने के बजाय संरचित निवेश और विकास पूंजी की दिशा में तेज़ी से आगे बढ़ रहा है।&lt;/li&gt;
+&lt;li&gt;यह भारत को &lt;b&gt;दीर्घकालिक निवेश गंतव्य &lt;/b&gt;के रूप में बढ़ते विश्वास को दर्शाता है, जिसमें प्रवासी समुदाय निवेश, उद्यमिता और आर्थिक विकास में निरंतर योगदान दे रहा है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;विकसित अर्थव्यवस्थाओं की ओर बदलाव:&lt;/b&gt; अमेरिका ने &lt;b&gt;खाड़ी देशों को पीछे &lt;/b&gt;छोड़ते हुए प्रेषण का सबसे बड़ा एकल स्रोत (लगभग &lt;b&gt;27.7%) &lt;/b&gt;स्थान प्राप्त कर लिया है।
+&lt;ul&gt;
+&lt;li&gt;अब &lt;b&gt;विकसित अर्थव्यवस्थाएँ&lt;/b&gt; कुल प्रेषण प्रवाह में&lt;b&gt; 51% &lt;/b&gt;से अधिक का योगदान देती हैं, जो ज्ञान-आधारित प्रवासी समुदाय की उच्च आय क्षमता को दर्शाता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;आधुनिक परिसंपत्ति वर्गों में विविधीकरण:&lt;/b&gt; पहले NRI संपत्ति का एक बड़ा हिस्सा असमान रूप से &lt;b&gt;रियल एस्टेट, स्वर्ण या पारंपरिक बैंक &lt;/b&gt;जमा जैसे परिसंपत्तियों में निवेशित रहता था।
+&lt;ul&gt;
+&lt;li&gt;वर्तमान में भारतीय प्रवासी पूंजी देश के शेयर और पूंजी बाज़ारों को सुदृढ़ करने में महत्त्वपूर्ण भूमिका निभा रही है। प्रवासी भारतीय अब &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/alternative-investment-fund"&gt;&lt;b&gt;वैकल्पिक निवेश निधि (AIFs), &lt;/b&gt;&lt;/a&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/nifty-reits-invits-index"&gt;&lt;b&gt;रियल एस्टेट निवेश ट्रस्ट (REITs) और इंफ्रास्ट्रक्चर निवेश ट्रस्ट (InvITs) &lt;/b&gt;&lt;/a&gt;जैसे आधुनिक वित्तीय माध्यमों में सक्रिय रूप से पूंजी लगा रहे हैं। इससे &lt;b&gt;बुनियादी ढाँचे, नवीकरणीय ऊर्जा और विनिर्माण (मैन्युफैक्चरिंग) &lt;/b&gt;के क्षेत्रों को सीधे वित्तीय प्रोत्साहन मिल रहा है।&lt;/li&gt;
+&lt;li&gt;उनकी बढ़ती भागीदारी ने भारत के तीव्र गति से विकसित हो रहे &lt;b&gt;इक्विटी मार्केट &lt;/b&gt;में योगदान दिया है, जिसकी पूंजीकरण राशि जुलाई 2026 में &lt;b&gt;5.18 ट्रिलियन अमेरिकी डॉलर &lt;/b&gt;तक पहुँच गई।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भारत की व्यापक आर्थिक प्रगति का लाभ उठाना:&lt;/b&gt; प्रवासी समुदाय &lt;b&gt;GST&lt;/b&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/insolvency-and-bankruptcy-code-ibc-process"&gt;&lt;b&gt;दिवाला एवं शोधन अक्षमता संहिता &lt;/b&gt;&lt;/a&gt;&lt;b&gt;(IBC)&lt;/b&gt; द्वारा संचालित औपचारिकीकरण तथा &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/production-linked-incentive-scheme-2"&gt;&lt;b&gt;उत्पादन-संबद्ध प्रोत्साहन (PLI) &lt;/b&gt;&lt;/a&gt;&lt;b&gt;योजनाओं&lt;/b&gt; के माध्यम से विनिर्माण क्षेत्र को मिले प्रोत्साहन का लाभ उठा रहा है।
+&lt;ul&gt;
+&lt;li&gt;वैश्विक भारतीय पूंजी का प्रवाह एक स्वच्छ एवं सुदृढ़&lt;b&gt; पूंजीकृत बैंकिंग क्षेत्र &lt;/b&gt;तथा &lt;b&gt;मुद्रास्फीति नियंत्रण एवं 700 अरब अमेरिकी डॉलर&lt;/b&gt; से अधिक के &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/rise-in-forex-reserves"&gt;&lt;b&gt;विदेशी मुद्रा भंडार &lt;/b&gt;&lt;/a&gt;जैसे मज़बूत व्यापक आर्थिक संकेतकों द्वारा और तीव्र हुआ है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;डिजिटल एवं संस्थागत अवसंरचना:&lt;/b&gt; भारत की &lt;b&gt;डिजिटल सार्वजनिक अवसंरचना (DPI)&lt;/b&gt;, विशेष रूप से आधार,&lt;b&gt; UPI, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/digilocker-partners-with-umang"&gt;&lt;b&gt;डिजिलॉकर &lt;/b&gt;&lt;/a&gt;&lt;b&gt;और अकाउंट एग्रीगेटर ढाँचे &lt;/b&gt;के उपयोग ने सीमा पार निवेश में आने वाली भौगोलिक बाधाओं को समाप्त कर दिया है।
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;इलेक्ट्रॉनिक KYC (e-KYC) और डिजिटल ऑनबोर्डिंग &lt;/b&gt;ने NRI के लिये पूंजी निवेश की प्रक्रिया को सरल एवं सुगम बना दिया है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भारतीय रिज़र्व बैंक (RBI) और भारतीय प्रतिभूति एवं विनिमय बोर्ड (SEBI)&lt;/b&gt; द्वारा किये गए विनियामक सुधारों ने बाज़ार की पारदर्शिता और विश्वसनीयता को सुदृढ़ किया है। इसी क्रम में &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/gift-city-as-reinsurance-hub"&gt;&lt;b&gt;GIFT IFSC (गुजरात इंटरनेशनल फाइनेंस टेक-सिटी)&lt;/b&gt; &lt;/a&gt;का संचालन प्रवासी समुदाय को भारत के भीतर ही एक वैश्विक रूप से प्रतिस्पर्द्धी, डॉलर-आधारित वित्तीय सहायता उपलब्ध करा रहा है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रतिभा लाभ और तकनीकी हस्तांतरण:&lt;/b&gt; वैश्विक प्रौद्योगिकी कंपनियों और &lt;b&gt;अनुसंधान एवं विकास (R&amp;amp;D) प्रयोगशालाओं &lt;/b&gt;में नेतृत्व करने वाले भारतीय पेशेवर ज्ञान हस्तांतरण को बढ़ावा देने में महत्त्वपूर्ण भूमिका निभा रहे हैं। यह &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-semiconductor-mission-2-0"&gt;&lt;b&gt;भारत सेमीकंडक्टर मिशन &lt;/b&gt;&lt;/a&gt;&lt;b&gt;(ISM)&lt;/b&gt; और &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/national-quantum-mission-4"&gt;&lt;b&gt;राष्ट्रीय क्वांटम मिशन&lt;/b&gt;&lt;/a&gt; जैसी उभरती पहलों के लिये अत्यंत महत्त्वपूर्ण है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;रणनीतिक एवं कूटनीतिक प्रभाव:&lt;/b&gt; &lt;b&gt;प्रवासी समुदाय &lt;/b&gt;एक स्वाभाविक &lt;b&gt;सॉफ्ट पावर परिसंपत्ति &lt;/b&gt;के रूप में कार्य करता है। &lt;b&gt;अमेरिका, ब्रिटेन और कनाडा &lt;/b&gt;जैसे देशों में उनकी बढ़ती &lt;b&gt;राजनीतिक एवं कॉर्पोरेट भागीदारी अनुकूल विदेश नीतियों&lt;/b&gt; के निर्माण, रणनीतिक साझेदारियों को सुरक्षित करने तथा द्विपक्षीय व्यापार समझौतों को प्रभावित करने में सहायता करती है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;विकास के लिये प्रवासी समुदाय की क्षमता का उपयोग करने में प्रमुख चुनौतियाँ क्या हैं?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;निम्न-कौशल श्रमिकों की आर्थिक असुरक्षा:&lt;/b&gt; भारतीय प्रवासी समुदाय का एक बड़ा हिस्सा &lt;b&gt;खाड़ी सहयोग परिषद (GCC) देशों&lt;/b&gt; में अर्द्ध-कुशल और निम्न-कौशल श्रमिकों के रूप में कार्यरत है।
+&lt;ul&gt;
+&lt;li&gt;इन्हें अस्थिर तेल कीमतों के कारण उत्पन्न गंभीर रोज़गार असुरक्षा का सामना करना पड़ता है तथा ये &lt;b&gt;प्रतिबंधात्मक ‘कफाला’ प्रणाली&lt;/b&gt; जैसी शोषणकारी श्रम प्रथाओं के अधीन रहते हैं, जो उनकी गतिशीलता और वेतन सुरक्षा को सीमित करती हैं। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रतिबंधात्मक आव्रजन एवं वीज़ा नीतियाँ:&lt;/b&gt; विकसित अर्थव्यवस्थाएँ तेज़ी से संरक्षणवादी उपाय अपना रही हैं।
+&lt;ul&gt;
+&lt;li&gt;कठोर वीज़ा मानदंड और बढ़ती लागत (जैसे अमेरिका में &lt;b&gt;H-1B वीज़ा शुल्क में भारी वृद्धि&lt;/b&gt;) पश्चिमी देशों में &lt;b&gt;उच्च-कौशल भारतीय प्रतिभाओं &lt;/b&gt;की गतिशीलता, &lt;b&gt;आय तथा व्यावसायिक विकास को प्रत्यक्ष रूप &lt;/b&gt;से सीमित करती हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रतिभा पलायन (Brain Drain) बनाम प्रतिभा परिसंचरण (Brain Circulation):&lt;/b&gt; भारत से उत्कृष्ट वैज्ञानिक, चिकित्सा और इंजीनियरिंग प्रतिभाएँ बेहतर अनुसंधान और आकर्षक वेतन के अवसरों की तलाश में लगातार विदेशों की ओर रुख कर रही हैं।
+&lt;ul&gt;
+&lt;li&gt;दूसरी ओर, &lt;b&gt;देश के घरेलू संस्थानों &lt;/b&gt;में वित्तीय संसाधनों, आधुनिक अवसंरचना और पर्याप्त अवशोषण क्षमता की कमी बनी हुई है। इस कारण विदेशों में कार्यरत इन विशेषज्ञों को स्वदेश लौटने या भारत के घरेलू &lt;b&gt;अनुसंधान एवं विकास (R&amp;amp;D) क्षेत्र &lt;/b&gt;में प्रभावी योगदान देने के लिये पर्याप्त प्रोत्साहन नहीं मिल पाता है। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;पीढ़ीगत जुड़ाव में कमी:&lt;/b&gt; पहली पीढ़ी के प्रवासियों की तुलना में, दूसरी और तीसरी पीढ़ी के &lt;b&gt;'भारत के विदेशी नागरिक' (OCI) तथा 'भारतीय मूल के व्यक्ति' (PIO) &lt;/b&gt;भारत से वैचारिक, सांस्कृतिक एवं आर्थिक रूप से नहीं जुड़े होते। 
+&lt;ul&gt;
+&lt;li&gt;यदि उनके लिये सुव्यवस्थित और लक्षित सहभागिता मॉडल विकसित नहीं किये जाते हैं, तो उनकी &lt;b&gt;उद्यम पूंजी (Venture Capital) तथा तकनीकी/बौद्धिक दक्षता&lt;/b&gt; का लाभ भारत को प्राप्त नहीं हो पाता है। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;सीमित राजनीतिक भागीदारी: अनिवासी भारतीयों (NRIs) को देश की राजनीतिक प्रक्रिया में प्रत्यक्ष भागीदारी न मिल पाने के कारण 'लोकतांत्रिक घाटे' (Democratic Deficit) का अनुभव होता है, क्योंकि वोट डालने के लिये उनका भारत में भौतिक रूप से मौजूद होना अनिवार्य है। &lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;ई-पोस्टल या ऑनलाइन वोटिंग जैसी आधुनिक प्रणालियों के न होने से नीतिगत निर्णयों में उनकी आवाज़ शामिल नहीं हो पाती, जिससे उनमें राजनीतिक रूप से उपेक्षित होने का अहसास उत्पन्न होता है। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;परोपकारी एवं विनियामक बाधाएँ:&lt;/b&gt; भारत के सामाजिक विकास में निवेश करने की प्रवासी समुदाय की प्रबल इच्छा के बावजूद, उनके प्रयास प्रायः &lt;b&gt;नौकरशाही लालफीताशाही और &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/foreign-contribution-regulation-act-3"&gt;&lt;b&gt;विदेशी अंशदान (विनियमन) अधिनियम (FCRA), 2010&lt;/b&gt; &lt;/a&gt;के अंतर्गत कठोर अनुपालन आवश्यकताओं के कारण बाधित होते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;डेटा एवं नीति विखंडन:&lt;/b&gt; भारत के पास अपने विदेशों में निवास करने वाले नागरिकों का एक व्यापक, एकीकृत और निरंतर अद्यतन किया जाने वाला &lt;b&gt;डेटाबेस उपलब्ध नहीं है।&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;यद्यपि &lt;b&gt;ई-माइग्रैट (&lt;/b&gt;&lt;b&gt;&lt;i&gt;e-Migrate)&lt;/i&gt;&lt;/b&gt;&lt;b&gt; और मदद (&lt;/b&gt;&lt;b&gt;&lt;i&gt;Madad)&lt;/i&gt;&lt;/b&gt; जैसे शिकायत निवारण तंत्र मौजूद हैं, लेकिन उनकी विखंडित प्रकृति के कारण भू-राजनीतिक संकटों या व्यक्तिगत कानूनी सहायता के मामलों में त्वरित प्रतिक्रिया में विलंब होता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;नस्लवाद एवं ज़ेनोफोबिया:&lt;/b&gt; गंतव्य देशों में बढ़ती प्रवासी-विरोधी भावना और लक्षित घृणा अपराध (जैसे ऑस्ट्रेलिया, अमेरिका और कनाडा में छात्रों से संबंधित हालिया घटनाएँ) &lt;b&gt;असुरक्षा का वातावरण उत्पन्न करते हैं, जिससे प्रवासी समुदाय का मनोबल प्रभावित होता है और वाणिज्य दूतावासों&lt;/b&gt; के संसाधनों पर दबाव बढ़ता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;असंतुलित प्रेषण निर्भरता: चालू खाता घाटे (CAD) &lt;/b&gt;की भरपाई के लिये प्रेषित &lt;b&gt;धन (रेमिटेंस)&lt;/b&gt; पर अत्यधिक निर्भरता देश के घरेलू विनिर्माण और निर्यात क्षेत्रों की संरचनात्मक कमज़ोरियों को छिपा देती है।
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;प्रेषण मूल &lt;/b&gt;रूप से निजी उपभोग हस्तांतरण होते हैं, जो स्थानीय मांग को बढ़ावा देते हैं, लेकिन ये औद्योगिक क्षमता निर्माण के लिये आवश्यक&lt;b&gt; दीर्घकालिक पूंजी निवेश (FDI) &lt;/b&gt;का विकल्प नहीं बन सकते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रेषण की लागत:&lt;/b&gt; डिजिटल प्रगति के बावजूद, पारंपरिक बैंकिंग माध्यमों से धन भेजने की वैश्विक औसत लागत अभी भी &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/un-sustainable-development-report-2026"&gt;&lt;b&gt;संयुक्त राष्ट्र सतत विकास लक्ष्य &lt;/b&gt;&lt;/a&gt;&lt;b&gt;(SDG 10.c) के 3% लक्ष्य&lt;/b&gt; से अधिक है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;अनौपचारिक माध्यम:&lt;/b&gt; अनौपचारिक माध्यमों &lt;b&gt;(जैसे &lt;/b&gt;&lt;b&gt;&lt;i&gt;हवाला&lt;/i&gt;&lt;/b&gt;&lt;b&gt;) &lt;/b&gt;का समानांतर अस्तित्व अभी भी एक चुनौती बना हुआ है। इनका उपयोग &lt;b&gt;KYC दस्तावेज़ीकरण &lt;/b&gt;और औपचारिक विदेशी मुद्रा माध्यमों से बचने के लिये किया जाता है, जिससे &lt;b&gt;धन शोधन &lt;/b&gt;का जोखिम उत्पन्न होता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;अवैध भर्ती एवं मानव तस्करी:&lt;/b&gt; धोखाधड़ी करने वाले &lt;b&gt;भर्ती एजेंट और बिचौलिये&lt;/b&gt; विदेशों में रोज़गार के झूठे वादों के माध्यम से भारतीयों को आकर्षित कर सकते हैं, जिसके परिणामस्वरूप शोषण, वेतन चोरी, जबरन श्रम और असुरक्षित कार्य परिस्थितियाँ उत्पन्न होती हैं।
+&lt;ul&gt;
+&lt;li&gt;भारतीयों को &lt;b&gt;रूस–यूक्रेन युद्ध&lt;/b&gt; में सहायता के लिये भ्रामक तरीके से भर्ती किये जाने या मजबूर किये जाने के मामले धोखाधड़ीपूर्ण विदेशी भर्ती से जुड़े जोखिमों को उजागर करते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;‘डंकी रूट’ &lt;/b&gt;के माध्यम से अनियमित प्रवासन भारतीयों को &lt;b&gt;मानव तस्करी, शोषण, हिरासत और जीवन की हानि &lt;/b&gt;जैसे जोखिमों के संपर्क में लाता है, साथ ही भारत की अंतर्राष्ट्रीय छवि को भी प्रभावित करता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;प्रवासी भारतीयों के साथ जुड़ाव बढ़ाने हेतु भारत की पहल&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;ओवरसीज़ सिटीज़न ऑफ इंडिया (OCI) योजना:&lt;/b&gt; यह योजना पात्र प्रवासी भारतीयों को &lt;b&gt;आजीवन एवं बहु-प्रवेश वीज़ा सुविधा&lt;/b&gt; प्रदान करती है तथा मतदान अधिकार और कृषि भूमि के स्वामित्व जैसे अपवादों को छोड़कर, कुछ आर्थिक, वित्तीय एवं शैक्षणिक क्षेत्रों में उन्हें &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/unleash-the-strategic-power-of-indian-diaspora"&gt;&lt;b&gt;अनिवासी भारतीयों (NRIs) &lt;/b&gt;&lt;/a&gt;&lt;b&gt;के समान अधिकार&lt;/b&gt; उपलब्ध कराती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रवासी भारतीय दिवस (PBD):&lt;/b&gt; प्रत्येक दो वर्ष में &lt;b&gt;9 जनवरी&lt;/b&gt; को आयोजित होने वाला यह प्रवासी सम्मेलन प्रवासी भारतीयों के साथ &lt;b&gt;संवाद, जुड़ाव, नेटवर्क निर्माण और कूटनीतिक सहयोग&lt;/b&gt; के लिये एक प्रमुख मंच प्रदान करता है। इसमें &lt;b&gt;प्रवासी भारतीय सम्मान पुरस्कार&lt;/b&gt; भी प्रदान किया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;वज्र (VAJRA - विजिटिंग एडवांस्ड जॉइंट रिसर्च) योजना:&lt;/b&gt; यह योजना प्रवासी भारतीय वैज्ञानिकों को भारत के &lt;b&gt;सार्वजनिक रूप से वित्तपोषित अनुसंधान संस्थानों&lt;/b&gt; में उच्च-स्तरीय सहयोगात्मक अनुसंधान गतिविधियों में भाग लेने का अवसर प्रदान करती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रभास (PRABHASS - प्रवासी भारतीय अकादमिक और वैज्ञानिक संपर्क):&lt;/b&gt; यह पहल वैश्विक भारतीय विज्ञान एवं प्रौद्योगिकी (S&amp;amp;T) समुदाय को भारतीय मंत्रालयों और संस्थानों से जोड़ती है, ताकि &lt;b&gt;देश की तकनीकी चुनौतियों के समाधान एवं नवाचार को बढ़ावा&lt;/b&gt; दिया जा सके।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;प्रेषण (Remittances) में वृद्धि&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;FCNR(B) स्वैप सुविधा (2025–26):&lt;/b&gt; RBI बैंकों को नई &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/indias-record-forex-reserves-fcnr-b-swap-facility"&gt;&lt;b&gt;विदेशी मुद्रा अनिवासी (बैंक)&lt;/b&gt;&lt;/a&gt;&lt;b&gt; जमाओं&lt;/b&gt; के विरुद्ध &lt;b&gt;डॉलर/रुपया स्वैप (USD/INR Swap)&lt;/b&gt; सुविधा उपलब्ध कराता है। इससे बैंकों की &lt;b&gt;हेजिंग लागत में कमी&lt;/b&gt; आती है तथा अनिवासी भारतीयों (NRIs) से विदेशी मुद्रा जमाओं के &lt;b&gt;संग्रह और प्रवाह को प्रोत्साहन&lt;/b&gt; मिलता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;UPI का अंतर्राष्ट्रीयकरण:&lt;/b&gt; भारत साझेदार देशों के साथ &lt;b&gt;यूपीआई आधारित सीमा पार भुगतान संपर्क&lt;/b&gt; का विस्तार कर रहा है। इससे विदेशों में रहने वाले भारतीयों और विदेशी उपयोगकर्त्ताओं को संबंधित भुगतान प्रणालियों के माध्यम से &lt;b&gt;सुगम, त्वरित एवं सुरक्षित भुगतान सुविधा&lt;/b&gt; प्राप्त होती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रत्यक्ष विदेशी निवेश (FDI) में समकक्षता:&lt;/b&gt; अनिवासी भारतीयों (NRIs) और ओवरसीज़ सिटीज़न ऑफ इंडिया (OCIs) द्वारा &lt;b&gt;गैर-प्रत्यावर्तनीय (Non-Repatriable) आधार&lt;/b&gt; पर किये गए निवेश को घरेलू निवेश के समान माना जाता है। इससे ऐसे निवेशों को &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/foreign-direct-investment-in-india"&gt;&lt;b&gt;प्रत्यक्ष विदेशी निवेश (FDI) &lt;/b&gt;&lt;/a&gt;&lt;b&gt;संबंधी कड़े प्रतिबंधों से छूट&lt;/b&gt; प्राप्त होती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भारत–यूएई स्थानीय मुद्रा निपटान (LCS) ढाँचा (2023):&lt;/b&gt; यह सीमा पार लेन-देन के लिये &lt;b&gt;भारतीय रुपया–संयुक्त अरब अमीरात दिरहम (INR–AED) में निपटान&lt;/b&gt; की सुविधा प्रदान करता है। इससे मध्यस्थ मुद्राओं पर निर्भरता कम होती है तथा मुद्रा परिवर्तन लागत में कमी आती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;विदेशी मुद्रा प्रबंधन (प्राप्ति एवं भुगतान का तरीका) विनियम, 2023:&lt;/b&gt; यह विनियम &lt;b&gt;भारतीय रुपये और विदेशी मुद्राओं में सीमा पार प्राप्तियों एवं भुगतानों&lt;/b&gt; के लिये अनुमत माध्यमों का विस्तार करता है, जिससे स्थानीय मुद्रा आधारित लेन-देन को बढ़ावा मिलता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;भारत अपनी प्रवासी आबादी का विकास के लिये बेहतर उपयोग कैसे कर सकता है?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;‘इंडिया स्टैक’ का वैश्वीकरण:&lt;/b&gt; शीर्ष प्रेषण गलियारों (जैसे अमेरिका, ब्रिटेन और कनाडा) तक &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/10-years-of-the-unified-payments-interface"&gt;&lt;b&gt;UPI–RuPay के विस्तार&lt;/b&gt; &lt;/a&gt;को बढ़ावा देना आवश्यक है, ताकि सीमा पार लेन-देन को दीर्घकालिक रूप से अधिक समावेशी बनाया जा सके और मध्यस्थ संस्थाओं द्वारा लगाए जाने वाले अप्रत्यक्ष शुल्कों को समाप्त किया जा सके।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रवासी बॉण्ड का पुनर्जीवन:&lt;/b&gt; भारत ने पूर्व में &lt;b&gt;इंडिया डेवलपमेंट बॉण्ड (1991), रिसर्जेंट इंडिया बॉण्ड (1998) और इंडिया मिलेनियम डिपॉजिट (2000)&lt;/b&gt; जैसे वित्तीय साधनों के माध्यम से प्रवासी भारतीयों की विदेशी बचत को विकासात्मक उद्देश्यों के लिये संगठित किया है।
+&lt;ul&gt;
+&lt;li&gt;सरकार विदेशों में रहने वाले भारतीयों की बचत को अवसंरचना, हरित ऊर्जा और अन्य दीर्घकालिक विकास परियोजनाओं में निवेश हेतु प्रवाहित करने के लिये एक आधुनिक प्रवासी बॉण्ड  (Diaspora Bond) को पुनः प्रारंभ करने पर विचार कर सकती है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;‘ब्रेन सर्कुलेशन’ का संस्थागतकरण (Institutionalizing ‘Brain Circulation’):&lt;/b&gt; स्थायी वापसी प्रवास (Return Migration) पर केवल ध्यान केंद्रित करने के बजाय, भारत को ऐसे &lt;b&gt;गतिशील और अनुकूलनीय तंत्र विकसित करने चाहिये&lt;/b&gt;, जो विजिटिंग फेलोशिप, संयुक्त पेटेंट और दूरस्थ मार्गदर्शन (Remote Mentorship) जैसे माध्यमों से प्रवासी शिक्षाविदों एवं विशेषज्ञों को भारतीय विश्वविद्यालयों तथा अनुसंधान एवं विकास (R&amp;amp;D) पारिस्थितिकी तंत्र से जोड़ सकें।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;क्षेत्र-विशिष्ट प्रवासी सलाहकार परिषदों की स्थापना:&lt;/b&gt; भारत को &lt;b&gt;कृत्रिम बुद्धिमत्ता (AI), हरित हाइड्रोजन और जैव-प्रौद्योगिकी (Biotechnology)&lt;/b&gt; जैसे उच्च-विशेषीकृत क्षेत्रों में नीति निर्माण को दिशा देने के लिये वैश्विक भारतीय कॉरपोरेट नेतृत्वकर्त्ताओं और विशेषज्ञों को सम्मिलित करते हुए औपचारिक सलाहकार परिषदों का गठन करना चाहिये।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;आर्थिक कूटनीति में प्रवासी भारतीयों की भूमिका:&lt;/b&gt; भारत को नीति समर्थन (Policy Advocacy), व्यापार विस्तार और रणनीतिक साझेदारियों को बढ़ावा देने के लिये &lt;b&gt;प्रभावशाली भारतीय मूल के पेशेवरों एवं व्यावसायिक नेतृत्वकर्त्ताओं&lt;/b&gt; को सक्रिय रूप से शामिल करना चाहिये। उदाहरण के लिये, अमेरिका स्थित भारतीय प्रवासियों ने वर्ष &lt;b&gt;2008 में संपन्न भारत-अमेरिका असैन्य परमाणु समझौते &lt;/b&gt;के लिये समर्थन जुटाने में महत्त्वपूर्ण भूमिका निभाई थी।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;ब्लू-कॉलर श्रमिकों की सुरक्षा को सुदृढ़ करना:&lt;/b&gt; अर्द्ध-कुशल श्रमिकों के अधिकारों और वित्तीय सुरक्षा सुनिश्चित करने के लिये खाड़ी सहयोग परिषद (GCC) देशों के साथ &lt;b&gt;व्यापक सामाजिक सुरक्षा समझौतों (SSAs)&lt;/b&gt; तथा &lt;b&gt;पारदर्शी द्विपक्षीय श्रम गतिशीलता समझौतों (Labour Mobility Pacts)&lt;/b&gt; को सक्रिय रूप से आगे बढ़ाया जाना चाहिये।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;ओसीआई (OCI) ढाँचे का पुनर्गठन:&lt;/b&gt; OCI व्यवस्था को केवल सांस्कृतिक जुड़ाव के मॉडल से आगे बढ़ाकर &lt;b&gt;निवेश-केंद्रित और अवसर-आधारित आर्थिक ढाँचे&lt;/b&gt; में परिवर्तित करने की आवश्यकता है। प्रवासी-नेतृत्व वाले उद्यम पूंजी कोषों (Venture Funds) के लिये सरल एवं सुव्यवस्थित नियामकीय स्वीकृति प्रदान करने से युवा और दूसरी पीढ़ी के प्रवासी भारतीयों की पूंजी एवं उद्यमशीलता को आकर्षित किया जा सकेगा।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;लक्षित वित्तीय साक्षरता:&lt;/b&gt; खाड़ी देशों में कार्यरत कम-कुशल प्रवासी श्रमिकों के बीच &lt;b&gt;डिजिटल वित्तीय साक्षरता&lt;/b&gt; को बढ़ावा देना आवश्यक है, ताकि उन्हें उच्च लागत वाले पारंपरिक धन अंतरण माध्यमों से कम लागत वाले डिजिटल भुगतान प्लेटफॉर्मों की ओर स्थानांतरित किया जा सके।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;निष्कर्ष &lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;प्रवासी समुदाय अब केवल भारत की सीमाओं के बाहर स्थित &lt;b&gt;जनसांख्यिकीय लाभांश&lt;/b&gt; नहीं रह गया है, बल्कि यह &lt;b&gt;पूंजी निर्माण का एक महत्त्वपूर्ण साधन&lt;/b&gt; बन चुका है। अपनी वैश्विक संपदा को भारत के परिपक्व &lt;b&gt;डिजिटल सार्वजनिक अवसंरचना (DPI)&lt;/b&gt; और सुदृढ़ &lt;b&gt;समष्टि आर्थिक आधारों (Macroeconomic Fundamentals)&lt;/b&gt; के साथ समेकित करके, प्रवासी भारतीय विकसित अर्थव्यवस्था की ओर भारत के संक्रमण को प्रत्यक्ष रूप से वित्तपोषित कर रहे हैं। &lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;दृष्टि मेन्स प्रश्न:&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;भारत का प्रवासी समुदाय केवल प्रेषण आय का स्रोत न रहकर दीर्घकालिक विकास पूंजी का एक प्रमुख स्रोत बन सकता है। चर्चा कीजिये।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;अक्सर पूछे जाने वाले प्रश्न (FAQs)&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;1. OCI योजना क्या है?&lt;/b&gt;&lt;b&gt;ओवरसीज़ सिटीज़न ऑफ इंडिया (OCI) योजना&lt;/b&gt; पात्र प्रवासी भारतीयों को &lt;b&gt;आजीवन एवं बहु-प्रवेश वीज़ा&lt;/b&gt; प्रदान करती है तथा कुछ निर्दिष्ट आर्थिक, वित्तीय और शैक्षणिक मामलों में उन्हें &lt;b&gt;अनिवासी भारतीयों (NRIs) के समान अधिकार&lt;/b&gt; उपलब्ध कराती है, हालाँकि इसमें मतदान अधिकार एवं कृषि भूमि के स्वामित्व का अधिकार शामिल नहीं है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. वज्र (VAJRA) योजना क्या है?&lt;/b&gt;&lt;b&gt;वज्र (Visiting Advanced Joint Research) योजना&lt;/b&gt; प्रवासी भारतीय वैज्ञानिकों को भारत के &lt;b&gt;सार्वजनिक रूप से वित्तपोषित संस्थानों&lt;/b&gt; में उच्च-स्तरीय सहयोगात्मक अनुसंधान करने का अवसर प्रदान करती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. प्रवासी भारतीय दिवस (Pravasi Bharatiya Divas) का महत्त्व क्या है?&lt;/b&gt;प्रत्येक दो वर्ष में &lt;b&gt;9 जनवरी&lt;/b&gt; को आयोजित होने वाला प्रवासी भारतीय दिवस, &lt;b&gt;प्रवासी भारतीयों के जुड़ाव, नेटवर्क निर्माण और कूटनीतिक सहयोग&lt;/b&gt; के लिये एक मंच प्रदान करता है। इसके अंतर्गत &lt;b&gt;प्रवासी भारतीय सम्मान पुरस्कार&lt;/b&gt; भी प्रदान किया जाता है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. UPI–PayNow लिंक प्रवासी भारतीयों को कैसे लाभ पहुँचाता है?&lt;/b&gt;यह भारत के &lt;b&gt;UPI और सिंगापुर के PayNow&lt;/b&gt; को जोड़ता है, जिससे त्वरित &lt;b&gt;सीमा पार व्यक्ति-से-व्यक्ति (P2P) धन अंतरण&lt;/b&gt; संभव होता है तथा अधिक तेज़, कुशल और कम लागत वाली प्रेषण सेवाओं को बढ़ावा मिलता है।&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;मेन्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 1. &lt;/b&gt;‘'अमेरिका एवं यूरोपीय देशों की राजनीति और अर्थव्यवस्था में भारतीय प्रवासियों को एक निर्णायक भूमिका निभानी है'। उदाहरणों सहित टिप्पणी कीजिये। (2020)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 2.&lt;/b&gt; दक्षिण-पूर्व एशियाई देशों की अर्थव्यवस्था एवं समाज में भारतीय प्रवासियों को एक महत्त्वपूर्ण भूमिका निभानी है। इस संदर्भ में, दक्षिण-पूर्व एशिया में भारतीय प्रवासियों की भूमिका का मूल्यनिरूपण कीजिये। (2017)&lt;/p&gt;</content>
+</entry>
+<entry>
+<title>साइबर-फिजिकल सिस्टम</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/cyber-physical-systems-2</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/cyber-physical-systems-2" rel="alternate"/>
+<published>2026-09-01T00:00:00+00:00</published>
+<updated>2026-09-01T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">साइबर-फिजिकल सिस्टम
+
+
+
+
+
+
+
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Government-Policies-&amp;amp;-Interventions"&gt;सरकारी नीतियाँ और हस्तक्षेप&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Achievements-of-Indians-in-science-and-technology"&gt;विज्ञान और प्रौद्योगिकी में भारतीयों की उपलब्धियाँ&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Information-Technology-and-Computers"&gt;सूचना प्रौद्योगिकी और कंप्यूटर&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304858®=6&amp;amp;lang=1"&gt;&lt;b&gt;स्रोत: पीआईबी &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;सरकार ने &lt;b&gt;प्रौद्योगिकी-आधारित भविष्य के निर्माण&lt;/b&gt; में &lt;b&gt;साइबर-फिजिकल सिस्टम (Cyber-Physical Systems - CPS)&lt;/b&gt; के बढ़ते महत्त्व को रेखांकित किया है। भारत &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-mission-on-interdisciplinary-cyber-physical-systems-1"&gt;&lt;b&gt;अंतःविषयक साइबर-भौतिक प्रणालियों पर राष्ट्रीय मिशन&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (National Mission on Interdisciplinary Cyber-Physical Systems - NM-ICPS)&lt;/b&gt; के माध्यम से एक सुदृढ़ CPS पारिस्थितिकी तंत्र विकसित कर रहा है। &lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;साइबर-फिजिकल सिस्टम (CPS) के प्रमुख तथ्य क्या हैं?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; &lt;b&gt;साइबर-भौतिक प्रणालियाँ (CPS)&lt;/b&gt; ऐसी बुद्धिमत्तापूर्ण प्रणालियाँ हैं, जो &lt;b&gt;सेंसर, कंप्यूटिंग प्रणालियों, सॉफ्टवेयर, संचार नेटवर्क और एक्चुएटर्स (Actuators)&lt;/b&gt; के माध्यम से भौतिक एवं डिजिटल क्षेत्र को एकीकृत करती हैं। ये प्रणालियाँ मशीनों को &lt;b&gt;वास्तविक समय (Real-Time) की परिस्थितियों को महसूस करने, विश्लेषण करने, निर्णय लेने और प्रतिक्रिया देने&lt;/b&gt; में सक्षम बनाती हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;CPS की कार्यप्रणाली:&lt;/b&gt; CPS एक सतत &lt;b&gt;प्रतिपुष्टि तंत्र&lt;/b&gt; के माध्यम से &lt;b&gt;कंप्यूटिंग, संचार और भौतिक प्रक्रियाओं&lt;/b&gt; को जोड़ती है। सेंसरों द्वारा प्राप्त सूचनाओं का कंप्यूटिंग प्रणालियों के माध्यम से विश्लेषण किया जाता है, जिसके पश्चात एक्चुएटर्स आवश्यक प्रतिक्रियात्मक कार्यों को संपादित करते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;CPS के अनुप्रयोगों के उदाहरण:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;स्वायत्त वाहन:&lt;/b&gt; चालक-रहित वाहन सेंसर और कृत्रिम बुद्धिमत्ता (AI) आधारित प्रणालियों का उपयोग करके न्यूनतम मानवीय हस्तक्षेप के साथ सड़कों पर संचालित होते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्मार्ट विनिर्माण:&lt;/b&gt; स्मार्ट कारखाने स्वचालित निगरानी, अनुकूलन (Optimisation) और &lt;b&gt;उद्योग 4.0&lt;/b&gt; अनुप्रयोगों के लिये CPS का उपयोग करते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्वास्थ्य सेवा:&lt;/b&gt; बुद्धिमत्तापूर्ण चिकित्सा उपकरण रोगियों की निरंतर निगरानी करते हैं और समय पर चिकित्सीय हस्तक्षेप में सहायता प्रदान करते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्मार्ट भवन:&lt;/b&gt; स्वचालित प्रणालियाँ वास्तविक समय की परिस्थितियों के आधार पर प्रकाश व्यवस्था, तापमान नियंत्रण और ऊर्जा उपयोग को नियंत्रित करती हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;महत्त्व:&lt;/b&gt; CPS &lt;b&gt;बुद्धिमत्तापूर्ण, परस्पर जुड़े हुए और त्वरित प्रतिक्रिया देने वाले प्रणालियों&lt;/b&gt; के विकास को सक्षम बनाता है, जिससे स्वचालन, स्वास्थ्य सेवा, परिवहन, विनिर्माण तथा स्मार्ट अवसंरचना जैसे क्षेत्रों में प्रगति को बढ़ावा मिलता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260902120757-eabb2ed1.png"&gt;&lt;img alt="Cyber-Physical Systems" src="http://drishtiias.com/hindi/images/uploads/upload-20260902120757-eabb2ed1.png"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;अंतःविषयक साइबर-भौतिक प्रणालियों पर राष्ट्रीय मिशन (NM-ICPS) के प्रमुख तथ्य क्या हैं?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; विज्ञान एवं प्रौद्योगिकी विभाग (DST) भारत में &lt;b&gt;स्वदेशी साइबर-भौतिक प्रणाली (CPS) क्षमताओं&lt;/b&gt; के विकास के लिये &lt;b&gt;अंतःविषयक साइबर-भौतिक प्रणालियों पर राष्ट्रीय मिशन (NM-ICPS)&lt;/b&gt; का कार्यान्वयन कर रहा है। इस मिशन को केंद्रीय मंत्रिमंडल द्वारा &lt;b&gt;वर्ष 2018 में नौ वर्षों की अवधि के लिये ₹3,660 करोड़ के वित्तीय परिव्यय&lt;/b&gt; के साथ स्वीकृति प्रदान की गई थी।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;उद्देश्य:&lt;/b&gt; यह मिशन शिक्षा जगत, उद्योग, सरकारी संस्थानों और अंतर्राष्ट्रीय संगठनों को एक मंच पर लाकर प्राथमिकता वाले क्षेत्रों में &lt;b&gt;CPS अनुसंधान, नवाचार तथा अनुप्रयोगों&lt;/b&gt; को बढ़ावा देने के लिये एक राष्ट्रीय ढाँचा उपलब्ध कराता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;नवाचार पारिस्थितिकी तंत्र:&lt;/b&gt; NM-ICPS &lt;b&gt;अनुसंधान एवं विकास (R&amp;amp;D), अनुवादकीय अनुसंधान, उत्पाद विकास और स्टार्टअप इनक्यूबेशन&lt;/b&gt; सहित संपूर्ण नवाचार चक्र को समर्थन प्रदान करता है। यह वैज्ञानिक ज्ञान को व्यावहारिक तकनीकी समाधानों में परिवर्तित करने में सहायता करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;उत्कृष्टता केंद्र:&lt;/b&gt; यह मिशन देशभर में &lt;b&gt;विश्व-स्तरीय अंतरविषयक उत्कृष्टता केंद्रों&lt;/b&gt; की स्थापना को प्रोत्साहित कर रहा है, जो उन्नत &lt;b&gt;CPS अनुसंधान, प्रौद्योगिकी विकास, विशेषज्ञ क्षमताओं के निर्माण और नीतिगत समर्थन&lt;/b&gt; को बढ़ावा देते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रौद्योगिकी विकास:&lt;/b&gt; NM-ICPS उभरते हुए &lt;b&gt;साइबर-भौतिक प्रणाली (CPS) क्षेत्रों&lt;/b&gt; में राष्ट्रीय प्राथमिकता वाली प्रौद्योगिकियों के विकास, &lt;b&gt;मूलभूत क्षमताओं (Core Competencies)&lt;/b&gt; के निर्माण और कुशल मानव संसाधन तैयार करने पर केंद्रित है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;NM-ICPS की उपलब्धियाँ (अगस्त 2026 तक)&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;प्रौद्योगिकी विकास:&lt;/b&gt; इस मिशन ने &lt;b&gt;1,146 प्रौद्योगिकियों के विकास को सक्षम बनाया है&lt;/b&gt; तथा कृषि, स्वास्थ्य सेवा, खनन, साइबर सुरक्षा, उन्नत संचार और स्थिति निर्धारण प्रणालियों (Positioning Systems) जैसे क्षेत्रों में &lt;b&gt;1,329 प्रौद्योगिकी उत्पादों के निर्माण को समर्थन प्रदान किया है।&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;कौशल विकास:&lt;/b&gt; &lt;b&gt;चाणक्य फेलोशिप कार्यक्रम (CHANAKYA Fellowship Programme)&lt;/b&gt; के माध्यम से NM-ICPS साइबर-भौतिक प्रणालियों (CPS) से संबंधित चुनौतियों पर अनुसंधान कर रहे &lt;b&gt;स्नातक, स्नातकोत्तर, पीएचडी और पोस्ट-डॉक्टोरल शोधकर्त्ताओं&lt;/b&gt; को सहायता प्रदान करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्टार्टअप पारिस्थितिकी तंत्र:&lt;/b&gt; इस मिशन ने &lt;b&gt;अनुसंधान-आधारित उद्यमिता को प्रोत्साहित करते हुए 1,136 स्टार्टअप और स्पिन-ऑफ उद्यमों&lt;/b&gt; को समर्थन दिया है, जिसके परिणामस्वरूप &lt;b&gt;24,000 से अधिक रोज़गार अवसरों&lt;/b&gt; का सृजन हुआ है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;वैश्विक सहयोग:&lt;/b&gt; NM-ICPS ने &lt;b&gt;200 अंतर्राष्ट्रीय सहयोग स्थापित करके&lt;/b&gt; वैश्विक साइबर-भौतिक प्रणाली (CPS) प्रौद्योगिकी पारिस्थितिकी तंत्र में भारत की भागीदारी और सहयोग को सुदृढ़ किया है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260902121210-24ed067e.png"&gt;&lt;img src="http://drishtiias.com/hindi/images/uploads/upload-20260902121210-24ed067e.png"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;प्रौद्योगिकी/टेक्नोलॉजी इनोवेशन हब (TIH)&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; &lt;b&gt;NM-ICPS&lt;/b&gt; के अंतर्गत सरकार ने भारत के प्रमुख शैक्षणिक संस्थानों में &lt;b&gt;25 प्रौद्योगिकी नवाचार केंद्र (TIH)&lt;/b&gt; को &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%B8%E0%A4%BF%E0%A4%A4-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A5%87-csr-%E0%A4%95%E0%A4%BE-%E0%A4%B2%E0%A4%BE%E0%A4%AD-%E0%A4%89%E0%A4%A0%E0%A4%BE%E0%A4%A8%E0%A4%BE"&gt;&lt;b&gt;धारा 8 की कंपनियों&lt;/b&gt;&lt;/a&gt; के रूप में स्थापित किया है। ये केंद्र &lt;b&gt;प्रौद्योगिकी विकास, मानव संसाधन विकास, नवाचार एवं स्टार्टअप समर्थन तथा अंतर्राष्ट्रीय सहयोग&lt;/b&gt; पर केंद्रित हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;TIH की भूमिका:&lt;/b&gt; TIH अनुसंधान एवं वास्तविक अनुप्रयोगों के बीच के अंतर को समाप्त करने का कार्य करते हैं। ये प्रौद्योगिकी प्लेटफॉर्म विकसित करते हैं, अनुसंधान को उत्पादों में परिवर्तित करते हैं, प्रौद्योगिकी-आधारित स्टार्टअप को प्रोत्साहित करते हैं तथा राष्ट्रीय चुनौतियों के समाधान के लिये सरकारी एजेंसियों के साथ कार्य करते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260902120930-44d01cdd.png"&gt;&lt;img alt="Cyber-Physical Systems" src="http://drishtiias.com/hindi/images/uploads/upload-20260902120930-44d01cdd.png"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;प्रौद्योगिकी/टेक्नोलॉजी ट्रांसलेशन रिसर्च पार्क (TTRP)&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; CPS जैसी प्रौद्योगिकियों के व्यावसायीकरण में तेज़ी लाने के लिये, &lt;b&gt;वर्ष 2025 में चार उच्च-प्रदर्शन करने वाले TIH को TTRP के रूप में चयनित किया गया&lt;/b&gt;, जो निम्नलिखित संस्थानों में स्थापित हैं:
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;IIT कानपुर:&lt;/b&gt; साइबर सुरक्षा&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;IISc बंगलूरू:&lt;/b&gt; रोबोटिक्स और AI प्रणालियाँ&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;IIT (ISM) धनबाद:&lt;/b&gt; खनन प्रौद्योगिकियाँ&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;IIT इंदौर:&lt;/b&gt; डिजिटल स्वास्थ्य सेवा&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;उद्देश्य:&lt;/b&gt; TTRP का उद्देश्य CPS नवाचारों को प्रयोगशालाओं से &lt;b&gt;डिप्लॉयबल प्रौद्योगिकियों और वाणिज्यिक उत्पादों&lt;/b&gt; में परिवर्तित करने की प्रक्रिया को तीव्र करना है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260902121244-f40b4afd.png"&gt;&lt;img alt="CPS" src="http://drishtiias.com/hindi/images/uploads/upload-20260902121244-f40b4afd.png"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;भारतजेन&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; &lt;b&gt;NM-ICPS&lt;/b&gt; के अंतर्गत समर्थित &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/bharatgen"&gt;&lt;b&gt;भारतजेन&lt;/b&gt;&lt;/a&gt; भारतीय भाषाओं और संदर्भों के अनुरूप &lt;b&gt;स्वायत्त AI क्षमताओं&lt;/b&gt; के विकास पर कार्य कर रहा है। इसका नेतृत्व &lt;b&gt;IIT बॉम्बे&lt;/b&gt; द्वारा शैक्षणिक संस्थानों के एक संघ के साथ मिलकर किया जा रहा है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;बहुभाषी AI क्षमता:&lt;/b&gt; भारतजेन भारत की भाषायी विविधता के अनुरूप मानव-मशीन अंतःक्रिया को सक्षम बनाने के लिये &lt;b&gt;टेक्स्ट, स्पीच और विज़न-भाषा प्रौद्योगिकियों&lt;/b&gt; का विकास करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;विकसित AI मॉडल:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Param-2:&lt;/b&gt; एक फाउंडेशन मॉडल, जिसमें &lt;b&gt;17 बिलियन पैरामीटर&lt;/b&gt; हैं और जो सभी &lt;b&gt;22 अनुसूचित भारतीय भाषाओं &lt;/b&gt;को समर्थन प्रदान करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Shrutam:&lt;/b&gt; एक स्पीच-टू-टेक्स्ट मॉडल, जो &lt;b&gt;12 भारतीय भाषाओं&lt;/b&gt; को समर्थन प्रदान करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Sooktam:&lt;/b&gt; एक टेक्स्ट-टू-स्पीच मॉडल, जो &lt;b&gt;12 भारतीय भाषाओं&lt;/b&gt; को समर्थन प्रदान करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Patram:&lt;/b&gt; &lt;b&gt;DocBodh फ्रेमवर्क&lt;/b&gt; के माध्यम से जटिल भारतीय दस्तावेज़ों तक बहुभाषी पहुँच को सक्षम बनाता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;क्षेत्र-विशिष्ट AI मॉडल:&lt;/b&gt; भारतजेन ने निम्नलिखित क्षेत्र-आधारित मॉडल विकसित किये हैं:
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Ayur Param&lt;/b&gt; — आयुर्वेद के लिये,&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Agri Param&lt;/b&gt; — कृषि के लिये,&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Legal Param&lt;/b&gt; — भारतीय विधिक क्षेत्र के लिये।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260902120526-6baab2e6.png"&gt;&lt;img alt="CPS" src="http://drishtiias.com/hindi/images/uploads/upload-20260902120526-6baab2e6.png"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;निष्कर्ष&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;साइबर-फिजिकल सिस्टम डिजिटल बुद्धिमत्ता को भौतिक अवसंरचना के साथ एकीकृत करके तकनीकी विकास के आगामी चरण का प्रतिनिधित्व करती हैं। &lt;b&gt;NM-ICPS&lt;/b&gt; के माध्यम से भारत AI, रोबोटिक्स, साइबर सुरक्षा और उन्नत प्रौद्योगिकियों में भविष्य के लिये तैयार क्षमताओं का निर्माण कर रहा है, जो अधिक स्मार्ट प्रणालियों, नवाचार-आधारित विकास और एक &lt;b&gt;प्रौद्योगिकी-आधारित, आत्मनिर्भर विकसित भारत &lt;/b&gt;का मार्ग प्रशस्त कर रहा है।&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;दृष्टि मेन्स प्रश्न&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;प्रश्न. साइबर-फिजिकल सिस्टम (CPS) के क्षेत्र में स्वदेशी क्षमता विकसित करने में भारत के 'नेशनल मिशन ऑन इंटरडिसिप्लिनरी साइबर-फिजिकल सिस्टम्स' (NM-ICPS) की भूमिका पर चर्चा कीजिये।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;1. साइबर-फिजिकल सिस्टम (CPS) क्या हैं?&lt;br/&gt;&lt;/b&gt;साइबर-फिजिकल सिस्टम ऐसा इंटेलिजेंट सिस्टम है, जो सेंसर, सॉफ्टवेयर, कंप्यूटिंग सिस्टम और संचार नेटवर्क का उपयोग करके &lt;b&gt;फिजिकल तथा डिजिटल वर्ल्ड&lt;/b&gt; को एकीकृत करती हैं। ये मशीनों को वास्तविक समय की परिस्थितियों को &lt;b&gt;महसूस करने, विश्लेषण करने और प्रतिक्रिया देने &lt;/b&gt;में सक्षम बनाती हैं।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. CPS के मुख्य घटक क्या हैं?&lt;br/&gt;&lt;/b&gt;सेंसर, कंप्यूटिंग सिस्टम, संचार नेटवर्क और एक्चुएटर।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. साइबर-फिजिकल सिस्टम के कुछ उदाहरण क्या हैं?&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;स्वायत्त वाहन।&lt;/li&gt;
+&lt;li&gt;स्मार्ट कारखाने।&lt;/li&gt;
+&lt;li&gt;डिजिटल स्वास्थ्य उपकरण।&lt;/li&gt;
+&lt;li&gt;स्मार्ट भवन।&lt;/li&gt;
+&lt;li&gt;फिटनेस ट्रैकर और सफाई करने वाले रोबोट।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;4. राष्ट्रीय अंतःविषय साइबर-फिजिकल सिस्टम मिशन (NM-ICPS) क्या है?&lt;br/&gt;&lt;/b&gt;NM-ICPS भारत सरकार की एक पहल है, जिसे &lt;b&gt;विज्ञान और प्रौद्योगिकी विभाग (DST)&lt;/b&gt; द्वारा स्वदेशी CPS क्षमताओं के विकास के लिये कार्यान्वित किया जा रहा है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. NM-ICPS का उद्देश्य क्या है?&lt;br/&gt;&lt;/b&gt;CPS प्रौद्योगिकियों के अनुसंधान, नवाचार और अनुप्रयोग को बढ़ावा देना। प्रौद्योगिकी विकास के लिये शिक्षा जगत, उद्योग, सरकार तथा अंतर्राष्ट्रीय संगठनों को जोड़ना।&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 1.&lt;/b&gt; &lt;b&gt;भारत में, किसी व्यक्ति के साइबर बीमा कराने पर, निधि की हानि की भरपाई एवं अन्य लाभों के अतिरिक्त, सामान्यतः निम्नलिखित में से कौन-कौन से लाभ दिये जाते हैं?&lt;/b&gt; &lt;b&gt;(2020)&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;यदि कोई मैलवेयर कंप्यूटर तक उसकी पहुँच बाधित कर देता है, तो कंप्यूटर प्रणाली को पुनः प्रचालित करने में लगने वाली लागत&lt;/li&gt;
+&lt;li&gt;यदि यह प्रमाणित हो जाता है कि किसी शरारती तत्त्व द्वारा जान-बूझकर कंप्यूटर को नुकसान पहुँचाया गया है तो नए कंप्यूटर की लागत&lt;/li&gt;
+&lt;li&gt;यदि साइबर बलात ग्रहण होता है तो इस हानि को न्यूनतम करने के लिये विशेषज्ञ परामर्शदाता की सेवाएँ लेने पर लगने वाली लागत&lt;/li&gt;
+&lt;li&gt;यदि कोई तीसरा पक्ष मुकदमा दायर करता है तो न्यायालय में बचाव करने में लगने वाली लागत&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;(a) केवल 1, 2 और 4&lt;/p&gt;
+&lt;p&gt;(b) केवल 1, 3 और 4&lt;/p&gt;
+&lt;p&gt;(c) केवल 2 और 3&lt;/p&gt;
+&lt;p&gt;(d) 1, 2, 3 और 4&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर: (b)&lt;/b&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 2. भारत में, साइबर सुरक्षा घटनाओं पर रिपोर्ट करना निम्नलिखित में से किसके/किनके लिये विधितः अधिदेशात्मक है? (2017)  &lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;सेवा प्रदाता (सर्विस प्रोवाइडर)&lt;/li&gt;
+&lt;li&gt;डेटा सेंटर &lt;/li&gt;
+&lt;li&gt;कॉर्पोरेट निकाय (बॉडी कॉर्पोरेट)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;(a) केवल 1&lt;/p&gt;
+&lt;p&gt;(b) केवल 1 और 2&lt;/p&gt;
+&lt;p&gt;(c) केवल 3&lt;/p&gt;
+&lt;p&gt;(d) 1, 2 और 3&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर: (d)&lt;/b&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;i&gt;मेन्स&lt;/i&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; साइबर सुरक्षा के विभिन्न तत्त्व क्या हैं? साइबर सुरक्षा की चुनौतियों को ध्यान में रखते हुए समीक्षा कीजिये कि भारत ने किस हद तक एक व्यापक राष्ट्रीय साइबर सुरक्षा रणनीति सफलतापूर्वक विकसित की है। &lt;b&gt;(2022)&lt;/b&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <title>FSSAI ने पैक्ड फूड के लिये फ्रंट-ऑफ-पैक वार्निंग लेबल लगाने का प्रस्ताव दिया</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/fssai-proposes-front-of-pack-warning-labels-for-packaged-foods</id>
@@ -7351,503 +7824,5 @@
 &lt;h2&gt;&lt;b&gt;&lt;i&gt;मेन्स&lt;/i&gt;&lt;/b&gt;&lt;/h2&gt;
 &lt;p&gt;प्रश्न. “अधिक तीव्र और समावेशी आर्थिक विकास के लिये बुनियादी ढाँचे में निवेश आवश्यक है।” भारत के अनुभव के आलोक में चर्चा कीजिये। (2021)&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<title>भारत में परिसीमन</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/delimitation-in-india</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/delimitation-in-india" rel="alternate"/>
-<published>2026-09-01T00:00:00+00:00</published>
-<updated>2026-09-01T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">भारत में परिसीमन
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Indian-Constitution"&gt;भारतीय संविधान&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Statutory-Bodies"&gt;वैधानिक निकाय&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;प्रिलिम्स के लिये:&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/delimitation-and-concerns-of-southern-states"&gt; &lt;b&gt;परिसीमन&lt;/b&gt;&lt;/a&gt;,&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/census-2027-2"&gt; &lt;b&gt;जनगणना&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/delimitation-and-women-s-reservation-in-legislatures"&gt;&lt;b&gt;अनुच्छेद 81 और 82&lt;/b&gt;&lt;/a&gt;,&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/women-reservation-bill2023"&gt; &lt;b&gt;नारी शक्ति वंदन अधिनियम, 2023&lt;/b&gt;&lt;/a&gt;,&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/delimitation-and-concerns-of-southern-states"&gt; &lt;b&gt;परिसीमन आयोग&lt;/b&gt;&lt;/a&gt;,&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/finance-commissions"&gt; &lt;b&gt;वित्त आयोग&lt;/b&gt;&lt;/a&gt;,&lt;a href="https://www.drishtiias.com/hindi/loksabha-rajyasabha-discussions/rajya-sabha-upper-house"&gt; &lt;b&gt;राज्यसभा&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;मेन्स के लिये:&lt;/b&gt; परिसीमन और भारतीय संघवाद, एक व्यक्ति–एक वोट–एक मूल्य बनाम राज्यों का प्रतिनिधित्व, निर्वाचन क्षेत्र की सीमाओं का राजनीतिक उद्देश्य से पुनर्निर्धारण (Gerrymandering) तथा चुनावी निष्पक्षता&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://epaper.thehindu.com/ccidist-ws/th/th_international/issues/198588/OPS/GEHGBCDLE.1+G5NGCEE2A.1.html"&gt;&lt;b&gt;स्रोत: द हिंदू&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;लोकसभा निर्वाचन क्षेत्रों का &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/delimitation-and-concerns-of-southern-states"&gt;&lt;b&gt;परिसीमन&lt;/b&gt;&lt;/a&gt; एक बार फिर प्रमुख राजनीतिक मुद्दा बन गया है, क्योंकि केंद्र सरकार वर्ष &lt;b&gt;2029 के लोकसभा चुनावों&lt;/b&gt; से पहले अपने प्रस्तावित चुनाव सुधारों को पुनः सक्रिय करने का प्रयास कर रही है।&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;यह चर्चा महत्त्वपूर्ण है क्योंकि &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/census-2027-2"&gt;&lt;b&gt;2027 की जनगणना&lt;/b&gt;&lt;/a&gt; से &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/delimitation-and-women-s-reservation-in-legislatures"&gt;&lt;b&gt;अनुच्छेद 81 और 82&lt;/b&gt;&lt;/a&gt; के अंतर्गत नए &lt;b&gt;परिसीमन&lt;/b&gt; की प्रक्रिया प्रारंभ होने की संभावना है। इससे लोकसभा में प्रतिनिधित्व का संतुलन अधिक जनसंख्या वाले उत्तरी राज्यों की ओर स्थानांतरित हो सकता है, जबकि जनसांख्यिकीय स्थिरीकरण प्राप्त कर चुके दक्षिणी राज्यों के प्रतिनिधित्व पर प्रभाव पड़ सकता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;सारांश &lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;2027 की जनगणना नए परिसीमन की प्रक्रिया को प्रारंभ कर सकती है, जिससे संभावित रूप से लोकसभा में प्रतिनिधित्व अधिक जनसंख्या वाले उत्तरी राज्यों की ओर स्थानांतरित हो सकता है तथा संघीय संतुलन, महिला आरक्षण और क्षेत्रीय समानता को लेकर चिंताएँ प्रकट हो सकती हैं।&lt;/li&gt;
-&lt;li&gt;एक निष्पक्ष परिसीमन प्रक्रिया के लिये “एक व्यक्ति, एक वोट, एक मूल्य” के सिद्धांत और संघीय हितों के बीच संतुलन स्थापित करना आवश्यक है। इसके लिये सर्वसम्मति, पारदर्शी सीमा निर्धारण तथा आनुपातिक सीट वृद्धि और भारित प्रतिनिधित्व जैसे सुधारों को अपनाने की आवश्यकता है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;परिसीमन से संबंधित चुनौतियाँ क्या हैं?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;संघवाद बनाम जनसांख्यिकीय दुविधा (उत्तर-दक्षिण विभाजन): &lt;/b&gt;परिसीमन का प्राथमिक उद्देश्य लोकतांत्रिक सिद्धांत &lt;b&gt;“एक व्यक्ति, एक वोट, एक मूल्य (One Person, One Vote, One Value)” &lt;/b&gt;को बनाए रखना है। 
-&lt;ul&gt;
-&lt;li&gt;हालाँकि वर्तमान जनसंख्या आँकड़ों के आधार पर इस सिद्धांत को सख्ती से लागू करने से &lt;b&gt;दक्षिणी राज्यों &lt;/b&gt;(जैसे- केरल, तमिलनाडु, कर्नाटक और आंध्र प्रदेश) को गंभीर नुकसान हो सकता है। इन राज्यों ने राष्ट्रीय परिवार नियोजन नीतियों को सफलतापूर्वक लागू किया और अपनी जनसंख्या को स्थिर किया।&lt;/li&gt;
-&lt;li&gt;इसके विपरीत, हिंदी भाषी क्षेत्र के राज्य (जैसे- उत्तर प्रदेश, बिहार, मध्य प्रदेश और राजस्थान), जहाँ ऐतिहासिक रूप से जनसंख्या वृद्धि दर अधिक रही है,&lt;b&gt; लोकसभा की नई सीटों में बड़ी वृद्धि &lt;/b&gt;प्राप्त कर सकते हैं। &lt;/li&gt;
-&lt;li&gt;इससे &lt;b&gt;राजनीतिक सत्ता उत्तर की ओर स्थानांतरित &lt;/b&gt;हो सकती है, जिससे &lt;b&gt;राष्ट्रीय नीतियों, संवैधानिक संशोधनों और संसाधनों के आवंटन&lt;/b&gt; पर दक्षिण का प्रभाव कम हो सकता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;महिला आरक्षण से संबद्धता:&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/women-reservation-bill2023"&gt; &lt;b&gt;नारी शक्ति वंदन अधिनियम, 2023&lt;/b&gt;&lt;/a&gt; लोकसभा और राज्य विधानसभाओं में महिलाओं के लिये &lt;b&gt;33% आरक्षण &lt;/b&gt;का प्रावधान करता है, जिसे भावी परिसीमन प्रक्रिया से जोड़ा गया है।
-&lt;ul&gt;
-&lt;li&gt;यह एक चुनौती प्रस्तुत करता है क्योंकि महिला आरक्षण को व्यापक समर्थन प्राप्त है, जबकि &lt;b&gt;जनसंख्या-आधारित परिसीमन&lt;/b&gt; विशेष रूप से दक्षिणी राज्यों की ओर से संघीय चिंताओं के कारण व्यापक वाद-विवाद का विषय बना हुआ है।&lt;/li&gt;
-&lt;li&gt;दोनों को एक साथ जोड़ने से यदि परिसीमन पर सहमति नहीं बनती है, तो महिला आरक्षण के कार्यान्वयन में विलंब हो सकता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जनगणना आँकड़ों में विलंब और अस्पष्टता: &lt;/b&gt;अनुच्छेद 81 और 82 के अनुसार, परिसीमन वर्ष 2026 के बाद आयोजित पहली जनगणना के प्रकाशन पर निर्भर करता है।
-&lt;ul&gt;
-&lt;li&gt;हालाँकि कोविड-19 महामारी के कारण दशकीय 2021 की जनगणना अनिश्चित काल के लिये विलंबित हो गई।&lt;/li&gt;
-&lt;li&gt;इस विलंब को दूर करने के लिये केंद्र सरकार द्वारा (असफल&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/delimitation-and-women-s-reservation-in-legislatures"&gt; &lt;b&gt;परिसीमन विधेयक, 2026&lt;/b&gt;&lt;/a&gt; तथा&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/defeat-of-the-constitution-131st-amendment-bill,-2026"&gt; &lt;b&gt;संविधान (131वाँ संशोधन) विधेयक, 2026&lt;/b&gt;&lt;/a&gt; के माध्यम से) परिसीमन के लिये पुराने 2011 के जनगणना आँकड़ों का उपयोग कर इस विलंब को दरकिनार करने के प्रयासों ने विपक्षी राज्यों के बीच गहरा राजनीतिक अविश्वास उत्पन्न किया।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;परिसीमन प्रक्रिया ऐतिहासिक रूप से समय लेने &lt;/b&gt;वाली रही है।&lt;b&gt; 2001 की जनगणना के बाद वर्ष 2002 में गठित पिछले परिसीमन आयोग &lt;/b&gt;ने अपनी अनुशंसाएँ प्रस्तुत की थीं, जिनका कार्यान्वयन केवल &lt;b&gt;वर्ष 2008 में वर्ष 2009 के लोकसभा चुनावों के लिये किया गया।&lt;/b&gt; &lt;/li&gt;
-&lt;li&gt;हालाँकि&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/census-2027-2"&gt; &lt;b&gt;2027 की जनगणना पूर्णतः डिजिटलीकृत है&lt;/b&gt;&lt;/a&gt;, जिससे इस प्रक्रिया को अधिक शीघ्र पूरा किये जाने की संभावना है। यदि यह प्रक्रिया वर्ष &lt;b&gt;2029 के लोकसभा चुनावों&lt;/b&gt; से पहले पूरी नहीं होती है, तो यह पूर्व परिसीमन चक्र के समान आगामी सरकार के कार्यकाल तक जारी रह सकती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विस्तारित संसद की व्यवस्थागत चुनौतियाँ: &lt;/b&gt;वर्तमान निर्वाचित सदस्यों की संख्या &lt;b&gt;543 &lt;/b&gt;है, जबकि &lt;b&gt;अनुच्छेद 81 के अंतर्गत अधिकतम 550 सीटों &lt;/b&gt;का प्रावधान है।&lt;b&gt; 131वें संविधान संशोधन विधेयक, 2026 (जो पारित नहीं हो पाया)&lt;/b&gt; में संवैधानिक सीमा को बढ़ाकर &lt;b&gt;850 सीटें&lt;/b&gt; करने का प्रस्ताव था।
-&lt;ul&gt;
-&lt;li&gt;विस्तारित संसद की व्यवस्थागत चुनौतियाँ: एक वृहत्तर लोकसभा जनसंख्या वृद्धि को समायोजित कर सकती है, लेकिन इससे &lt;b&gt;महत्त्वपूर्ण व्यवस्थागत, प्रशासनिक और वाद-विवाद संबंधी चुनौतियाँ&lt;/b&gt; भी उत्पन्न हो सकती हैं।&lt;/li&gt;
-&lt;li&gt;एक विस्तारित लोकसभा (जिसमें अधिक सदस्य हों) का तात्पर्य यह होगा कि प्रत्येक &lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper2/parliament-part-i"&gt;&lt;b&gt;सांसद (MP)&lt;/b&gt;&lt;/a&gt; को बोलने, विधेयकों पर चर्चा करने या जनहित से संबंधित मुद्दों को उठाने के लिये कम समय मिलेगा। एक वृहत्तर विधायी सदन में व्यवस्था बनाए रखना और व्यवधानों का प्रबंधन करना एक महत्त्वपूर्ण चुनौती होगी।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जेरिमैंडरिंग और उप-राष्ट्रवाद: परिसीमन (Delimitation) केवल राज्यों के &lt;i&gt;बीच&lt;/i&gt; सीटों के आवंटन तक सीमित नहीं है, बल्कि राज्यों के भीतर निर्वाचन क्षेत्रों की सीमाओं के निर्धारण से भी संबंधित है।&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;यह संभावित &lt;b&gt;जेरिमैंडरिंग (Gerrymandering)&lt;/b&gt; की संभावना उत्पन्न करता है—अर्थात किसी विशेष राजनीतिक दल को लाभ पहुँचाने के उद्देश्य से &lt;b&gt;निर्वाचन क्षेत्रों की सीमाओं में हेर-फेर करना&lt;/b&gt;, जिसमें मतदाता समूहों के &lt;b&gt;क्रैकिंग&lt;/b&gt; (&lt;b&gt;Cracking&lt;/b&gt;) और &lt;b&gt;पैकिंग&lt;/b&gt; (&lt;b&gt;Packing&lt;/b&gt;) जैसी रणनीतियों का उपयोग किया जाता है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;क्रैकिंग:&lt;/b&gt; किसी विरोधी राजनीतिक दल के समर्थकों को कई निर्वाचन क्षेत्रों में इस प्रकार विभाजित करना कि वे प्रत्येक क्षेत्र में अल्पसंख्यक रह जाएँ, जिससे उनके चुनाव जीतने की संभावना कम हो जाए।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;पैकिंग:&lt;/b&gt; विरोधी दल के समर्थकों को कुछ सीमित निर्वाचन क्षेत्रों में इस प्रकार केंद्रित करना कि वहाँ उनके अतिरिक्त मत निष्प्रभावी हो जाएँ और प्रतिद्वंद्वी दल को अन्य क्षेत्रों में अधिक सीटें जीतने का लाभ मिल सके।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;क्योंकि परिसीमन राजनीतिक भविष्य और प्रतिनिधित्व की दिशा को मूल रूप से प्रभावित करता है, इसलिये इसमें किसी भी प्रकार की कथित असमानता उप-राष्ट्रवाद एवं क्षेत्रीय असंतोष को बढ़ावा दे सकती है, जिससे व्यापक राजनीतिक प्रभाव और विरोध-प्रदर्शन उत्पन्न हो सकते हैं। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;परिसीमन क्या है?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; परिसीमन (Delimitation) लोकसभा एवं राज्य विधानसभाओं के लिये &lt;b&gt;प्रादेशिक निर्वाचन क्षेत्रों की सीमाओं के निर्धारण या पुनर्निर्धारण&lt;/b&gt; की प्रक्रिया है, ताकि प्रत्येक निर्वाचन क्षेत्र लगभग &lt;b&gt;समान संख्या में मतदाताओं&lt;/b&gt; का प्रतिनिधित्व कर सके।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;उद्देश्य:&lt;/b&gt; इसका उद्देश्य समय के साथ बदलती &lt;b&gt;जनसंख्या घनत्व एवं जनसांख्यिकीय परिवर्तनों&lt;/b&gt; के अनुरूप निर्वाचन क्षेत्रों की सीमाओं को समायोजित करके लोकतांत्रिक सिद्धांत &lt;b&gt;“एक व्यक्ति, एक वोट, एक मूल्य”&lt;/b&gt; को प्रभावी रूप से लागू करना है।
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/advancing-sc-st-welfare-in-india"&gt;&lt;b&gt;अनुसूचित जातियों (SC)&lt;/b&gt;&lt;/a&gt;&lt;b&gt; एवं &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/advancing-sc-st-welfare-in-india"&gt;&lt;b&gt;अनुसूचित जनजातियों (ST)&lt;/b&gt;&lt;/a&gt;&lt;b&gt; के लिये आरक्षित निर्वाचन क्षेत्रों का निर्धारण&lt;/b&gt; करता है, जिससे &lt;b&gt;सीमांत समुदायों का राजनीतिक प्रतिनिधित्व&lt;/b&gt; सुनिश्चित हो सके। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;संवैधानिक प्रावधान:&lt;/b&gt; &lt;b&gt;अनुच्छेद 82&lt;/b&gt; के अंतर्गत संसद को प्रत्येक जनगणना के पश्चात &lt;b&gt;परिसीमन अधिनियम&lt;/b&gt; बनाने का अधिकार प्रदान किया गया है, जिसके तहत राज्यों को लोकसभा सीटों के आवंटन का पुनर्समायोजन तथा राज्यों को &lt;b&gt;प्रादेशिक निर्वाचन क्षेत्रों में विभाजित&lt;/b&gt; किया जाता है। 
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;अनुच्छेद 170&lt;/b&gt; राज्य विधानसभाओं में सीटों एवं निर्वाचन क्षेत्रों के इसी प्रकार के &lt;b&gt;पुनर्समायोजन (Readjustment)&lt;/b&gt; का प्रावधान करता है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;परिसीमन आयोग:&lt;/b&gt; यह &lt;b&gt;परिसीमन प्रक्रिया&lt;/b&gt; संसद द्वारा पारित अधिनियम के अंतर्गत गठित &lt;b&gt;परिसीमन आयोग&lt;/b&gt; द्वारा संपन्न की जाती है। 
-&lt;ul&gt;
-&lt;li&gt;यह एक &lt;b&gt;उच्च-अधिकार प्राप्त एवं स्वतंत्र निकाय&lt;/b&gt; है, जिसमें तीन सदस्य होते हैं—एक अध्यक्ष (सर्वोच्च न्यायालय के सेवारत या सेवानिवृत्त न्यायाधीश), &lt;b&gt;मुख्य निर्वाचन आयुक्त&lt;/b&gt; (या उनके द्वारा नामित निर्वाचन आयुक्त) तथा संबंधित राज्यों के राज्य निर्वाचन आयुक्त।&lt;/li&gt;
-&lt;li&gt;परिसीमन आयोग के आदेशों को सामान्यतः &lt;b&gt;वैधानिक अंतिमता (Statutory Finality)&lt;/b&gt; प्राप्त होती है और वे न्यायिक हस्तक्षेप से संरक्षित होते हैं। हालाँकि &lt;b&gt;&lt;i&gt;किशोरचंद्र छगनलाल राठौड़ मामले (2024)&lt;/i&gt;&lt;/b&gt; में सर्वोच्च न्यायालय ने माना कि यदि परिसीमन आयोग का आदेश &lt;b&gt;स्पष्ट रूप से मनमाना (Manifestly Arbitrary)&lt;/b&gt; हो या &lt;b&gt;संवैधानिक मूल्यों का उल्लंघन&lt;/b&gt; करता हो, तो वह सीमित न्यायिक समीक्षा के अधीन हो सकता है।&lt;/li&gt;
-&lt;li&gt;संबंधित परिसीमन अधिनियमों के अंतर्गत मार्च 2026 तक इसका गठन &lt;b&gt;चार बार—वर्ष 1952, 1963, 1973 एवं 2002&lt;/b&gt; में किया जा चुका है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अनुच्छेद 329(क)&lt;/b&gt; में प्रावधान है कि अनुच्छेद 327 के तहत बनाए गए किसी कानून के अंतर्गत निर्वाचन क्षेत्रों के परिसीमन या सीटों के आवंटन से संबंधित किसी भी कानून की वैधता पर किसी न्यायालय में प्रश्न नहीं उठाया जा सकता।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;परिसीमन पर रोक:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/mains-practice-question/question-4518/pnt"&gt;&lt;b&gt;42वें संविधान संशोधन अधिनियम, 1976 &lt;/b&gt;&lt;/a&gt;के माध्यम से लोकसभा में कुल सीटों की संख्या को 1971 की जनगणना के आधार पर स्थिर (Freeze) कर दिया गया। इसका उद्देश्य उन राज्यों को, जो जनसंख्या नियंत्रण उपायों को प्रभावी रूप से लागू कर रहे थे (विशेष रूप से दक्षिणी राज्यों), राजनीतिक प्रतिनिधित्व में कमी के रूप में दंडित होने से बचाना था।  
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper2/important-constitution-amendment-part-3"&gt;&lt;b&gt;84वें संविधान संशोधन अधिनियम, 2001 &lt;/b&gt;&lt;/a&gt;ने कुल सीटों पर लगी रोक को वर्ष 2026 के बाद होने वाली पहली जनगणना तक विस्तारित कर दिया।&lt;/li&gt;
-&lt;li&gt;यद्यपि वर्ष 2002 के परिसीमन आयोग ने 2001 की जनगणना के आधार पर राज्यों के भीतर निर्वाचन क्षेत्रों की सीमाओं का पुनर्निर्धारण किया, लेकिन राज्यों के बीच सीटों का आवंटन अभी भी 1971 की जनगणना के आँकड़ों पर आधारित है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;निष्पक्ष एवं सहमति-आधारित परिसीमन कैसे सुनिश्चित किया जा सकता है? &lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;“अनुपातिक (Pro-Rata) सीट वृद्धि (सर्वव्यापी वृद्धि मॉडल)”&lt;/b&gt; &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;समानुपातिक वृद्धि मॉडल:&lt;/b&gt; दक्षिणी राज्यों को जनसंख्या नियंत्रण में उनके प्रदर्शन के लिये दंडित किये बिना अधिक छोटे निर्वाचन क्षेत्र बनाने के उद्देश्य से, लोकसभा सीटों की संख्या में वृद्धि करते समय &lt;b&gt;मौजूदा राज्य-वार सीट अनुपात को बनाए रखने&lt;/b&gt; का प्रस्ताव दिया गया है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;50% की समान वृद्धि:&lt;/b&gt; नवीनतम जनगणना के आधार पर राज्यों के बीच सीटों के अनुपात में पुनर्वितरण करने के बजाय, संसद लोकसभा की कुल सीटों में एक निश्चित प्रतिशत (जैसे &lt;b&gt;50% वृद्धि&lt;/b&gt;, जिससे सदन की कुल सीटें &lt;b&gt;543 से बढ़कर लगभग 815&lt;/b&gt; हो सकती हैं) की वृद्धि कर सकती है। इसमें &lt;b&gt;1971 की जनगणना पर आधारित राज्य-वार सीट अनुपात&lt;/b&gt; को बनाए रखा जाएगा।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रभाव:&lt;/b&gt; इसके परिणामस्वरूप &lt;b&gt;उत्तर प्रदेश की सीटें लगभग 80 से बढ़कर 120&lt;/b&gt; हो सकती हैं, जबकि &lt;b&gt;तमिलनाडु की सीटें भी समान अनुपात में बढ़कर लगभग 59&lt;/b&gt; हो सकती हैं। इससे संसद में किसी एक राज्य की &lt;b&gt;सापेक्ष मतदान शक्ति या प्रतिनिधित्व भार&lt;/b&gt; में परिवर्तन किये बिना कुल प्रतिनिधित्व का विस्तार होगा।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;राज्य के भीतर सीमाओं का पुनर्निर्धारण:&lt;/b&gt; इसके पश्चात परिसीमन आयोग नवीनतम जनगणना के आधार पर केवल &lt;b&gt;राज्यों के भीतर निर्वाचन क्षेत्रों की सीमाओं का पुनर्निर्धारण&lt;/b&gt; करेगा, ताकि शहरी एवं ग्रामीण क्षेत्रों के बीच प्रतिनिधित्व संबंधी असमानताओं को संतुलित किया जा सके।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;“भारित प्रतिनिधित्व” सूत्र को अपनाना&lt;/b&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;भारित प्रतिनिधित्व सूत्र&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/finance-commissions"&gt;&lt;b&gt;वित्त आयोगों&lt;/b&gt;&lt;/a&gt; के समान एक &lt;b&gt;भारित प्रतिनिधित्व सूत्र&lt;/b&gt; अपनाया जा सकता है, जिसमें केवल जनसंख्या को आधार बनाने के बजाय &lt;b&gt;जनसंख्या, जनसांख्यिकीय प्रदर्शन, विकास, आर्थिक योगदान एवं भौगोलिक क्षेत्रफल&lt;/b&gt; जैसे कारकों के बीच संतुलन स्थापित किया जा सके।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जनसंख्या आकार (जैसे 50%):&lt;/b&gt; यह लोकतांत्रिक सिद्धांत &lt;b&gt;“एक व्यक्ति, एक वोट”&lt;/b&gt; को सुनिश्चित करने के लिये आवश्यक होगा।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जनसांख्यिकीय प्रदर्शन/कुल प्रजनन दर (TFR) (जैसे 25%):&lt;/b&gt; यह उन राज्यों को प्रोत्साहन देगा, जिन्होंने राष्ट्रीय परिवार नियोजन लक्ष्यों के अनुरूप अपनी &lt;b&gt;कुल प्रजनन दर (TFR)&lt;/b&gt; को स्थिर करने में सफलता प्राप्त की है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;आर्थिक एवं विकासात्मक योगदान (जैसे 15%):&lt;/b&gt; इसमें&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/human-development-report-2025"&gt; &lt;b&gt;मानव विकास सूचकांक (HDI)&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, जीएसटी योगदान एवं राजकोषीय अनुशासन&lt;/b&gt; जैसे कारकों को शामिल किया जा सकता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भौगोलिक क्षेत्रफल (Geographic Area) (जैसे 10%):&lt;/b&gt; यह उन राज्यों को पर्याप्त प्रतिनिधित्व सुनिश्चित करेगा, जिनका क्षेत्रफल अधिक है, लेकिन जनसंख्या घनत्व कम है।&lt;/li&gt;
-&lt;li&gt;हालाँकि &lt;b&gt;अनुच्छेद 81&lt;/b&gt; के अंतर्गत लोकसभा में प्रतिनिधित्व मुख्य रूप से &lt;b&gt;जनसंख्या आधारित&lt;/b&gt; है। इसलिये &lt;b&gt;जीएसटी योगदान, HDI, राजकोषीय अनुशासन या TFR&lt;/b&gt; जैसे कारकों को प्रतिनिधित्व निर्धारण में भार देने के लिये &lt;b&gt;एक बड़े संवैधानिक संशोधन&lt;/b&gt; की आवश्यकता होगी।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;महिला आरक्षण अधिनियम को अलग करना&lt;/b&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;संसद को दोनों मुद्दों को अलग करने के लिये एक संवैधानिक संशोधन पारित करना चाहिये। &lt;b&gt;मौजूदा 543 सीटों वाली व्यवस्था पर महिला आरक्षण लागू करना&lt;/b&gt; यह सुनिश्चित करेगा कि व्यापक रूप से समर्थित लोकतांत्रिक सुधार को सीटों के वितरण से जुड़े अत्यधिक विवादास्पद संघीय विवादों के अधीन न रखा जाए।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;द्विसदनीय संतुलन: राज्यसभा को सशक्त बनाना&lt;/b&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;समान राज्य प्रतिनिधित्व:&lt;/b&gt; भारत संयुक्त राज्य अमेरिका की सीनेट या ऑस्ट्रेलियाई सीनेट मॉडल का अनुकरण कर सकता है, जहाँ प्रत्येक राज्य को उसकी जनसंख्या के आकार की परवाह किये बगैर उच्च &lt;b&gt;सदन में समान संख्या में प्रतिनिधित्व प्राप्त होता&lt;/b&gt; है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वीटो पॉवर:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/loksabha-rajyasabha-discussions/rajya-sabha-upper-house"&gt;&lt;b&gt;राज्यसभा&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (राज्यों की परिषद)&lt;/b&gt; के पास &lt;b&gt;धन विधेयकों&lt;/b&gt; के संबंध में सीमित शक्तियाँ हैं। वित्तीय विधान में इसकी भूमिका को सशक्त बनाना इसे लोकसभा से उत्पन्न जनसांख्यिकीय बहुमतवाद के विरुद्ध एक वास्तविक संघीय संतुलनकारी संस्था के रूप में कार्य करने में सक्षम बना सकता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;संस्थागत पारदर्शिता और सहमति को बढ़ावा देना&lt;/b&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;एक निष्पक्ष परिसीमन को केवल कार्यपालिका के आदेश द्वारा लागू नहीं किया जा सकता; सीमांकन में हेर-फेर के आरोपों से बचने के लिये व्यापक संस्थागत सहमति आवश्यक है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;सहयोगी सदस्यों को सशक्त बनाना:&lt;/b&gt; वर्तमान में परिसीमन अधिनियम प्रत्येक राज्य से 5 लोकसभा सांसदों और 5 विधायकों को परिसीमन आयोग में "सहयोगी सदस्य" के रूप में शामिल होने की अनुमति देता है, लेकिन उनके पास मतदान का अधिकार नहीं होता है।
-&lt;ul&gt;
-&lt;li&gt;अधिनियम में सुधार कर आंतरिक सीमाओं के निर्धारण में सहयोगी सदस्यों को बाध्यकारी सुझाव देने का अधिकार प्रदान करना &lt;b&gt;मनमाने सीमांकन (पैकिंग और क्रैकिंग) &lt;/b&gt;को रोक सकता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अंतर्राज्यीय परिषद का उपयोग:&lt;/b&gt; नए परिसीमन आयोग के विचारणीय विषयों को अंतिम रूप देने से पहले, केंद्र सरकार को सभी मुख्यमंत्रियों के साथ व्यवस्था पर चर्चा और सहमति बनाने के लिये &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/inter-state-council"&gt;&lt;b&gt;अंतर्राज्यीय परिषद (अनुच्छेद 263)&lt;/b&gt;&lt;/a&gt; की बैठक बुलानी चाहिये।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;एल्गोरिद्मिक और ओपन-सोर्स मैपिंग:&lt;/b&gt; स्थानीय सीमाओं के पुनर्निर्धारण में राजनीतिक पक्षपात को समाप्त करने के लिये आयोग को विस्तृत जन सुनवाई और नागरिक समाज के ऑडिट के अधीन &lt;b&gt;संहत एवं सन्निहित ज़िलों&lt;/b&gt; के निर्माण हेतु &lt;b&gt;ओपन-सोर्स भौगोलिक सूचना प्रणाली (GIS)&lt;/b&gt; एल्गोरिद्म के उपयोग को अनिवार्य करना चाहिये।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;निष्कर्ष&lt;/b&gt; &lt;/h2&gt;
-&lt;p&gt;एक निष्पक्ष परिसीमन प्रक्रिया को यह मान्यता देनी चाहिये कि एक विविधतापूर्ण, संघ में "प्रतिनिधित्व" केवल व्यक्तियों की संख्या गिनने की गणितीय प्रक्रिया नहीं है। यह एक ऐसी सहमतिपूर्ण प्रक्रिया होनी चाहिये, जो व्यक्तियों के लोकतांत्रिक अधिकारों के साथ-साथ राज्यों के राजनीतिक और आर्थिक अधिकारों के मध्य संतुलन स्थापित करे।&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;&lt;i&gt;दृष्टि मेन्स प्रश्न:&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;"एक व्यक्ति, एक वोट, एक मूल्य" के सिद्धांत को भौगोलिक और जनसांख्यिकी रूप से विविध महासंघ में अलग से लागू नहीं किया जा सकता है। समालोचनात्मक विश्लेषण कीजिये।&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ)&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;1. परिसीमन क्या है और इसका संवैधानिक आधार क्या है?&lt;br/&gt;&lt;/b&gt;परिसीमन अपेक्षाकृत समान प्रतिनिधित्व सुनिश्चित करने के लिये निर्वाचन क्षेत्रों की सीमाओं का पुनर्निर्धारण है। &lt;b&gt;अनुच्छेद 81, 82 और 170 &lt;/b&gt;इसके लिये संवैधानिक ढाँचा प्रदान करते हैं।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;2. संविधान ने जनसंख्या-प्रतिनिधित्व की दुविधा का समाधान किस प्रकार किया है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;42वें संविधान संशोधन अधिनियम, 1976&lt;/b&gt; द्वारा 1971 की जनगणना के आधार पर सीटों के आवंटन को स्थिर कर दिया गया, जबकि &lt;b&gt;84वें संविधान संशोधन अधिनियम, 2001&lt;/b&gt; द्वारा इस स्थगन को वर्ष 2026 के बाद होने वाली पहली जनगणना तक विस्तारित कर दिया गया।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3. परिसीमन के लिये 2027 की जनगणना का क्या महत्त्व है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;2027 की जनगणना से अनुच्छेद 81 और 82 के अंतर्गत नए परिसीमन की प्रक्रिया प्रारंभ होने&lt;/b&gt; की संभावना है, जिससे लोकसभा सीटों के अंतर्राज्यीय वितरण में संभावित परिवर्तन हो सकता है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;4. गेरिमैंडरिंग क्या है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;गेरिमैंडरिंग &lt;/b&gt;निर्वाचन क्षेत्रों की सीमाओं में इस प्रकार हेर-फेर करना है, जिससे विशेष राजनीतिक हितों को लाभ पहुँचाया जा सके। इसमें सामान्यतः मतदाताओं का &lt;b&gt;विखंडन &lt;/b&gt;और &lt;b&gt;एकत्रीकरण&lt;/b&gt; किया जाता है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;5. निष्पक्ष परिसीमन सुनिश्चित करने के लिये कौन-से सुधार किये जा सकते हैं?&lt;br/&gt;&lt;/b&gt;संभावित उपायों में समानुपातिक आधार पर &lt;b&gt;सीट वृद्धि, भारित प्रतिनिधित्व, राज्यसभा के अधिक सुरक्षा उपाय, अंतर्राज्यीय परिषद से परामर्श, पारदर्शी GIS-आधारित मानचित्रण तथा व्यापक हितधारकों की &lt;/b&gt; भागीदारी शामिल हैं।&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा के पिछले वर्षों के प्रश्न (PYQ)&lt;/b&gt;&lt;/h2&gt;
-&lt;h2&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. दिसंबर 2023 तक भारत सरकार द्वारा कितने परिसीमन आयोग गठित किये गए हैं? (2024)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;(a) एक&lt;/p&gt;
-&lt;p&gt;(b) दो&lt;/p&gt;
-&lt;p&gt;(c) तीन&lt;/p&gt;
-&lt;p&gt;(d) चार&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर (d)&lt;/b&gt;  &lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. परिसीमन आयोग के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:  &lt;/b&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;परिसीमन आयोग के आदेशों को न्यायालय में चुनौती नहीं दी जा सकती।&lt;/li&gt;
-&lt;li&gt;जब परिसीमन आयोग के आदेश लोकसभा या राज्य विधानसभा के समक्ष रखे जाते हैं, तो वे आदेशों में किसी भी संशोधन को प्रभावित नहीं कर सकते हैं।&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;b&gt;ऊपर दिये गए कथनों में से कौन-सा सही है/हैं?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;(a) केवल 1&lt;/p&gt;
-&lt;p&gt;(b) केवल 2&lt;/p&gt;
-&lt;p&gt;(c) 1 और 2 दोनों&lt;/p&gt;
-&lt;p&gt;(d) न तो 1 और न ही 2&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर: (c)&lt;/b&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;&lt;i&gt;मेन्स&lt;/i&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; भारत में जनांकिकीय लाभांश तब तक सैद्धांतिक ही बना रहेगा जब तक कि हमारी जनशक्ति अधिक शिक्षित, जागरूक, कुशल और सृजनशील नहीं हो जाती।" सरकार ने हमारी जनसंख्या को अधिक उत्पादनशील और रोज़गार योग्य बनने की क्षमता में वृद्धि के लिये कौन-से उपाय किये हैं? &lt;b&gt;(2016)&lt;/b&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; जिस समय हम भारत के जनसांख्यिकीय लाभांश (डेमोग्राफिक डिविडेंड) को शान से प्रदर्शित करते हैं, उस समय हम रोज़गार-योग्यता की पतनशील दरों को नज़रअंदाज़ कर देते हैं।" क्या हम ऐसा करने में कोई चूक कर रहे हैं? भारत को जिन जॉबों/नौकरियों की बेसबरी से दरकार/आवश्यकता है, वे जॉब/नौकरियाँ कहाँ से आएँगे/आएँगी? स्पष्ट कीजिये। &lt;b&gt;(2014)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<title>जेंडर सेंसिटिविटी पर सर्वोच्च न्यायालय की नई हैंडबुक</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/supreme-court-s-new-handbook-on-gender-sensitivity</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/supreme-court-s-new-handbook-on-gender-sensitivity" rel="alternate"/>
-<published>2026-09-01T00:00:00+00:00</published>
-<updated>2026-09-01T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">जेंडर सेंसिटिविटी पर सर्वोच्च न्यायालय की नई हैंडबुक
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/gender equality"&gt;लैंगिक समानता&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Judgments-&amp;amp;-Cases"&gt;निर्णय और मामले&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Judiciary"&gt;न्यायतंत्र&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/news/national/how-does-supreme-courts-new-handbook-rethink-gender-sensitivity-explained/article71318389.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt; &lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.drishtiias.com/hindi/important-institution/national-organization/supreme-court-of-india"&gt;&lt;b&gt;भारत के सर्वोच्च न्यायालय&lt;/b&gt;&lt;/a&gt; ने ‘&lt;b&gt;&lt;i&gt;निर्णय और लैंगिकता: निर्णय लेखन में संवेदनशीलता एवं करुणा&lt;/i&gt;&lt;/b&gt;’ शीर्षक से एक नई रिपोर्ट जारी की है। यह हैंडबुक न्यायिक भाषा और न्यायालयी प्रक्रियाओं को पुनर्परिभाषित करने का उद्देश्य रखती है, ताकि विशेष रूप से यौन अपराधों तथा संवेदनशील व्यक्तियों से जुड़े मामलों में उन्हें ट्रॉमा-इंफोरमेटिव तथा पीड़ित-केंद्रित बनाया जा सके।&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;वर्ष 2026 की यह रिपोर्ट &lt;b&gt;सर्वोच्च न्यायालय की वर्ष 2023 की ‘लैंगिक रूढ़िवादिता के उन्मूलन पर हैंडबुक’&lt;/b&gt; पर आधारित है, जो आपत्तिजनक भाषा से आगे बढ़कर व्यापक न्यायालयी प्रक्रियाओं पर ध्यान केंद्रित करती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;जेंडर सेंसिटिविटी पर सर्वोच्च न्यायालय की नई हैंडबुक के मुख्य बिंदु  क्या हैं?&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;भारत में लैंगिक न्यायशास्त्र का विकास: यह रिपोर्ट जेंडर सेंसिटिव न्यायिक न्यायशास्त्र के विकास का विश्लेषण करती है, जिसमें प्रारंभिक दौर में संरक्षणात्मक भेदभाव की मान्यता से लेकर हाल के उन निर्णयों तक की यात्रा को दर्शाया गया है, जो गरिमा, स्वायत्तता एवं लैंगिक-आधारित भेदभाव से सुरक्षा को सुदृढ़ करते हैं।&lt;/b&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;मामले&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;मुख्य सिद्धांत&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;यूसुफ अब्दुल अजीज बनाम बॉम्बे राज्य (1954)&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;अनुच्छेद 15(3) के अंतर्गत &lt;a href="https://www.drishtiias.com/hindi/sambhav-daily-answer-writing-practice/papers/sambhav-2025/sambhav-2025-exceptions-to-article-15-balance-between-equality-and-social-justice"&gt;&lt;b&gt;सुरक्षात्मक भेदभाव (सकारात्मक कार्रवाई)&lt;/b&gt;&lt;/a&gt; को बरकरार रखा गया।&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;पंजाब राज्य बनाम गुरमीत सिंह (1996)&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;उन्होंने बंद कमरे में सुनवाई का समर्थन किया और बिना पुष्टि के पीड़ितों की गवाही पर संदेह करने के खिलाफ चेतावनी दी।&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;विशाखा बनाम राजस्थान राज्य (1997)&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;कार्यस्थल पर यौन उत्पीड़न के खिलाफ दिशा-निर्देश निर्धारित किये गए , जिससे &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/protection-of-women-from-sexual-harassment-act,-2013"&gt;&lt;b&gt;कार्यस्थल पर महिलाओं के यौन उत्पीड़न (रोकथाम, निषेध और निवारण) अधिनियम, 2013&lt;/b&gt;&lt;/a&gt; का मार्ग प्रशस्त हुआ ।&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;NALSA बनाम भारत संघ (2014)&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;ट्रांसजेंडर पहचान, गरिमा और संवैधानिक अधिकारों&lt;/b&gt; को मान्यता दी गई ।&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;जोसेफ शाइन बनाम भारत संघ (2019)&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;भारतीय दंड संहिता की धारा 497&lt;/b&gt; को व्यभिचार से संबंधित बताते हुए असंवैधानिक करार दिया गया।&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;अपर्णा भट्ट बनाम मध्य प्रदेश राज्य (2021)&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;यौन अपराध के मामलों में लैंगिक रूढ़िवादिता &lt;/b&gt;और समझौते के सुझाव निषिद्ध हैं ।&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;झारखंड राज्य बनाम शैलेंद्र कुमार राय (2022)&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;बलात्कार की जाँच में इस्तेमाल होने वाले &lt;b&gt;अवैज्ञानिक टू-फिंगर टेस्ट&lt;/b&gt; पर प्रतिबंध लगा दिया गया ।&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;X बनाम प्रधान सचिव, स्वास्थ्य, दिल्ली (2023)&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;अविवाहित महिलाओं की प्रजनन संबंधी स्वायत्तता&lt;/b&gt; की पुष्टि की गई ।&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;वनिता पटनायक बनाम निर्मल कांति चक्रवर्ती (2025)&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;यह स्वीकार किया गया कि &lt;b&gt;शत्रुतापूर्ण कार्य वातावरण निरंतर यौन उत्पीड़न का रूप ले सकता है, जिसके लिये POSH अधिनियम, 2013 के तहत पीड़ित-संवेदनशील व्याख्या &lt;/b&gt;की आवश्यकता है।&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;रूढ़िबद्ध धारणाओं के विरुद्ध नियम:&lt;/b&gt; &lt;b&gt;&lt;i&gt;अपर्णा भट्ट बनाम मध्य प्रदेश राज्य (2021)&lt;/i&gt;&lt;/b&gt; मामले में दिये गए निर्णय के आधार पर, न्यायालय ने न्यायाधीशों को &lt;b&gt;बलात्कार के मामलों में लैंगिक रूढ़ियों से बचने तथा विवाह या समझौते जैसे सुझाव देने से परहेज करने&lt;/b&gt; का निर्देश दिया।
-&lt;ul&gt;
-&lt;li&gt;न्यायालयों को सहमति या विश्वसनीयता का निर्धारण करते समय पीड़िता के &lt;b&gt;वस्त्र, वैवाहिक स्थिति, यौन इतिहास अथवा जीवनशैली&lt;/b&gt; का मूल्यांकन नहीं करना चाहिये। यह &lt;b&gt;भारतीय साक्ष्य अधिनियम, 1872 की धारा 146 तथा &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/implementing-bharatiya-sakshya-adhiniyam"&gt;&lt;b&gt;भारतीय साक्ष्य अधिनियम, 2023&lt;/b&gt;&lt;/a&gt;&lt;b&gt; की धारा 48&lt;/b&gt; के अनुरूप है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;न्यायिक भाषा की शब्दावली:&lt;/b&gt; रिपोर्ट में लैंगिक एवं रूढ़िबद्ध शब्दों, जैसे &lt;b&gt;“अभियोक्त्री (Prosecutrix),” “शील (Modesty),” “वासना (Lust)” और “पवित्रता (Chastity)”&lt;/b&gt; के स्थान पर &lt;b&gt;अधिकार-आधारित एवं तटस्थ भाषा&lt;/b&gt; के प्रयोग का सुझाव दिया गया है, जैसे &lt;b&gt;“उत्तरजीवी (Survivor),” “यौन हमला (Sexual Assault)” तथा “शारीरिक स्वायत्तता का उल्लंघन (Bodily Autonomy Violated)”&lt;/b&gt;।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;यह &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/recognition-of-lgbtqia-rights-in-india"&gt;&lt;b&gt;LGBTQIA+ व्यक्तियों&lt;/b&gt;&lt;/a&gt;&lt;b&gt; के लिये समावेशी शब्दावली के प्रयोग की भी अनुशंसा करता है&lt;/b&gt;, जिसमें &lt;b&gt;SOGIESC (यौन अभिविन्यास, लैंगिक पहचान, अभिव्यक्ति एवं लैंगिक विशेषताएँ)&lt;/b&gt; जैसे शब्दों के उपयोग को शामिल किया गया है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;करुणामय न्यायालयीन प्रथाओं की अनुशंसा:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;पीड़ित एवं गवाह संरक्षण:&lt;/b&gt; &lt;b&gt;‘महेंद्र चावला बनाम भारत संघ’ (2018)&lt;/b&gt; मामले में मान्य &lt;b&gt;‘गवाह संरक्षण योजना, 2018’&lt;/b&gt; को और सुदृढ़ किया जाना चाहिये तथा &lt;b&gt;‘दिल्ली डोमेस्टिक वर्किंग वुमन फोरम बनाम भारत संघ’ (1995)&lt;/b&gt; के निर्देशों के अनुरूप FIR दर्ज होने के चरण से ही अनिवार्य विधिक सहायता उपलब्ध कराई जानी चाहिये।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;बंद कक्ष में सुनवाई (In-Camera Trials):&lt;/b&gt; &lt;b&gt;BNSS, 2023 की धारा 366(2)&lt;/b&gt; के अंतर्गत बलात्कार एवं पोक्सो (POCSO) से संबंधित मामलों की सुनवाई &lt;b&gt;बंद कक्ष (In-Camera)&lt;/b&gt; में आयोजित की जानी चाहिये।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;बाल-संवेदनशील न्यायिक प्रक्रियाएँ:&lt;/b&gt; बच्चों की गवाही के लिये &lt;b&gt;वीडियो लिंक/स्क्रीन आधारित माध्यमों&lt;/b&gt; का उपयोग (&lt;b&gt;‘साक्षी बनाम भारत संघ’, 2004&lt;/b&gt;) किया जाना चाहिये, बच्चों के लिये &lt;b&gt;सहायक व्यक्तियों&lt;/b&gt; की व्यवस्था (&lt;b&gt;‘बचपन बचाओ आंदोलन बनाम भारत संघ’, 2013&lt;/b&gt;) सुनिश्चित की जानी चाहिये तथा पोक्सो मामलों का &lt;b&gt;समयबद्ध निपटारा&lt;/b&gt; किया जाना चाहिये।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;“अतिथि के रूप में गवाह” दृष्टिकोण:&lt;/b&gt; &lt;b&gt;‘उत्तर प्रदेश राज्य बनाम शंभूनाथ सिंह’ (2001)&lt;/b&gt; मामले में व्यक्त दृष्टिकोण के अनुरूप, गवाहों के साथ &lt;b&gt;सम्मान एवं गरिमा के साथ व्यवहार&lt;/b&gt; किया जाना चाहिये तथा अनावश्यक स्थगन (Adjournments) एवं लंबे समय तक प्रतीक्षा की स्थिति से बचना चाहिये।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;परीक्षण-पूर्व परामर्श:&lt;/b&gt; पीड़ितों की चिंता को कम करने तथा &lt;b&gt;द्वितीयक उत्पीड़न&lt;/b&gt; को रोकने के लिये उपयुक्त परीक्षण-पूर्व परामर्श की व्यवस्था की जानी चाहिये।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;महत्त्व&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;संवैधानिक:&lt;/b&gt; यह &lt;b&gt;अनुच्छेद 21&lt;/b&gt; (गरिमा एवं निष्पक्ष सुनवाई के अधिकार) तथा &lt;a href="https://www.drishtiias.com/hindi/loksabha-rajyasabha-discussions/article-15"&gt;&lt;b&gt;अनुच्छेद 14 एवं 15&lt;/b&gt;&lt;/a&gt; (वास्तविक/सार्थक समानता) को सुदृढ़ करता है और &lt;b&gt;महिलाओं के विरुद्ध सभी प्रकार के भेदभाव के उन्मूलन संबंधी अभिसमय (CEDAW), 1979&lt;/b&gt; के अंतर्गत भारत के दायित्वों के अनुरूप है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;द्वितीयक उत्पीड़न में कमी:&lt;/b&gt; असंवेदनशील भाषा एवं प्रतिकूल जिरह (Hostile Cross-Examination) को यौन अपराधों की रिपोर्टिंग में बाधा उत्पन्न करने वाले प्रमुख कारकों के रूप में मान्यता दी गई है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;न्यायिक भाषा सामाजिक धारणाओं एवं संवैधानिक नैतिकता को आकार देती है।&lt;/b&gt; जहाँ रूढ़िबद्ध अभिव्यक्तियाँ पितृसत्तात्मक मानदंडों को सुदृढ़ कर सकती हैं, वहीं &lt;b&gt;अधिकार-आधारित भाषा द्वितीयक उत्पीड़न को कम कर सकती है तथा न्याय की तलाश करने वाले उत्तरजीवियों के लिये अधिक सहायक एवं संवेदनशील वातावरण को बढ़ावा दे सकती है।&lt;/b&gt; &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;संस्थागत जवाबदेही:&lt;/b&gt; यह केवल प्रतिद्वंद्वात्मक दृष्टिकोण तक सीमित न्यायिक प्रक्रिया से हटकर &lt;b&gt;उत्तरजीवी-संवेदनशील एवं आघात-सूचित (Trauma-Informed) न्याय प्रक्रिया&lt;/b&gt; की ओर परिवर्तन को प्रोत्साहित करता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विधिक समरूपता:&lt;/b&gt; यह पहले से उपलब्ध &lt;b&gt;विधिक सुरक्षा उपायों&lt;/b&gt; को सुदृढ़ करता है, जिनमें &lt;b&gt;बीएनएसएस, 2023 (बंद कक्ष में सुनवाई), &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/infographics/bharatiya-sakshya-act,-2023"&gt;&lt;b&gt;भारतीय साक्ष्य अधिनियम, 2023&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (बलात्कार मामलों में पीड़ित संरक्षण संबंधी प्रावधान), पोक्सो अधिनियम, 2012 तथा कार्यस्थल पर महिलाओं का लैंगिक उत्पीड़न (निवारण, प्रतिषेध एवं प्रतितोष) अधिनियम, 2013&lt;/b&gt; शामिल हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;चिंताएँ&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;दिशा-निर्देश वर्तमान में &lt;b&gt;अनुशंसात्मक (Recommendatory)&lt;/b&gt; हैं, बाध्यकारी नहीं; इनका प्रभाव केवल प्रकाशन पर निर्भर नहीं करता, बल्कि &lt;b&gt;न्यायिक प्रशिक्षण एवं आंतरिककरण (Internalisation)&lt;/b&gt; पर निर्भर करता है।&lt;/li&gt;
-&lt;li&gt;भारत में विद्यमान &lt;b&gt;भाषायी विविधता&lt;/b&gt; के कारण एक समान शब्दावली (Glossary) को विशेष रूप से &lt;b&gt;स्थानीय भाषाओं में संचालित न्यायालयीन कार्यवाहियों तथा ट्रायल कोर्ट स्तर&lt;/b&gt; पर लागू करना कठिन हो जाता है।&lt;/li&gt;
-&lt;li&gt;रिपोर्ट में उल्लेख किया गया है कि &lt;b&gt;80.7% उत्तरदाता गवाह संरक्षण योजना (Witness Protection Scheme)&lt;/b&gt; से अनभिज्ञ थे, जो मौजूदा सुरक्षा उपायों के संबंध में &lt;b&gt;कमज़ोर जागरूकता एवं अपर्याप्त क्रियान्वयन&lt;/b&gt; को दर्शाता है।&lt;/li&gt;
-&lt;li&gt;संवेदीकरण (Sensitisation) को एक &lt;b&gt;“सतत प्रक्रिया”&lt;/b&gt; के रूप में वर्णित किया गया है। केवल एक बार जारी की गई रिपोर्ट या शब्दावली स्थायी समाधान प्रदान नहीं कर सकती, क्योंकि भाषा एवं सामाजिक दृष्टिकोण निरंतर विकसित होते रहते हैं।&lt;/li&gt;
-&lt;li&gt;न्यायाधीश भी उसी समाज का प्रतिबिंब होते हैं, जिसमें उनका सामाजिक एवं व्यावसायिक विकास होता है। अतः केवल &lt;b&gt;न्यायिक संवेदीकरण&lt;/b&gt; पर्याप्त नहीं है गहराई से स्थापित लैंगिक पूर्वाग्रहों के उन्मूलन के लिये समाज में व्यापक &lt;b&gt;मानसिकता, व्यवहार एवं दृष्टिकोण संबंधी परिवर्तन&lt;/b&gt; आवश्यक हैं। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;मुख्य परीक्षा हेतु मूल्य संवर्द्धन: लैंगिक न्यायसंगत न्यायपालिका के लिये 5D रूपरेखा&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;गरिमा (Dignity):&lt;/b&gt; &lt;b&gt;सम्मानजनक, तटस्थ और रूढ़िबद्ध धारणाओं से मुक्त न्यायिक भाषा&lt;/b&gt; का उपयोग करना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विधिक प्रक्रिया (Due Process):&lt;/b&gt; &lt;b&gt;पीड़ित संरक्षण और अभियुक्त के निष्पक्ष सुनवाई के अधिकार&lt;/b&gt; के मध्य संतुलन स्थापित करना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विविधता (Diversity):&lt;/b&gt; &lt;b&gt;लिंग, लैंगिकता, दिव्यांगता, जाति और भाषायी भिन्नताओं&lt;/b&gt; के प्रति संवेदनशीलता सुनिश्चित करना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;डिज़ाइन (Design):&lt;/b&gt; &lt;b&gt;संवेदनशील गवाह केंद्र, वीडियो साक्ष्य, पृथक प्रतीक्षा कक्ष और विधिक सहायता&lt;/b&gt; जैसी सुविधाएँ उपलब्ध कराना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;डिजिटल सुरक्षा उपाय (Digital Safeguards):&lt;/b&gt; यह सुनिश्चित करना कि &lt;b&gt;कृत्रिम बुद्धिमत्ता (AI) और एल्गोरिद्मिक प्रणालियाँ लैंगिक रूढ़ियों को पुनः उत्पन्न या सुदृढ़ न करें।&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;निष्कर्ष&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;लैंगिक न्याय की अगली पीढ़ी को &lt;b&gt;लैंगिक रूप से संवेदनशील कानूनों से आगे बढ़ते हुए एक समग्र लैंगिक-संवेदनशील न्यायिक पारिस्थितिकी तंत्र के निर्माण&lt;/b&gt; की दिशा में अग्रसर होना होगा, जिसमें &lt;b&gt;गरिमा, वास्तविक समानता, विधिक प्रक्रिया, संस्थागत सुधार और डिजिटल सुरक्षा उपायों&lt;/b&gt; का समावेश हो। यह पुस्तिका न्याय प्रदान करने की प्रक्रिया में &lt;b&gt;लैंगिक समानता को वास्तविक अनुभव के रूप में स्थापित करने&lt;/b&gt; का प्रयास करती है, जिसमें रूढ़िबद्ध धारणाओं के स्थान पर &lt;b&gt;संवेदनशीलता और उत्तरजीवी-केंद्रित न्याय&lt;/b&gt; को प्राथमिकता दी गई है।&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;&lt;i&gt;दृष्टि मेन्स प्रश्न:&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; न्यायिक तर्क-वितर्क में निहित लैंगिक रूढ़िबद्ध धारणाएँ किस प्रकार संविधान द्वारा प्रदत्त समानता और गरिमा की गारंटी को प्रभावित कर सकती हैं?&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ)&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;1. सर्वोच्च न्यायालय की वर्ष 2026 की लैंगिक-संवेदनशीलता पुस्तिका का उद्देश्य क्या है?&lt;br/&gt;&lt;/b&gt;यह विशेष रूप से यौन अपराधों से संबंधित मामलों में &lt;b&gt;लैंगिक रूप से संवेदनशील, आघात-सूचित और उत्तरजीवी-केंद्रित न्यायिक भाषा एवं न्यायालयीन प्रक्रियाओं को बढ़ावा देने&lt;/b&gt; का प्रयास करती है। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;2. &lt;/b&gt;&lt;b&gt;&lt;i&gt;विशाखा बनाम राजस्थान राज्य (1997)&lt;/i&gt;&lt;/b&gt;&lt;b&gt; ने क्या स्थापित किया?&lt;br/&gt;&lt;/b&gt;इसने &lt;b&gt;कार्यस्थल पर यौन उत्पीड़न के विरुद्ध दिशा-निर्देश&lt;/b&gt; निर्धारित किये, जो बाद में &lt;b&gt;कार्यस्थल पर महिलाओं का यौन उत्पीड़न (रोकथाम, निषेध और प्रतितोष) अधिनियम, 2013 (POSH अधिनियम, 2013)&lt;/b&gt; का आधार बने। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3. गवाह संरक्षण योजना, 2018 का क्या महत्त्व है?&lt;br/&gt;&lt;/b&gt;यह &lt;b&gt;गवाहों को धमकी और भयादोहन से सुरक्षा प्रदान करने&lt;/b&gt; के लिये एक रूपरेखा उपलब्ध कराती है, जिससे निष्पक्ष सुनवाई तथा न्याय तक पहुँच को सुदृढ़ किया जा सके। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;4. यौन अपराधों के उत्तरजीवियों के लिये कौन-से कानून सुरक्षा उपाय प्रदान करते हैं?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;भारतीय नागरिक सुरक्षा संहिता (BNSS), 2023, भारतीय साक्ष्य अधिनियम, 2023, लैंगिक अपराधों से बालकों का संरक्षण अधिनियम (POCSO), 2012 और कार्यस्थल पर महिलाओं का यौन उत्पीड़न (रोकथाम, निषेध और प्रतितोष) अधिनियम (POSH), 2013&lt;/b&gt; प्रमुख प्रक्रियात्मक एवं मूलभूत सुरक्षा उपाय प्रदान करते हैं। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;5. लैंगिक-संवेदनशील न्यायिक भाषा क्यों महत्त्वपूर्ण है?&lt;br/&gt;&lt;/b&gt;यह &lt;b&gt;लैंगिक रूढ़िबद्ध धारणाओं तथा द्वितीयक पीड़ितीकरण&lt;/b&gt; को समाप्त करने में सहायता करती है तथा &lt;b&gt;अनुच्छेद 14, 15 और 21&lt;/b&gt; को सुदृढ़ करते हुए गरिमा एवं न्याय तक समान पहुँच को बढ़ावा देती है। &lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ)&lt;/b&gt;&lt;/h2&gt;
-&lt;h2&gt;&lt;em&gt;&lt;b&gt;मेन्स &lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;प्रश्न. भारत में महिला सशक्तीकरण के लिये जेंडर बजटिंग अनिवार्य है। भारतीय प्रसंग में जेंडर बजटिंग की क्या आवश्यकताएँ एवं स्थिति हैं? (2016)&lt;/p&gt;
-&lt;p&gt;प्रश्न. भारत में एक मध्यम-वर्गीय कामकाजी महिला की अवस्थिति को पितृतंत्र (पेट्रिआर्की) किस प्रकार प्रभावित करता है? (2014)&lt;/p&gt;
-&lt;p&gt;प्रश्न. हमें देश में महिलाओं के प्रति यौन-उत्पीड़न के बढ़ते हुए दृष्टांत दिखाई दे रहे हैं। इस कुकृत्य के विरुद्ध विद्यमान विधिक उपबंधों के होते हुए भी, ऐसी घटनाओं की संख्या बढ़ रही है। इस संकट से निपटने के लिये कुछ नवाचारी उपाय सुझाइये। (2014)&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<title>अधिकरण सुधार विधेयक, 2026</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/tribunals-reforms-bill,-2026</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/tribunals-reforms-bill,-2026" rel="alternate"/>
-<published>2026-09-01T00:00:00+00:00</published>
-<updated>2026-09-01T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">अधिकरण सुधार विधेयक, 2026
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Judgments-&amp;amp;-Cases"&gt;निर्णय और मामले&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Judiciary"&gt;न्यायतंत्र&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Quasi-Judicial-Bodies"&gt;अर्ध-न्यायिक निकाय&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;प्रिलिम्स के लिये:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/strengthening-tribunals-in-india"&gt;&lt;b&gt;न्यायाधिकरण&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/doctrine-of-separation-of-powers-1"&gt;&lt;b&gt;शक्तियों का पृथक्करण&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/tribunals-7"&gt;&lt;b&gt;आयकर अपीलीय अधिकरण&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/mains-practice-question/question-4518/pnt"&gt;&lt;b&gt;42वाँ संवैधानिक संशोधन अधिनियम, 1976&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/judicial-review-2"&gt;&lt;b&gt;न्यायिक समीक्षा&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;मेन्स के लिये:&lt;/b&gt; भारत में न्याय व्यवस्था का न्यायाधिकरण, न्यायाधिकरणों की जवाबदेही बनाम स्वतंत्रता, न्यायाधिकरण प्रशासन में एकरूपता की आवश्यकता&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/news/national/lok-sabha-passes-bill-to-set-up-panel-to-appoint-chiefs-members-of-tribunals-without-debate/article71328064.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;लोकसभा ने विपक्ष के विरोध के बीच बिना किसी वाद-विवाद के ध्वनि मत से &lt;b&gt;अधिकरण सुधार विधेयक, 2026&lt;/b&gt; पारित कर दिया। यह विधेयक &lt;b&gt;अधिकरण सुधार विधेयक&lt;/b&gt; &lt;b&gt;2021&lt;/b&gt; के स्थान पर लाया गया है और विभिन्न अधिकरणों में नियुक्तियों एवं सेवा शर्तों की निगरानी के लिये राष्ट्रीय अधिकरण आयोग (NTC) की स्थापना करता है।&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;सारांश&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;अधिकरण सुधार विधेयक, 2026&lt;/b&gt; का उद्देश्य वर्ष 2021 के अधिनियम को निरस्त करना तथा नियुक्तियों, पर्यवेक्षण और प्रशासन को सुदृढ़ करने के लिये राष्ट्रीय अधिकरण आयोग की स्थापना करना है, साथ ही &lt;b&gt;न्यायिक स्वतंत्रता तथा शक्तियों के पृथक्करण&lt;/b&gt; की रक्षा करना है।&lt;/li&gt;
-&lt;li&gt;यह विधेयक &lt;b&gt;कार्यपालिका के प्रभुत्व, रिक्तियों, लंबित मामलों, अल्प कार्यकाल और वित्तीय निर्भरता जैसी दीर्घकालिक चुनौतियों&lt;/b&gt; का समाधान करता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;अधिकरण सुधार विधेयक 2026 के मुख्य प्रावधान क्या हैं?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;वर्ष 2021 के अधिनियम का निरसन:&lt;/b&gt; विधेयक का उद्देश्य अधिकरण सुधार अधिनियम, 2021 को निरस्त करना तथा &lt;b&gt;शक्तियों के पृथक्करण&lt;/b&gt; एवं न्यायिक स्वतंत्रता से संबंधित &lt;b&gt;सर्वोच्च न्यायालय के निर्देशों&lt;/b&gt; के अनुरूप अधिकरणों की नियुक्तियों एवं सेवा शर्तों को व्यवस्थित करना है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;&lt;i&gt;मद्रास बार एसोसिएशन बनाम भारत संघ&lt;/i&gt;&lt;/b&gt; से संबंधित निर्णय शृंखला में वर्ष 2010 से 2025 तक उच्चतम न्यायालय के प्रमुख निर्णय शामिल हैं, जिन्होंने अधिकरणों में कार्यपालिका के अत्यधिक हस्तक्षेप को सीमित किया तथा &lt;b&gt;न्यायिक स्वतंत्रता एवं शक्तियों के पृथक्करण के सिद्धांत &lt;/b&gt;को बनाए रखा।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;राष्ट्रीय अधिकरण आयोग:&lt;/b&gt; विधेयक &lt;b&gt;राष्ट्रीय अधिकरण आयोग (NTC)&lt;/b&gt; की स्थापना करता है, जो नियुक्तियों का संचालन करेगा, अधिकरणों के प्रदर्शन की समीक्षा करेगा, सदस्यों के विरुद्ध शिकायतों की निगरानी करेगा तथा &lt;b&gt;राष्ट्रीय अधिकरण डेटा ग्रिड &lt;/b&gt;का अनुरक्षण करेगा।
-&lt;ul&gt;
-&lt;li&gt;NTC में एक &lt;b&gt;अध्यक्ष &lt;/b&gt;(जो उच्चतम न्यायालय के न्यायाधीश या किसी उच्च न्यायालय के मुख्य न्यायाधीश रह चुके हों), &lt;b&gt;दो न्यायिक सदस्य&lt;/b&gt; (उच्च न्यायालय के मुख्य न्यायाधीश या न्यायाधीश) तथा दो तकनीकी सदस्य शामिल होंगे।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;तकनीकी सदस्यों के पास संबंधित क्षेत्र में कम-से-कम 25 वर्ष का अनुभव होना&lt;/b&gt; अनिवार्य होगा।&lt;/li&gt;
-&lt;li&gt;अध्यक्ष के लिये अधिकतम आयु सीमा 70 वर्ष तथा सदस्यों के लिये 67 वर्ष होगी। कार्यकाल पाँच वर्ष का होगा या निर्धारित अधिकतम आयु प्राप्त होने तक, जो भी पहले हो।&lt;/li&gt;
-&lt;li&gt;इन पदों पर नियुक्तियाँ केंद्र सरकार द्वारा की जाएँगी। अध्यक्ष एवं न्यायिक सदस्यों के लिये भारत के मुख्य न्यायाधीश (CJI) से परामर्श लिया जाएगा, जबकि आयोग के सचिवालय का नेतृत्व केंद्र सरकार के सचिव स्तर के अधिकारी द्वारा किया जाएगा।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अधिकरण सदस्यों का चयन:&lt;/b&gt; प्रत्येक रिक्ति के लिये NTC की खोज-सह-चयन समिति की नियुक्ति हेतु एक नाम की अनुशंसा करेगी तथा एक अतिरिक्त नाम प्रतीक्षा सूची में रखा जाएगा। केंद्र सरकार को अनुशंसा प्राप्त होने के तीन महीने के भीतर नियुक्ति को अंतिम रूप देना होगा।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;पुनर्नियुक्ति:&lt;/b&gt; सदस्यों को उनके &lt;b&gt;पूर्व प्रदर्शन&lt;/b&gt; के आधार पर पुनर्नियुक्त किया जा सकता है। सदस्यों के लिये संबंधित अधिकरण के अध्यक्ष से परामर्श लिया जाएगा।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;निष्कासन:&lt;/b&gt; सदस्यों को दिवालियापन, नैतिक अधमता से संबंधित अपराध में दोषसिद्धि, अक्षमता, पद के दुरुपयोग या हितों के टकराव जैसे आधारों पर निष्कासित किया जा सकता है। इसके अतिरिक्त, अधिकरण सदस्यों को अयोग्यता, अक्षमता, अकुशलता या पारिश्रमिक वाले कार्यों को स्वीकार करने के आधार पर भी हटाया जा सकता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;सेवा शर्तें: &lt;/b&gt;केंद्र सरकार योग्यता, चयन, वेतन, भत्ते, त्याग-पत्र, निष्कासन प्रक्रिया तथा अन्य सेवा शर्तों को नियंत्रित करने वाले नियम निर्धारित करेगी।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;सर्वोच्च न्यायालय ने अधिकरण सुधार विधेयक 2021 के किन प्रावधानों को रद्द कर दिया?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;50 वर्ष की न्यूनतम आयु:&lt;/b&gt; इसे प्रभुत्ववादी मानते हुए निरस्त कर दिया गया, क्योंकि इससे &lt;b&gt;10 वर्ष के विधिक अभ्यास &lt;/b&gt;की पात्रता रखने के बावजूद युवा अधिवक्ताओं एवं विशेषज्ञों को बाहर कर दिया गया था।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;चार वर्ष का कार्यकाल:&lt;/b&gt; इसे &lt;b&gt;न्यायिक स्वतंत्रता एवं संस्थागत निरंतरता&lt;/b&gt; को कमज़ोर करने वाला मानते हुए अमान्य घोषित कर दिया गया। न्यायालय ने &lt;b&gt;न्यूनतम पाँच वर्ष के कार्यकाल&lt;/b&gt; को पुनः स्थापित किया।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;एक रिक्ति के लिये दो नाम:&lt;/b&gt; इसे &lt;b&gt;निरस्त &lt;/b&gt;कर दिया गया, क्योंकि इससे कार्यपालिका के विवेकाधिकार में वृद्धि होती थी। न्यायालय ने खोज-सह-चयन समिति को प्रत्येक पद के लिये &lt;b&gt;केवल एक नाम की अनुशंसा करने&lt;/b&gt; का निर्देश दिया।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;सिविल सेवा की सेवा शर्तें:&lt;/b&gt; इसे अस्वीकार कर दिया गया, क्योंकि अधिकरण के सदस्य &lt;b&gt;न्यायिक कार्य&lt;/b&gt; करते हैं और उन्हें सिविल सेवकों के समान मानना &lt;b&gt;शक्तियों के पृथक्करण&lt;/b&gt; के सिद्धांत को कमज़ोर करता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;निरस्त प्रावधानों का पुनः अधिनियमन: &lt;/b&gt;न्यायालय ने कहा कि संसद न्यायिक समीक्षा के अंतर्गत &lt;b&gt;अमान्य घोषित किये गए प्रावधानों&lt;/b&gt; को केवल पुनः अधिनियमित नहीं कर सकती, जब तक कि मूल दोषों को दूर न किया जाए, क्योंकि न्यायिक समीक्षा संविधान के मूल ढाँचा का हिस्सा है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;भारत में अधिकरण की पृष्ठभूमि क्या है?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;प्रारंभिक स्थापना: &lt;/b&gt;अधिकरण प्रणाली की शुरुआत पारंपरिक न्यायालयों के समानांतर न्यायालयों के कार्यभार को कम करने तथा विषय-विशेषज्ञता विकसित करने के उद्देश्य से की गई थी। पहला अधिकरण &lt;b&gt;आयकर अपीलीय अधिकरण (ITAT)&lt;/b&gt; था, जिसकी &lt;b&gt;स्थापना वर्ष 1941&lt;/b&gt; में की गई थी।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;संवैधानिक समावेशन (1976):&lt;/b&gt; अधिकरण &lt;b&gt;मूल संविधान का हिस्सा नहीं&lt;/b&gt; थे।
-&lt;ul&gt;
-&lt;li&gt;इन्हें &lt;b&gt;स्वर्ण सिंह समिति (1976) &lt;/b&gt;की सिफारिशों के आधार पर शामिल किया गया। समिति ने उच्च न्यायालयों में सेवा एवं अन्य मामलों के भारी लंबित मामलों को कम करने के लिये विशिष्ट अधिकरणों की स्थापना की सिफारिश की थी।&lt;/li&gt;
-&lt;li&gt;इन प्रस्तावों के परिणामस्वरूप &lt;a href="https://www.drishtiias.com/hindi/loksabha-rajyasabha-discussions/in-depth-major-constitutional-amendments"&gt;&lt;b&gt;42वें संविधान संशोधन अधिनियम, 1976&lt;/b&gt;&lt;/a&gt; के माध्यम से संविधान में&lt;b&gt; भाग XIV-A तथा अनुच्छेद 323A और 323B&lt;/b&gt; जोड़े गए।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भाग XIV-A: &lt;/b&gt;यह भाग अधिकरणों से संबंधित है और इसमें दो प्रमुख अनुच्छेद शामिल हैं:
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;अनुच्छेद 323A:&lt;/b&gt; यह संसद को लोक सेवकों की भर्ती एवं सेवा शर्तों से संबंधित विवादों के समाधान के लिये प्रशासनिक अधिकरण स्थापित करने का अधिकार प्रदान करता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अनुच्छेद 323B:&lt;/b&gt; यह संसद एवं राज्य विधानमंडलों दोनों को कराधान, विदेशी मुद्रा, औद्योगिक एवं श्रम विवाद, भूमि सुधार आदि जैसे अन्य विषयों के लिये अधिकरण स्थापित करने का अधिकार प्रदान करता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विस्तार एवं सुदृढ़ीकरण:&lt;/b&gt; वर्ष 1980 के दशक से विभिन्न क्षेत्रों से संबंधित अनेक अधिकरणों की स्थापना की गई (जैसे केंद्रीय प्रशासनिक अधिकरण, प्रतिभूति अपीलीय अधिकरण)। बाद में &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/amended-finance-act"&gt;&lt;b&gt;वित्त अधिनियम, 2017&lt;/b&gt;&lt;/a&gt; के माध्यम से कार्यात्मक समानता के आधार पर कई अधिकरणों का विलय कर दिया गया।
-&lt;ul&gt;
-&lt;li&gt;वर्ष 2010 में सर्वोच्च न्यायालय ने स्पष्ट किया कि विधानमंडल &lt;a href="https://www.drishtijudiciary.com/hin/to-the-point/ttp-constitution-of-india/seventh-schedule"&gt;&lt;b&gt;सातवीं अनुसूची&lt;/b&gt;&lt;/a&gt; में सूचीबद्ध किसी भी विषय के लिये अधिकरण स्थापित कर सकते हैं, न कि केवल अनुच्छेद 323B में निर्दिष्ट विषयों के लिये।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;न्यायिक पुनरावलोकन (Judicial Review):&lt;/b&gt; &lt;b&gt;&lt;i&gt;एस.पी. संपत कुमार मामला (1986)&lt;/i&gt;&lt;/b&gt; में सर्वोच्च न्यायालय ने निर्णय दिया कि संसद उच्च न्यायालयों के विकल्प के रूप में वैकल्पिक न्यायिक संस्थाओं का निर्माण कर सकती है, बशर्ते उनमें &lt;b&gt;समान प्रभावशीलता एवं कार्यक्षमता&lt;/b&gt; विद्यमान हो।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;i&gt;एल. चंद्र कुमार मामला (1997)&lt;/i&gt;&lt;/b&gt; में सर्वोच्च न्यायालय ने स्पष्ट किया कि अधिकरणों (Tribunals) के निर्णय &lt;b&gt;उच्च न्यायालयों एवं सर्वोच्च न्यायालय की रिट अधिकारिता (Writ Jurisdiction)&lt;/b&gt; के अधीन होंगे। इस निर्णय ने दृढ़तापूर्वक स्थापित किया कि &lt;b&gt;अधिकरण उच्च संवैधानिक न्यायालयों के पूर्ण विकल्प के रूप में कार्य नहीं कर सकते।&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260811102937-44cea62f.png"&gt;&lt;b&gt;&lt;img alt="TRIBUNAL" src="http://drishtiias.com/hindi/images/uploads/upload-20260811102937-44cea62f.png"/&gt;&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;अधिकरणों (Tribunals) से संबंधित प्रमुख समस्याएँ क्या हैं?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;कार्यपालिका का प्रभुत्व:&lt;/b&gt; &lt;b&gt;अधिकरण सुधार अधिनियम, 2021&lt;/b&gt; के अंतर्गत सरकार अधिकरणों में &lt;b&gt;नियुक्तियों, वेतन, सेवा शर्तों एवं पद से हटाने&lt;/b&gt; संबंधी मामलों पर व्यापक नियंत्रण रखती है, जबकि वह स्वयं इन अधिकरणों के समक्ष एक प्रमुख वादी (Litigant) भी होती है। 
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;&lt;i&gt;रोजर मैथ्यू बनाम साउथ इंडियन बैंक (2019)&lt;/i&gt;&lt;/b&gt; मामले में सर्वोच्च न्यायालय ने &lt;b&gt;चयन प्रक्रिया में न्यायिक प्रभुत्व (Judicial Dominance)&lt;/b&gt; की आवश्यकता पर बल दिया। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;रिक्तियाँ एवं लंबित मामले:&lt;/b&gt; पीठासीन अधिकारियों तथा न्यायिक/तकनीकी सदस्यों के पदों में &lt;b&gt;दीर्घकालिक रिक्तियाँ&lt;/b&gt; बड़े पैमाने पर मामलों के लंबित रहने का कारण बनती हैं, जिससे त्वरित न्याय प्रदान करने के उद्देश्य को क्षति पहुँचती है।
-&lt;ul&gt;
-&lt;li&gt;उदाहरण के लिये, &lt;b&gt;आयकर अपीलीय अधिकरण &lt;/b&gt;में वर्ष &lt;b&gt;2024 तक अकेले ₹6.7 ट्रिलियन (₹6.7 लाख करोड़)&lt;/b&gt; से अधिक की राशि से जुड़े विवाद लंबित थे, जो राजस्व संग्रहण एवं निवेशकों के विश्वास को प्रभावित कर रहे हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;लघु कार्यकाल एवं पुनर्नियुक्ति:&lt;/b&gt; अल्प कार्यकाल न्यायिक अनुभव एवं संस्थागत निरंतरता को सीमित करता है, जबकि पुनर्नियुक्ति की संभावना कार्यपालिका पर निर्भरता उत्पन्न कर सकती है, जिससे न्यायिक निष्पक्षता प्रभावित होने की आशंका रहती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रशासनिक निर्भरता:&lt;/b&gt; वित्तीय संसाधनों, बुनियादी ढाँचे एवं कर्मचारियों के लिये पैरेंट मिनिस्ट्री (Parent Ministries) पर निर्भरता न्यायाधिकरणों की &lt;b&gt;कार्यात्मक स्वायत्तता&lt;/b&gt; को कमज़ोर करती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अतिरिक्त मुकदमेबाज़ी:&lt;/b&gt; &lt;b&gt;&lt;i&gt;एल. चंद्र कुमार बनाम भारत संघ (1997)&lt;/i&gt;&lt;/b&gt; मामले में सर्वोच्च न्यायालय ने उच्च न्यायालयों की &lt;b&gt;न्यायिक पुनरावलोकन (Judicial Review) की शक्ति&lt;/b&gt; को बनाए रखा। इसका अर्थ है कि न्यायाधिकरणों के निर्णयों को उच्च न्यायालयों के समक्ष चुनौती दी जा सकती है, हालाँकि इससे विवाद निपटान प्रक्रिया में मुकदमेबाज़ी का एक अतिरिक्त चरण जुड़ सकता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अपर्याप्त बुनियादी ढाँचा:&lt;/b&gt; अनेक न्यायाधिकरण अपर्याप्त बुनियादी ढाँचे, सीमित डिजिटल सुविधाओं, कर्मचारियों की कमी तथा असमान प्रक्रियाओं एवं सेवा शर्तों जैसी समस्याओं का सामना कर रहे हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;कौन-से सुधार अधिकरणों की स्वतंत्रता एवं दक्षता को सुदृढ़ कर सकते हैं?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;पैरेंट मिनिस्ट्री से पृथक्करण:&lt;/b&gt; मुकदमेबाज़ी करने वाले मूल मंत्रालयों से &lt;b&gt;प्रशासनिक एवं वित्तीय नियंत्रण&lt;/b&gt; हटाकर एक स्वतंत्र नोडल प्राधिकरण को सौंपा जाना चाहिये तथा न्यायाधिकरणों के लिये &lt;b&gt;स्वतंत्र बजटीय आवंटन&lt;/b&gt; सुनिश्चित किया जाना चाहिये।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अपील तंत्र का सुव्यवस्थीकरण:&lt;/b&gt; न्यायाधिकरणों से संबंधित अपीलों के शीघ्र निपटारे के लिये उच्च न्यायालयों के भीतर &lt;b&gt;समर्पित न्यायाधिकरण अपीलीय पीठों &lt;/b&gt;का गठन किया जाना चाहिये।
-&lt;ul&gt;
-&lt;li&gt;भारत &lt;b&gt;यूके-शैली की द्वि-स्तरीय न्यायाधिकरण प्रणाली&lt;/b&gt; को अपनाने पर विचार कर सकता है, जिसमें &lt;b&gt;प्रथम-स्तरीय (First-tier) एवं उच्च (Upper) न्यायाधिकरण&lt;/b&gt; शामिल हों तथा इन्हें विषय-विशेषज्ञ &lt;b&gt;चैंबर्स &lt;/b&gt;का समर्थन प्राप्त हो। इससे अपील प्रक्रिया को सुव्यवस्थित करने तथा &lt;b&gt;विलंब एवं विखंडन (Fragmentation) को कम करने&lt;/b&gt; में सहायता मिलेगी। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अनिवार्य न्यायिक प्रभाव आकलन:&lt;/b&gt; न्यायाधिकरणों के अधिकार-क्षेत्र के विस्तार से पूर्व &lt;b&gt;न्यायिक प्रभाव आकलन (JIA)&lt;/b&gt; किया जाना चाहिये, ताकि आवश्यक &lt;b&gt;बुनियादी ढाँचे, न्यायाधीशों एवं संसाधनों&lt;/b&gt; का उचित आकलन किया जा सके।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;क्षमता निर्माण:&lt;/b&gt; &lt;b&gt;राष्ट्रीय न्यायिक अकादमी&lt;/b&gt; में क्रॉस-प्रशिक्षण (Cross-Training) की व्यवस्था प्रारंभ की जानी चाहिये, जिसके अंतर्गत तकनीकी सदस्यों को विधिक प्रशिक्षण तथा न्यायिक सदस्यों को संबंधित क्षेत्र-विशेष का विशेषज्ञ ज्ञान प्रदान किया जाए।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;संस्था-पूर्व मध्यस्थता:&lt;/b&gt; न्यायाधिकरणों से संबंधित उपयुक्त श्रेणियों के विवादों में &lt;b&gt;मुकदमा-पूर्व मध्यस्थता (Pre-Litigation Mediation)&lt;/b&gt; को अनिवार्य किया जाना चाहिये, जिससे निरर्थक मामलों एवं लंबित मामलों की संख्या में कमी लाई जा सके।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;कार्य-निष्पादन लेखापरीक्षण:&lt;/b&gt; निपटान दर, स्थगनों (Adjournments), लंबित मामलों तथा न्यायिक गुणवत्ता को सम्मिलित करते हुए &lt;b&gt;स्वतंत्र वार्षिक लेखापरीक्षण&lt;/b&gt; की व्यवस्था स्थापित की जानी चाहिये तथा प्रदर्शन संबंधी आँकड़ों का पारदर्शी रूप से प्रकाशन किया जाना चाहिये।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;निष्कर्ष&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;विधायन (Legislation) &lt;b&gt;अधिकरणों &lt;/b&gt;की संरचना को निर्धारित कर सकता है, किंतु यह आवश्यक नहीं कि वह उनकी &lt;b&gt;संस्थागत संस्कृति&lt;/b&gt; को भी परिवर्तित कर सके। न्यायाधिकरणों को &lt;b&gt;विश्वसनीय, स्वतंत्र एवं दक्ष न्यायिक संस्थाओं&lt;/b&gt; के रूप में स्थापित करने के लिये कार्यपालिका को अपने &lt;b&gt;प्रशासनिक नियंत्रण में कमी लानी होगी, इन संस्थाओं के लिये वित्तीय स्वायत्तता सुनिश्चित करनी होगी तथा आधुनिक वाद-प्रबंधन (Case Management) प्रणालियों को अपनाना होगा। &lt;/b&gt;इन समग्र सुधारों के माध्यम से ही न्यायाधिकरण प्रणाली अपने &lt;b&gt;मूल उद्देश्य—विशेषीकृत एवं त्वरित न्याय प्रदान करने के दायित्व&lt;/b&gt; को प्रभावी रूप से पूरा कर सकेगी।&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;&lt;i&gt;दृष्टि मेन्स प्रश्न:&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;“न्यायाधिकरणीकरण (Tribunalisation) का उद्देश्य विशेषीकृत एवं त्वरित न्याय प्रदान करना था, किंतु संस्थागत कमज़ोरियों ने अक्सर इस उद्देश्य को कमज़ोर किया है।” आलोचनात्मक परीक्षण कीजिये। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQs)&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;1. अधिकरण सुधार विधेयक, 2026 (Tribunals Reforms Bill, 2026) क्या है?&lt;/b&gt;यह &lt;b&gt;अधिकरण सुधार अधिनियम, 2021&lt;/b&gt; को निरस्त करने तथा अधिकरणों में &lt;b&gt;नियुक्तियों, कार्य-निष्पादन की निगरानी एवं प्रशासन&lt;/b&gt; के लिये &lt;b&gt;राष्ट्रीय अधिकरण आयोग &lt;/b&gt;की स्थापना का प्रावधान करता है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;2. अनुच्छेद 323A और 323B किससे संबंधित हैं?&lt;/b&gt;&lt;b&gt;अनुच्छेद 323A&lt;/b&gt; प्रशासनिक अधिकरणों का प्रावधान करता है, जबकि &lt;b&gt;अनुच्छेद 323B&lt;/b&gt; संसद एवं राज्य विधानमंडलों को कराधान, श्रम एवं भूमि सुधार जैसे निर्दिष्ट विषयों के लिये अधिकरण स्थापित करने की शक्ति प्रदान करता है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3. &lt;/b&gt;&lt;b&gt;&lt;i&gt;एल. चंद्र कुमार बनाम भारत संघ (1997)&lt;/i&gt;&lt;/b&gt;&lt;b&gt; मामले में क्या स्थापित किया गया?&lt;/b&gt;इस निर्णय में सर्वोच्च न्यायालय ने स्थापित किया कि अधिकरणों के निर्णय &lt;b&gt;अनुच्छेद 226 एवं 227 के अंतर्गत उच्च न्यायालयों की रिट अधिकारिता&lt;/b&gt; के अधीन रहेंगे, जिससे न्यायिक पुनरावलोकन को संवैधानिक ढाँचे के एक अभिन्न अंग के रूप में संरक्षित किया गया।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;4. राष्ट्रीय अधिकरण आयोग का महत्त्व क्या है?&lt;/b&gt;राष्ट्रीय अधिकरण आयोग का उद्देश्य &lt;b&gt;नियुक्तियों, कार्य-निष्पादन निगरानी, शिकायतों की देख-रेख एवं अधिकरण संबंधी डेटा प्रबंधन&lt;/b&gt; को केंद्रीकृत करना है, जिससे प्रशासनिक विखंडन एवं कार्यपालिका पर निर्भरता को कम किया जा सके।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;5. न्यायिक प्रभाव आकलन क्या है?&lt;/b&gt;यह उन विधानों से उत्पन्न होने वाली &lt;b&gt;न्यायिक, बुनियादी ढाँचा एवं मानव संसाधन संबंधी आवश्यकताओं&lt;/b&gt; का आकलन करता है, जो न्यायालयों या अधिकरणों को प्रभावित करते हैं। इससे अत्यधिक लंबित मामलों एवं संस्थागत दबाव को रोकने में सहायता मिलती है।&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा विगत वर्ष के प्रश्न (PYQ)&lt;/b&gt;&lt;/h2&gt;
-&lt;h2&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स:&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;प्रश्न. राष्ट्रीय हरित न्यायाधिकरण अधिनियम, 2010 भारतीय संविधान के निम्नलिखित में से कौन-सा/से प्रावधान के आनुरूप्य अधिनियमित हुआ था/हुए थे? (2012)&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;स्वस्थ पर्यावरण के अधिकार के आनुरूप्य,जो अनुच्छेद 21 के अंतर्गत जीवन के अधिकार का अंग माना जाता है&lt;/li&gt;
-&lt;li&gt;अनुच्छेद 275(1) के अंतर्गत अनुसूचित  जनजातियों के कल्याण हेतु अनुसूचित क्षेत्रों में प्रशासन का स्तर बढ़ाने के लिये प्रावधानित अनुदान के आनुरूप्य&lt;/li&gt;
-&lt;li&gt;अनुच्छेद 243(A) के अंतर्गत उल्लिखित ग्राम सभा की शक्तियों और कार्यों के आनुरुप्य&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;निम्नलिखित कूटों के आधार पर सही उत्तर का चयन कीजिये:&lt;/p&gt;
-&lt;p&gt;(a) केवल 1&lt;/p&gt;
-&lt;p&gt;(b) केवल 2 और 3&lt;/p&gt;
-&lt;p&gt;(c) केवल 1 और 3&lt;/p&gt;
-&lt;p&gt;(d) 1, 2 और 3&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर: (a)&lt;/b&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;&lt;em&gt;&lt;b&gt;मेन्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न: &lt;/b&gt;आप इस मत से कहाँ तक सहमत हैं कि अधिकरण सामान्य न्यायालयों की अधिकारिता को कम करते हैं?&lt;/p&gt;
-&lt;p&gt;उपर्युक्त को दृष्टिगत रखते हुए भारत में अधिकरणों की संवैधानिक वैधता तथा सक्षमता की विवेचना कीजिये। (2018)&lt;/p&gt;</content>
 </entry>
 </feed>
