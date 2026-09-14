@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Drishti IAS — प्रिलिम्स फैक्ट्स (Hindi)</title>
 <link href="https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials" rel="alternate"/>
-<updated>2026-09-14T13:06:56.202694+00:00</updated>
+<updated>2026-09-14T22:02:22.106401+00:00</updated>
 <id>urn:gs-magazine-rss:drishti-prelims-facts</id>
 <author><name>Drishti IAS</name></author>
 <entry>
@@ -150,6 +150,216 @@
 &lt;/table&gt;</content>
 </entry>
 <entry>
+<title>सोशल मीडिया पर CSEAM विज्ञापनों को लेकर NCPCR ने मेटा की जाँच शुरू की</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/ncpcr-probes-meta-over-cseam-ads-on-social-media</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/ncpcr-probes-meta-over-cseam-ads-on-social-media" rel="alternate"/>
+<published>2026-09-14T00:00:00+00:00</published>
+<updated>2026-09-14T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">सोशल मीडिया पर CSEAM विज्ञापनों को लेकर NCPCR ने मेटा की जाँच शुरू की
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies - I"&gt;सामान्य अध्ययन-I&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Issues-Related-to-Children"&gt;बच्चों से संबंधित मुद्दे&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Cyber-Security"&gt;साइबर सुरक्षा&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.thehindu.com/sci-tech/technology/why-is-ncpcr-investigating-meta-instagram/article71461341.ece"&gt;&lt;b&gt;स्रोत: द हिंदू&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;चर्चा मे क्यों? &lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/sc-questions-ncpcr-on-repatriation-of-children"&gt;&lt;b&gt;राष्ट्रीय बाल अधिकार संरक्षण आयोग (NCPCR)&lt;/b&gt;&lt;/a&gt; ने &lt;b&gt;मेटा&lt;/b&gt; (फेसबुक, इंस्टाग्राम तथा व्हाट्सएप की मूल कंपनी) के वरिष्ठ अधिकारियों को उसके प्लेटफार्मों पर &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/rising-online-child-abuse"&gt;&lt;b&gt;बाल यौन शोषण और दुर्व्यवहार सामग्री (CSEAM)&lt;/b&gt;&lt;/a&gt; से जुड़े विज्ञापनों के प्रचार के संबंध में समन किया। &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;इसी दौरान, &lt;b&gt;इलेक्ट्रॉनिक्स एवं सूचना प्रौद्योगिकी मंत्रालय (MeitY)&lt;/b&gt; ने कड़ा नोटिस जारी करते हुए मेटा से ऐसी सभी सामग्री को निष्क्रिय करने तथा उसके एल्गोरिदम-आधारित सुरक्षा उपायों में मौजूद गंभीर कमियों के संबंध में स्पष्टीकरण देने की मांग की।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;सोशल मीडिया प्लेटफॉर्म पर CSEAM विज्ञापन क्यों आ रहे हैं?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;AI फिल्टर की सीमाएँ:&lt;/b&gt; स्वचालित सुरक्षा प्रणालियाँ मुख्य रूप से सीधे कीवर्ड या पहले से प्रतिबंधित छवियों की पहचान करती हैं।
+&lt;ul&gt;
+&lt;li&gt;वे अपराधियों द्वारा सुरक्षा जाँच से बचने के लिये उपयोग किये जाने वाले परिवर्तित पाठ, गुप्त कोडवर्ड या छद्म दृश्यों को पहचानने में कठिनाई का सामना करते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रणालीगत गलत वर्गीकरण:&lt;/b&gt; मॉडरेशन उपकरण प्रायः बाल शोषण संबंधी सामग्री को गलती से सामान्य “वयस्क सामग्री” के रूप में वर्गीकृत कर देते हैं। इससे बाल सुरक्षा संबंधी कड़े नियमों का प्रभावी क्रियान्वयन बाधित होता है और समस्या के वास्तविक पैमाने को छिपाने में मदद मिलती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;विज्ञापन नेटवर्क में निगरानी का अभाव:&lt;/b&gt; प्लेटफॉर्म काफी हद तक वैश्विक तृतीय-पक्ष विज्ञापन एजेंसियों पर निर्भर रहते हैं। ये एजेंसियाँ प्रायः शिथिल जाँच के साथ काम करती हैं, जिसके कारण विज्ञापन से राजस्व अर्जित करने की होड़ में अवैध विज्ञापन भी प्रसारित हो जाते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;बाहरी लिंक (बेट स्ट्रेटेजी):&lt;/b&gt; विज्ञापनों में आमतौर पर अवैध तस्वीरें सीधे प्रदर्शित नहीं की जाती हैं। इसके बजाय, वे “बेट” के रूप में कार्य करते हैं और ऐसे लिंक या QR कोड उपलब्ध कराते हैं, जो उपयोगकर्त्ताओं को गुप्त, एन्क्रिप्टेड चैट समूहों (जैसे टेलीग्राम) तक ले जाते हैं, जहाँ वास्तविक सामग्री बेची जाती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;मानवीय मॉडरेशन त्रुटियाँ: &lt;/b&gt;अत्यधिक कार्यभार या अपर्याप्त रूप से प्रशिक्षित मानव समीक्षक प्रायः गलतियाँ करते हैं, उपयोगकर्त्ता की शिकायतों को अस्वीकृत कर देते हैं और अवैध विज्ञापनों को गलत तरीके से सुरक्षित घोषित कर देते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;भारत में CSEAM के खिलाफ कानूनी और नियामक ढाँचा&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;बाल यौन शोषण सामग्री (CSAM) &lt;/b&gt;के निर्माण, भंडारण, वितरण या सुगम बनाने के लिये कठोर आपराधिक दायित्व।
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;धारा 19&lt;/b&gt; के तहत बच्चों के खिलाफ यौन अपराधों की जानकारी रखने वाले किसी भी व्यक्ति या व्यावसायिक संस्था के लिये यह कानूनी रूप से बाध्यकारी है कि वह इसकी सूचना तुरंत विशेष किशोर पुलिस इकाई या स्थानीय पुलिस को दे।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;सूचना प्रौद्योगिकी अधिनियम, 2000:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;धारा 67B:&lt;/b&gt; विशेष रूप से इलेक्ट्रॉनिक रूप में यौन रूप से स्पष्ट कृत्यों में बच्चों को दर्शाने वाली सामग्री को प्रकाशित करने, प्रसारित करने या सुगम बनाने के लिये दंड (प्रथम दोषसिद्धि पर 5 वर्ष तक कारावास) निर्धारित करती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;धारा 79 (सेफ हार्बर):&lt;/b&gt; यह मध्यस्थों को उनके प्लेटफार्मों पर होस्ट की गई तृतीय-पक्ष सामग्री के लिये कानूनी प्रतिरक्षा प्रदान करती है, बशर्ते वे सख्त "उचित सावधानी" का पालन करें।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;IT (मध्यस्थ दिशा-निर्देश और डिजिटल मीडिया आचार संहिता) नियम, 2021:&lt;/b&gt; सोशल मीडिया मध्यस्थों को बाल यौन शोषण से संबंधित सामग्री की पहचान करने और उसे निष्क्रिय करने के लिये स्वचालित उपकरणों को तैनात करना होगा।
+&lt;ul&gt;
+&lt;li&gt;प्लेटफॉर्म को भारत में स्थित एक मुख्य अनुपालन अधिकारी, एक नोडल संपर्क व्यक्ति और एक शिकायत अधिकारी नियुक्त करना होगा।&lt;/li&gt;
+&lt;li&gt;न्यायालय के आदेश या सरकारी नोटिस प्राप्त होने पर CSEAM को हटाने में विफलता के परिणामस्वरूप धारा 79 के तहत सेफ हार्बर सररक्षण का हनन हो जाता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;ऑनलाइन बाल यौन शोषण से निपटने के लिये सरकारी तंत्र:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-cybercrime-reporting-portal"&gt;&lt;b&gt;राष्ट्रीय साइबर अपराध रिपोर्टिंग पोर्टल&lt;/b&gt;&lt;/a&gt; नागरिकों को बच्चों से जुड़े साइबर अपराधों की रिपोर्ट करने में सक्षम बनाता है, जबकि &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/i4c-brought-under-pmla,-2002"&gt;&lt;b&gt;भारतीय साइबर अपराध समन्वय केंद्र (I4C)&lt;/b&gt;&lt;/a&gt; जाँच और प्रवर्तन प्रयासों का समन्वय करता है।
+&lt;ul&gt;
+&lt;li&gt;अंतर्राष्ट्रीय स्तर पर, NCRB, अमेरिका के NCMEC के साथ अपने सहयोग के माध्यम से प्राप्त साइबर-टिपलाइन रिपोर्टों को आगे की कार्रवाई के लिये राज्यों और केंद्रशासित प्रदेशों के साथ साझा करता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;संयुक्त राष्ट्र बाल अधिकार अभिसमय (UNCRC), 1989: &lt;/b&gt;एक कानूनी रूप से बाध्यकारी अंतर्राष्ट्रीय समझौता जो बच्चों के नागरिक, राजनीतिक, आर्थिक और सांस्कृतिक अधिकारों को निर्धारित करता है। भारत ने वर्ष 1992 में UNCRC की पुष्टि की।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;बाल अधिकार संरक्षण राष्ट्रीय आयोग (NCPCR) क्या है?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;वैधानिक स्थिति:&lt;/b&gt; &lt;b&gt;बाल अधिकार संरक्षण आयोग (CPCR) अधिनियम, 2005&lt;/b&gt; के तहत मार्च 2007 में स्थापित।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;नोडल मंत्रालय:&lt;/b&gt; &lt;b&gt;महिला एवं बाल विकास मंत्रालय (MoWCD)&lt;/b&gt; के प्रशासनिक नियंत्रण में कार्य करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;संरचना:&lt;/b&gt; इसमें एक &lt;b&gt;अध्यक्ष&lt;/b&gt; और &lt;b&gt;छह सदस्य&lt;/b&gt; होते हैं (जिनमें से कम-से-कम दो महिलाएँ होनी चाहिये) जिनकी नियुक्ति केंद्र सरकार द्वारा की जाती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रमुख अधिदेश: यह सुनिश्चित करता है कि सभी कानून, नीतियाँ और प्रशासनिक तंत्र भारत के संविधान तथा &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/shared-parenting"&gt;संयुक्त राष्ट्र बाल अधिकार अभिसमय (UNCRC)&lt;/a&gt; में निहित बाल अधिकारों के अनुरूप हों ।&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;यह अधिनियम &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pocso-act-3"&gt;&lt;b&gt;बच्चों को यौन अपराधों से बचाने संबंधी अधिनियम (POCSO), 2012 &lt;/b&gt;&lt;/a&gt;और &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/rte-act,-2009-and-social-inclusion"&gt;&lt;b&gt;शिक्षा का अधिकार अधिनियम (RTE), 2009&lt;/b&gt;&lt;/a&gt; के कार्यान्वयन की निगरानी करता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;अर्द्ध-न्यायिक शक्तियाँ:&lt;/b&gt; जाँच करते समय, NCPCR सिविल प्रक्रिया संहिता, 1908 (अब &lt;a href="https://drishtijudiciary.com/hin/to-the-point/ttp-indian-civil-defence-code-and-criminal-procedure-code/complaint-under-bnss"&gt;&lt;b&gt;भारतीय नागरिक सुरक्षा संहिता, 2023&lt;/b&gt;&lt;/a&gt; ) के तहत एक सिविल न्यायालय की निर्दिष्ट शक्तियों का प्रयोग करती है:
+&lt;ul&gt;
+&lt;li&gt;शपथ के अधीन गवाहों को समन करने और उनकी उपस्थिति सुनिश्चित करने की शक्ति रखता है।&lt;/li&gt;
+&lt;li&gt;दस्तावेज़ों या डिजिटल साक्ष्यों की खोज एवं प्रस्तुति की मांग कर सकता है।&lt;/li&gt;
+&lt;li&gt;किसी भी न्यायालय या कार्यालय से सार्वजनिक अभिलेखों या रिपोर्टों की मांग कर सकता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;सीमा:&lt;/b&gt; इसके पास मुख्यतः अनुशंसात्मक शक्तियाँ हैं; यह किसी अपराधी को सीधे दंडित नहीं कर सकता और न ही निष्पादन योग्य डिक्री पारित कर सकता है। हालाँकि यह सरकारों या न्यायालयों को अभियोजन अथवा राहत प्रदान करने की अनुशंसा कर सकता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQs)&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;1. बच्चों की सुरक्षा में NCPCR की क्या भूमिका है?&lt;/b&gt; NCPCR, CPCR अधिनियम, 2005 के तहत एक वैधानिक निकाय है, जिसे बाल अधिकारों की सुरक्षा और POCSO तथा RTE जैसे कानूनों के कार्यान्वयन की निगरानी करने का अधिकार दिया गया है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. सूचना प्रौद्योगिकी अधिनियम, 2000 की धारा 67B किस बारे में है?&lt;/b&gt; धारा 67B बच्चों से संबंधित यौन रूप से स्पष्ट सामग्री को इलेक्ट्रॉनिक रूप में प्रकाशित करने, प्रसारित करने या सुगम बनाने को दंडनीय बनाती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. सूचना प्रौद्योगिकी अधिनियम, 2000 की धारा 79 का क्या महत्त्व है?&lt;/b&gt; धारा 79 निर्धारित उचित सावधानी संबंधी आवश्यकताओं के अनुपालन के अधीन मध्यस्थों को सेफ हार्बर प्रदान करती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. UNCRC क्या है?&lt;/b&gt; संयुक्त राष्ट्र बाल अधिकार अभिसमय (1989) एक कानूनी रूप से बाध्यकारी ढाँचा है जो बच्चों के नागरिक, राजनीतिक, आर्थिक और सामाजिक अधिकारों की रक्षा करता है; भारत ने वर्ष 1992 में इसकी पुष्टि की थी।&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न &lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;भारत में, किसी व्यक्ति के साइबर बीमा कराने पर, निधि की हानि की भरपाई एवं अन्य लाभों के अतिरिक्त, सामान्यतः निम्नलिखित में से कौन-कौन से लाभ दिये जाते हैं? &lt;b&gt;(2020)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1. यदि कोई मैलवेयर कंप्यूटर तक उसकी पहुँच बाधित कर देता है, तो कंप्यूटर प्रणाली को पुनः प्रचालित करने में लगने वाली लागत&lt;/p&gt;
+&lt;p&gt;2. यदि यह प्रमाणित हो जाता है कि किसी शरारती तत्त्व द्वारा जान-बूझकर कंप्यूटर को नुकसान पहुँचाया गया है तो नए कंप्यूटर की लागत&lt;/p&gt;
+&lt;p&gt;3. यदि साइबर बलात-ग्रहण होता है तो इस हानि को न्यूनतम करने के लिये विशेषज्ञ परामर्शदाता की सेवाएँ लेने पर लगने वाली लागत&lt;/p&gt;
+&lt;p&gt;4. यदि कोई तीसरा पक्ष मुकदमा दायर करता है तो न्यायालय में बचाव करने में लगने वाली लागत&lt;/p&gt;
+&lt;p&gt;नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:&lt;/p&gt;
+&lt;p&gt;(a) केवल 1,2 और 4&lt;/p&gt;
+&lt;p&gt;(b) केवल 1,3 और 4&lt;/p&gt;
+&lt;p&gt;(c) केवल 2 और 3&lt;/p&gt;
+&lt;p&gt;(d) 1,2,3 और 4&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर: (b) &lt;/b&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;भारत में, साइबर सुरक्षा घटनाओं पर रिपोर्ट करना निम्नलिखित में से किसके/किनके लिये विधितः अधिदेशात्मक है/हैं?&lt;b&gt; (2017)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1. सेवा प्रदाता (सर्विस प्रोवाइडर)&lt;/p&gt;
+&lt;p&gt;2. डेटा सेंटर&lt;/p&gt;
+&lt;p&gt;3. कॉर्पोरेट निकाय (बॉडी कॉर्पोरेट)&lt;/p&gt;
+&lt;p&gt;नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये :&lt;/p&gt;
+&lt;p&gt;(a) केवल 1&lt;/p&gt;
+&lt;p&gt;(b) केवल 1 और 2&lt;/p&gt;
+&lt;p&gt;(c) केवल 3&lt;/p&gt;
+&lt;p&gt;(d) 1,2 और 3&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर: (d) &lt;/b&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;मेन्स &lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; साइबर सुरक्षा के विभिन्न तत्त्व क्या हैं? साइबर सुरक्षा की चुनौतियों को ध्यान में रखते हुए समीक्षा कीजिये कि भारत ने किस हद तक एक व्यापक राष्ट्रीय साइबर सुरक्षा रणनीति सफलतापूर्वक विकसित की है। &lt;b&gt;(2022) &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<title>एक्सरसाइज़ युद्ध अभ्यास 2026</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/exercise-yudh-abhyas-2026</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/exercise-yudh-abhyas-2026" rel="alternate"/>
+<published>2026-09-14T00:00:00+00:00</published>
+<updated>2026-09-14T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">एक्सरसाइज़ युद्ध अभ्यास 2026
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/अंतर्राष्ट्रीय संबंध"&gt;अंतर्राष्ट्रीय संबंध&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Defense-technology"&gt;रक्षा प्रौद्योगिकी&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.thehindu.com/news/national/india-us-armies-step-up-combat-interoperability-with-22nd-yudh-abhyas/article71451971.ece"&gt;&lt;b&gt;स्रोत: द हिंदू&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; परिचालन अंतर-संचालनीयता, युद्ध तत्परता और रणनीतिक सहयोग को बढ़ाने&lt;/b&gt; के लिये&lt;b&gt; भारतीय सेना और अमेरिकी सेना &lt;/b&gt;के बीच &lt;b&gt;एक्सरसाइज़  &lt;/b&gt;&lt;a href="https://www.drishtiias.com/daily-updates/daily-news-analysis/exercise-yudh-abhyas-2025"&gt;&lt;b&gt;'युद्ध अभ्यास 2026'&lt;/b&gt;&lt;/a&gt;  का &lt;b&gt;22वाँ संस्करण&lt;/b&gt; शुरू हो गया है।  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;एक्सरसाइज़ युद्ध अभ्यास का परिचय:&lt;/b&gt; यह &lt;b&gt;भारतीय और अमेरिकी सेनाओं के बीच एक वार्षिक द्विपक्षीय सैन्य अभ्यास&lt;/b&gt; है, जो वर्ष 2004 में शुरू हुआ था। यह शांति स्थापना और विद्रोह-विरोधी (Counter-Insurgency) प्रशिक्षण से विकसित होकर अब &lt;b&gt;उच्च पर्वतीय युद्ध कला, हाइब्रिड खतरों, मानवीय सहायता तथा आपदा राहत&lt;/b&gt; एवं बहु-डोमेन संचालन को शामिल करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रमुख केंद्रित क्षेत्र:&lt;/b&gt; वर्ष 2026 का यह संस्करण &lt;b&gt;उच्च पर्वतीय युद्ध कला, लंबी दूरी की सटीक गोलाबारी, काउंटर-ड्रोन क्षमताओं और एकीकृत बहु-डोमेन संचालन &lt;/b&gt;पर केंद्रित है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भागीदारी:&lt;/b&gt; इस अभ्यास में &lt;b&gt;अमेरिकी सेना के 11वें एयरबोर्न डिवीज़न (फोर्ट वेनराइट, अलास्का) के आर्कटिक-प्रशिक्षित सैनिक और तीसरी बहु-डोमेन टास्क फोर्स &lt;/b&gt;शामिल हैं, जो &lt;b&gt;सटीक गोलाबारी और एकीकृत कमान-एवं-नियंत्रण प्रणालियों में विशेषज्ञता &lt;/b&gt;लाती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रशिक्षण के घटक:&lt;/b&gt; इन अभ्यासों में एक &lt;b&gt;कमांड पोस्ट एक्सरसाइज़ और एक फील्ड ट्रेनिंग एक्सरसाइज़ &lt;/b&gt;शामिल हैं, जिसका समापन &lt;b&gt;रॉकेट सिस्टम तथा लंबी दूरी की सटीक गोलाबारी से जुड़े एक संयुक्त लाइव-फायर प्रदर्शन &lt;/b&gt;के साथ होता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;काउंटर-ड्रोन क्षमता:&lt;/b&gt; इस अभ्यास ढाँचे के तहत पहली बार, उभरते हुए &lt;b&gt;मानवरहित हवाई खतरों के खिलाफ बलों को प्रशिक्षित &lt;/b&gt;करने के लिये अमेरिकी सेना के &lt;b&gt;मोबाइल लो, स्लो, स्मॉल अनमैन्ड एयरक्राफ्ट इंटीग्रेटेड डिफीट सिस्टम &lt;/b&gt;को भारत में तैनात किया जा रहा है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;रणनीतिक ढाँचा:&lt;/b&gt; यह अभ्यास व्यापक &lt;b&gt;ऑपरेशन पाथवेज ढाँचे&lt;/b&gt; के तहत आयोजित किया जाता है, जिसका उद्देश्य &lt;b&gt;सूचना साझाकरण, अंतर-संचालनीयता और संयुक्त परिचालन तत्परता &lt;/b&gt;को मज़बूत करना है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भारत और अमेरिका के बीच अन्य अभ्यास:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/16th-edition-of-exercise-vajra-prahar"&gt;&lt;b&gt;अभ्यास वज्र प्रहार &lt;/b&gt;&lt;/a&gt;&lt;b&gt;(विशेष बलों का अभ्यास), &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/naval-exercise-indra-2025"&gt;&lt;b&gt;साल्वेक्स &lt;/b&gt;&lt;/a&gt;&lt;b&gt;(नौसेना), &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/major-military-exercises-of-india"&gt;&lt;b&gt;कोप इंडिया&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (वायु सेना) और &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-news-analysis/malabar-naval-exercise-1"&gt;&lt;b&gt;मालाबार अभ्यास&lt;/b&gt;&lt;/a&gt; (भारत, अमेरिका, जापान और ऑस्ट्रेलिया को शामिल करने वाला क्वाड नौसेना अभ्यास)।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;और पढ़ें:  एक्सरसाइज़ - &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/exercise-yudh-abhyas-2025"&gt;&lt;b&gt;‘युद्ध अभ्यास' 2025&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+</entry>
+<entry>
+<title>ऊपरी भद्रा परियोजना: 50 वर्षों के बाद भद्रा का पानी   चित्रदुर्ग पहुँचा</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/upper-bhadra-project-bhadra-water-reaches-chitradurga-after-50-years</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/upper-bhadra-project-bhadra-water-reaches-chitradurga-after-50-years" rel="alternate"/>
+<published>2026-09-14T00:00:00+00:00</published>
+<updated>2026-09-14T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">ऊपरी भद्रा परियोजना: 50 वर्षों के बाद भद्रा का पानी   चित्रदुर्ग पहुँचा
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Government-Policies-&amp;amp;-Interventions"&gt;सरकारी नीतियाँ और हस्तक्षेप&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/infrastructure"&gt;बुनियादी ढाँचा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/water-resources"&gt;जल संसाधन&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://timesofindia.indiatimes.com/city/hubballi/after-50-year-wait-bhadra-water-flows-into-chitradurga/articleshow/134020126.cms"&gt;&lt;b&gt;स्रोत: द टाइम्स ऑफ इंडिया&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;एक सफल परीक्षण के दौरान &lt;b&gt;भद्रा जलाशय&lt;/b&gt; से चित्रदुर्ग शाखा नहर के माध्यम से गोनूर झील तक पानी पहुँचाया गया, जिससे मध्य कर्नाटक के निवासियों का 50 वर्षों का इंतजार समाप्त हो गया। यह उपलब्धि क्षेत्र के अर्द्ध-शुष्क इलाकों में गंभीर जल संकट के समाधान की दिशा में एक महत्त्वपूर्ण कदम है और &lt;b&gt;ऊपरी भद्रा परियोजना&lt;/b&gt; के परिचालन की शुरुआत का प्रतीक है। &lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;ऊपरी भद्रा परियोजना&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;वर्गीकरण: &lt;/b&gt;यह कर्नाटक की पहली सिंचाई योजना है जिसे केंद्र सरकार द्वारा &lt;b&gt;"राष्ट्रीय परियोजना" &lt;/b&gt;का दर्जा दिया गया है, जो इसे पर्याप्त केंद्रीय वित्तीय सहायता के लिये पात्र बनाती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;परियोजना का दायरा: &lt;/b&gt;यह तीव्र जल संकट को कम करने के लिये &lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper1/drainage-patterns-and-drainage-systems-of-india"&gt;&lt;b&gt;तुंगा और भद्रा नदियों&lt;/b&gt; &lt;/a&gt;से पानी खींचने हेतु तैयार की गई 21,500 करोड़ रुपये की लिफ्ट सिंचाई योजना है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;परिचालन तंत्र&lt;/b&gt;: यह परियोजना दो चरणों वाली लिफ्ट सिंचाई प्रणाली का उपयोग करती है:&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;चरण 1&lt;/b&gt;: तुंगा नदी से पानी उठाकर उसे भद्रा जलाशय में स्थानांतरित करना।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;चरण 2:&lt;/b&gt; भद्रा जलाशय से पानी उठाकर 6.9 किमी. लंबी सुरंग के माध्यम से चित्रदुर्ग तथा तुमकुरु शाखा नहरों में पहुँचाना।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;मुख्य उद्देश्य:&lt;/b&gt; चित्रदुर्ग, दावणगेरे, तुमकुरु और चिक्कमगलुरु ज़िलों के &lt;b&gt;2.25 लाख हेक्टेयर से अधिक सूखाग्रस्त क्षेत्र की सिंचाई करना तथा 367 लघु सिंचाई &lt;/b&gt;तालाबों को भरना।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भद्रा नदी&lt;/b&gt;: भद्रा नदी पश्चिमी घाट (गांगामूला शिखर) से निकलती है और दक्कन के पठार पर पूर्व की ओर बहती है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;यह कूडली (शिवमोगा के निकट) में तुंगा नदी से मिलकर &lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper1/drainage-patterns-and-drainage-systems-of-india"&gt;&lt;b&gt;तुंगभद्रा नदी&lt;/b&gt; &lt;/a&gt;बनाती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;तुंगभद्रा, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper1/drainage-patterns-and-drainage-systems-of-india"&gt;&lt;b&gt;कृष्णा नदी&lt;/b&gt;&lt;/a&gt; की एक प्रमुख सहायक नदी है, जो अंततः बंगाल की खाड़ी में गिरती है।&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;और पढ़ें:  &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/tungabhadra-river-dispute"&gt;&lt;b&gt;तुंगभद्रा नदी विवाद&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+</entry>
+<entry>
+<title>हूती विद्रोहियों द्वारा यमन के रणनीतिक बंदरगाह शहर ‘मोखा’ पर कब्ज़ा</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/houthi-rebels-capture-strategic-port-city-mokha-in-yemen</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/houthi-rebels-capture-strategic-port-city-mokha-in-yemen" rel="alternate"/>
+<published>2026-09-14T00:00:00+00:00</published>
+<updated>2026-09-14T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">हूती विद्रोहियों द्वारा यमन के रणनीतिक बंदरगाह शहर ‘मोखा’ पर कब्ज़ा
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/अंतर्राष्ट्रीय संबंध"&gt;अंतर्राष्ट्रीय संबंध&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://epaper.thehindu.com/ccidist-ws/th/th_international/issues/203466/OPS/GGEGFKK6Q.1+GADGGLAS4.1.html"&gt;&lt;b&gt;स्रोत: द हिंदू&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ईरान समर्थित &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/yemen-and-houthis"&gt;&lt;b&gt;हूती&lt;/b&gt;&lt;/a&gt; आंदोलन ने यमन में लाल सागर के एक रणनीतिक बंदरगाह शहर मोखा (मोचा) पर नियंत्रण हासिल कर लिया है, जो वर्ष 2022 के युद्धविराम काल के बाद से इसका सबसे बड़ा क्षेत्रीय अधिग्रहण (कब्ज़ा) है।&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;मोखा (मोचा)&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;रणनीतिक स्थिति&lt;/b&gt;: मोखा लाल सागर के किनारे &lt;b&gt;यमन के पश्चिमी तट पर स्थित एक बंदरगाह शहर &lt;/b&gt;है, जो &lt;a href="https://www.drishtiias.com/hindi/infographics/red-sea-1"&gt;&lt;b&gt;लाल सागर&lt;/b&gt;&lt;/a&gt;&lt;b&gt; और &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/new-strategic-possibilities-with-the-gulf"&gt;&lt;b&gt;अदन की खाड़ी&lt;/b&gt;&lt;/a&gt; को जोड़ने वाले एक प्रमुख समुद्री संकीर्ण मार्ग, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/bab-al-mandeb-strait"&gt;&lt;b&gt;बाब अल-मंदेब&lt;/b&gt;&lt;/a&gt; जलडमरूमध्य से लगभग 80 किमी. दूर स्थित है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;ऐतिहासिक महत्त्व:&lt;/b&gt; मोखा ऐतिहासिक रूप से &lt;b&gt;वैश्विक कॉफी व्यापार&lt;/b&gt; का एक प्रमुख केंद्र था, जिससे &lt;b&gt;"मोचा कॉफी"&lt;/b&gt; शब्द की उत्पत्ति हुई।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;आर्थिक भूमिका: &lt;/b&gt;इस बंदरगाह ने पारंपरिक रूप से क्षेत्रीय व्यापार, मत्स्य पालन गतिविधियों और तटीय आर्थिक गतिविधियों को सहायता प्रदान की है, हालाँकि यमन के लंबे समय से चले आ रहे संघर्ष के कारण इसका परिचालन प्रभावित हुआ है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260914121556-5c236d9f.png"&gt;&lt;img alt="Mokha" src="http://drishtiias.com/hindi/images/uploads/upload-20260914121556-5c236d9f.png"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;हूती के बारे में&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;हूती एक &lt;b&gt;जैदी शिया राजनीतिक और सशस्त्र आंदोलन है&lt;/b&gt;, जो 1990 के दशक में यमन में उभरा। वर्ष 2014 में यमन के राजनीतिक संकट के दौरान साना पर कब्ज़ा करने के बाद यह आंदोलन प्रमुखता में आया। &lt;/li&gt;
+&lt;li&gt;यह समूह उत्तरी और पश्चिमी यमन के बड़े हिस्सों को नियंत्रित करता है, जिसमें &lt;b&gt;लाल सागर तट&lt;/b&gt; के क्षेत्र भी शामिल हैं तथा &lt;b&gt;इसे ईरान (जो प्रत्यक्ष नियंत्रण से इनकार करता है) द्वारा राजनीतिक और सैन्य रूप से समर्थन प्राप्त &lt;/b&gt;है।&lt;/li&gt;
+&lt;li&gt;वर्ष 2023 से, हूतीयों ने &lt;b&gt;गाज़ा में इज़रायल की कार्रवाइयों के विरोध का हवाला देते हुए लाल सागर और &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/new-strategic-possibilities-with-the-gulf"&gt;&lt;b&gt;अदन की खाड़ी&lt;/b&gt;&lt;/a&gt; में वाणिज्यिक नौवहन को निशाना बनाया है, जिससे समुद्री सुरक्षा और वैश्विक व्यापार मार्गों पर चिंताएँ बढ़ गई हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;और पढ़ें: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/bab-al-mandeb-strait"&gt;&lt;b&gt;बाब-अल-मंदेब जलडमरूमध्य&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+</entry>
+<entry>
 <title>भू-वैज्ञानिक डेटा पर DRC का राज्य नियंत्रण</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/drc-s-sovereign-control-over-geological-data</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/drc-s-sovereign-control-over-geological-data" rel="alternate"/>
@@ -260,8 +470,8 @@
 <title>भारत-श्रीलंका रक्षा सहयोग</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-sri-lanka-defence-cooperation</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-sri-lanka-defence-cooperation" rel="alternate"/>
-<published>2026-09-11T00:00:00+00:00</published>
-<updated>2026-09-11T00:00:00+00:00</updated>
+<published>2026-09-14T00:00:00+00:00</published>
+<updated>2026-09-14T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत-श्रीलंका रक्षा सहयोग
 
@@ -2863,169 +3073,6 @@
 &lt;tr&gt;
 &lt;td&gt;
 &lt;p&gt;&lt;b&gt;और पढ़ें:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper1/revolt-of-1857"&gt;&lt;b&gt;1857 का विद्रोह&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content>
-</entry>
-<entry>
-<title>नैन्सी ग्रेस रोमन स्पेस टेलीस्कोप</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/nancy-grace-roman-space-telescope</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/nancy-grace-roman-space-telescope" rel="alternate"/>
-<published>2026-09-14T00:00:00+00:00</published>
-<updated>2026-09-14T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">नैन्सी ग्रेस रोमन स्पेस टेलीस्कोप
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Achievements-of-Indians-in-science-and-technology"&gt;विज्ञान और प्रौद्योगिकी में भारतीयों की उपलब्धियाँ&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/space-technology"&gt;अंतरिक्ष प्रौद्योगिकी&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/sci-tech/science/what-is-the-nancy-grace-roman-telescope/article71407538.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;नैन्सी ग्रेस रोमन स्पेस टेलीस्कोप &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/important-institution/international-organization/national-aeronautics-and-space-administration"&gt;&lt;b&gt;NASA&lt;/b&gt;&lt;/a&gt; की अगली पीढ़ी (Next Generation) की प्रमुख अंतरिक्ष वेधशाला है, जिसे ब्रह्मांड के प्रमुख रहस्यों, जिनमें &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/dark-energy-2"&gt;&lt;b&gt;डार्क एनर्जी&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/dark-matter-4"&gt;&lt;b&gt;डार्क मैटर&lt;/b&gt;&lt;/a&gt;, ब्रह्मांडीय विस्तार, गुरुत्वाकर्षण भौतिकी और &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/four-hot-jupiter-exoplanets-discovered"&gt;&lt;b&gt;बाह्य ग्रह&lt;/b&gt;&lt;/a&gt; शामिल हैं, का अध्ययन करने के लिये अभिकल्पित किया गया है।&lt;/p&gt;
-&lt;ul&gt;&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; इसका नाम &lt;b&gt;नैन्सी ग्रेस रोमन, NASA की पहली मुख्य खगोलशास्त्री&lt;/b&gt;, के नाम पर रखा गया है, जिन्होंने NASA के अंतरिक्ष खगोल विज्ञान कार्यक्रम के विकास में महत्त्वपूर्ण भूमिका निभाई थी और जिन्हें अक्सर&lt;b&gt; “मदर ऑफ द हबल स्पेस टेलीस्कोप”&lt;/b&gt; कहा जाता है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;यह मिशन &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/hubble-space-telescope"&gt;हबल स्पेस टेलीस्कोप&lt;/a&gt; (1990 में प्रक्षेपित) और &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/james-webb-space-telescope-s-first-images"&gt;जेम्स वेब स्पेस टेलीस्कोप&lt;/a&gt; (2021 में प्रक्षेपित) की क्षमताओं का पूरक होगा तथा ब्रह्मांड का अधिक व्यापक तथा गहन सर्वेक्षण करेगा।&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रक्षेपण और स्थिति:&lt;/b&gt; लगभग &lt;b&gt;4 बिलियन डॉलर का यह मिशन &lt;/b&gt;फ्लोरिडा स्थित कैनेडी स्पेस सेंटर से स्पेसएक्स फाल्कन हेवी रॉकेट द्वारा प्रक्षेपित किया गया और यह सूर्य-पृथ्वी &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/aditya-l1-mission"&gt;&lt;b&gt;लैग्रेंज पॉइंट&lt;/b&gt;&lt;/a&gt; &lt;b&gt;2 (L2) के निकट संचालित होगा, जो पृथ्वी से लगभग 16 लाख किमी. दूर &lt;/b&gt;है।
-&lt;ul&gt;
-&lt;li&gt;रोमन, &lt;b&gt;हबल की तुलना में लगभग 1,000 गुना तीव्र गति से ब्रह्मांड का सर्वेक्षण करेगा और कृत्रिम बुद्धिमत्ता एवं मशीन लर्निंग&lt;/b&gt; का उपयोग करते हुए प्रतिदिन लगभग 1.4 टेराबाइट डेटा उत्पन्न करेगा।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;उन्नत अवलोकन क्षमता:&lt;/b&gt; यह &lt;b&gt;300 मेगापिक्सेल वाइड फील्ड इंस्ट्रूमेंट (अवरक्त कैमरा)&lt;/b&gt; से सुसज्जित है, जो अंतरिक्ष के विशाल क्षेत्रों का सर्वेक्षण करेगा, दो अरब से अधिक आकाशगंगाओं का अध्ययन करेगा और ब्रह्मांडीय संरचनाओं के विकास का परीक्षण करेगा।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;यह समय के साथ ब्रह्मांड के विस्तार की दर का मापन करेगा और ब्रह्मांडीय विकास को निर्धारित करने में डार्क एनर्जी की भूमिका का अध्ययन करेगा। &lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;बाह्य ग्रहों का अन्वेषण: &lt;/b&gt;तारों के तीव्र प्रकाश को अवरुद्ध करने वाले &lt;b&gt;कोरोनाग्राफ उपकरण&lt;/b&gt; का उपयोग करते हुए, रोमन सीधे&lt;b&gt; बाह्य ग्रहों और प्लेनेट-फॉर्मिंग डिस्क&lt;/b&gt; का अवलोकन करेगा। यह मिल्की वे &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/milky-way-s-violent-birth-decoded"&gt;&lt;b&gt;आकाशगंगा&lt;/b&gt;&lt;/a&gt; में &lt;b&gt;प्लेनेट्री सिस्टम&lt;/b&gt; का सांख्यिकीय सर्वेक्षण भी करेगा।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रमुख योगदान:&lt;/b&gt; रोमन &lt;b&gt;आकाशगंगा के विकास, डार्क मैटर, डार्क एनर्जी, गुरुत्वाकर्षण भौतिकी और प्लेनेट्री सिस्टम&lt;/b&gt; के संबंध में महत्त्वपूर्ण जानकारी प्रदान करेगा। इसमें &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/esa-and-twelve-countries-sign-the-zero-debris-charter"&gt;&lt;b&gt;ESA&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/japan-s-slim-moon-mission"&gt;&lt;b&gt;JAXA&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, CNES और मैक्स प्लैंक इंस्टीट्यूट फॉर एस्ट्रोनॉमी &lt;/b&gt;सहित अंतर्राष्ट्रीय भागीदारों का योगदान भी शामिल होगा।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;और पढ़ें:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/james-webb-space-telescope-s-first-images"&gt;&lt;b&gt;जेम्स वेब स्पेस टेलीस्कोप&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content>
-</entry>
-<entry>
-<title>आरोपी को प्रथम सूचना रिपोर्ट (FIR) तक पहुँचने का अधिकार</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/rights-of-the-accused-to-access-an-fir</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/rights-of-the-accused-to-access-an-fir" rel="alternate"/>
-<published>2026-09-14T00:00:00+00:00</published>
-<updated>2026-09-14T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">आरोपी को प्रथम सूचना रिपोर्ट (FIR) तक पहुँचने का अधिकार
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Judicial-developments"&gt;न्यायिक घटनाक्रम&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/news/national/can-an-accused-be-denied-a-copy-of-the-fir-explained/article71405905.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;सर्वोच्च न्यायालय ने &lt;b&gt;&lt;i&gt;यूथ बार एसोसिएशन ऑफ इंडिया बनाम भारत संघ (2016)&lt;/i&gt;&lt;/b&gt; के दिशा-निर्देशों की पुनः पुष्टि की है। न्यायालय ने निष्पक्ष सुनवाई के लिये आरोपी के &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/first-information-report"&gt;&lt;b&gt;समय पर प्रथम सूचना रिपोर्ट (FIR)&lt;/b&gt;&lt;/a&gt;&lt;b&gt; तक पहुँच के अधिकार&lt;/b&gt; के संबंध में आपराधिक विधि और न्यायिक सुरक्षा उपायों के बीच मौजूद अंतर को रेखांकित किया है।&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;BNSS में वैधानिक रिक्तता:&lt;/b&gt; नई &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/new-criminal-laws-come-into-force"&gt;&lt;b&gt;भारतीय नागरिक सुरक्षा संहिता, 2023 (BNSS)&lt;/b&gt;&lt;/a&gt; में प्रथम सूचना रिपोर्ट (FIR) दर्ज होने के तुरंत बाद पुलिस द्वारा आरोपी को उसकी प्रति (फोटो कॉपी) उपलब्ध कराने का कोई अनिवार्य प्रावधान नहीं किया गया है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;BNSS की धारा 173(2)&lt;/b&gt; में आरोपी को प्राथमिकी (FIR) की प्रति (फोटो कॉपी) उपलब्ध कराने का स्पष्ट प्रावधान नहीं है। यह मुख्य रूप से &lt;b&gt;सूचनाकर्त्ता या पीड़ित&lt;/b&gt; को प्रथम सूचना रिपोर्ट की प्रति प्रदान करने से संबंधित है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;BNSS की धारा 230&lt;/b&gt; के अंतर्गत मजिस्ट्रेट द्वारा संज्ञान लेने के बाद तथा कार्यवाही के निर्धारित चरण में आरोपी को &lt;b&gt;FIR और अन्य प्रासंगिक दस्तावेज़ों&lt;/b&gt; की प्रतियाँ उपलब्ध कराना आवश्यक है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;यूथ बार एसोसिएशन मामला, 2016:&lt;/b&gt; सर्वोच्च न्यायालय ने निर्देश दिया कि प्रथम सूचना रिपोर्ट (FIR) को सामान्यतः दर्ज होने के &lt;b&gt;24 घंटे के भीतर पुलिस वेबसाइटों पर अपलोड&lt;/b&gt; किया जाना चाहिये (भौगोलिक या कनेक्टिविटी संबंधी समस्याओं के कारण इसे 48-72 घंटे तक बढ़ाया जा सकता है)।
-&lt;ul&gt;
-&lt;li&gt;आरोपी या उसका प्रतिनिधि &lt;b&gt;पुलिस से प्रमाणित प्रति&lt;/b&gt; के लिये आवेदन कर सकता है, जिसे &lt;b&gt;24 घंटे के भीतर&lt;/b&gt; उपलब्ध कराया जाना चाहिये, अथवा संबंधित क्षेत्राधिकार वाले मजिस्ट्रेट से दो कार्य दिवसों के भीतर प्राप्त किया जा सकता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;‘संवेदनशील अपराध’ से संबंधित छूट:&lt;/b&gt; &lt;b&gt;यौन अपराधों, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pocso-act-3"&gt;&lt;b&gt;POCSO अधिनियम&lt;/b&gt;&lt;/a&gt;&lt;b&gt; और आतंकवादी अपराधों&lt;/b&gt; से संबंधित प्रथम सूचना रिपोर्ट (FIR) को गोपनीयता की सुरक्षा के उद्देश्य से अनिवार्य ऑनलाइन प्रकाशन से छूट दी गई है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;छूट के लिये प्रोटोकॉल:&lt;/b&gt; प्रथम सूचना रिपोर्ट को सार्वजनिक करने से रोकने के लिये &lt;b&gt;उप पुलिस अधीक्षक (DSP) के पद से नीचे के अधिकारी द्वारा कारणयुक्त निर्णय&lt;/b&gt; लिया जाना आवश्यक है। इन मामलों में भी, मजिस्ट्रेट को आवेदन किये जाने के &lt;b&gt;तीन दिनों के भीतर आरोपी को प्रथम सूचना रिपोर्ट की प्रति उपलब्ध करानी होगी।&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;व्यवस्थागत विफलताएँ:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/cctns-hackathon-cyber-challenge"&gt;&lt;b&gt;CCTNS (अपराध एवं आपराधिक ट्रैकिंग नेटवर्क एवं प्रणाली)&lt;/b&gt;&lt;/a&gt; पुलिस का डेटाबेस है, जिसके माध्यम से प्रथम सूचना रिपोर्ट (FIR) को सार्वजनिक रूप से उपलब्ध कराया जाता है, लेकिन सर्वोच्च न्यायालय के अपलोडिंग संबंधी निर्देशों का अनुपालन अभी भी असमान बना हुआ है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;मूल अधिकारों पर प्रभाव:&lt;/b&gt; आरोपी को प्रथम सूचना रिपोर्ट तक शीघ्र पहुँच से वंचित करना उसे &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/anticipatory-bail"&gt;&lt;b&gt;अग्रिम ज़मानत&lt;/b&gt;&lt;/a&gt;&lt;b&gt; या कार्यवाही रद्द &lt;/b&gt;जैसे पूर्व-विचारणीय उपायों का उपयोग करने में बाधा उत्पन्न करता है, जिससे &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/right-to-a-fair-trial"&gt;&lt;b&gt;निष्पक्ष सुनवाई के अधिकार&lt;/b&gt;&lt;/a&gt; और निष्पक्ष न्याय के सिद्धांतों को मूल रूप से कमज़ोर किया जाता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;और पढ़ें : &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/fir-and-general-diary"&gt;&lt;b&gt;FIR तथा सामान्य डायरी&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content>
-</entry>
-<entry>
-<title>रमन मैग्सेसे अवॉर्ड 2026</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/ramon-magsaysay-awards-2026</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/ramon-magsaysay-awards-2026" rel="alternate"/>
-<published>2026-09-14T00:00:00+00:00</published>
-<updated>2026-09-14T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">रमन मैग्सेसे अवॉर्ड 2026
-
-
-
-
-
-
-
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies - I"&gt;सामान्य अध्ययन-I&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Important-personality"&gt;महत्त्वपूर्ण व्यक्तित्व&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/news/international/magsaysay-honour-for-singapore-lawyer-bangladeshi-aid-giver-myanmar-activist/article71412430.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;रमन मैग्सेसे अवॉर्ड&lt;/b&gt; &lt;b&gt;फाउंडेशन &lt;/b&gt;ने रमन मैग्सेसे अवॉर्ड 2026 के विजेताओं की घोषणा की, जिसमें समाज के लिये उनके उत्कृष्ट योगदान हेतु तीन एशियाई व्यक्तित्वों को सम्मानित किया गया। पुरस्कार प्राप्तकर्त्ताओं में &lt;b&gt;टॉमी कोह (सिंगापुर), रुना खान (बांग्लादेश) और&lt;/b&gt; &lt;b&gt;बो की&lt;/b&gt;&lt;b&gt; (म्याँमार) &lt;/b&gt;शामिल हैं।&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;रमन मैग्सेसे पुरस्कार&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; रमन मैग्सेसे अवॉर्ड की &lt;b&gt;स्थापना वर्ष 1958 &lt;/b&gt;में की गई थी। यह उन व्यक्तियों और संगठनों को सम्मानित करता है, जिन्होंने एशिया तथा वैश्विक स्तर पर जटिल सामाजिक मुद्दों का समाधान करते हुए &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/human-development-report-2025"&gt;&lt;b&gt;मानव विकास&lt;/b&gt;&lt;/a&gt; में महत्त्वपूर्ण योगदान दिया है।
-&lt;ul&gt;
-&lt;li&gt;रमन मैग्सेसे पुरस्कार को एशिया के सबसे प्रतिष्ठित सम्मानों में से एक माना जाता है और इसे प्रायः &lt;b&gt;“एशिया का नोबेल पुरस्कार” &lt;/b&gt;कहा जाता है।&lt;/li&gt;
-&lt;li&gt;पुरस्कार प्राप्तकर्त्ताओं का चयन प्रतिवर्ष &lt;b&gt;रमन मैग्सेसे अवॉर्ड फाउंडेशन (RMAF)&lt;/b&gt; द्वारा किया जाता है तथा उन्हें पदक, प्रमाण-पत्र और नकद पुरस्कार प्रदान किया जाता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;उद्देश्य:&lt;/b&gt; इस पुरस्कार की स्थापना निःस्वार्थ सेवा और मानवीय भावना को मान्यता देने के लिये की गई थी, जो &lt;b&gt;जाति, लिंग या धर्म &lt;/b&gt;से परे है। यह एशिया में परिवर्तनकारी नेतृत्व और साहस का सम्मान करता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;श्रेणियाँ:&lt;/b&gt; वर्ष 1958 से 2008 तक, यह पुरस्कार &lt;b&gt;छह श्रेणियों&lt;/b&gt; में प्रदान किया गया: सरकारी सेवा, सार्वजनिक सेवा, सामुदायिक नेतृत्व, पत्रकारिता, साहित्य एवं रचनात्मक संचार कला, शांति एवं अंतर्राष्ट्रीय समझ तथा उभरता नेतृत्व (40 वर्ष या उससे कम आयु के व्यक्तियों के लिये)।
-&lt;ul&gt;
-&lt;li&gt;वर्ष 2009 से यह पुरस्कार अब निश्चित श्रेणियों का पालन नहीं करता, सिवाय उभरते नेतृत्व (Emergent Leadership) श्रेणी के, जो &lt;b&gt;फोर्ड फाउंडेशन&lt;/b&gt; के समर्थन से जारी है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260902070249-8c03d46e.png"&gt;&lt;img alt="Ramon Magsaysay Awards 2026" src="http://drishtiias.com/hindi/images/uploads/upload-20260902070249-8c03d46e.png"/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;और पढ़ें:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/state-pcs-current-affairs/ramon-magsaysay-award-2025"&gt;&lt;b&gt;रमन मैग्सेसे पुरस्कार 2025&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content>
-</entry>
-<entry>
-<title>अरनमुला उत्तराटादी नौका दौड़</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/aranmula-uthrattathi-boat-race</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/aranmula-uthrattathi-boat-race" rel="alternate"/>
-<published>2026-09-14T00:00:00+00:00</published>
-<updated>2026-09-14T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">अरनमुला उत्तराटादी नौका दौड़
-
-
-
-
-
-
-
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies - I"&gt;सामान्य अध्ययन-I&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Indian-heritage-site"&gt;भारतीय विरासत स्थल&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/news/national/kerala/aranmula-water-regatta-symbolises-keralams-rich-cultural-heritage-vice-president-c-p-radhakrishnan/article71407845.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;अरनमुला उत्तराटादी वल्लमकली (नौका दौड़)&lt;/b&gt; केरल के सबसे प्रतिष्ठित पारंपरिक आयोजनों में से एक है, जो राज्य की सांस्कृतिक विरासत, भक्ति और सामुदायिक भावना का प्रतीक है। अरनमुला &lt;b&gt;पंपा नदी&lt;/b&gt; के तट पर स्थित एक विरासत ग्राम है और यह &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/geographical-indications-in-india"&gt;&lt;b&gt;GI टैग प्राप्त&lt;/b&gt;&lt;/a&gt;&lt;b&gt; अरनमुला कन्नड़ि (धातु दर्पण)&lt;/b&gt; के लिये प्रसिद्ध है, जो केरल की एक अद्वितीय पारंपरिक शिल्पकला है।&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;आयोजन के बारे में:&lt;/b&gt; &lt;b&gt;अरनमुला उत्तराटादी वल्लमकली&lt;/b&gt; केरल की &lt;b&gt;सबसे प्राचीन पारंपरिक नौका दौड़ों&lt;/b&gt; में से एक है। इसका आयोजन प्रतिवर्ष मलयालम माह &lt;b&gt;चिंगम&lt;/b&gt; (अगस्त-सितंबर) में &lt;b&gt;उत्तराटादी नक्षत्र&lt;/b&gt; के दिन &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pamba-achankovil-vaippar-rivers-linking-project"&gt;&lt;b&gt;पंपा नदी&lt;/b&gt;&lt;/a&gt; पर &lt;b&gt;पथनमथिट्टा ज़िले &lt;/b&gt;में किया जाता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;धार्मिक महत्त्व:&lt;/b&gt; यह नौका दौड़ &lt;b&gt;भगवान कृष्ण को समर्पित अरनमुला श्री पार्थसारथी मंदिर&lt;/b&gt; से जुड़ी हुई है। इसे एक &lt;b&gt;धार्मिक अर्पण&lt;/b&gt; माना जाता है और इसका आयोजन मंदिर की परंपराओं तथा &lt;b&gt;ओणम उत्सव&lt;/b&gt; के हिस्से के रूप में किया जाता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;नौका दौड़ के पीछे की मान्यता:&lt;/b&gt; परंपरा के अनुसार, इस आयोजन की शुरुआत तब हुई जब स्थानीय सर्प नौकाओं ने &lt;b&gt;तिरुवोण थोणि&lt;/b&gt; (मंदिर में तिरुवोणम पर्व के लिये प्रसाद ले जाने वाली नौका) को हमलावरों से बचाने के लिये उसकी रक्षा की। यह घटना &lt;b&gt;सामुदायिक एकता, भक्ति और परंपराओं की सामूहिक सुरक्षा&lt;/b&gt; का प्रतीक है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;पल्लियोडम (पवित्र सर्प नौकाएँ):&lt;/b&gt; इस नौका दौड़ में प्रयुक्त नौकाओं को &lt;b&gt;पल्लियोडम&lt;/b&gt; कहा जाता है। सामान्य सर्प नौकाओं के विपरीत, ये अधिक ऊँची और विशिष्ट रूप से निर्मित होती हैं तथा इनमें विस्तृत सजावट की जाती है। 100 से अधिक &lt;b&gt;नाविक&lt;/b&gt; इन नौकाओं को पूर्ण समन्वय के साथ चलाते हैं और इनके साथ पारंपरिक नौका गीत (&lt;b&gt;वंचिप्पट्टु&lt;/b&gt;) गाए जाते हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;सांस्कृतिक विरासत:&lt;/b&gt; यह नौका दौड़ केरल की पारंपरिक &lt;b&gt;नौका निर्माण कला, प्रदर्शन कलाओं, संगीत और सामुदायिक सहभागिता&lt;/b&gt; को प्रदर्शित करती है। इस आयोजन से &lt;b&gt;कुचेलवृत्तम, भीष्मपर्वम और संतानगोपालम&lt;/b&gt; जैसे पारंपरिक गीत जुड़े हुए हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260902070524-d58c324d.png"&gt;&lt;img alt="Aranmula Uthrattathi Boat Race" src="http://drishtiias.com/hindi/images/uploads/upload-20260902070524-d58c324d.png"/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;और पढ़ें: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/vembanad-lake-2"&gt;&lt;b&gt;वेम्बनाड झील&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
