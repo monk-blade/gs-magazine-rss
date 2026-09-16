@@ -2,15 +2,559 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Drishti IAS — करेंट अफेयर्स (Hindi)</title>
 <link href="https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials" rel="alternate"/>
-<updated>2026-09-16T11:52:08.062253+00:00</updated>
+<updated>2026-09-16T17:12:00.572655+00:00</updated>
 <id>urn:gs-magazine-rss:drishti-current-affairs</id>
 <author><name>Drishti IAS</name></author>
+<entry>
+<title>AI मानक निकाय और एजेंटिक मिसअलाइनमेंट जोखिम</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/ai-standards-body-and-agentic-misalignment-risks</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/ai-standards-body-and-agentic-misalignment-risks" rel="alternate"/>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">AI मानक निकाय और एजेंटिक मिसअलाइनमेंट जोखिम
+
+
+
+
+
+
+
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Artificial-Intelligence"&gt;कृत्रिम बुद्धिमत्ता&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies - I"&gt;सामान्य अध्ययन-I&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/indian-society"&gt;भारतीय समाज&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Effects-of-globalization-on-Indian-society"&gt;भारतीय समाज पर वैश्वीकरण के प्रभाव&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;प्रिलिम्स के लिये:&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper3/artificial-intelligence-16"&gt; &lt;b&gt;कृत्रिम बुद्धिमत्ता&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, एजेंटिक मिसअलाइनमेंट,&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/large-language-models-1"&gt; &lt;b&gt;बड़े भाषा मॉडल (Large Language Models)&lt;/b&gt;&lt;/a&gt;&lt;b&gt;,&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/multi-state-phishing-scam"&gt; &lt;b&gt;फिशिंग&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;मेन्स के लिये: उभरती प्रौद्योगिकियों का स्व-नियमन बनाम वैधानिक विनियमन, ज़िम्मेदार और समावेशी AI शासन के प्रति भारत का दृष्टिकोण, AI को निर्णय लेने का अधिकार सौंपने की नैतिकता&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bbc.com/news/articles/c790xvnzgnno"&gt;&lt;b&gt;स्रोत: बीबीसी &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;एंथ्रोपिक, गूगल और ओपनAI&lt;/b&gt; ने कथित रूप से एक &lt;b&gt;साझा, उद्योग-नेतृत्व वाले&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper3/artificial-intelligence-16"&gt; &lt;b&gt;कृत्रिम बुद्धिमत्ता (AI)&lt;/b&gt;&lt;/a&gt; &lt;b&gt;मानक निकाय&lt;/b&gt; के निर्माण पर चर्चा शुरू की है। इसका उद्देश्य उन्नत AI क्षमताओं के मौजूदा नियामक ढाँचे से अधिक तेज़ी  से विकसित होने के कारण उत्पन्न हो रहे जोखिमों से निपटना है। यह चर्चा &lt;b&gt;एजेंटिक मिसअलाइनमेंट और व्यापक AI जोखिम परिदृश्य&lt;/b&gt; को लेकर बढ़ती चिंताओं के बीच हो रही है।&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;सारांश&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;फ्रंटियर AI और स्वायत्त एजेंट AI जोखिमों के दायरे का विस्तार कर रहे हैं, जिससे एजेंटिक मिसअलाइनमेंट, साइबर खतरे, डीपफेक, रोज़गार विस्थापन और संभावित विनाशकारी जोखिमों को लेकर चिंताएँ उत्पन्न हो रही हैं।&lt;/li&gt;
+&lt;li&gt;भारत और वैश्विक समुदाय को ऐसे अनुकूलनीय AI शासन की आवश्यकता है, जो उद्योग मानकों, स्वतंत्र निगरानी, AI संरेखण अनुसंधान और अंतर्राष्ट्रीय सहयोग के माध्यम से नवाचार तथा सुरक्षा, पारदर्शिता एवं जवाबदेही के बीच संतुलन स्थापित कर सके।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;प्रस्तावित AI मानक निकाय क्या है?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;अवधारणा:&lt;/b&gt; गूगल ने &lt;b&gt;“फ्रंटियर AI मानक निकाय (Frontier AI Standards Body)”&lt;/b&gt; का प्रस्ताव रखा है, जो आंशिक रूप से &lt;b&gt;वित्तीय उद्योग नियामक प्राधिकरण (Financial Industry Regulatory Authority - FINRA)&lt;/b&gt; के मॉडल पर आधारित है।
+&lt;ul&gt;
+&lt;li&gt;FINRA अमेरिका में एक निजी, गैर-लाभकारी संगठन है, जो कड़े सरकारी पर्यवेक्षण के अंतर्गत प्रतिभूति दलालों (Securities Brokers) को विनियमित करता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;उद्देश्य:&lt;/b&gt; यह निकाय उन्नत “फ्रंटियर” मॉडल के लिये तकनीकी परीक्षण, गतिशील बेंचमार्किंग और पूर्व-प्रयोग ऑडिट (Pre-release Auditing) पर ध्यान केंद्रित करेगा, जिन्हें उद्यम ग्राहकों या आम जनता के लिये जारी किया जाना है।
+&lt;ul&gt;
+&lt;li&gt;इसका उद्देश्य साइबर सुरक्षा, धोखे (Deception) और जैविक क्षेत्रों जैसे क्षेत्रों में खतरनाक क्षमताओं का मूल्यांकन करना है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;वाद-विवाद:&lt;/b&gt; जहाँ समर्थक इसे AI सुरक्षा सुनिश्चित करने की दिशा में आवश्यक कदम मानते हैं, वहीं आलोचकों को चिंता है कि इससे &lt;b&gt;AI प्रयोगशालाओं को स्वयं के विनियमन की ज़िम्मेदारी मिल जाएगी।&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;यह आशंका व्यक्त की जा रही है कि यह निकाय एक उद्योग-कार्टेल की तरह कार्य कर सकता है, जो &lt;b&gt;ओपन-सोर्स प्रतिस्पर्द्धा को बाधित कर सकता है&lt;/b&gt; और स्वतंत्र सार्वजनिक जवाबदेही से बच सकता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;‘एजेंटिक मिसअलाइनमेंट’ और AI जोखिम परिदृश्य क्या है?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;स्वायत्त एजेंट (Autonomous Agents):&lt;/b&gt; पारंपरिक AI सुरक्षा का ध्यान मुख्य रूप से चैटबॉट द्वारा गलत या हानिकारक टेक्स्ट बनाने पर केंद्रित था।  हालाँकि उद्योग तेज़ी से&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/un-scientific-panel-on-ai-report"&gt; &lt;b&gt;स्वायत्त AI एजेंटों&lt;/b&gt;&lt;/a&gt; की ओर बढ़ रहे है। ये ऐसे सिस्टम हैं, जो उपयोगकर्त्ताओं की ओर से स्वतंत्र रूप से निर्णय लेते हैं और वास्तविक दुनिया के उपकरणों जैसे कोडिंग वातावरण तथा ईमेल क्लाइंट का उपयोग करते हुए कार्य कर सकते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;एजेंटिक मिसअलाइनमेंट:&lt;/b&gt; यह स्थिति तब उत्पन्न होती है जब कोई स्वायत्त AI एजेंट &lt;b&gt;मानव संचालक द्वारा निर्धारित उद्देश्यों, सुरक्षा प्रोटोकॉल या नैतिक सीमाओं से मूल रूप से भिन्न&lt;/b&gt; परिचालन उद्देश्यों, रणनीतियों या उप-लक्ष्यों को अपनाने लगता है।
+&lt;ul&gt;
+&lt;li&gt;सामान्य त्रुटियों या बग के विपरीत, एजेंटिक मिसअलाइनमेंट में AI एजेंट अपने निर्धारित लक्ष्यों को प्राप्त करने के लिये हानिकारक या अनधिकृत कार्यों को अपनाते हैं। सिमुलेटेड परीक्षणों में कुछ उन्नत मॉडलों ने कथित रूप से &lt;b&gt;ब्लैकमेल, कॉर्पोरेट जासूसी या अनधिकृत गतिविधियों&lt;/b&gt; जैसे कार्यों को अपने उद्देश्यों की पूर्ति के प्रभावी साधन के रूप में माना, जबकि वे इनके नैतिक प्रभावों को पहचानते थे।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;अनुभवजन्य साक्ष्य (Empirical Evidence):&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;OpenAI Swarm घटनाएँ:&lt;/b&gt; स्वायत्त एजेंट समूहों ने स्वतंत्र रूप से बाहरी सार्वजनिक वेबसाइटों को अस्थायी संदेश बोर्ड के रूप में पुनः उपयोग किया ताकि वे एक-दूसरे के साथ समन्वय कर सकें। इसके अतिरिक्त, उन्होंने डेवलपर्स द्वारा लगाए गए सुरक्षा अवरोधों (Guardrails) को दरकिनार करने के तरीकों को दर्ज करने के लिये एक बाहरी विकी (wiki) को अपने नियंत्रण में ले लिया।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Anthropic का Claude Opus:&lt;/b&gt; साइबर सुरक्षा मूल्यांकन के दौरान, Claude Opus 4.6 एजेंटों ने वास्तविक दुनिया के बुनियादी ढाँचे तक अनधिकृत पहुँच प्राप्त की और बाधाओं का सामना करने पर लक्ष्यों को भेदने के लिये वैकल्पिक तरीकों की सक्रिय रूप से खोज की।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;AI जोखिम परिदृश्य (AI Risk Spectrum)&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;तात्कालिक जोखिम – चैटबॉट युग&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;AI मतिभ्रम (AI Hallucinations):&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/large-language-models-1"&gt; &lt;b&gt;बड़े भाषा मॉडल (Large Language Models - LLMs)&lt;/b&gt;&lt;/a&gt; द्वारा बहुत आत्मविश्वास के साथ प्रस्तुत किये जाने वाले झूठे या काल्पनिक दावों का संभाव्य (Probabilistic) रूप से निर्माण करना।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;एल्गोरिद्मिक पक्षपात (Algorithmic Bias):&lt;/b&gt; प्रशिक्षण डेटा में मौजूद सामाजिक पूर्वाग्रहों का स्वचालित रूप से सुदृढ़ होना, जिसके परिणामस्वरूप भर्ती, ऋण मूल्यांकन और कानून प्रवर्तन जैसे क्षेत्रों में भेदभावपूर्ण परिणाम उत्पन्न हो सकते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;“ब्लैक बॉक्स” दुविधा:&lt;/b&gt; न्यूरल नेटवर्क की अपारदर्शिता के कारण स्वयं डेवलपर्स भी पूरी तरह यह नहीं समझ पाते कि मॉडल किसी विशेष निष्कर्ष तक कैसे पहुँचते हैं (&lt;b&gt;यांत्रिक व्याख्येयता (Mechanistic Interpretability)&lt;/b&gt; का अभाव), जिससे सुरक्षा ऑडिट अत्यंत कठिन हो जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;सिंथेटिक मीडिया (Deepfakes):&lt;/b&gt; भू-राजनीतिक दुष्प्रचार अभियानों, पहचान की चोरी और वित्तीय धोखाधड़ी के लिये कृत्रिम ऑडियो एवं वीडियो का दुरुपयोग।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;मध्यम अवधि के जोखिम – स्वायत्त युग&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;एजेंटिक शोषण एवं अनियंत्रित कार्य (Agentic Exploitation &amp;amp; Rogue Actions):&lt;/b&gt; स्वायत्त एजेंट अपने निर्धारित अधिकार क्षेत्र से बाहर जाकर कार्य कर सकते हैं, उद्यमों के गोपनीय डेटा को लीक कर सकते हैं या मानव निगरानी को निष्प्रभावी बना सकते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्वचालित साइबर युद्ध:&lt;/b&gt; AI-जनित बहुरूपी मैलवेयर (Polymorphic Malware),&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/indias-cybersecurity-imperative"&gt; &lt;b&gt;स्वायत्त ज़ीरो-डे खोज (Autonomous Zero-Day Discovery)&lt;/b&gt;&lt;/a&gt; और समन्वित&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/multi-state-phishing-scam"&gt; &lt;b&gt;फिशिंग अवसंरचना&lt;/b&gt;&lt;/a&gt; के माध्यम से साइबर अपराध के लिये तकनीकी बाधाओं में भारी कमी।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;संज्ञानात्मक श्रम विस्थापन (Cognitive Labour Displacement):&lt;/b&gt; विश्लेषणात्मक और श्वेतपोश (White-Collar) कार्यप्रवाहों का तीव्र एवं बड़े पैमाने पर स्वचालन, जिससे महत्त्वपूर्ण सामाजिक-आर्थिक संरचनात्मक तनाव उत्पन्न हो सकते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;दीर्घकालिक अस्तित्वगत जोखिम – विनाशकारी युग&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;पुनरावर्ती आत्म-सुधार (Recursive Self-Improvement - RSI):&lt;/b&gt; वह निर्णायक स्थिति जहाँ कोई AI प्रणाली &lt;b&gt;स्वायत्त रूप से बेहतर AI संरचनाओं की अगली पीढ़ियों को डिज़ाइन, परीक्षण और विकसित करने की क्षमता&lt;/b&gt; प्राप्त कर लेती है।
+&lt;ul&gt;
+&lt;li&gt;तीव्र आत्म-सुधार चक्र मानव गति से संचालित नियामक और सुरक्षा हस्तक्षेपों को अप्रासंगिक बना सकता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;p(doom) मेट्रिक:&lt;/b&gt; यह सांख्यिकीय &lt;b&gt;“विनाश की संभावना (Probability of Doom)”&lt;/b&gt; को दर्शाता है, जो असंरेखित (Unaligned) सुपरइंटेलिजेंस के कारण सभ्यता के विनाश या मानव विलुप्ति के जोखिम को मापता है।
+&lt;ul&gt;
+&lt;li&gt;प्रमुख उद्योग शोधकर्त्ताओं के अनुसार यह संभावना &lt;b&gt;10% से 20%&lt;/b&gt; के बीच अनुमानित की जाती है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;असममित फ्रंटियर युद्ध (Asymmetric Frontier Warfare):&lt;/b&gt; प्रत्यक्ष सैन्य संघर्ष के बजाय, एक असंरेखित सुपरइंटेलिजेंट इकाई अप्रत्यक्ष और असममित माध्यमों का उपयोग कर सकती है:
+&lt;ul&gt;
+&lt;li&gt;नए जैविक रोगजनकों का स्वायत्त संश्लेषण और प्रसार।&lt;/li&gt;
+&lt;li&gt;व्यापक सामाजिक अस्थिरता उत्पन्न करने के लिये सामाजिक एवं राजनीतिक विभाजनों का एल्गोरिद्मिक हेर-फेर।&lt;/li&gt;
+&lt;li&gt;महत्त्वपूर्ण स्वचालित अवसंरचना (ऊर्जा ग्रिड, नगर जल प्रणालियाँ और वैश्विक आपूर्ति शृंखलाएँ) का गुप्त एवं एक साथ नियंत्रण।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;AI शासन पर वैश्विक एवं भारतीय पहल कौन-सी हैं?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;EU AI अधिनियम, 2024:&lt;/b&gt; यह विश्व का पहला व्यापक जोखिम-आधारित AI कानून है, जिसमें सामाजिक स्कोरिंग जैसे “अस्वीकार्य जोखिम” वाले AI अनुप्रयोगों पर पूर्ण प्रतिबंध लगाया गया है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;ब्लेचली पार्क घोषणा (Bletchley Park Declaration):&lt;/b&gt; यह एक अंतर्राष्ट्रीय समझौता है, जिस पर भारत, अमेरिका और चीन सहित कई देशों ने हस्ताक्षर किये हैं। इसमें फ्रंटियर AI से उत्पन्न गंभीर और विनाशकारी जोखिमों को स्वीकार किया गया है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;एजेंटिक AI फाउंडेशन (AAIF):&lt;/b&gt; लिनक्स फाउंडेशन के अंतर्गत गठित एक नया समूह, जिसका नेतृत्व OpenAI और Anthropic कर रहे हैं। इसका उद्देश्य विशेष रूप से एजेंटिक AI प्रणालियों के लिये मानकीकृत अंतर-संचालनीयता (Interoperability) और सुरक्षा प्रोटोकॉल विकसित करना है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भारतीय संदर्भ:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;नीति आयोग की #AIforAll (AI के लिये राष्ट्रीय रणनीति):&lt;/b&gt; यह&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/shaping-the-future-of-ai-governance"&gt; &lt;b&gt;&lt;i&gt;“AI For All”&lt;/i&gt;&lt;/b&gt; &lt;b&gt;दृष्टिकोण&lt;/b&gt;&lt;/a&gt; को बढ़ावा देती है, जिसका उद्देश्य समावेशी सामाजिक-आर्थिक विकास को गति देना है। इसमें तकनीकी प्रगति को बाधित करने वाले अत्यधिक प्रतिबंधात्मक विनियमन के बजाय नवाचार को प्राथमिकता दी जाती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;IndiaAI मिशन एवं शासन दिशा-निर्देश (MeitY):&lt;/b&gt; यह &lt;b&gt;7 प्रमुख सिद्धांतों&lt;/b&gt; के अंतर्गत &lt;i&gt;“नियंत्रण के बजाय नवाचार”&lt;/i&gt; दृष्टिकोण पर आधारित है। यह स्वदेशी और संप्रभु AI कंप्यूट अवसंरचना के निर्माण के साथ-साथ &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/securing-india-in-the-age-of-ai-warfare"&gt;&lt;b&gt;AI सुरक्षा संस्थान (AISI) और AI शासन समूह (AIGG)&lt;/b&gt;&lt;/a&gt; के माध्यम से जोखिम निगरानी को संस्थागत रूप प्रदान करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;IT संशोधन नियम, 2026 (MeitY):&lt;/b&gt; ये नियम डीपफेक को लक्षित करते हैं तथा &lt;b&gt;सिंथेटिक रूप से उत्पन्न सूचना (SGI)&lt;/b&gt; को कानूनी रूप से परिभाषित करते हैं। इसके अंतर्गत 2-3 घंटे के भीतर अनिवार्य सामग्री हटाने (Takedown) और स्रोत-लेबलिंग (Provenance Labelling) की आवश्यकता होगी, अन्यथा प्लेटफॉर्म सूचना प्रौद्योगिकी अधिनियम की धारा 79 के अंतर्गत प्राप्त संरक्षणात्मक सुविधाओं से वंचित हो जाएंगे।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;FREE-AI फ्रेमवर्क (RBI):&lt;/b&gt; यह वाणिज्यिक बैंकों और वित्तीय संस्थानों में AI के उपयोग को मानकीकृत करता है। यह स्वचालित ऋण वितरण तथा धोखाधड़ी रोकथाम के लिये कठोर&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/shaping-responsible-ai-india-s-evolving-regulatory-framework"&gt; &lt;b&gt;एल्गोरिद्मिक ऑडिट&lt;/b&gt;&lt;/a&gt; एवं जोखिम न्यूनीकरण उपायों को लागू करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;डिजिटल व्यक्तिगत डेटा संरक्षण अधिनियम, 2023:&lt;/b&gt; यह AI विकास के लिये डेटा स्रोतों को नियंत्रित करता है। इसके अंतर्गत स्पष्ट और असंदिग्ध उपयोगकर्त्ता सहमति के बिना बड़े मॉडल के प्रशिक्षण हेतु व्यक्तिगत डेटा के स्क्रैपिंग या उपयोग पर कड़े प्रतिबंध लगाए गए हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भारतीय न्याय संहिता, 2023:&lt;/b&gt; यह अभियोजन के लिये प्रमुख मूल आपराधिक कानून के रूप में कार्य करती है। इसके अंतर्गत &lt;b&gt;AI आधारित प्रतिरूपण (AI Impersonation), वित्तीय डीपफेक धोखाधड़ी और डिजिटल जालसाजी&lt;/b&gt; जैसे अपराधों के लिये दंड का प्रावधान है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;डिजिटल इंडिया अधिनियम (प्रस्तावित):&lt;/b&gt; इसका उद्देश्य IT अधिनियम, 2000 का स्थान लेना है तथा यह एल्गोरिद्मिक जवाबदेही और AI से उत्पन्न उपयोगकर्त्ता हानियों को विधायी चर्चा के मूल बिंदु पर स्थापित करता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;और पढ़ने के लिये क्लिक करें:&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/navigating-the-ethical-frontier-of-artificial-intelligence"&gt; &lt;b&gt;कृत्रिम बुद्धिमत्ता की नैतिक सीमाओं को समझना&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;आगे की राह&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;स्व-नियमन से वैधानिक निगरानी की ओर संक्रमण:&lt;/b&gt; तकनीकी कंपनियों को स्वयं अपने कार्यों का मूल्यांकन करने पर निर्भर रहना पर्याप्त नहीं है। अंतर्राष्ट्रीय समुदाय को उच्च-स्तरीय AI कंप्यूट क्षमता की निगरानी और अप्रसार सुनिश्चित करने के लिये&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/international-atomic-energy-agency-iaea-"&gt; &lt;b&gt;अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA)&lt;/b&gt;&lt;/a&gt; जैसी कानूनी रूप से बाध्यकारी वैश्विक AI निगरानी संस्था स्थापित करनी चाहिये।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;AI संरेखण अनुसंधान पर ध्यान:&lt;/b&gt; AI प्रणालियों में पुनरावर्ती आत्म-सुधार क्षमता विकसित होने से पहले यह समझने के लिये कि AI मॉडल किस प्रकार “सोचते” हैं, सार्वजनिक और निजी वित्त पोषण को बढ़ावा देना आवश्यक है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;अनुकूलनीय नियामक सैंडबॉक्स (Agile Regulatory Sandboxes):&lt;/b&gt; सरकारों को स्थिर कानूनों से आगे बढ़ते हुए ऐसे गतिशील नियामक सैंडबॉक्स स्थापित करने चाहिये, जो AI क्षमताओं के तीव्र विकास के साथ नियमों को अनुकूलित कर सकें।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;निष्कर्ष&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;AI का तीव्र विकास मौजूदा नियामक ढाँचों से आगे निकल रहा है&lt;/b&gt;, जिससे शासन संबंधी अंतराल बढ़ रहा है। यह सुनिश्चित करने के लिये कि AI मानव हितों के अनुरूप बना रहे, &lt;b&gt;उद्योग नवाचार को स्वतंत्र निगरानी, सुरक्षा और जवाबदेही के साथ संतुलित करना&lt;/b&gt; आवश्यक है।&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;दृष्टि मेन्स प्रश्न:&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; “कृत्रिम बुद्धिमत्ता को जितनी अधिक स्वायत्तता प्रदान की जाएगी, उतनी ही अधिक मानवीय जवाबदेही आवश्यक होगी।” चर्चा कीजिये।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;1. एजेंटिक मिसअलाइनमेंट क्या है?&lt;/b&gt;एजेंटिक मिसअलाइनमेंट तब होता है जब &lt;b&gt;स्वायत्त AI एजेंट ऐसे कार्यों के माध्यम से लक्ष्यों को प्राप्त करने का प्रयास करते हैं, जो मानव उद्देश्यों, सुरक्षा प्रोटोकॉल या अधिकृत सीमाओं से भिन्न होते हैं।&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. प्रस्तावित फ्रंटियर AI मानक निकाय क्या है?&lt;/b&gt;यह एक प्रस्तावित &lt;b&gt;उद्योग-नेतृत्व वाला मानक तंत्र&lt;/b&gt; है, जो कथित रूप से आंशिक रूप से &lt;b&gt;FINRA&lt;/b&gt; से प्रेरित है। इसका उद्देश्य उन्नत AI मॉडलों का परीक्षण, बेंचमार्किंग और प्रयोग से पहले सुरक्षा का आकलन करना है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. AI शासन के लिये EU AI अधिनियम का क्या महत्त्व है?&lt;/b&gt;&lt;b&gt;EU AI अधिनियम जोखिम-आधारित नियामक ढाँचे&lt;/b&gt; को अपनाता है, जिसमें कुछ अस्वीकार्य जोखिम वाले AI अनुप्रयोगों पर प्रतिबंध या सीमाएँ तथा उच्च-जोखिम वाली प्रणालियों के लिये दायित्व निर्धारित किये गए हैं।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. ज़िम्मेदार AI शासन के लिये प्रमुख भारतीय पहल कौन-सी हैं?&lt;/b&gt;प्रमुख उपायों में &lt;b&gt;IndiaAI मिशन, AI सुरक्षा संस्थान, AI शासन समूह, DPDP अधिनियम और प्रस्तावित डिजिटल इंडिया अधिनियम&lt;/b&gt; शामिल हैं। इसके अतिरिक्त डीपफेक और एल्गोरिद्मिक जोखिमों से निपटने के लिये भी कई उपाय किये जा रहे हैं।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. AI में पुनरावर्ती आत्म-सुधार क्या है?&lt;/b&gt;&lt;b&gt;पुनरावर्ती आत्म-सुधार (Recursive Self-Improvement- RSI)&lt;/b&gt; एक काल्पनिक क्षमता को संदर्भित करता है, जिसमें AI प्रणाली स्वायत्त रूप से स्वयं में सुधार कर सकती है या अधिक सक्षम AI प्रणालियों की अगली पीढ़ियों को विकसित कर सकती है, जिससे उसकी क्षमताओं में तीव्र वृद्धि संभव हो सकती है।&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स &lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;प्रश्न. विकास की वर्तमान स्थिति के साथ कृत्रिम बुद्धिमत्ता निम्नलिखित में से कौन-सा कार्य प्रभावी ढंग से कर सकती है? (2020)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;औद्योगिक इकाईयों में बिजली की खपत को कम करना&lt;/li&gt;
+&lt;li&gt;सार्थक लघु कथाओं और गीत की रचना&lt;/li&gt;
+&lt;li&gt;रोग निदान&lt;/li&gt;
+&lt;li&gt;टेक्स्ट-टू-स्पीच रूपांतरण&lt;/li&gt;
+&lt;li&gt;विद्युत ऊर्जा का वायरलेस संचरण &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:&lt;/p&gt;
+&lt;p&gt;(a) केवल 1, 2, 3 और 5&lt;/p&gt;
+&lt;p&gt;(b) केवल 1, 3 और 4&lt;/p&gt;
+&lt;p&gt;(c) केवल 2, 4 और 5&lt;/p&gt;
+&lt;p&gt;(d) 1, 2, 3, 4 और 5&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर: (b)&lt;/b&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;मेन्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; कृत्रिम बुद्धि (AI) की अवधारणा का परिचय दीजिये। AI क्लिनिकल निदान में कैसे मदद करता है? क्या आप स्वास्थ्य सेवा में AI के उपयोग में व्यक्ति की निजता को कोई खतरा महसूस करते हैं? (2023)&lt;/p&gt;</content>
+</entry>
+<entry>
+<title>कार्डिफ समझौता और यूनाइटेड किंगडम की संघीय चुनौती</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/cardiff-pact-and-uk-federal-challenge</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/cardiff-pact-and-uk-federal-challenge" rel="alternate"/>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">कार्डिफ समझौता और यूनाइटेड किंगडम की संघीय चुनौती
+
+
+
+
+
+
+
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Global-Groupings"&gt;वैश्विक समूह&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/International-Treaties-&amp;amp;-Agreements"&gt;अंतर्राष्ट्रीय संधि और समझौते&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;प्रिलिम्स के लिये: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/important-institution/international-organization/european-union-4"&gt;&lt;b&gt;यूरोपीय संघ&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/brexit-and-its-implications"&gt;&lt;b&gt;ब्रेक्जिट&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Indian-Constitution"&gt;&lt;b&gt;अनुच्छेद 1&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/mains-marathon-daily-answer-writing-practice/papers/2022/reforms-in-the-7th-schedule-of-the-indian-constitution"&gt;&lt;b&gt;संघ, राज्य और समवर्ती सूची&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper2/special-provisions-for-some-states-2"&gt;&lt;b&gt;अनुच्छेद 371 से 371-J में विशेष प्रावधान&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;मेन्स के लिये:&lt;/b&gt; ब्रिटिश सत्ता हस्तांतरण और भारतीय संघवाद के बीच तुलना, असममित संघवाद तथा क्षेत्रीय आकांक्षाएँ&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms"&gt;&lt;b&gt;स्रोत: टाइम्स ऑफ़ इंडिया&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;स्कॉटलैंड, वेल्स और उत्तरी आयरलैंड&lt;/b&gt; के राजनीतिक नेताओं ने &lt;b&gt;कार्डिफ&lt;/b&gt; में एक &lt;b&gt;सहमति-पत्र&lt;/b&gt; पर हस्ताक्षर किये, जिसमें संवैधानिक परिवर्तन की मांग की गई और अपने राष्ट्रों के लिये आत्मनिर्णय के सिद्धांत की पुष्टि की गई। &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;इस समझौते ने &lt;b&gt;यूनाइटेड किंगडम के सत्ता हस्तांतरण ढाँचे के भविष्य&lt;/b&gt; पर बहस को फिर से शुरू कर दिया है, क्योंकि स्कॉटलैंड एक और स्वतंत्रता जनमत संग्रह चाहता है, उत्तरी आयरलैंड एक संभावित पुनरेकीकरण मतदान की मांग कर रहा है तथा वेल्स अधिक संवैधानिक शक्तियों की मांग कर रहा है। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;सारांश&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;कार्डिफ सहमति-पत्र यूके के सत्ता हस्तांतरण ढाँचे के भीतर बढ़ते तनाव और क्षेत्रीय स्वायत्तता तथा आत्मनिर्णय की नवीनीकृत मांगों को दर्शाता है। &lt;/li&gt;
+&lt;li&gt;भारत के लिये, यह क्षेत्रीय आकांक्षाओं को राष्ट्रीय एकता के साथ संतुलित करने में असममित संघवाद, राजकोषीय समानता, संवैधानिक अनुकूलनशीलता और केंद्र-राज्य संवाद के महत्त्व को रेखांकित करता है। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;कार्डिफ सहमति-पत्र के मुख्य बिंदु क्या हैं?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;आत्मनिर्णय की मांग&lt;/b&gt;: सहमति-पत्र में ब्रिटिश सरकार से संवैधानिक परिवर्तनों की रूपरेखा तैयार करने, उनकी योजना बनाने तथा उनके क्रियान्वयन को सुगम बनाने की मांग की गई थी। इसमें कहा गया है कि "वेस्टमिंस्टर का समय समाप्त हो रहा है" और उसे लोकतांत्रिक जनादेश को रोकने का कोई अधिकार नहीं है। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;यूरोपीय-समर्थक दृष्टिकोण&lt;/b&gt;: इन हस्तांतरित शक्तियों वाले राष्ट्रों को एकजुट करने वाला एक प्रमुख कारक साझा सर्वसम्मति देना है कि उनका आर्थिक और राजनीतिक भविष्य &lt;a href="https://www.drishtiias.com/hindi/important-institution/international-organization/european-union-4"&gt;&lt;b&gt;यूरोपीय संघ&lt;/b&gt;&lt;/a&gt; के भीतर है - जो संपूर्ण यूनाइटेड किंगडम के &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/brexit-and-its-implications"&gt;&lt;b&gt;ब्रेक्जिट जनादेश&lt;/b&gt;&lt;/a&gt; का एक सीधा खंडन है। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;रणनीतिक सहयोग&lt;/b&gt;: जनमत संग्रह की मांग करने से परे, यह समझौता &lt;b&gt;स्कॉटलैंड, वेल्स और उत्तरी आयरलैंड को अर्थव्यवस्था तथा ऊर्जा संसाधनों जैसे क्षेत्रों में व्यावहारिक सहयोग&lt;/b&gt; को मज़बूत करने के लिये प्रतिबद्ध करता है। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;यूनाइटेड किंगडम सरकार (वेस्टमिंस्टर) का रुख:&lt;/b&gt; यूके ने इस समझौते को खारिज कर दिया, जनमत संग्रह को "प्रतिबंधित" घोषित किया और &lt;b&gt;'लॉर्ड एडवोकेट द्वारा संदर्भ (2022)'&lt;/b&gt; मामले में यूके सर्वोच्च न्यायालय के ऐतिहासिक फैसले का हवाला दिया। न्यायालय ने सर्वसम्मति से संसदीय संप्रभुता की पुष्टि करते हुए कहा था कि हस्तांतरित विधायिकाओं के पास &lt;b&gt;वेस्टमिंस्टर की सहमति के बिना स्वतंत्रता जनमत संग्रह के लिये एकतरफा कानून &lt;/b&gt;बनाने की कानूनी क्षमता नहीं है। 
+&lt;ul&gt;
+&lt;li&gt;वर्ष 1998 के गुड फ्राइडे समझौते के तहत, उत्तरी आयरलैंड के लिये यूके के राज्य सचिव आयरिश पुनरेकीकरण पर सीमा जनमत संग्रह का आदेश दे सकते हैं, जब साक्ष्य इसके लिये बहुसंख्यक समर्थन का संकेत देते हों। यूके सरकार का यह रुख बना हुआ है कि ऐसे मतदान के लिये आवश्यक सीमा अभी तक पूरी नहीं हुई है। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;ऐतिहासिक पृष्ठभूमि: यूनाइटेड किंगडम का गठन और सत्ता का हस्तांतरण&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;गठन (1535-1920):&lt;/b&gt; यूके का निर्माण सदियों में हुआ। 16वीं शताब्दी में इंग्लैंड द्वारा वेल्स का विलय किया गया था। 
+&lt;ul&gt;
+&lt;li&gt;वर्ष 1707 के यूनियन अधिनियमों ने अंग्रेज़ी और स्कॉटिश संसदों को एकीकृत किया, जबकि वर्ष 1801 में आयरलैंड को शामिल किया गया (तथा वर्ष 1920 में इसका विभाजन हुआ, जिससे उत्तरी आयरलैंड यूनाइटेड किंगडम का हिस्सा बन गया)। &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;सत्ता हस्तांतरण का युग (1990 के दशक का उत्तरार्द्ध):&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;स्कॉटलैंड अधिनियम (1998):&lt;/b&gt; महत्त्वपूर्ण घरेलू शक्तियों के साथ एक स्कॉटिश संसद की स्थापना की गई।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;गुड फ्राइडे समझौता (बेलफास्ट समझौता) (1998):&lt;/b&gt; उत्तरी आयरलैंड में एक सत्ता-साझाकरण विधानसभा का निर्माण किया गया और आयरिश एकीकरण पर भविष्य के "सीमा मतदान" के लिये एक संवैधानिक तंत्र शामिल किया गया।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;वेल्स सरकार अधिनियम (1998):&lt;/b&gt; वेल्श संसद (सेनेड) की स्थापना की गई।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;वर्तमान गतिरोध:&lt;/b&gt; यद्यपि 1990 के दशक के उत्तरार्द्ध का सत्ता हस्तांतरण ढाँचा क्षेत्रीय अलगाववाद को निष्प्रभावी करने के लिये डिज़ाइन किया गया था, लेकिन ब्रेक्जिट (2020) ने उस स्थिति के माध्यम से यूके के एकात्मक मॉडल की संरचनात्मक कमज़ोरियों को उजागर किया जिसे संवैधानिक विद्वान &lt;b&gt;"संवैधानिक अकालिकता" &lt;/b&gt;कहते हैं।
+&lt;ul&gt;
+&lt;li&gt;अंग्रेज़ी बहुसंख्यक जनादेश ने एकतरफा रूप से स्कॉटलैंड (62% बाहर न निकलने के पक्ष में) और उत्तरी आयरलैंड (55.8% बाहर न निकलने के पक्ष में) को यूरोपीय संघ से बाहर कर दिया, जिससे एक तीव्र क्षेत्रीय लोकतांत्रिक कमी उत्पन्न हुई। &lt;/li&gt;
+&lt;li&gt;इसके अलावा, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/uk-internal-market-bill-2020"&gt;&lt;b&gt;यूनाइटेड किंगडम आंतरिक बाज़ार अधिनियम 2020&lt;/b&gt;&lt;/a&gt; जैसे एकतरफा केंद्रीय उपायों को स्कॉटलैंड और वेल्स में "सत्ता पर कब्ज़े" के रूप में देखा गया, जिसने उनकी हस्तांतरित नियामक स्वायत्तता का अतिक्रमण किया। &lt;/li&gt;
+&lt;li&gt;ब्रेक्जिट के बाद के आर्थिक झटकों और पुरानी हो चुकी &lt;b&gt;बार्नेट प्रणाली (&lt;/b&gt;जिसका उपयोग यूनाइटेड किंगडम ट्रेज़री द्वारा स्कॉटिश, वेल्श और उत्तरी आयरिश सरकारों के लिये वार्षिक अनुदान की गणना हेतु किया जाता है) के साथ मिलकर, हस्तांतरित राष्ट्र तेज़ी से वेस्टमिंस्टर के दृष्टिकोण को सहयोगी हस्तांतरण के बजाय &lt;b&gt;"जबरन केंद्रीयकरण"&lt;/b&gt; के रूप में देखते हैं - एक ऐसी भावना जिसने सीधे कार्डिफ सहमति-पत्र को प्रेरित किया।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260916120315-eb292b55.png"&gt;&lt;b&gt;&lt;i&gt;&lt;img alt="UK" src="http://drishtiias.com/hindi/images/uploads/upload-20260916120315-eb292b55.png"/&gt;&lt;/i&gt;&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;यूनाइटेड किंगडम का नक्शा&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;यूनाइटेड किंगडम का सत्ता हस्तांतरण ढाँचा भारतीय संघवाद से कैसे भिन्न है?&lt;/b&gt;&lt;/h2&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;विशेषता&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;यूनाइटेड किंगडम (हस्तांतरित एकात्मक राज्य)&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;भारत गणराज्य (अर्द्ध-संघीय राज्य)&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;राज्य की प्रकृति&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;ऐतिहासिक रूप से एक &lt;b&gt;एकात्मक राज्य&lt;/b&gt;; वेस्टमिंस्टर कानूनी संप्रभुता बनाए रखता है और सैद्धांतिक रूप से हस्तांतरण को वापस ले सकता है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Indian-Constitution"&gt;&lt;b&gt;"राज्यों का संघ" (अनुच्छेद 1);&lt;/b&gt;&lt;/a&gt; एक मज़बूत एकात्मक झुकाव वाला संघीय ढाँचा।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;पृथक होने का अधिकार&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;एक स्वैच्छिक संघ। गुड फ्राइडे समझौता स्पष्ट रूप से उत्तरी आयरलैंड को अलग होने के लिये एक कानूनी तंत्र प्रदान करता है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;"विनाशी राज्यों का अविनाशी संघ"&lt;/b&gt;; राज्यों को संघ से पृथक होने का कोई संवैधानिक अधिकार नहीं है &lt;b&gt;(16वें संवैधानिक संशोधन, 1963 द्वारा सुदृढ़)।&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;असममित संघवाद&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;तदर्थ हस्तांतरण&lt;/b&gt;: विभिन्न क्षेत्रों के पास शक्तियों की अलग-अलग मात्रा है (उदाहरण के लिये, स्कॉटलैंड के पास वेल्स की तुलना में अधिक स्वायत्तता है)।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper2/special-provisions-for-some-states-2"&gt;&lt;b&gt;संस्थागत असममितता: अनुच्छेद 371 से 371-&lt;/b&gt;&lt;/a&gt;&lt;b&gt;J  और&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/scheduled-areas-in-india"&gt;&lt;b&gt; पाँचवीं/छठी अनुसूचियों&lt;/b&gt;&lt;/a&gt;&lt;b&gt; के तहत किये गए विशेष प्रावधान क्षेत्रीय विशिष्टता&lt;/b&gt; की रक्षा करते हैं।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;शक्तियों का विभाजन&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;अलिखित संविधान; यूके संसद के अधिनियमों द्वारा शक्तियाँ प्रदान की जाती हैं।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;एक लिखित संविधान स्पष्ट रूप से विधायी शक्तियों को &lt;a href="https://www.drishtiias.com/hindi/mains-marathon-daily-answer-writing-practice/papers/2022/reforms-in-the-7th-schedule-of-the-indian-constitution"&gt;&lt;b&gt;संघ, राज्य और समवर्ती सूचियों (7वीं अनुसूची)&lt;/b&gt;&lt;/a&gt; में विभाजित करता है। यह संघीय ढाँचा &lt;b&gt;सर्वोच्च न्यायालय&lt;/b&gt; द्वारा संरक्षित है, जो संघीय मध्यस्थ के रूप में कार्य करता है और &lt;b&gt;केंद्र तथा राज्यों के बीच विवादों का निपटारा&lt;/b&gt; करने के लिये विशेष मूल क्षेत्राधिकार रखता है &lt;b&gt;(अनुच्छेद 131)&lt;/b&gt;।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;&lt;b&gt; भारत के लिये रणनीतिक और संघीय सीख&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;एकता बनाए रखने के लिये यूनाइटेड किंगडम का संघर्ष भारत के लिये महत्त्वपूर्ण प्रशासनिक और राजनयिक सीख प्रदान करता है:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;प्रपीड़न के स्थान पर समायोजन:&lt;/b&gt; यूनाइटेड किंगडम का यह तनाव दर्शाता है कि क्षेत्रीय पहचान का लगातार इनकार और केंद्रीय अतिक्रमण (ब्रेक्जिट के बाद बढ़ा हुआ) अलगाववादी भावनाओं को पुनर्जीवित कर सकता है। एक जीवंत लोकतंत्र के रूप में भारत का अस्तित्व &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/linguistic-reorganisation-of-states"&gt;&lt;b&gt;राज्य पुनर्गठन अधिनियम (1956)&lt;/b&gt;&lt;/a&gt; और क्षेत्रीय समझौतों के माध्यम से भाषाई और सांस्कृतिक विविधता के समायोजन में निहित है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;अंतर-राज्यीय मंचों का प्रभावी उपयोग:&lt;/b&gt; यूनाइटेड किंगडम की हस्तांतरित सरकारों की एक प्रमुख शिकायत वेस्टमिंस्टर का एकतरफा निर्णय लेना है। भारत के लिये, यह केंद्र-राज्य के गतिरोधों को पहले से हल करने के लिये &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/inter-state-council-3"&gt;&lt;b&gt;अंतर-राज्य परिषद (अनुच्छेद 263),&lt;/b&gt; &lt;/a&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/niti-aayog-67"&gt;&lt;b&gt;नीति आयोग&lt;/b&gt;&lt;/a&gt;&lt;b&gt; गवर्निंग काउंसिल और क्षेत्रीय परिषदों &lt;/b&gt;जैसे संस्थागत परामर्शदाता मंचों को मज़बूत करने की आवश्यकता को रेखांकित करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;आर्थिक और राजकोषीय विषमताओं का प्रबंधन:&lt;/b&gt; सत्ता हस्तांतरण के तनाव अक्सर अनुचित संसाधन आवंटन की धारणा से उत्पन्न होते हैं।
+&lt;ul&gt;
+&lt;li&gt;भारत में,&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/finance-commissions"&gt; &lt;b&gt;वित्त आयोग (अनुच्छेद 280)&lt;/b&gt;&lt;/a&gt; की निष्पक्षता और मज़बूती को बनाए रखना यह सुनिश्चित करने के लिये महत्त्वपूर्ण है कि दक्षिणी या संसाधन-समृद्ध राज्य क्षैतिज हस्तांतरण सूत्रों द्वारा खुद को राजकोषीय रूप से उपेक्षित महसूस न करें।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;असममित संघवाद:&lt;/b&gt; &lt;b&gt;असममितता स्थिरता का एक साधन है, कमज़ोरी नहीं।&lt;/b&gt; भारत के अनुकूलनशील संवैधानिक तंत्र (उदाहरण के लिये, &lt;b&gt;उत्तर-पूर्व में प्रथागत कानूनों की रक्षा करने वाला अनुच्छेद 371)&lt;/b&gt; कठोर केंद्रीयकरण का एक व्यावहारिक विकल्प प्रदान करते हैं, जो राष्ट्रीय एकता के साथ क्षेत्रीय पहचान का समन्वय बिठाने में मदद करते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;जनसांख्यकीय मताधिकार से वंचन को रोकना:&lt;/b&gt; भारत में प्रस्तावित &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/delimitation-in-india"&gt;&lt;b&gt;परिसीमन&lt;/b&gt;&lt;/a&gt; को लेकर यह चिंता व्यक्त की जा रही है कि जनसंख्या के आधार पर सीटों के पुनः आवंटन से उन राज्यों का राजनीतिक प्रतिनिधित्व कम हो सकता है, जिन्होंने जनसंख्या वृद्धि को नियंत्रित करने में अपेक्षाकृत बेहतर प्रदर्शन किया है। 
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;संघीय संतुलन और क्षेत्रीय प्रतिनिधित्व&lt;/b&gt; को बनाए रखने के लिये, भारत को&lt;b&gt; "जनसांख्यिकी बहुसंख्यकवाद की तानाशाही&lt;/b&gt;" के खिलाफ संरचनात्मक सुरक्षा उपाय स्थापित करके मज़बूत &lt;b&gt;राज्यसभा सुरक्षा उपायों,&lt;/b&gt; &lt;b&gt;न्यायसंगत प्रतिनिधित्व तंत्र और व्यापक केंद्र-राज्य परामर्श&lt;/b&gt; की आवश्यकता हो सकती है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;राजनयिक और रणनीतिक प्रभाव:&lt;/b&gt; भू-राजनीतिक रूप से कमज़ोर यूके भारत जैसी उभरती शक्तियों के लिये &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/united-nation-security-council"&gt;&lt;b&gt;संयुक्त राष्ट्र सुरक्षा परिषद&lt;/b&gt;&lt;/a&gt;  में स्थायी सीट सहित बहुपक्षीय संस्थानों में विस्तृत भूमिका निभाने के तर्क को मज़बूत करता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;निष्कर्ष&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;कार्डिफ समझौता &lt;b&gt;यूनाइटेड किंगडम के असममित सत्ता हस्तांतरण मॉडल पर दबाव&lt;/b&gt; और आत्मनिर्णय के लिये  बढ़ती क्षेत्रीय मांगों को उजागर करता है।&lt;/p&gt;
+&lt;p&gt;भारत के लिये, यह रेखांकित करता है कि राष्ट्रीय एकीकरण एक निरंतर चलने वाली प्रक्रिया है। &lt;b&gt;संवैधानिक अनुकूलनशीलता, न्यायसंगत राजकोषीय संघवाद और निरंतर लोकतांत्रिक संवाद &lt;/b&gt;के माध्यम से क्षेत्रीय आकांक्षाओं को समायोजित करना एक "&lt;b&gt;अविनाशी संघ" के लिये सबसे प्रभावी सुरक्षा कवच&lt;/b&gt; बना हुआ है।&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;दृष्टि मेन्स प्रश्न:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न&lt;/b&gt;. यूनाइटेड किंगडम के सत्ता हस्तांतरण मॉडल की तुलना भारत के संघीय ढाँचे से कीजिये। यूके का अनुभव भारत में क्षेत्रीय आकांक्षाओं के प्रबंधन के लिये क्या सीख देता है? &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;1. कार्डिफ समझौता  क्या है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;कार्डिफ समझौता&lt;/b&gt; स्कॉटलैंड, वेल्स तथा उत्तरी आयरलैंड के प्रतिनिधियों को शामिल करने वाला एक राजनीतिक समझौता है जो &lt;b&gt;संवैधानिक परिवर्तन और अधिक आत्मनिर्णय&lt;/b&gt; की मांग करता है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. असममित सत्ता हस्तांतरण क्या है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;असममित सत्ता हस्तांतरण &lt;/b&gt;विभिन्न क्षेत्रों को विधायी और प्रशासनिक शक्तियों की अलग-अलग मात्रा प्रदान करता है, जैसा कि यूके में देखा गया है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. भारतीय संविधान के अनुच्छेद 263 का क्या महत्त्व है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;अनुच्छेद 263&lt;/b&gt; समन्वय को बढ़ावा देने और केंद्र तथा राज्यों के बीच चर्चा को सुगम बनाने के लिये एक &lt;b&gt;अंतर-राज्य परिषद&lt;/b&gt; का प्रावधान करता है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. अनुच्छेद 280 का क्या महत्त्व है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;अनुच्छेद 280 वित्त आयोग&lt;/b&gt; का प्रावधान करता है, जो संघ और राज्यों के बीच वित्तीय संसाधनों के वितरण की सिफारिश करता है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. भारतीय संघवाद क्षेत्रीय विविधता को कैसे समायोजित करता है?&lt;br/&gt;&lt;/b&gt;भारत संघ को बनाए रखते हुए क्षेत्रीय आकांक्षाओं को समायोजित करने हेतु &lt;b&gt;असममित प्रावधानों, विशेष संवैधानिक व्यवस्थाओं, राजकोषीय अंतरण और संस्थागत संवाद&lt;/b&gt; का उपयोग करता है।&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न&lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;मेन्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; संसदीय संप्रभुता के प्रति ब्रिटिश और भारतीय दृष्टिकोणों की तुलना कीजिये और अंतर स्पष्ट कीजिये। (2023)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; हाल के दिनों में भारत और यूके में न्यायिक प्रणालियाँ अभिसरित (एकीकृत) होने के साथ-साथ अपसरित (भिन्न) होती भी दिखाई दे रही हैं। दोनों राष्ट्रों के बीच उनकी न्यायिक प्रथाओं के संदर्भ में अभिसरण और अपसरण के प्रमुख बिंदुओं को रेखांकित कीजिये। (2020)&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<title>भारत की बाँस अर्थव्यवस्था का कायाकल्प</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/transforming-india-s-bamboo-economy</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/transforming-india-s-bamboo-economy" rel="alternate"/>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">भारत की बाँस अर्थव्यवस्था का कायाकल्प
+
+
+
+
+
+
+
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Government-Policies-&amp;amp;-Interventions"&gt;सरकारी नीतियाँ और हस्तक्षेप&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/environment-ecology"&gt;जैव विविधता एवं पर्यावरण&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2309378®=6&amp;amp;lang=1"&gt;&lt;b&gt;स्रोत: पीआईबी &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;हाल ही में बाँस ने &lt;b&gt;ग्रामीण उद्यमिता, हस्तशिल्प, निर्माण और हरित उद्योगों&lt;/b&gt; में अपनी बढ़ती भूमिका के कारण एक &lt;b&gt;सतत आजीविका संसाधन&lt;/b&gt; के रूप में ध्यान आकर्षित किया है।&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;बाँस की अर्थव्यवस्था से संबंधित मुख्य तथ्य क्या हैं?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; बाँस ने पारंपरिक रूप से हस्तशिल्प, निर्माण और लघु-स्तरीय उद्यमों के माध्यम से &lt;b&gt;ग्रामीण और जनजातीय आजीविकाओं&lt;/b&gt; को समर्थन प्रदान किया है। इसके विविध उपयोग पारंपरिक शिल्प और खाद्य उत्पादों से लेकर फर्नीचर एवं आधुनिक निर्माण सामग्रियों तक हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;नीतिगत परिवर्तन:&lt;/b&gt; &lt;b&gt;औपनिवेशिक कालीन&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper2/indian-forest-act-1927"&gt;&lt;b&gt;भारतीय वन अधिनियम, 1927&lt;/b&gt;&lt;/a&gt; के अंतर्गत बाँस को &lt;b&gt;“वृक्ष” के रूप में वर्गीकृत किया &lt;/b&gt;गया था, जिसके कारण इसके परिवहन पर &lt;b&gt;नियामकीय प्रतिबंध&lt;/b&gt; लागू थे।
+&lt;ul&gt;
+&lt;li&gt;वर्ष 2017 में वन क्षेत्रों के बाहर उगाए गए बाँस को भारतीय वन अधिनियम, 1927 के अंतर्गत “वृक्ष” की परिभाषा से बाहर कर दिया गया, जिससे इसके परिवहन से संबंधित नियामकीय बाधाएँ कम हुईं तथा &lt;b&gt;निजी कृषि, मूल्य संवर्द्धन और उद्यमिता को प्रोत्साहन&lt;/b&gt; मिला।&lt;/li&gt;
+&lt;li&gt;इससे विशेष रूप से &lt;b&gt;पूर्वोत्तर भारत&lt;/b&gt; जैसे बाँस-समृद्ध क्षेत्रों में किसानों, कारीगरों और उद्यमों के लिये अधिक अवसरों का सृजन हुआ।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;किसानों के लिये आजीविका विविधीकरण:&lt;/b&gt; बाँस के किसानों को &lt;b&gt;दीर्घकालिक आजीविका परिसंपत्ति&lt;/b&gt; प्रदान कर सकता है तथा साथ ही अंतरवर्तीय कृषि की अनुमति भी देता है। बाँस नवीकरणीय संसाधनों के उपयोग, सतत आजीविका, स्थानीय मूल्य संवर्द्धन और वनों पर निर्भरता कम करने में भी सहायता करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रौद्योगिकी-आधारित मूल्य संवर्द्धन:&lt;/b&gt; &lt;b&gt;नॉर्थ ईस्ट सेंटर फॉर टेक्नोलॉजी एप्लीकेशन एंड रीच (NECTAR)&lt;/b&gt; ने &lt;b&gt;खाद्य एवं कृषि-प्रसंस्करण, विनिर्माण सामग्री, विनिर्माण संबंधी मशीनरी, नवीकरणीय ऊर्जा और औद्योगिक उत्पादों &lt;/b&gt;जैसे क्षेत्रों में बाँस प्रौद्योगिकियों को समर्थन प्रदान किया है।
+&lt;ul&gt;
+&lt;li&gt;इन पहलों से &lt;b&gt;प्रतिवर्ष लगभग 3 करोड़ लोगों के लिये रोज़गार सृजित &lt;/b&gt;हुए हैं। इनसे बाँस उत्पादों में मूल्य संवर्द्धन को लगभग &lt;b&gt;10% से बढ़ाकर 70% तक करने&lt;/b&gt; में सहायता मिली है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;पूर्वोत्तर भारत के विकास में भूमिका:&lt;/b&gt; &lt;b&gt;त्रिपुरा, नागालैंड, मिज़ोरम और सिक्किम &lt;/b&gt;जैसे राज्य बाँस-आधारित हस्तशिल्प, फर्नीचर, खाद्य उत्पादों तथा आधुनिक विनिर्माण को बढ़ावा दे रहे हैं, जिससे जनजातीय उद्यमिता, MSME एवं ग्रामीण रोज़गार सृजन के अवसर उत्पन्न हो रहे हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;राष्ट्रीय बाँस मिशन (NBM)&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;प्रारंभ और कार्यान्वयन:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-bamboo-mission-1"&gt;&lt;b&gt;राष्ट्रीय बाँस मिशन (NBM)&lt;/b&gt;&lt;/a&gt; को वर्ष 2006–07 में शुरू किया गया था और बाँस क्षेत्र के समग्र विकास को बढ़ावा देने के लिये इसे वर्ष 2018–19 से पुनर्गठित रूप में &lt;b&gt;केंद्र प्रायोजित योजना के रूप में कार्यान्वित किया &lt;/b&gt;जा रहा है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;समग्र मूल्य शृंखला का विकास:&lt;/b&gt; मिशन का उद्देश्य &lt;b&gt;क्लस्टर-आधारित दृष्टिकोण&lt;/b&gt; के माध्यम से &lt;b&gt;संपूर्ण बाँस की मूल्य शृंखला का विकास&lt;/b&gt; करना है, जिसमें किसानों को उपभोक्ताओं और उद्योगों से जोड़ा जाता है, साथ ही क्षेत्र-आधारित तथा क्षेत्रीय रूप से विभेदित रणनीति को अपनाया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;खेती और रोपण सामग्री सहायता:&lt;/b&gt; NBM नई नर्सरी स्थापित करने तथा मौजूदा &lt;b&gt;नर्सरियों को सुदृढ़ करने के माध्यम से गुणवत्तापूर्ण रोपण सामग्री की उपलब्धता में सुधार कर बाँस की खेती को बढ़ाने&lt;/b&gt; पर ध्यान केंद्रित करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;बाज़ार संपर्क और हरित अर्थव्यवस्था:&lt;/b&gt; मिशन बाँस उत्पादों, विशेष रूप से हस्तशिल्पों के विपणन को बढ़ावा देता है और बाँस को &lt;b&gt;“हरित सोना”&lt;/b&gt; के रूप में स्थापित करने का लक्ष्य रखता है—जो &lt;b&gt;ग्रामीण आजीविका और हरित जैव-अर्थव्यवस्था&lt;/b&gt; को समर्थन देने वाला एक सतत संसाधन है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;इंजीनियर बाँस &lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;इंजीनियर बाँस एक मिश्रित सामग्री है, जिसे &lt;b&gt;कच्चे बाँस के रेशों, पट्टियों या कणों को जोड़कर और संपीड़ित करके &lt;/b&gt;तैयार किया जाता है, जिससे आधुनिक निर्माण में बाँस के उपयोग का विस्तार होता है।&lt;/li&gt;
+&lt;li&gt;आपदा राहत और पुनर्वास के लिये &lt;b&gt;42 लाख वर्ग फीट से अधिक इंजीनियर बाँस संरचनाएँ&lt;/b&gt; विकसित की गई हैं, जिनमें &lt;b&gt;छत्तीसगढ़ में बाँस आधारित 576 कक्षाएँ&lt;/b&gt; शामिल हैं, जो &lt;b&gt;लगभग 20,000 बच्चों को सहायता प्रदान&lt;/b&gt; कर रही हैं।&lt;/li&gt;
+&lt;li&gt;इस प्रकार के उपयोग पारंपरिक हस्तशिल्पों से आगे बढ़कर &lt;b&gt;उच्च-मूल्य वाले औद्योगिक और निर्माण संबंधी उपयोगों में बाँस की क्षमता&lt;/b&gt; को प्रदर्शित करते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;क्षमता निर्माण और कौशल विकास&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;जून 2026 में&lt;/b&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/council-of-scientific-industrial-research"&gt;&lt;b&gt;CSIR&lt;/b&gt;&lt;/a&gt;&lt;b&gt;-राष्ट्रीय पर्यावरण अभियांत्रिकी अनुसंधान संस्थान (CSIR-NEERI), नागपुर&lt;/b&gt; ने महिला स्वयं सहायता समूहों के लिये पाँच दिवसीय बाँस-हस्तशिल्प प्रशिक्षण कार्यक्रम आयोजित किया।
+&lt;ul&gt;
+&lt;li&gt;इसमें &lt;b&gt;बाँस की कटाई, उपचार, प्रसंस्करण, हस्तशिल्प उत्पादन, उत्पाद विकास, उद्यमिता, ब्रांडिंग, विपणन और डिज़ाइन&lt;/b&gt; से संबंधित प्रशिक्षण शामिल है।&lt;/li&gt;
+&lt;li&gt;इस कार्यक्रम ने &lt;b&gt;रीक्लेम फ्लाई-ऐश डंप स्थलों&lt;/b&gt; पर बाँस उगाने की संभावनाओं को भी प्रदर्शित किया, जिससे आजीविका सृजन को अनुपयोगी भूमि के उत्पादक उपयोग से जोड़ा जा सके।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;बाँस उद्यमों के माध्यम से महिला सशक्तीकरण&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;महिला स्वयं सहायता समूह (SHG) हस्तशिल्प, विनिर्माण और उद्यमिता के माध्यम से बाँस मूल्य शृंखला में महत्त्वपूर्ण भागीदार बन रहे हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;गडचिरोली अगरबत्ती परियोजना (महाराष्ट्र)&lt;/b&gt; के अंतर्गत &lt;b&gt;32 उत्पादन केंद्र स्थापित किये गए हैं, जिनमें लगभग 1,100 लोग कार्यरत हैं और लगभग 90% महिला श्रमिक हैं।&lt;/b&gt; इस परियोजना ने वार्षिक रोज़गार अवधि को &lt;b&gt;45–60 दिनों से बढ़ाकर 225 दिनों से अधिक&lt;/b&gt; कर दिया है तथा वनों पर निर्भरता को कम किया है।&lt;/li&gt;
+&lt;li&gt;बाँस उद्यम महिलाओं के लिये &lt;b&gt;कौशल विकास, आय सृजन और नेतृत्व के अवसरों&lt;/b&gt; में भी योगदान देते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;बाँस&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;बाँस के बारे में:&lt;/b&gt; बाँस घास कुल &lt;b&gt;&lt;i&gt;Poaceae&lt;/i&gt;&lt;/b&gt; की &lt;b&gt;उपकुल&lt;/b&gt; &lt;b&gt;&lt;i&gt;Bambusoideae&lt;/i&gt;&lt;/b&gt; से संबंधित है और इसमें &lt;b&gt;115 से अधिक वंश तथा 1,400 प्रजातियाँ&lt;/b&gt; शामिल हैं। इसका मुख्य वितरण &lt;b&gt;उष्णकटिबंधीय, उपोष्णकटिबंधीय और हल्के समशीतोष्ण क्षेत्रों&lt;/b&gt; में है, जिसमें सर्वाधिक विविधता &lt;b&gt;पूर्वी एवं दक्षिण-पूर्वी एशिया तथा भारतीय उपमहाद्वीप&lt;/b&gt; में पाई जाती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;जैविक विशेषताएँ:&lt;/b&gt; बाँस एक &lt;b&gt;तेज़ी से बढ़ने वाला बहुवर्षीय पौधा&lt;/b&gt; है, जिसमें भूमिगत &lt;b&gt;प्रकंद तंत्र/राइज़ोम सिस्टम&lt;/b&gt; से निकलने वाले काष्ठीय, खोखले तने होते हैं। अनुकूल परिस्थितियों में कुछ प्रजातियाँ &lt;b&gt;प्रतिदिन 30 सेमी. तक बढ़ सकती हैं&lt;/b&gt; और इनकी ऊँचाई &lt;b&gt;40 मीटर से अधिक&lt;/b&gt; हो सकती है। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;पारिस्थितिक अनुकूलन क्षमता:&lt;/b&gt; बाँस कटाई के बाद तेज़ी से पुनर्जीवित होता है और इसका मुख्य प्रसार &lt;b&gt;वानस्पतिक विधियों जैसे तना कटिंग&lt;/b&gt; के माध्यम से होता है। अनियमित पुष्पन के कारण बीज आधारित प्रसार सीमित होता है, जिससे बाँस एक &lt;b&gt;नवीकरणीय और सतत संसाधन&lt;/b&gt; बनता है। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;फसल विशेषताएँ:&lt;/b&gt; बाँस एक &lt;b&gt;सदाबहार, बहुवर्षीय फसल&lt;/b&gt; है और इसके विविध उपयोगों तथा आजीविका क्षमता के कारण इसे अक्सर &lt;b&gt;“गरीबों की लकड़ी (poor man’s timber)”&lt;/b&gt; कहा जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;उपयुक्त परिस्थितियाँ:&lt;/b&gt; बाँस &lt;b&gt;अच्छी जल निकासी वाली बलुई से चिकनी मृदा&lt;/b&gt; में गर्म जलवायु के अंतर्गत उत्तम वृद्धि प्रदर्शित करता है और सामान्यतः &lt;b&gt;4.5-6.0 के आस-पास मृदा pH&lt;/b&gt; को प्राथमिकता देता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;व्यावसायिक क्षमता:&lt;/b&gt; बाँस की खेती किसानों को &lt;b&gt;दीर्घकालिक आय का स्रोत&lt;/b&gt; प्रदान करती है और हस्तशिल्प, निर्माण, फर्नीचर तथा अन्य मूल्य वर्द्धित उत्पादों में उपयोग के माध्यम से &lt;b&gt;आजीविका विविधीकरण&lt;/b&gt; को बढ़ावा देती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;क्षेत्रीय संकेंद्रण:&lt;/b&gt; &lt;b&gt;भारतीय वन सर्वेक्षण&lt;/b&gt; के अनुसार, बाँस संसाधन मुख्य रूप से &lt;b&gt;पूर्वोत्तर राज्यों&lt;/b&gt; जैसे &lt;b&gt;अरुणाचल प्रदेश, असम, मणिपुर, मेघालय, मिज़ोरम, नागालैंड, सिक्किम और त्रिपुरा&lt;/b&gt; में केंद्रित हैं। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;सांस्कृतिक महत्त्व:&lt;/b&gt; बाँस स्वदेशी परंपराओं से गहराई से जुड़ा हुआ है और इसका उपयोग &lt;b&gt;मछली पकड़ने के जाल, टोकरियाँ, वाद्य यंत्र, आवास निर्माण सामग्री और हस्तशिल्प&lt;/b&gt; बनाने में किया जाता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260916120805-be9c8269.png"&gt;&lt;img alt="Bamboo" src="http://drishtiias.com/hindi/images/uploads/upload-20260916120805-be9c8269.png"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;निष्कर्ष&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;भारत का बाँस क्षेत्र &lt;b&gt;पारंपरिक आजीविका गतिविधि से हरित उद्यम पारिस्थितिकी तंत्र&lt;/b&gt; की ओर परिवर्तन के दौर से गुज़र रहा है। नीतिगत सुधार, प्रौद्योगिकी का अंगीकरण और उद्यमिता को समर्थन प्रदान करने वाले उपाय बाँस को &lt;b&gt;ग्रामीण रोज़गार, महिला सशक्तीकरण, सतत विकास और हरित अर्थव्यवस्था&lt;/b&gt; में योगदान देने में सक्षम बना रहे हैं। बाँस मूल्य शृंखला को सुदृढ़ करना इस नवीकरणीय संसाधन को भारत के &lt;b&gt;समावेशी और सतत विकास के एक महत्त्वपूर्ण स्तंभ&lt;/b&gt; के रूप में स्थापित कर सकता है। &lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;दृष्टि मेन्स प्रश्न&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;प्रश्न. बाँस एक पारंपरिक आजीविका संसाधन से ग्रामीण उद्यमिता और सतत विकास के संभावित चालक के रूप में विकसित हुआ है। चर्चा कीजिये।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 1. बाँस को हरित संसाधन क्यों कहा जाता है?&lt;br/&gt;&lt;/b&gt;बाँस एक &lt;b&gt;तेज़ी से बढ़ने वाला, नवीकरणीय और जैव निम्नीकरणीय संसाधन&lt;/b&gt; है, जिसका उपयोग सतत उद्योगों और कार्बन उत्सर्जन में कमी लाने वाले प्रयासों में किया जाता है। &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 2. बाँस को वृक्ष की परिभाषा से कब हटाया गया था?&lt;br/&gt;&lt;/b&gt;वर्ष &lt;b&gt;2017&lt;/b&gt; में वनों के बाहर उगाए जाने वाले बाँस को वृक्ष की परिभाषा से हटा दिया गया, जिससे इसकी कटाई और परिवहन संबंधी प्रतिबंधों में कमी आई। &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 3. राष्ट्रीय बाँस मिशन क्या है?&lt;br/&gt;&lt;/b&gt;राष्ट्रीय बाँस मिशन किसानों और उद्यमियों के लिये &lt;b&gt;बाँस की खेती, प्रसंस्करण, मूल्य संवर्द्धन और बाज़ार तक पहुँच&lt;/b&gt; को बढ़ावा देता है। &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 4. पूर्वोत्तर भारत के लिये बाँस क्यों महत्त्वपूर्ण है?&lt;br/&gt;&lt;/b&gt;पूर्वोत्तर भारत में बाँस संसाधनों की प्रचुरता है और यह क्षेत्र पारंपरिक आजीविका, हस्तशिल्प तथा ग्रामीण उद्यमों को समर्थन प्रदान करता है। &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 5. बाँस महिला सशक्तीकरण में किस प्रकार सहायता करता है?&lt;br/&gt;&lt;/b&gt;बाँस आधारित स्वयं सहायता समूह महिलाओं को &lt;b&gt;हस्तशिल्प, अगरबत्ती उत्पादन, डिज़ाइन आधारित उद्यमों और उद्यमिता&lt;/b&gt; के क्षेत्र में अवसर प्रदान करते हैं। &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt; UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न  (PYQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स &lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न. निम्नलिखित कथनों पर विचार कीजिये: (2019)&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;भारतीय वन अधिनियम, 1927 में हाल में हुए संशोधन के अनुसार, वन निवासियों को वन क्षेत्रों में उगने वाले बाँस को काट गिराने का अधिकार है। &lt;/li&gt;
+&lt;li&gt;अनुसूचित जनजाति एवं अन्य पारंपरिक वनवासी (वन अधिकारों की मान्यता) अधिनियम, 2006 के अनुसार, बाँस एक गौण वनोपज है। &lt;/li&gt;
+&lt;li&gt;अनुसूचित जनजाति एवं अन्य पारंपरिक वनवासी (वन अधिकारों की मान्यता) अधिनियम, 2006, वन निवासियों को गौण वनोपज के स्वामित्व की अनुमति देता है।&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;उपर्युक्त में से कौन-सा/से कथन सही है/हैं?&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; (a)&lt;/b&gt; केवल 1 और 2&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; (b) &lt;/b&gt;केवल 2 और 3&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; (c) &lt;/b&gt;केवल 3        &lt;/p&gt;
+&lt;p&gt;&lt;b&gt; (d)&lt;/b&gt; 1, 2 और 3&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर: (b)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<title>प्रधानमंत्री किसान मानधन योजना (PM-KMY)</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pradhan-mantri-kisan-maandhan-yojana-1</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pradhan-mantri-kisan-maandhan-yojana-1" rel="alternate"/>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">प्रधानमंत्री किसान मानधन योजना (PM-KMY)
+
+
+
+
+
+
+
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Agricultural-marketing"&gt;कृषि विपणन&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Government-Policies-&amp;amp;-Interventions"&gt;सरकारी नीतियाँ और हस्तक्षेप&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Welfare-Schemes"&gt;कल्याण योजनाएँ&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2309204®=1&amp;amp;lang=1"&gt;&lt;b&gt;स्रोत: पीआईबी &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;हाल ही में &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/5-years-of-pradhan-mantri-kisan-maandhan-yojana"&gt;&lt;b&gt;प्रधानमंत्री किसान मानधन योजना (PM-KMY)&lt;/b&gt;&lt;/a&gt; ने &lt;b&gt;वर्ष 2019 में शुरू होने&lt;/b&gt; के बाद सात वर्ष पूरे किये, जो अंशदायी पेंशन तंत्र के माध्यम से&lt;b&gt; लघु एवं सीमांत किसानों (SMF)&lt;/b&gt; को वृद्धावस्था सामाजिक सुरक्षा प्रदान करने में इसकी भूमिका को रेखांकित करता है।&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;PM-KMY से संबंधित मुख्य बिंदु क्या हैं?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; &lt;b&gt;प्रधानमंत्री किसान मानधन योजना (PM-KMY)&lt;/b&gt; लघु एवं सीमांत किसानों (SMF) के लिये एक स्वैच्छिक एवं अंशदायी वृद्धावस्था पेंशन योजना है, जिसका उद्देश्य &lt;b&gt;किसानों के कार्यकाल के बाद वित्तीय सुरक्षा प्रदान&lt;/b&gt; करना है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;कार्यान्वयन मंत्रालय:&lt;/b&gt; यह एक &lt;b&gt;केंद्रीय क्षेत्रक योजना &lt;/b&gt;है, जिसका संचालन &lt;b&gt;कृषि एवं किसान कल्याण मंत्रालय के कृषि एवं किसान कल्याण विभाग&lt;/b&gt; द्वारा भारतीय जीवन बीमा निगम (LIC) के सहयोग से किया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;पेंशन लाभ: &lt;/b&gt;पात्र अभिदाताओं को &lt;b&gt;60 वर्ष की आयु प्राप्त करने के बाद न्यूनतम ₹3,000 प्रतिमाह की सुनिश्चित पेंशन&lt;/b&gt; प्राप्त होती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;पारिवारिक पेंशन:&lt;/b&gt; अभिदाता की पेंशन प्राप्त करने के बाद मृत्यु होने की स्थिति में, पति/पत्नी को योजना की शर्तों के अधीन &lt;b&gt;अभिदाता की पेंशन का 50% (₹1,500 प्रतिमाह) पारिवारिक पेंशन&lt;/b&gt; के रूप में प्राप्त होता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;अंशदान मॉडल:&lt;/b&gt; यह योजना &lt;b&gt;समान अंशदान मॉडल&lt;/b&gt; पर आधारित है, जिसके अंतर्गत किसान और केंद्र सरकार पेंशन निधि में समान राशि का अंशदान करते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;अंशदान राशि:&lt;/b&gt; &lt;b&gt;18 से 40 वर्ष की आयु के बीच योजना &lt;/b&gt;में शामिल होने वाले किसान आयु के आधार पर &lt;b&gt;₹55 से ₹200 प्रतिमाह&lt;/b&gt; का अंशदान करते हैं तथा सरकार द्वारा समान राशि का मिलान अंशदान दिया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;पात्रता:&lt;/b&gt; यह योजना ऐसे लघु एवं सीमांत किसानों (SMF) के लिये खुली है, जिनके पास अधिकतम 2 हेक्टेयर तक कृषि योग्य भूमि है और नामांकन के समय उनकी आयु 18 से 40 वर्ष के बीच है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;अपवर्जन मानदंड:&lt;/b&gt; &lt;b&gt;PM-KMY&lt;/b&gt; में अन्य सामाजिक सुरक्षा योजनाओं जैसे- &lt;b&gt;NPS, ESIC, EPFO, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pradhan-mantri-shram-yogi-maan-dhan-scheme"&gt;&lt;b&gt;PM-SYM&lt;/b&gt;&lt;/a&gt;&lt;b&gt; और PM-LVM&lt;/b&gt; के लाभार्थियों के साथ-साथ संस्थागत भूमिधारक, संवैधानिक पद धारक, कुछ निर्वाचित प्रतिनिधि, सेवारत/सेवानिवृत्त सरकारी एवं सार्वजनिक उपक्रमों के कर्मचारी, आयकरदाता तथा डॉक्टर, इंजीनियर, वकील, चार्टर्ड अकाउंटेंट और वास्तुकार जैसे पंजीकृत पेशेवर शामिल नहीं हैं।
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;बहु-कार्यकारी कर्मचारी (MTS), चतुर्थ श्रेणी और समूह ‘D’ के कर्मचारियों&lt;/b&gt; को इस अपवर्जन से छूट दी गई है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;स्वतः डेबिट सुविधा:&lt;/b&gt; किसान का अंशदान &lt;b&gt;लिंक किये गए बैंक खाते&lt;/b&gt; से स्वतः डेबिट सुविधा के माध्यम से काटा जाता है। पात्र किसान स्वेच्छा से &lt;b&gt;PM-KISAN के लाभों &lt;/b&gt;का उपयोग PM-KMY अंशदान के लिये भी कर सकते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;कवरेज:&lt;/b&gt; इस योजना का विस्तार कृषक समुदायों में हुआ है, जिसके अंतर्गत &lt;b&gt;फरवरी 2026 तक 24,96,252 किसानों का नामांकन किया &lt;/b&gt;जा चुका है। &lt;b&gt;नामांकन में हरियाणा सबसे आगे है, जिसके बाद बिहार का स्थान&lt;/b&gt; है। योजना के शुभारंभ से अब तक PM-KMY के कार्यान्वयन और प्रसार के लिये &lt;b&gt;₹540.66 करोड़ &lt;/b&gt;का उपयोग किया गया है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;महत्त्व:&lt;/b&gt; PM-KMY पेंशन सुरक्षा कवच प्रदान करके &lt;b&gt;किसानों के लिये जीवन-चक्र आधारित सामाजिक सुरक्षा&lt;/b&gt; को सुदृढ़ करती है तथा लघु एवं सीमांत किसानों में वृद्धावस्था से जुड़ी वित्तीय असुरक्षा को कम करती है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260916122152-c61b3103.jpg"&gt;&lt;b&gt;&lt;i&gt;&lt;img alt="PM KMY" src="http://drishtiias.com/hindi/images/uploads/upload-20260916122152-c61b3103.jpg"/&gt;&lt;/i&gt;&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;PM KMY&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;निष्कर्ष&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रधानमंत्री किसान मान-धन योजना&lt;/b&gt; किसान कल्याण को केवल &lt;b&gt;उत्पादन और आय सहायता&lt;/b&gt; के दृष्टिकोण से देखने के बजाय &lt;b&gt;जीवन-चक्र सामाजिक सुरक्षा&lt;/b&gt; के व्यापक ढाँचे की ओर एक बदलाव का प्रतिनिधित्व करती है। &lt;b&gt;अंशदायी पेंशन, सरकार के समान अंशदान, वित्तीय समावेशन और पारिवारिक सुरक्षा &lt;/b&gt;को जोड़कर, योजना का उद्देश्य यह सुनिश्चित करना है कि भारत की खाद्य सुरक्षा में योगदान देने वाले लोग &lt;b&gt;वृद्धावस्था में भी सुरक्षा और गरिमा&lt;/b&gt; के साथ जीवन यापन कर सकें।&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;दृष्टि मेन्स प्रश्न&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; प्रधानमंत्री किसान मान-धन योजना किसानों के लिये कृषि सहायता से जीवन-चक्र सामाजिक सुरक्षा की ओर बदलाव को दर्शाती है। इसके महत्त्व और चुनौतियों की चर्चा कीजिये।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न &lt;/b&gt;&lt;b&gt;(FAQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 1. प्रधानमंत्री किसान मान-धन योजना (PM-KMY) क्या है?&lt;/b&gt; &lt;br/&gt;&lt;b&gt;उत्तर.&lt;/b&gt; PM-KMY छोटे और सीमांत किसानों को &lt;b&gt;वृद्धावस्था में सामाजिक सुरक्षा प्रदान करने के लिये  वर्ष 2019 में शुरू की गई एक केंद्रीय क्षेत्र की स्वैच्छिक और अंशदायी पेंशन योजना &lt;/b&gt;है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 2. कौन-सा मंत्रालय PM-KMY को लागू करता है?&lt;/b&gt; &lt;br/&gt;&lt;b&gt;उत्तर.&lt;/b&gt; PM-KMY का प्रशासन भारतीय जीवन बीमा निगम की साझेदारी में &lt;b&gt;कृषि एवं किसान कल्याण विभाग, कृषि एवं किसान कल्याण मंत्रालय &lt;/b&gt;द्वारा किया जाता है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 3. PM-KMY का शुभारंभ कब किया गया था?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;उत्तर.&lt;/b&gt; PM-KMY का शुभारंभ&lt;b&gt; 12 सितंबर, 2019 &lt;/b&gt;को किया गया था।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 4. PM-KMY के तहत क्या पेंशन लाभ प्रदान किया जाता है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;उत्तर.&lt;/b&gt; पात्र किसानों को&lt;b&gt; 60 वर्ष की आयु प्राप्त करने के बाद प्रतिमाह न्यूनतम ₹3,000 की सुनिश्चित पेंशन&lt;/b&gt; मिलती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न 5. PM-KMY के लिये कौन पात्र हैं?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;उत्तर.&lt;/b&gt; &lt;b&gt;2 हेक्टेयर तक की कृषि योग्य भूमि &lt;/b&gt;वाले तथा &lt;b&gt;18 से 40 वर्ष की आयु वर्ग के छोटे और सीमांत किसान &lt;/b&gt;इसके लिये पात्र हैं।&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न &lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;b&gt;&lt;i&gt;प्रिलिम्स&lt;/i&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; &lt;b&gt;किसान क्रेडिट कार्ड योजना के तहत, किसानों को निम्नलिखित में से किन उद्देश्यों के लिये अल्पकालिक ऋण सहायता दी जाती है? (2020)&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;कृषि परिसंपत्तियों के रखरखाव के लिये कार्यशील पूंजी &lt;/li&gt;
+&lt;li&gt;कंबाइन हार्वेस्टर, ट्रैक्टर और मिनी ट्रक की खरीद &lt;/li&gt;
+&lt;li&gt;कृषि परिवारों की उपभोग आवश्यकताएँ  &lt;/li&gt;
+&lt;li&gt;फसल कटाई के बाद के खर्च &lt;/li&gt;
+&lt;li&gt;पारिवारिक घर का निर्माण और गाँव में कोल्ड स्टोरेज सुविधा की स्थापना&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;(a)&lt;/b&gt; केवल 1, 2 और 5&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;(b)&lt;/b&gt; केवल 1, 3 और 4&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;(c)&lt;/b&gt; केवल 2, 3, 4 और 5&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;(d)&lt;/b&gt; 1, 2, 3, 4 और 5&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर: (b)&lt;/b&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; &lt;b&gt;भारत में, निम्नलिखित में से किसे कृषि में सार्वजनिक निवेश माना जा सकता है? (2020)&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;सभी फसलों के कृषि उत्पाद के लिए न्यूनतम समर्थन मूल्य निर्धारित करना &lt;/li&gt;
+&lt;li&gt;प्राथमिक कृषि साख समितियों का कंप्यूटरीकरण &lt;/li&gt;
+&lt;li&gt;सामाजिक पूंजी का विकास &lt;/li&gt;
+&lt;li&gt;किसानों को मुफ्त बिजली की आपूर्ति &lt;/li&gt;
+&lt;li&gt;बैंकिंग प्रणाली द्वारा कृषि ऋणों की माफी &lt;/li&gt;
+&lt;li&gt;सरकारों द्वारा शीत भंडारण (कोल्ड स्टोरेज) सुविधाओं की स्थापना&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:&lt;/b&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;(a)&lt;/b&gt; केवल 1, 2 और 5&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;(b) &lt;/b&gt;केवल 1, 3, 4 और 5 &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;(c)&lt;/b&gt; केवल 2, 3 और 6&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;(d)&lt;/b&gt; 1, 2, 3, 4, 5 और 6&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर: (c)&lt;/b&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;i&gt;मेन्स&lt;/i&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; न्यूनतम समर्थन मूल्य से आपका क्या अभिप्राय है? न्यूनतम समर्थन मूल्य किसानों को कम आय के जाल से किस प्रकार बाहर निकालेगा? &lt;b&gt;(2018)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <title>भारत द्वारा प्रस्तावित ब्रिक्स रिफॉर्म रोडमैप</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-s-proposed-brics-reform-roadmap</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-s-proposed-brics-reform-roadmap" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत द्वारा प्रस्तावित ब्रिक्स रिफॉर्म रोडमैप
 
@@ -147,8 +691,8 @@
 <title>चीन की ओपन-सोर्स AI रणनीति</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/china-s-open-source-ai-strategy</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/china-s-open-source-ai-strategy" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">चीन की ओपन-सोर्स AI रणनीति
 
@@ -274,8 +818,8 @@
 <title>नीले आकाश की तरफ भारत का सफर</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-s-path-to-blue-skies</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-s-path-to-blue-skies" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">नीले आकाश की तरफ भारत का सफर
 
@@ -587,8 +1131,8 @@
 <title>9वाँ राष्ट्रीय पोषण माह 2026</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/9th-rashtriya-poshan-maah-2026-2</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/9th-rashtriya-poshan-maah-2026-2" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">9वाँ राष्ट्रीय पोषण माह 2026
 
@@ -699,8 +1243,8 @@
 <title>प्रधानमंत्री मत्स्य संपदा योजना (PMMSY)</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pradhan-mantri-matsya-sampada-yojana-3</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pradhan-mantri-matsya-sampada-yojana-3" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">प्रधानमंत्री मत्स्य संपदा योजना (PMMSY)
 
@@ -789,8 +1333,8 @@
 <title>18वाँ ब्रिक्स शिखर सम्मेलन 2026: नई दिल्ली घोषणा</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/18th-brics-summit-2026-adoption-of-the-new-delhi-declaration</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/18th-brics-summit-2026-adoption-of-the-new-delhi-declaration" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">18वाँ ब्रिक्स शिखर सम्मेलन 2026: नई दिल्ली घोषणा
 
@@ -986,8 +1530,8 @@
 <title>OpenAI द्वारा नेवियर-स्टोक्स समस्या का समाधान खोजने का दावा</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/openai-claims-solution-to-the-navier-stokes-problem</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/openai-claims-solution-to-the-navier-stokes-problem" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">OpenAI द्वारा नेवियर-स्टोक्स समस्या का समाधान खोजने का दावा
 
@@ -1025,8 +1569,8 @@
 <title>भारत की विकास चुनौती: मिडिल इनकम ट्रैप</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-s-growth-challenge-the-middle-income-trap</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-s-growth-challenge-the-middle-income-trap" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत की विकास चुनौती: मिडिल इनकम ट्रैप
 
@@ -1195,8 +1739,8 @@
 <title>पीएम श्री योजना</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pm-shri-scheme-4</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pm-shri-scheme-4" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">पीएम श्री योजना
 
@@ -1312,8 +1856,8 @@
 <title>RUPP के माध्यम से राजनीतिक वित्तपोषण के दुरुपयोग पर रोक</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/curbing-misuse-of-political-funding-through-rupps</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/curbing-misuse-of-political-funding-through-rupps" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">RUPP के माध्यम से राजनीतिक वित्तपोषण के दुरुपयोग पर रोक
 
@@ -1476,8 +2020,8 @@
 <title>भारत में जूट क्षेत्र</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/jute-sector-in-india</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/jute-sector-in-india" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत में जूट क्षेत्र
 
@@ -1676,8 +2220,8 @@
 <title>ग्राम सभा की सहमति एवं वनों के संबंध में स्वीकृति</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/gram-sabha-consent-and-forest-clearance</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/gram-sabha-consent-and-forest-clearance" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">ग्राम सभा की सहमति एवं वनों के संबंध में स्वीकृति
 
@@ -1799,8 +2343,8 @@
 <title>इमरजेंसी क्रेडिट लाइन गारंटी स्कीम (ECLGS) 5.0</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/emergency-credit-line-guarantee-scheme-eclgs-5-0</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/emergency-credit-line-guarantee-scheme-eclgs-5-0" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">इमरजेंसी क्रेडिट लाइन गारंटी स्कीम (ECLGS) 5.0
 
@@ -1872,8 +2416,8 @@
 <title>जनगणना 2027 में जनसंख्या गणना से संबंधित चिंताएँ</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/concerns-regarding-the-population-enumeration-of-census-2027</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/concerns-regarding-the-population-enumeration-of-census-2027" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">जनगणना 2027 में जनसंख्या गणना से संबंधित चिंताएँ
 
@@ -1969,8 +2513,8 @@
 <title>ब्रिक्स का प्रस्तावित ‘पॉवर’ फ्रेमवर्क और वैकल्पिक भुगतान प्रणाली</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/brics-proposed-power-framework-and-alternative-payment-systems</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/brics-proposed-power-framework-and-alternative-payment-systems" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">ब्रिक्स का प्रस्तावित ‘पॉवर’ फ्रेमवर्क और वैकल्पिक भुगतान प्रणाली
 
@@ -2105,8 +2649,8 @@
 <title>जल संचय में जन-भागीदारी</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/jal-sanchay-jan-bhagidari-4</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/jal-sanchay-jan-bhagidari-4" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">जल संचय में जन-भागीदारी
 
@@ -2184,8 +2728,8 @@
 <title>वाइब्रेंट विलेज प्रोग्राम (VVP)</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/vibrant-villages-programme-3</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/vibrant-villages-programme-3" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">वाइब्रेंट विलेज प्रोग्राम (VVP)
 
@@ -2290,8 +2834,8 @@
 <title>नेपाल का जलवायु न्याय का दावा: आपदा राहत से जलवायु दायित्व तक</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/nepal-s-climate-justice-claim-from-disaster-relief-to-climate-liability</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/nepal-s-climate-justice-claim-from-disaster-relief-to-climate-liability" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">नेपाल का जलवायु न्याय का दावा: आपदा राहत से जलवायु दायित्व तक
 
@@ -2445,8 +2989,8 @@
 <title>ज़िला निर्यात केंद्र</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/districts-as-export-hubs</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/districts-as-export-hubs" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">ज़िला निर्यात केंद्र
 
@@ -2560,8 +3104,8 @@
 <title>भारत-चीन सीमा प्रबंधन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-china-border-management</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-china-border-management" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत-चीन सीमा प्रबंधन
 
@@ -2717,8 +3261,8 @@
 <title>सहकारी क्षेत्र में विकेंद्रीकृत अनाज भंडारण योजना</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/decentralised-grain-storage-plan-in-cooperative-sector</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/decentralised-grain-storage-plan-in-cooperative-sector" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">सहकारी क्षेत्र में विकेंद्रीकृत अनाज भंडारण योजना
 
@@ -2831,8 +3375,8 @@
 <title>संविधान का अनुच्छेद 142</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/article-142-of-the-constitution</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/article-142-of-the-constitution" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">संविधान का अनुच्छेद 142
 
@@ -2947,8 +3491,8 @@
 <title>भूटान ने रेबीज उन्मूलन की उपलब्धि हासिल की</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/bhutan-achieves-rabies-elimination-milestone</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/bhutan-achieves-rabies-elimination-milestone" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भूटान ने रेबीज उन्मूलन की उपलब्धि हासिल की
 
@@ -2999,8 +3543,8 @@
 <title>भारत में भूतापीय ऊर्जा</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/geothermal-energy-in-india</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/geothermal-energy-in-india" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत में भूतापीय ऊर्जा
 
@@ -3102,8 +3646,8 @@
 <title>भारत में लचीले मुद्रास्फीति लक्ष्यीकरण के एक दशक का मूल्यांकन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/a-decade-of-flexible-inflation-targeting-in-india</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/a-decade-of-flexible-inflation-targeting-in-india" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत में लचीले मुद्रास्फीति लक्ष्यीकरण के एक दशक का मूल्यांकन
 
@@ -3271,8 +3815,8 @@
 <title>भारत-बेल्जियम संबंध</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-belgium-relations</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-belgium-relations" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत-बेल्जियम संबंध
 
@@ -3483,8 +4027,8 @@
 <title>स्वास्थ्य सेवा कवरेज में व्याप्त अंतराल पर संसदीय स्थायी समिति</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/parliamentary-standing-committee-on-healthcare-coverage-gap</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/parliamentary-standing-committee-on-healthcare-coverage-gap" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">स्वास्थ्य सेवा कवरेज में व्याप्त अंतराल पर संसदीय स्थायी समिति
 
@@ -3599,8 +4143,8 @@
 <title>CVC वार्षिक रिपोर्ट 2025</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/cvc-annual-report-2025</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/cvc-annual-report-2025" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">CVC वार्षिक रिपोर्ट 2025
 
@@ -3695,8 +4239,8 @@
 <title>UNEP की लिमिटिंग ओवरशूट रिपोर्ट: 1.5°C की सीमा पार होने की स्थिति का प्रबंधन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/uneps-limiting-overshoot-report-managing-15%C2%B0c-breach</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/uneps-limiting-overshoot-report-managing-15%C2%B0c-breach" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">UNEP की लिमिटिंग ओवरशूट रिपोर्ट: 1.5°C की सीमा पार होने की स्थिति का प्रबंधन
 
@@ -3851,8 +4395,8 @@
 <title>राष्ट्रीय लेखा सांख्यिकी 2026</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-accounts-statistics-2026</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-accounts-statistics-2026" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">राष्ट्रीय लेखा सांख्यिकी 2026
 
@@ -4015,8 +4559,8 @@
 <title>26वाँ शंघाई सहयोग संगठन शिखर सम्मेलन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/26th-shanghai-cooperation-organisation-summit</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/26th-shanghai-cooperation-organisation-summit" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">26वाँ शंघाई सहयोग संगठन शिखर सम्मेलन
 
@@ -4238,8 +4782,8 @@
 <title>भारत में अस्पृश्यता</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/untouchability-in-india</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/untouchability-in-india" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत में अस्पृश्यता
 
@@ -4392,8 +4936,8 @@
 <title>C-DOT के सुरक्षित कम्युनिकेशन नेटवर्क के लिये 14 स्वदेशी क्वांटम प्रोडक्ट</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/c-dot-unveils-14-indigenous-quantum-products-for-secure-communication-networks</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/c-dot-unveils-14-indigenous-quantum-products-for-secure-communication-networks" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">C-DOT के सुरक्षित कम्युनिकेशन नेटवर्क के लिये 14 स्वदेशी क्वांटम प्रोडक्ट
 
@@ -4553,8 +5097,8 @@
 <title>भारत की आगामी संवृद्धि में प्रवासी भारतीय समुदाय</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/diaspora-to-shape-india-s-next-growth-chapter</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/diaspora-to-shape-india-s-next-growth-chapter" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत की आगामी संवृद्धि में प्रवासी भारतीय समुदाय
 
@@ -4714,8 +5258,8 @@
 <title>साइबर-फिजिकल सिस्टम</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/cyber-physical-systems-2</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/cyber-physical-systems-2" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">साइबर-फिजिकल सिस्टम
 
@@ -4865,8 +5409,8 @@
 <title>FSSAI ने पैक्ड फूड के लिये फ्रंट-ऑफ-पैक वार्निंग लेबल लगाने का प्रस्ताव दिया</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/fssai-proposes-front-of-pack-warning-labels-for-packaged-foods</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/fssai-proposes-front-of-pack-warning-labels-for-packaged-foods" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">FSSAI ने पैक्ड फूड के लिये फ्रंट-ऑफ-पैक वार्निंग लेबल लगाने का प्रस्ताव दिया
 
@@ -5126,8 +5670,8 @@
 <title>प्रधानमंत्री फसल बीमा योजना</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pradhan-mantri-fasal-bima-yojana-10</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pradhan-mantri-fasal-bima-yojana-10" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">प्रधानमंत्री फसल बीमा योजना
 
@@ -5241,8 +5785,8 @@
 <title>RPwD अधिनियम, 2016: 18 वर्ष की आयु के बाद दिव्यांगजनों के लिये सहायता संबंधी अंतर को कम करना</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/rpwd-act,-2016-bridging-the-post-18-disability-support-gap</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/rpwd-act,-2016-bridging-the-post-18-disability-support-gap" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">RPwD अधिनियम, 2016: 18 वर्ष की आयु के बाद दिव्यांगजनों के लिये सहायता संबंधी अंतर को कम करना
 
@@ -5393,8 +5937,8 @@
 <title>प्रति बूँद अधिक फसल</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/per-drop-more-crop</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/per-drop-more-crop" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">प्रति बूँद अधिक फसल
 
@@ -5541,8 +6085,8 @@
 <title>भारत-उज़्बेकिस्तान व्यापक सामरिक साझेदारी</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-uzbekistan-comprehensive-strategic-partnership</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-uzbekistan-comprehensive-strategic-partnership" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत-उज़्बेकिस्तान व्यापक सामरिक साझेदारी
 
@@ -5700,8 +6244,8 @@
 <title>बच्चों में सोशल मीडिया की लत/व्यसन का विनियमन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/regulation-of-social-media-addiction-among-children</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/regulation-of-social-media-addiction-among-children" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">बच्चों में सोशल मीडिया की लत/व्यसन का विनियमन
 
@@ -5882,8 +6426,8 @@
 <title>राष्ट्रीय पशु रोग नियंत्रण कार्यक्रम (NADCP)</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-animal-disease-control-programme</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-animal-disease-control-programme" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">राष्ट्रीय पशु रोग नियंत्रण कार्यक्रम (NADCP)
 
@@ -6005,8 +6549,8 @@
 <title>प्रधानमंत्री सूक्ष्म खाद्य प्रसंस्करण उद्यम उन्नयन योजना</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-1</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-1" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">प्रधानमंत्री सूक्ष्म खाद्य प्रसंस्करण उद्यम उन्नयन योजना
 
@@ -6068,8 +6612,8 @@
 <title>संयुक्त राष्ट्र मरुस्थलीकरण रोकथाम अभिसमय: कॉप17</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/united-nations-convention-to-combat-desertification-cop17</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/united-nations-convention-to-combat-desertification-cop17" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">संयुक्त राष्ट्र मरुस्थलीकरण रोकथाम अभिसमय: कॉप17
 
@@ -6245,8 +6789,8 @@
 <title>प्रधानमंत्री जनधन योजना के 12 वर्ष</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/12-years-of-pradhan-mantri-jan-dhan-yojana</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/12-years-of-pradhan-mantri-jan-dhan-yojana" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">प्रधानमंत्री जनधन योजना के 12 वर्ष
 
@@ -6416,8 +6960,8 @@
 <title>रणनीतिक ईंधन प्रणाली का निर्माण</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/building-strategic-fuel-system</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/building-strategic-fuel-system" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
+<published>2026-09-16T00:00:00+00:00</published>
+<updated>2026-09-16T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">रणनीतिक ईंधन प्रणाली का निर्माण
 
@@ -6593,690 +7137,5 @@
 &lt;hr/&gt;
 &lt;h3&gt;&lt;i&gt;मेन्स&lt;/i&gt; &lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; "सतत, विश्वसनीय, टिकाऊ और आधुनिक ऊर्जा तक पहुँच सतत विकास लक्ष्यों (SDG) को प्राप्त करने के लिये अनिवार्य है।" इस संबंध में भारत में हुई प्रगति पर टिप्पणी कीजिये। (2018) &lt;/p&gt;</content>
-</entry>
-<entry>
-<title>भारत के R&amp;D निवेश को सुव्यवस्थित करना</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/streamlining-indias-r-d-funding</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/streamlining-indias-r-d-funding" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">भारत के R&amp;D निवेश को सुव्यवस्थित करना
-
-
-
-
-
-
-
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Achievements-of-Indians-in-science-and-technology"&gt;विज्ञान और प्रौद्योगिकी में भारतीयों की उपलब्धियाँ&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Indigenization-of-technology"&gt;प्रौद्योगिकी का स्वदेशीकरण&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Education"&gt;शिक्षा&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/sci-tech/science/why-india-research-ecosystem-needs-a-map-of-where-the-money-really-goes/article71391727.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt; &lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;  &lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/reforming-india-s-r-d-ecosystem"&gt;&lt;b&gt;‘भारत में अनुसंधान एवं विकास करने में सुगमता’ पर नीति आयोग&lt;/b&gt;&lt;/a&gt; की रिपोर्ट ने भारत के अनुसंधान वित्तपोषण पारिस्थितिक तंत्र में महत्त्वपूर्ण अंतरालों को उजागर किया है। &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;रिपोर्ट में &lt;b&gt;एकीकृत प्रणाली की आवश्यकता पर बल दिया गया है, जो यह पता लगा सके कि किसे, किस अनुसंधान वित्तपोषण एजेंसी से, किस उद्देश्य के लिये वित्तपोषण प्राप्त हुआ है और क्या इसी प्रकार के अनुसंधान को पहले से ही वित्तपोषित&lt;/b&gt; किया जा चुका है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;b&gt;और पढ़ें: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/reforming-india-s-r-d-ecosystem"&gt;&lt;b&gt;भारत के R&amp;amp;D इकोसिस्टम में सुधार&lt;/b&gt;&lt;/a&gt; &lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;भारत के R&amp;amp;D फंडिंग इकोसिस्टम के सामने क्या चुनौतियाँ हैं?&lt;/b&gt; &lt;/h2&gt;
-&lt;h3&gt;&lt;b&gt;संरचनात्मक और वित्तीय चुनौतियाँ&lt;/b&gt; &lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;अनुसंधान एवं विकास पर कम सकल व्यय (GERD): &lt;/b&gt;भारत का कुल अनुसंधान एवं विकास निवेश &lt;b&gt;सकल घरेलू उत्पाद के 0.6% और 0.8% &lt;/b&gt;के बीच स्थिर बना हुआ है, जो इज़रायल (~5%), अमेरिका (3.5%) और चीन (2.4%) जैसे वैश्विक नवाचार अग्रणियों से काफी पीछे है। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अत्यधिक वित्तपोषण संकेंद्रण:&lt;/b&gt; वित्तपोषण प्रमुख एवं स्थापित संस्थानों की ओर अत्यधिक झुका हुआ है। &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/anusandhan-national-research-foundation"&gt;&lt;b&gt;अनुसंधान राष्ट्रीय अनुसंधान फाउंडेशन (ANRF)&lt;/b&gt;&lt;/a&gt; से प्राप्त 80% से अधिक वित्तपोषण IIT प्रणाली को जाता है, जिससे राज्य विश्वविद्यालयों और छोटे अनुसंधान निकायों को आवश्यक पूंजी से वंचित होना पड़ता है। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;कमज़ोर निजी क्षेत्र की भागीदारी:&lt;/b&gt; ऐतिहासिक रूप से यह प्रणाली लगभग पूरी तरह से सार्वजनिक स्रोतों पर निर्भर रही है। यद्यपि निजी उद्योग का व्यय हाल ही में 50% के स्तर को पार कर गया है, फिर भी इस पारिस्थितिक तंत्र में विकसित अर्थव्यवस्थाओं में देखे जाने वाले सुदृढ़ उद्यम पूंजी, परोपकारी और संस्थागत व्यावसायिक समर्थन का अभाव है (जहाँ निजी क्षेत्र सामान्यतः 70% से अधिक का योगदान देता है)। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;मानव पूंजी की कमी:&lt;/b&gt; भारत में प्रति दस लाख लोगों पर लगभग 262 पूर्णकालिक शोधकर्त्ता हैं, जबकि अमेरिका और ब्रिटेन में यह संख्या लगभग 5,000 है। 
-&lt;ul&gt;
-&lt;li&gt;यह कमी इस तथ्य से और बढ़ जाती है कि वैज्ञानिकों को अनुसंधान करने के बजाय प्रशासनिक जटिलताओं और लालफीताशाही से निपटने में अत्यधिक समय व्यतीत करना पड़ता है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;प्रशासनिक और डेटा संबंधी बाधाएँ&lt;/b&gt;  &lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;लालफीताशाही और विलंब: &lt;/b&gt;शोधकर्त्ताओं को "विश्वास की कमी" से उत्पन्न अत्यधिक प्रशासनिक बोझ का सामना करना पड़ता है। आवेदन प्रक्रियाएँ दोहरावपूर्ण हैं, वित्त का वितरण &lt;b&gt;स्वीकृति के बाद&lt;/b&gt; &lt;b&gt;3 से 6 माह का समय लग सकता&lt;/b&gt; है और कठोर वर्षांत वित्तीय नियमों के कारण प्रायः अप्रयुक्त धनराशि वापस करनी पड़ती है जिससे चल रहे कार्य बाधित होते हैं और स्टाइपेंड के भुगतान में विलंब होता है। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अनुदान का दोहराव:&lt;/b&gt; अनेक केंद्रीय एजेंसियाँ (जैसे– &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/year-end-review-of-dst"&gt;&lt;b&gt;DST&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/direct-benefit-transfer-scheme"&gt;&lt;b&gt;DBT&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/important-institution/national-organization/council-of-scientific-and-industrial-research"&gt;&lt;b&gt;CSIR&lt;/b&gt;&lt;/a&gt; और &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/icmr-s-first-in-the-world-challenge-for-innovation"&gt;&lt;b&gt;ICMR&lt;/b&gt;&lt;/a&gt;) अलग-अलग रूप से कार्य करती हैं। 
-&lt;ul&gt;
-&lt;li&gt;इससे समान अनुसंधान कार्यों की पहचान करना अत्यंत कठिन हो जाता है, जिसके कारण समान प्रकार के अनुसंधान के लिये दोहराए गए अनुदानों पर पारिस्थितिक तंत्र को प्रतिवर्ष हज़ारों करोड़ रुपये की अनुमानित लागत वहन करनी पड़ती है।  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विखंडित और असंगत डेटा:&lt;/b&gt; मौजूदा अनुदान संबंधी जानकारी दर्ज़नों अलग-अलग डेटाबेसों में बिखरी हुई है और इसे प्रायः अनस्ट्रक्चर्ड फ्री टेक्स्ट के रूप में दर्ज किया जाता है। 
-&lt;ul&gt;
-&lt;li&gt;एक स्वचालित प्रणाली के लिये यह पहचानना आसान नहीं है कि "&lt;b&gt;IISc, बैंगलोर" और "इंडियन इंस्टीट्यूट ऑफ साइंस, बंगलूरू" एक ही संस्थान&lt;/b&gt; हैं। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;इनफॉर्मेशन ब्लाइंडस्पॉट:&lt;/b&gt; &lt;b&gt;वित्तपोषण प्रदाताओं, शोधकर्त्ताओं या आम जनता&lt;/b&gt; को यह बताने के लिये कोई केंद्रीय डैशबोर्ड या प्रणाली उपलब्ध नहीं है कि किसे, किससे, किस सटीक उद्देश्य के लिये वित्तपोषण प्राप्त हो रहा है और क्या इसी प्रकार का वित्तपोषण कहीं और उपलब्ध है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;R&amp;amp;D फंडिंग में वैश्विक तौर-तरीके&lt;/b&gt; &lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;यूरोपीय संघ:&lt;/b&gt; &lt;b&gt;कॉर्डिस &lt;/b&gt;(CORDIS) प्लेटफॉर्म यूरोपीय संघ द्वारा वित्तपोषित अनुसंधान एवं नवाचार परियोजनाओं का एक केंद्रीय डेटाबेस उपलब्ध कराता है, जिसमें परियोजनाओं का विवरण, परिणाम, प्रकाशन और भाग लेने वाले संगठनों की जानकारी शामिल होती है। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;यूनाइटेड किंगडम:&lt;/b&gt; &lt;b&gt;गेटवे टू रिसर्च &lt;/b&gt;मॉडल एक राष्ट्रीय पोर्टल उपलब्ध कराता है, जिसके माध्यम से सार्वजनिक रूप से वित्तपोषित अनुसंधान संबंधी जानकारी प्राप्त की जा सकती है और उसका अनुश्रवण किया जा सकता है। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वैश्विक मॉडल:&lt;/b&gt; &lt;b&gt;क्रॉसरेफ का ग्रांट लिंकिंग सिस्टम&lt;/b&gt; अनुदानों को स्थायी पहचानकर्त्ता (PID) प्रदान करता है और उन्हें शोधकर्त्ताओं, संस्थानों तथा शोध परिणामों जैसे शोध पत्रों एवं डेटासेट से जोड़ता है। अब तक वैश्विक स्तर पर &lt;b&gt;2 लाख से अधिक अनुदान&lt;/b&gt; पंजीकृत किये जा चुके हैं। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;सामान्य पहचानकर्त्ता:&lt;/b&gt; ये प्रणालियाँ वित्तपोषण एजेंसी के लिये फंडर ID, संस्थान के लिये ROR ID, व्यक्तिगत शोधकर्त्ता के लिये ORCID और विशिष्ट अनुदान के लिये ग्रांट DOI जैसे पहचानकर्त्ताओं का उपयोग करती हैं, जिससे वित्तपोषण संबंधी डेटा मशीन-पठनीय और परस्पर संचालनीय बनता है। 
-&lt;ul&gt;
-&lt;li&gt;यह प्रणाली विश्लेषकों को अनुसंधान संबंधी कार्यों में दोहराव की पहचान करने और राष्ट्रीय प्राथमिकताओं की सरलता से निगरानी करने में सक्षम बनाती है। उदाहरण के लिये, अमेरिका में वर्ष 2013 के एक विश्लेषण में संघीय अनुदानों पर स्वचालित टेक्स्ट-मैचिंग तकनीक के उपयोग से पता चला कि दोहराए गए वित्तपोषण के कारण सरकार को लगभग 70 मिलियन अमेरिकी डॉलर की लागत आ रही थी।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;भारत की &lt;/b&gt;&lt;strong&gt;R&amp;amp;D&lt;/strong&gt;&lt;b&gt; फंडिंग की समस्या का समाधान करने के लिये किन उपायों की आवश्यकता है?&lt;/b&gt; &lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;स्थायी डिजिटल पहचानकर्त्ता (PID):&lt;/b&gt; प्रत्येक अनुसंधान अनुदान को करदाताओं के लिये पैन या मोबाइल फोन के लिये IMEI के समान एक विशिष्ट, मशीन-रीडेबल PID प्रदान किया जाना चाहिये। 
-&lt;ul&gt;
-&lt;li&gt;यह PID वित्तपोषण एजेंसी, संस्थान, शोधकर्त्ता, अनुदान राशि, अवधि और अनुसंधान क्षेत्र को सम्मिलित करने वाले मानकीकृत मेटाडेटा से जुड़ा होना चाहिये। शोधकर्त्ताओं को प्रकाशनों और पेटेंट में अनुदान पीआईडी को शामिल करना भी अनिवार्य किया जाना चाहिये, जिससे अधिकारी अनुसंधान संबंधी परिणामों के साथ वित्तपोषण का अनुश्रवण कर सकें और सार्वजनिक अनुसंधान एवं विकास व्यय की प्रभावशीलता का आकलन कर सकें। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;एकीकृत परियोजना प्रबंधन प्रणाली (UPMS):&lt;/b&gt; UPMS नीति आयोग द्वारा प्रस्तावित एक मंच है, जिसका उद्देश्य सार्वजनिक अनुसंधान एवं विकास वित्तपोषण को एक साझा प्रणाली के अंतर्गत लाना है। 
-&lt;ul&gt;
-&lt;li&gt;इसका उद्देश्य &lt;b&gt;अनुसंधान परियोजनाओं, वित्तपोषण, निगरानी और मूल्यांकन&lt;/b&gt; को सुव्यवस्थित करना है। &lt;/li&gt;
-&lt;li&gt;यह विभिन्न &lt;b&gt;मंत्रालयों और वित्तपोषण एजेंसियों&lt;/b&gt; से प्राप्त सूचनाओं को एकीकृत मंच पर लाएगा। &lt;/li&gt;
-&lt;li&gt;यह &lt;b&gt;अनुसंधान प्रस्तावों, वित्तपोषण आवंटन, परियोजना प्रगति और परिणामों&lt;/b&gt; के अनुश्रवण में सहायता कर सकता है। &lt;/li&gt;
-&lt;li&gt;हालाँकि दोहराए गए वित्तपोषण और वित्तपोषण संकेंद्रण की प्रभावी निगरानी के लिये UPMS को &lt;b&gt;मानकीकृत मेटाडेटा और स्थायी पहचानकर्त्ताओं (PID)&lt;/b&gt; की भी आवश्यकता होगी। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वैश्विक एकीकरण:&lt;/b&gt; भारतीय वित्तपोषण एजेंसियाँ &lt;b&gt;क्रॉसरेफ जैसे मौजूदा गैर-लाभकारी पारिस्थितिक तंत्रों से सीधे जुड़ सकती &lt;/b&gt;हैं। इससे स्थापित तकनीकी मानकों का उपयोग करते हुए त्वरित कार्यान्वयन संभव होगा और भारतीय अनुसंधान वैश्विक स्तर पर तुरंत दिखाई देने लगेगा। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;क्षेत्रीय आवंटन को अनिवार्य करना:&lt;/b&gt; ANRF को कानूनी रूप से अपने बजट के एक निश्चित प्रतिशत को विशेष रूप से राज्य विश्वविद्यालयों, छोटे महाविद्यालयों और ऐतिहासिक रूप से न्यूनतम वित्तपोषित संस्थानों के लिये आरक्षित करने का निर्देश दिया जाना चाहिये, जिससे केवल IIT तक सीमित 80% वित्तपोषण संकेंद्रण को सक्रिय रूप से कम किया जा सके। 
-&lt;ul&gt;
-&lt;li&gt;नव स्वीकृत &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/research,-development-and-innovation-fund"&gt;&lt;b&gt;अनुसंधान, विकास और नवाचार (RDI) फंड&lt;/b&gt;&lt;/a&gt; को शीघ्र लागू किया जाना चाहिये। इसका उपयोग गहन-तकनीकी स्टार्टअप्स और उद्योगों को दीर्घकालिक ऋण, शून्य/कम ब्याज दरों तथा इक्विटी निवेश की सुविधा प्रदान करने के लिये किया जाना चाहिये, जिससे निजी अनुसंधान एवं विकास के जोखिम को सीधे कम किया जा सके। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;GERD लक्ष्य में वृद्धि:&lt;/b&gt; सकल अनुसंधान एवं विकास व्यय को वर्तमान स्थिर 0.65% से बढ़ाकर सकल घरेलू उत्पाद के कम-से-कम 2% तक ले जाने के लिये चरणबद्ध वित्तीय विस्तार हेतु प्रतिबद्धता व्यक्त की जानी चाहिये। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;शोधकर्त्ताओं की सामाजिक मान्यता:&lt;/b&gt; अनुसंधान को प्रधानमंत्री फेलोशिप, पुरस्कारों और व्यापक सार्वजनिक मान्यता जैसी पहलों के माध्यम से सार्वजनिक चेतना में लाया जाना चाहिये। सरकार निगमों को भी अपने-अपने क्षेत्रों में प्रतिवर्ष शोधकर्त्ताओं को प्रायोजित करने के लिये प्रोत्साहित कर सकती है। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वैधानिक अनुसंधान एवं विकास प्रतिबद्धताएँ:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/cag-review-of-the-frbm-act"&gt;&lt;b&gt;राजकोषीय उत्तरदायित्व और बजट प्रबंधन (FRBM)&lt;/b&gt;&lt;/a&gt;&lt;b&gt; ढाँचे&lt;/b&gt; के समान भारत अनुसंधान एवं विकास व्यय के लिये वैधानिक प्रतिबद्धताओं पर विचार कर सकता है, जिससे केवल वार्षिक बजटीय प्राथमिकताओं पर निर्भर रहने के बजाय अनुसंधान में निरंतर और पूर्वानुमेय सार्वजनिक निवेश सुनिश्चित किया जा सके। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;निष्कर्ष&lt;/b&gt; &lt;/h2&gt;
-&lt;p&gt;भारत के अनुसंधान एवं विकास पारिस्थितिक तंत्र के पुनरुद्धार के लिये &lt;b&gt;केवल अधिक बजट ही नहीं, बल्कि बेहतर शासन, व्यापक वित्तपोषण तक पहुँच और पारदर्शी&lt;/b&gt; अनुश्रवण की आवश्यकता है। वैश्विक डिजिटल मानकों को अपनाने तथा अधिक लचीले एवं विकेंद्रीकृत वित्तपोषण को सक्षम बनाने से अक्षमताओं को कम किया जा सकता है, राज्य विश्वविद्यालयों को सशक्त किया जा सकता है और &lt;b&gt;सार्वजनिक अनुसंधान एवं निजी नवाचार &lt;/b&gt;के बीच के अंतर को समाप्त किया जा सकता है। &lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;em&gt;&lt;b&gt;दृष्टि मेन्स प्रश्न:&lt;/b&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;एक मज़बूत R&amp;amp;D इकोसिस्टम के लिये न केवल अधिक खर्च की आवश्यकता होती है, बल्कि संस्थागत विविधता, प्रशासनिक अनुकूलता और परिणाम-आधारित फंडिंग की भी आवश्यकता होती है। भारतीय संदर्भ में इस कथन का समालोचनात्मक परीक्षण कीजिये। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ) &lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;1. एकीकृत परियोजना प्रबंधन प्रणाली (UPMS) क्या है?&lt;br/&gt;&lt;/b&gt;UPMS &lt;b&gt;नीति आयोग द्वारा प्रस्तावित एक मंच&lt;/b&gt; है, जिसका उद्देश्य मंत्रालयों और वित्तपोषण एजेंसियों में सार्वजनिक अनुसंधान एवं विकास परियोजनाओं की योजना, वित्तपोषण, निगरानी और मूल्यांकन को सुव्यवस्थित करना है। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;2. अनुसंधान वित्तपोषण में स्थायी डिजिटल पहचानकर्त्ता (PID) क्या हैं?&lt;br/&gt;&lt;/b&gt;PID अनुसंधान अनुदानों को प्रदान किये जाने वाले विशिष्ट, मशीन-रीडेबल पहचानकर्त्ता हैं, जो वित्तपोषण प्रदाता, शोधकर्त्ता, संस्थान, राशि और अवधि जैसे मानकीकृत मेटाडेटा से जुड़े होते हैं। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3. अनुसंधान एवं विकास वित्तपोषण में ORCID और ROR की क्या भूमिका है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;ORCID व्यक्तिगत शोधकर्त्ताओं&lt;/b&gt; की पहचान करता है, जबकि &lt;b&gt;ROR अनुसंधान संगठनों की पहचान करता&lt;/b&gt; है, जिससे विभिन्न डेटाबेसों में अनुसंधान वित्तपोषण डेटा का सटीक संयोजन और एकत्रीकरण संभव होता है। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;4. भारत के अनुसंधान एवं विकास पारिस्थितिक तंत्र के लिये ANRF क्यों महत्त्वपूर्ण है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;अनुसंधान राष्ट्रीय अनुसंधान फाउंडेशन (ANRF)&lt;/b&gt; का उद्देश्य पारंपरिक वित्तपोषण केंद्रों से आगे बढ़कर विश्वविद्यालयों और संस्थानों में अनुसंधान एवं नवाचार को समर्थन प्रदान करते हुए भारत के अनुसंधान आधार को सुदृढ़ और व्यापक बनाना है। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;5. RDI फंड का क्या महत्त्व है?&lt;br/&gt;&lt;/b&gt;&lt;b&gt;अनुसंधान, विकास और नवाचार (RDI) फंड&lt;/b&gt; का उद्देश्य अनुसंधान एवं विकास में निजी क्षेत्र के निवेश को प्रोत्साहित करना है, विशेष रूप से उपयुक्त वित्तीय साधनों के माध्यम से &lt;b&gt;डीप-टेक स्टार्टअप्स और नवाचार-प्रधान उद्योगों &lt;/b&gt;को समर्थन प्रदान करके। &lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h3&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ) &lt;/h3&gt;
-&lt;h3&gt;&lt;em&gt;प्रिलिम्स&lt;/em&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. राष्ट्रीय नवाचार फाउंडेशन इंडिया (एनआईएफ) के संबंध में निम्नलिखित में से कौन-सा/से कथन सही है/हैं? (2015)&lt;/b&gt; &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;NIF केंद्र सरकार के अधीन विज्ञान और प्रौद्योगिकी विभाग का एक स्वायत्त निकाय है। &lt;/li&gt;
-&lt;li&gt;NIF अत्यधिक उन्नत विदेशी वैज्ञानिक संस्थानों के साथ मिलकर भारत के प्रमुख वैज्ञानिक संस्थानों में अत्यधिक उन्नत वैज्ञानिक अनुसंधान को सुदृढ़ करने की एक पहल है। &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;b&gt;नीचे दिये गए कोड का उपयोग करके सही उत्तर चुनिये:&lt;/b&gt; &lt;/p&gt;
-&lt;p&gt;(a) केवल 1 &lt;/p&gt;
-&lt;p&gt;(b) केवल 2 &lt;/p&gt;
-&lt;p&gt;(c) 1 और 2 दोनों &lt;/p&gt;
-&lt;p&gt;(d) न तो 1 और न ही 2 &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर: (a)&lt;/b&gt; &lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;&lt;i&gt;मेन्स&lt;/i&gt; &lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; अनुप्रयुक्त जैव-प्रौद्योगिकी में शोध तथा विकास-संबंधी उपलब्धियाँ क्या हैं? ये उपलब्धियाँ समाज के निर्धन वर्गों के उत्थान में किस प्रकार सहायक होंगी? &lt;b&gt;(2021)&lt;/b&gt; &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; भारतीय विश्वविद्यालयों में वैज्ञानिक अनुसंधान का स्तर गिरता जा रहा है, क्योंकि विज्ञान में कॅरियर उतना आकर्षक नहीं है जितना कि वह कारोबार संव्यवसाय, इंजीनियरी या प्रशासन में है और विश्वविद्यालय उपभोक्ता-उन्मुखी होते जा रहे हैं। समालोचनात्मक टिप्पणी कीजिये। &lt;b&gt;(2014)&lt;/b&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<title>नेपाल में आकस्मिक बाढ़ और हिमालयी क्षेत्र की संवेदनशीलता</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/nepal-flash-floods-and-vulnerability-of-the-himalayan-region</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/nepal-flash-floods-and-vulnerability-of-the-himalayan-region" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">नेपाल में आकस्मिक बाढ़ और हिमालयी क्षेत्र की संवेदनशीलता
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies - I"&gt;सामान्य अध्ययन-I&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Geographic-features-and-their-status"&gt;भौगोलिक विशेषताएँ और उनकी स्थिति&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Disaster-Management"&gt;आपदा प्रबंधन&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;प्रिलिम्स के लिये:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/cloudburst,-landslide,-and-flash-flood"&gt;&lt;b&gt;आकस्मिक बाढ़&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/western-disturbances-1"&gt;&lt;b&gt;पश्चिमी विक्षोभ&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/a-new-phase-in-india-nepal-relations"&gt;&lt;b&gt;कोसी, गंडक&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/thawing-permafrost-in-arctic-and-industrial-contamination"&gt;&lt;b&gt;परिहिम (Permafrost) का पिघलना&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-s-preparedness-against-glofs"&gt;&lt;b&gt;हिमनद झील विस्फोट बाढ़ (GLOF)&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/sendai-framework-and-india-s-commitment-to-drr"&gt;&lt;b&gt;सेंडाई फ्रेमवर्क&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;मेन्स के लिये:&lt;/b&gt; हिमालय की भू-आकृतिक विशेषताएँ एवं विवर्तनिक अस्थिरता, हिमालय में जलवायु परिवर्तन एवं क्रायोस्फीयर संबंधी परिवर्तन, पारिस्थितिक रूप से संवेदनशील क्षेत्रों में पर्यावरणीय शासन&lt;/p&gt;
-&lt;h3&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://indianexpress.com/article/india/nepal-flash-flood-ice-rock-avalanche-trigger-scientists-10851003/"&gt;&lt;b&gt;स्रोत: इंडियन एक्सप्रेस&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;नेपाल में आई विनाशकारी &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/cloudburst,-landslide,-and-flash-flood"&gt;&lt;b&gt;आकस्मिक बाढ़&lt;/b&gt;&lt;/a&gt; के कारण 150 से अधिक लोगों की मृत्यु हो गई, सैकड़ों लोग लापता हैं तथा महत्त्वपूर्ण अवसंरचना को क्षति पहुँची है। वैज्ञानिकों को आशंका है कि एक &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/rising-avalanche-risks"&gt;&lt;b&gt;हिम-शैल हिमस्खलन&lt;/b&gt;&lt;/a&gt;, संभवतः एक असामान्य &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/western-disturbances-1"&gt;&lt;b&gt;पश्चिमी विक्षोभ&lt;/b&gt;&lt;/a&gt; के साथ अंतःक्रिया करते हुए, इस अचानक आई बाढ़ का कारण बना। &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;नेपाल की &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/a-new-phase-in-india-nepal-relations"&gt;&lt;b&gt;भोते कोसी, गंडक एवं कर्णाली&lt;/b&gt;&lt;/a&gt; जैसी नदियाँ हिमालयी क्षेत्र से निकलती हैं या इसके माध्यम से प्रवाहित होकर भारत में प्रवेश करती हैं। अतः नेपाल में आने वाली बाढ़ भारत के लिये भी निचले प्रवाह वाले क्षेत्रों में जोखिम उत्पन्न कर सकती है। &lt;/li&gt;
-&lt;li&gt;यह घटना &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/indian-himalayan-region-1"&gt;&lt;b&gt;हिमालयी क्षेत्र&lt;/b&gt;&lt;/a&gt; की &lt;b&gt;हिमनद अस्थिरता, भूस्खलन एवं आकस्मिक बाढ़ जैसे संयुक्त आपदाओं&lt;/b&gt; के प्रति संवेदनशीलता को उजागर करती है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;सारांश&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;नेपाल में आई विनाशकारी आकस्मिक बाढ़&lt;/b&gt;, जिसमें &lt;b&gt;हिम-शैल हिमस्खलन एवं असामान्य मौसमी अंतःक्रियाओं&lt;/b&gt; की संभावित भूमिका मानी जा रही है, हिमालयी क्षेत्र में &lt;b&gt;हिमनद अस्थिरता, भूस्खलन एवं आकस्मिक बाढ़ जैसी संयुक्त आपदाओं&lt;/b&gt; के प्रति बढ़ते जोखिम को दर्शाती है। &lt;/li&gt;
-&lt;li&gt;ये जोखिम &lt;b&gt;विवर्तनिक संवेदनशीलता, जलवायु परिवर्तन, अनियोजित अवसंरचना विकास एवं विनियामक कमियों&lt;/b&gt; के कारण और अधिक बढ़ जाते हैं।&lt;/li&gt;
-&lt;li&gt;यह अनुभव इस बात की आवश्यकता को रेखांकित करता है कि आपदा प्रतिरोधक क्षमता को बाद की प्रतिक्रिया के रूप में देखने के बजाय &lt;b&gt;पारिस्थितिक वहन क्षमता आकलन, संचयी प्रभाव मूल्यांकन, जलस्रोत क्षेत्र संरक्षण, प्रकृति-आधारित ढलान स्थिरीकरण तथा बहु-आपदा पूर्व चेतावनी प्रणालियों&lt;/b&gt; के माध्यम से &lt;b&gt;जोखिम-संवेदी हिमालयी विकास&lt;/b&gt; को अपनाया जाए।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;हिमालयी क्षेत्र में बार-बार आने वाली आपदाओं के प्रति बढ़ती संवेदनशीलता को प्रेरित करने वाले कारक क्या हैं?&lt;/b&gt;&lt;/h2&gt;
-&lt;h3&gt;&lt;/h3&gt;
-&lt;h3&gt;&lt;b&gt;भू-वैज्ञानिक एवं जलवायु संबंधी कारक (प्राकृतिक संवेदनशीलता)&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;विवर्तनिक तनाव:&lt;/b&gt; हिमालय नवीन वलित एवं निरंतर उत्थानशील पर्वत हैं, जिनमें अत्यधिक सक्रिय भ्रंश प्रणालियाँ विद्यमान हैं, जिनमें &lt;b&gt;मुख्य केंद्रीय क्षेप (Main Central Thrust - MCT), मुख्य सीमा क्षेप (Main Boundary Thrust - MBT) एवं हिमालयी अग्रवर्ती क्षेप (Himalayan Frontal Thrust - HFT)&lt;/b&gt; शामिल हैं।  
-&lt;ul&gt;
-&lt;li&gt;भारतीय हिमालयी क्षेत्र का अधिकांश भाग &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/earthquake-11"&gt;&lt;b&gt;भूकंपीय क्षेत्र VI&lt;/b&gt;&lt;/a&gt; में आता है। इसके अतिरिक्त, ऐतिहासिक "भूकंपीय रिक्तियाँ" (ऐसे क्षेत्र जहाँ एक शताब्दी से अधिक समय तक बड़े भूकंप नहीं आए हैं) अत्यधिक अप्रयुक्त ऊर्जा का संचय करती हैं तथा खंडित चट्टानें इस क्षेत्र को &lt;b&gt;बृहत क्षरण (Mass Wasting)&lt;/b&gt; के प्रति अत्यधिक संवेदनशील बनाती हैं।&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/a-new-phase-in-india-nepal-relations"&gt;&lt;b&gt;नेपाल में वर्ष 2015 के विनाशकारी गोरखा भूकंप&lt;/b&gt;&lt;/a&gt; ने उच्च पर्वतीय क्षेत्रों की कमज़ोर एवं खंडित चट्टानी संरचना के कारण पूरे क्षेत्र में हज़ारों द्वितीयक &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/landslide-and-preventive-measures"&gt;&lt;b&gt;भूस्खलनों&lt;/b&gt;&lt;/a&gt; को उत्पन्न किया।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जलवायु प्रवर्द्धन:&lt;/b&gt; &lt;b&gt;ऊँचाई-निर्भर तापन (Elevation-Dependent Warming - EDW)&lt;/b&gt; के कारण &lt;b&gt;परिहिम (Permafrost) का पिघलना&lt;/b&gt; तीव्र हो रहा है, जिससे चट्टानों को एक साथ बांधे रखने वाली &lt;b&gt;"बर्फ-सीमेंट" परत&lt;/b&gt; समाप्त हो रही है तथा मोरेन-बंधित हिमनद झीलों का विस्तार हो रहा है। इससे  &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/thawing-permafrost-in-arctic-and-industrial-contamination"&gt;&lt;b&gt;हिमनद झील विस्फोट बाढ़&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (Glacial Lake Outburst Floods - GLOF)&lt;/b&gt; एवं विशाल हिम-शैल हिमस्खलनों का जोखिम अत्यधिक बढ़ रहा है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उत्तराखंड में &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/chamoli-flash-floods"&gt;&lt;b&gt;वर्ष 2021 की चमोली आपदा&lt;/b&gt;&lt;/a&gt; परिहिम (Permafrost) हिमनद पिघलने के कारण बड़े हिमनदीय एवं चट्टानी भागों के पतन से उत्पन्न हुई थी, जबकि &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/glacial-lake-outburst-flood-in-sikkim"&gt;&lt;b&gt;सिक्किम में वर्ष 2023 की दक्षिण ल्होनक झील आपदा&lt;/b&gt;&lt;/a&gt; एक विनाशकारी &lt;b&gt;हिमनद झील विस्फोट बाढ़ (GLOF)&lt;/b&gt; थी, जिसमें मोरेन बांध के टूटने से निचले प्रवाह वाले क्षेत्रों के नगर बह गए।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जल वैज्ञानिक चरम स्थितियाँ:&lt;/b&gt; परिवर्तित होते मानसून के कारण &lt;b&gt;स्थानीयकृत&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/cloudburst,-landslide,-and-flash-flood"&gt;&lt;b&gt;बादल फटने&lt;/b&gt;&lt;/a&gt; की घटनाएँ बढ़ रही हैं। तीव्र ढाल वाले नदी प्रवणताओं के साथ मिलकर ये घटनाएँ तीव्र वेग वाली विनाशकारी &lt;b&gt;आकस्मिक बाढ़&lt;/b&gt; एवं मलबा प्रवाह उत्पन्न करती हैं, जो नदी तल का स्वरूप बदलते हैं तथा नदी मार्गों में परिवर्तन लाते हैं।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;वर्ष 2013 की केदारनाथ आपदा&lt;/b&gt; स्थानीयकृत बादल फटने एवं चोराबाड़ी झील के टूटने के कारण अत्यंत विनाशकारी सिद्ध हुई थी। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;मानवजनित कारक (मानव द्वारा तीव्रता में वृद्धि)&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;अनियोजित अवसंरचना विकास:&lt;/b&gt; सुरक्षा दीवारों के निर्माण के बिना ढलानों की ऊर्ध्वाधर कटाई पर्वतीय क्षेत्रों की स्थिरता को कमज़ोर करती है। इसके साथ ही, &lt;b&gt;बड़े पैमाने पर पर्यटन&lt;/b&gt; के कारण अस्थिर मलबा क्षेत्रों और सक्रिय बाढ़ मैदानों पर व्यापक कंक्रीट आधारित शहरीकरण को बढ़ावा मिला है। 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/chardham-project"&gt;&lt;b&gt;चारधाम परियोजना&lt;/b&gt;&lt;/a&gt; के अंतर्गत राजमार्ग विस्तार कार्यों ने अवैज्ञानिक ऊर्ध्वाधर पहाड़ी कटाई के कारण बार-बार होने वाले बड़े भूस्खलनों (जैसे लामबगढ़ में) को बढ़ावा दिया है। &lt;b&gt;सर्वोच्च न्यायालय द्वारा गठित उच्चाधिकार प्राप्त समिति (HPC)&lt;/b&gt; ने उल्लेख किया &lt;b&gt;कि चार धाम परियोजना संवेदनशील हिमालयी पारिस्थितिकी तंत्र की स्थिरता को प्रभावित कर सकती है।&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;इड्रोजियोलॉजिकल क्षति:&lt;/b&gt; रन-ऑफ-द-रिवर पनबिजली परियोजनाओं के लिये भूमिगत सुरंगों के निर्माण और विस्फोटक गतिविधियों से गहरे जलभृतों (Aquifers) को क्षति पहुँचती है। इसके परिणामस्वरूप ऊँचे जलस्तर (Perched Water Tables) का सूखना, छिद्र जल दाब (Pore-Water Pressure) में परिवर्तन तथा अत्यधिक भू-धँसाव (Ground Subsidence) जैसी समस्याएँ उत्पन्न होती हैं (जैसे- जोशीमठ संकट)।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;मलबा प्रबंधन की समस्या:&lt;/b&gt; सुरंग निर्माण और सड़क विस्तार से उत्पन्न मलबे (Muck) का अनुचित निपटान प्रायः नदी तल में कर दिया जाता है। इससे उच्च प्रवाह वाली बाढ़ विनाशकारी मलबा प्रवाह (Debris Flow) में परिवर्तित हो सकती है तथा निचले क्षेत्रों में स्थित बांधों (जैसे- तीस्ता-III) को नुकसान पहुँच सकता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;शासन और विनियामक विफलताएँ&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;अलग-अलग परियोजना स्वीकृतियाँ:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper3/environmental-impact-assessment-eia"&gt;&lt;b&gt;पर्यावरण प्रभाव आकलन (EIA) प्रणाली&lt;/b&gt;&lt;/a&gt; के कमज़ोर पड़ने और प्रत्येक परियोजना का अलग-अलग मूल्यांकन किये जाने से संवेदनशील हिमालयी नदी घाटियों में संचालित अनेक अवसंरचना परियोजनाओं के &lt;b&gt;समेकित एवं दीर्घकालिक पर्यावरणीय प्रभावों&lt;/b&gt; का समुचित आकलन नहीं हो पाता।
-&lt;ul&gt;
-&lt;li&gt;व्यक्तिगत परियोजनाओं का मूल्यांकन अलग-अलग किया जाता है, जबकि &lt;b&gt;नदी घाटी-स्तरीय रणनीतिक पर्यावरणीय आकलन (SEA)&lt;/b&gt; की व्यवस्था अभी सीमित है।&lt;/li&gt;
-&lt;li&gt;इससे सड़कों, पनबिजली परियोजनाओं और नगरीकरण के &lt;b&gt;समेकित प्रभावों&lt;/b&gt; को ध्यान में न रखने के कारण &lt;b&gt;ढलान अस्थिरता, आवासीय क्षति तथा आपदा जोखिमों&lt;/b&gt; में वृद्धि हो सकती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;बाढ़ मैदानों पर नियमों का अपर्याप्त प्रवर्तन:&lt;/b&gt; वर्ष &lt;b&gt;2016 के गंगा प्राधिकरण आदेश&lt;/b&gt; के बावजूद, राज्य सक्रिय नदी तटों (River Terraces) और &lt;b&gt;“निर्माण निषिद्ध क्षेत्रों”&lt;/b&gt; में अवैध बहुमंजिला निर्माण को रोकने में विफल रहे हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;संरक्षण प्रावधानों में शिथिलीकरण:&lt;/b&gt; &lt;b&gt;भागीरथी पारिस्थितिक संवेदनशील क्षेत्र&lt;/b&gt; में दी गई छूट तथा &lt;b&gt;वन (संरक्षण) संशोधन अधिनियम, 2023&lt;/b&gt; के अंतर्गत प्रावधानों से बड़े पैमाने की रणनीतिक और रैखिक परियोजनाओं को महत्त्वपूर्ण पारिस्थितिक जाँच एवं ढलान स्थिरता आकलन से बच निकलने का अवसर मिलता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260827120626-9c085938.png"&gt;&lt;img src="http://drishtiias.com/hindi/images/uploads/upload-20260827120626-9c085938.png"/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;b&gt;भारत में आपदा प्रबंधन के लिये प्रमुख समितियों की सिफारिशें&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;मिश्रा समिति (1976):&lt;/b&gt; इसका गठन &lt;b&gt;जोशीमठ भू-धँसाव&lt;/b&gt; की जाँच के लिये किया गया था। इसने विस्तृत स्थल जाँच पूरी होने तक &lt;b&gt;अस्थिर और भूस्खलन संभावित क्षेत्रों में निर्माण कार्यों को सीमित करने&lt;/b&gt; की सिफारिश की। साथ ही, निर्माण एवं सड़क कार्यों के लिये &lt;b&gt;अंधाधुंध वृक्ष कटाई और बोल्डर हटाने&lt;/b&gt; से बचने का सुझाव दिया।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जे.सी. पंत समिति (1999):&lt;/b&gt; इसने &lt;b&gt;31 आपदाओं को पाँच श्रेणियों में वर्गीकृत&lt;/b&gt; किया और निम्नलिखित सिफारिशें कीं:&lt;/li&gt;
-&lt;li&gt;आपदा प्रबंधन को &lt;b&gt;सातवीं अनुसूची&lt;/b&gt; में शामिल करना तथा राष्ट्रीय और राज्य स्तर पर आपदा संबंधी विधिक प्रावधानों का निर्माण करना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भवन निर्माण संहिताओं और सुरक्षा मानकों&lt;/b&gt; के प्रभावी क्रियान्वयन को सुदृढ़ करना।
-&lt;ul&gt;
-&lt;li&gt;आपदा प्रबंधन और समन्वय के लिये समर्पित &lt;b&gt;संस्थागत तंत्रों&lt;/b&gt; की स्थापना करना।&lt;/li&gt;
-&lt;li&gt;आपदा प्रशिक्षण और क्षमता निर्माण के लिये &lt;b&gt;विशेषीकृत संस्थानों&lt;/b&gt; का निर्माण करना।&lt;/li&gt;
-&lt;li&gt;प्रतिक्रिया एवं रोकथाम के लिये &lt;b&gt;आपदा वित्त पोषण व्यवस्था&lt;/b&gt; को सुदृढ़ करना।&lt;/li&gt;
-&lt;li&gt;जोखिमों की पहचान, प्रशिक्षण कार्यक्रमों और मानक संचालन प्रक्रियाओं (SOPs) के माध्यम से आपदा-प्रतिक्रिया हेतु सुदृढ़ तैयारी व्यवस्था विकसित करना। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;भारतीय हिमालयी क्षेत्र में आपदा जोखिमों को कम करने के लिये कौन-से उपाय अपनाए जा सकते हैं?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;पारिस्थितिक वहन क्षमता (Ecological Carrying Capacity) का प्रवर्तन:&lt;/b&gt; प्रमुख रैखिक या जलविद्युत अवसंरचना परियोजनाओं की स्वीकृति से पूर्व &lt;b&gt;रणनीतिक पर्यावरणीय आकलन (SEA)&lt;/b&gt; और परिदृश्य-स्तरीय संचयी प्रभाव आकलन को कानूनी रूप से अनिवार्य बनाया जाना चाहिये।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;नदी विनियमन क्षेत्रों (RRZ) का सख्त क्रियान्वयन:&lt;/b&gt; सक्रिय नदी बाढ़ मैदानों में स्थायी निर्माण को प्रतिबंधित करने के लिये &lt;b&gt;नदी विनियमन क्षेत्रों (RRZ)&lt;/b&gt; के प्रावधानों को प्रभावी रूप से लागू करना।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जलस्रोत क्षेत्र प्रबंधन एवं जल सुरक्षा:&lt;/b&gt; जलस्रोतों के पुनर्भरण क्षेत्रों को चिह्नित करने के लिये जल भू-वैज्ञानिक मानचित्रण (Hydrogeological Mapping) का उपयोग करते हुए &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/niti-aayog-67"&gt;&lt;b&gt;नीति आयोग&lt;/b&gt;&lt;/a&gt;&lt;b&gt; द्वारा समर्थित आठ-चरणीय जलस्रोत क्षेत्र प्रबंधन पद्धति&lt;/b&gt; का व्यापक स्तर पर विस्तार करना तथा पुनर्भरण क्षेत्रों में अनियोजित सुरंग  निर्माण को रोकना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;ढलान स्थिरीकरण के लिये जैव-अभियांत्रिकी:&lt;/b&gt; भारी और कठोर कंक्रीट आधारित अवरोधक दीवारों के स्थान पर गहरी जड़ वाली घासों (जैसे- वेटिवर), हाइड्रोसीडिंग, भू-वस्त्र (Geo-textiles) तथा समोच्च वनस्पति सीढ़ियों (Contoured Vegetative Terraces) जैसी प्रकृति-आधारित तकनीकों के माध्यम से ढलान स्थिरीकरण को अपनाना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;बहु-आपदा प्रारंभिक चेतावनी प्रणालियों (MHEWS) का आधुनिकीकरण: &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/nisar-and-synthetic-aperture-radar"&gt;InSAR (इंटरफेरोमेट्रिक सिंथेटिक एपर्चर रडार)&lt;/a&gt;, सैटेलाइट टेलीमेट्री, उच्च-तुंगता वाले स्वचालित मौसम केंद्रों (AWS) और डॉप्लर रडार को एकीकृत करके निचले क्षेत्रों में रहने वाले समुदायों के लिये वास्तविक समय चेतावनी की अवधि को बढ़ाना।&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;सतत पर्वतीय पर्यटन शासन: उच्च घनत्व वाले और अनियंत्रित पर्यटन से परे विनियमित, उच्च-मूल्य एवं कम-प्रभाव वाले पारिस्थितिकी पर्यटन की ओर बदलाव करना। इसे पूर्व-पंजीकरण सीमा, अनिवार्य अपशिष्ट बाय-बैक मेकेनिज़्म और स्थानीय संरक्षण के लिये निर्धारित पर्यटक कर के माध्यम से लागू किया जाना चाहिये।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विकास में जलवायु और आपदा सहनशीलता का मुख्यधारा में समावेशन:&lt;/b&gt; भारतीय हिमालयी क्षेत्र (IHR) में विकास संबंधी परियोजनाओं को सेंडाई फ्रेमवर्क के अनुरूप आपदा जोखिम न्यूनीकरण और जलवायु अनुकूलन को एकीकृत करना चाहिये, ताकि विशेष रूप से अवसंरचना तथा शहरी नियोजन में बढ़ते आपदा जोखिमों के संपर्क को रोका जा सके।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;निष्कर्ष&lt;/b&gt; &lt;/h2&gt;
-&lt;p&gt;हिमालयी क्षेत्र में बार-बार आने वाली आपदाएँ &lt;b&gt;विकास संबंधी शासन की असंगति को उजागर करती&lt;/b&gt; हैं, जहाँ कमज़ोर भू-गर्भीय संरचना और जलवायु परिवर्तन के प्रभावों को ऐसी अवसंरचनात्मक परियोजनाएँ तथा अधिक गंभीर बना रही हैं, जो पारिस्थितिक सीमाओं की अनदेखी करती हैं। चुनौती विकास को रोकने की नहीं, बल्कि उसे हिमालय की &lt;b&gt;वहन क्षमता, संचयी जोखिमों तथा भू-गर्भीय, जलवैज्ञानिक और हिममंडलीय सीमाओं&lt;/b&gt; के अनुरूप बनाने की है, ताकि आपदा सहनशीलता विकास नियोजन का एक अभिन्न हिस्सा बन सके।&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;&lt;i&gt;दृष्टि मेन्स प्रश्न:&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;हिमालयी क्षेत्रों में आपदाओं की बढ़ती आवृत्ति केवल जलवायु परिवर्तन को ही नहीं, बल्कि भू-वैज्ञानिक फ्रैजिलिटी और विकास संबंधी दबावों के आपसी प्रभाव को भी दर्शाती है। परीक्षण कीजिये।&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ)&lt;/b&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;1. भारतीय हिमालयी क्षेत्र आपदाओं के प्रति अत्यधिक संवेदनशील क्यों है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;भारतीय हिमालयी क्षेत्र की सक्रिय विवर्तनिक संरचना, खंडित भू-गर्भीय स्थिति, तीव्र ढाल, हिमनद अस्थिरता, अत्यधिक वर्षा और बढ़ते मानवजनित दबाव इसे बहु-आपदा जोखिमों&lt;/b&gt; के प्रति अत्यधिक संवेदनशील बनाते हैं।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;2. हिमनद झील प्रस्फुटन बाढ़ (GLOF) क्या है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;GLOF &lt;b&gt;हिमनद झील से आकस्मिक जल के मुक्त होने की घटना&lt;/b&gt; है, जो प्रायः हिमस्खलन, भूकंप या अत्यधिक जल प्रवाह के कारण बर्फ या मोरेन बांध के विफल होने के पश्चात होती है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3. हिमालयी आपदा प्रबंधन के लिये सेंडाई फ्रेमवर्क का क्या महत्त्व है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;सेंडाई फ्रेमवर्क वर्ष 2015–2030 आपदा संबंधी जोखिमों की समझ विकसित करने, शासन व्यवस्था को सुदृढ़ करने, प्रत्यास्थता निर्माण में निवेश करने तथा प्रभावी प्रतिक्रिया और पुनर्प्राप्ति के लिये तैयारी में सुधार करने पर बल देता है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;4. मिश्रा समिति (1976) ने हिमालयी विकास के संबंध में क्या सिफारिश की थी?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;इसने अस्थिर और भूस्खलन-प्रवण क्षेत्रों में निर्माण को सीमित करने तथा विनिर्माण एवं सड़क कार्यों के दौरान अंधाधुंध वृक्ष कटाई और बोल्डर हटाने से बचने की सिफारिश की थी।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;5. हिमालयी क्षेत्र में आपदा जोखिमों को कैसे कम किया जा सकता है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;प्रमुख उपायों में &lt;b&gt;वहन क्षमता आधारित नियोजन, संचयी प्रभाव आकलन, जलस्रोत क्षेत्र (Springshed) प्रबंधन, जैव-अभियांत्रिकी आधारित ढाल स्थिरीकरण, बहु-आपदा प्रारंभिक चेतावनी प्रणालियाँ और जलवायु-अनुकूल अवसंरचना शामिल&lt;/b&gt; हैं।&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, पिछले वर्षों के प्रश्न (PYQ)&lt;/b&gt;&lt;/h2&gt;
-&lt;h3&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स:&lt;/b&gt;&lt;/em&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. निम्नलिखित युग्मों पर विचार कीजिये: (2020)&lt;/b&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;   शिखर    &lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;   पर्वत&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;1. नामचा बरवा&lt;/td&gt;
-&lt;td&gt;गढ़वाल हिमालय&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2. नंदा देवी  &lt;/td&gt;
-&lt;td&gt;कुमाऊँ हिमालय&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3. नोकरेक              &lt;/td&gt;
-&lt;td&gt;सिक्किम हिमालय&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उपर्युक्त युग्मों में कौन-सा/से सुमेलित है/हैं?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;(a) 1 और 2&lt;/p&gt;
-&lt;p&gt;(b) केवल 2&lt;/p&gt;
-&lt;p&gt;(c) 1 और 3&lt;/p&gt;
-&lt;p&gt;(d) केवल 3&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर: (b) &lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. यदि आप हिमालय की यात्रा करते हैं, तो आपको निम्नलिखित में से कौन-सा पौधा वहाँ प्राकृतिक रूप से उगता हुआ दिखाई देगा? (2014)&lt;/b&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;ओक&lt;/li&gt;
-&lt;li&gt;रोडोडेंड्रोन&lt;/li&gt;
-&lt;li&gt;चंदन&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;b&gt;नीचे दिये गए कूट का प्रयोग करके सही उत्तर चुनिये:&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;(a) केवल 1 और 2&lt;/p&gt;
-&lt;p&gt;(b) केवल 3&lt;/p&gt;
-&lt;p&gt;(c) केवल 1 और 3&lt;/p&gt;
-&lt;p&gt;(d) 1, 2 और 3&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर: (a) &lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. जब आप हिमालय की यात्रा करते हैं, तो आप निम्नलिखित देखेंगे: (2012)&lt;/b&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;गहरे गड्ढ़े&lt;/li&gt;
-&lt;li&gt;यू-टर्न नदी मार्ग&lt;/li&gt;
-&lt;li&gt;समानांतर पर्वत शृंखलाएँ &lt;/li&gt;
-&lt;li&gt;भूस्खलन के लिये उत्तरदायी तीव्र ढ़ाल प्रवणता&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;b&gt;उपरोक्त में से कौन-से हिमालय के तरुण वलित पर्वत (नवीन मोड़दार पर्वत) के साक्ष्य कहे जा सकते हैं?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;(a) केवल 1 और 2&lt;/p&gt;
-&lt;p&gt;(b) केवल 1, 2 और 4&lt;/p&gt;
-&lt;p&gt;(c) केवल 3 और 4&lt;/p&gt;
-&lt;p&gt;(d) 1, 2, 3 और 4&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर: (d)&lt;/b&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;&lt;b&gt;&lt;em&gt;मेन्स&lt;/em&gt;:&lt;/b&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न 1.&lt;/b&gt; हिमालय क्षेत्र तथा पश्चिमी घाटों में भूस्खलनों के विभिन्न कारणों का अंतर स्पष्ट कीजिये। (2021) &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न 2&lt;/b&gt;. हिमालय के हिमनदों के पिघलने का भारत के जल-संसाधनों पर किस प्रकार दूरगामी प्रभाव होगा? (2020) &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न 3.&lt;/b&gt; "हिमालय भूस्खलनों के प्रति अत्यधिक प्रवण है।" कारणों की विवेचना कीजिये तथा अल्पीकरण के उपयुक्त उपाय सुझाइये। (2016)&lt;/p&gt;</content>
-</entry>
-<entry>
-<title>न्यायिक नियुक्तियों की कॉलेजियम प्रणाली में पारदर्शिता को लेकर चिंता</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/transparency-concerns-over-collegium-system-of-judicial-appointments</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/transparency-concerns-over-collegium-system-of-judicial-appointments" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">न्यायिक नियुक्तियों की कॉलेजियम प्रणाली में पारदर्शिता को लेकर चिंता
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Judiciary"&gt;न्यायतंत्र&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Indian-Constitution"&gt;भारतीय संविधान&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Judgments-&amp;amp;-Cases"&gt;निर्णय और मामले&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;प्रिलिम्स के लिये:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/collegium-system-of-judicial-appointments-in-india"&gt;&lt;b&gt;कॉलेजियम प्रणाली&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/appointment-of-chief-justice-of-india"&gt;&lt;b&gt;भारत के मुख्य न्यायाधीश&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/calls-for-a-national-judicial-policy-and-njac"&gt;&lt;b&gt;राष्ट्रीय न्यायिक नियुक्ति आयोग&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/mains-practice-question/question-2667"&gt;&lt;b&gt;मूल ढाँचा&lt;/b&gt;&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;मेन्स के लिये:&lt;/b&gt; कॉलेजियम प्रणाली और न्यायिक नियुक्तियाँ, न्यायिक स्वतंत्रता तथा शक्तियों का पृथक्करण, न्यायिक जवाबदेही एवं पारदर्शिता&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/opinion/lead/end-the-culture-of-secrecy-in-judicial-appointments/article71389685.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/calls-for-a-national-judicial-policy-and-njac"&gt;&lt;b&gt;न्यायिक नियुक्तियों&lt;/b&gt;&lt;/a&gt;&lt;b&gt; में पारदर्शिता&lt;/b&gt; को लेकर बहस एक बार फिर सामने आई है, जब &lt;b&gt;सर्वोच्च न्यायालय &lt;/b&gt;ने टिप्पणी की कि &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/collegium-system-of-judicial-appointments-in-india"&gt;&lt;b&gt;कॉलेजियम प्रक्रिया&lt;/b&gt;&lt;/a&gt; में अधिक खुलापन जनता के विश्वास को सुदृढ़ कर सकता है और यह सुनिश्चित कर सकता है कि &lt;b&gt;योग्यता ही प्रमुख सिद्धांत बनी&lt;/b&gt; रहे।&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;यह मुद्दा महत्त्वपूर्ण है क्योंकि कॉलेजियम प्रणाली, जिसका उद्देश्य &lt;b&gt;राजनीतिक हस्तक्षेप से न्यायिक स्वतंत्रता की रक्षा करना&lt;/b&gt; है, प्रायः सीमित सार्वजनिक निगरानी के साथ कार्य करने के लिये आलोचना का सामना करती रही है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;सारांश&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;कॉलेजियम प्रणाली&lt;/b&gt;, जो तीन न्यायाधीश मामलों के माध्यम से विकसित हुई है, न्यायिक स्वतंत्रता की रक्षा करती है, किंतु इसे &lt;b&gt;अपारदर्शिता, वस्तुनिष्ठ मानदंडों के अभाव, कारणों के सीमित प्रकटीकरण और भाई-भतीजावाद &lt;/b&gt;के आरोपों को लेकर आलोचना का सामना करना पड़ता है।&lt;/li&gt;
-&lt;li&gt;अग्रिम मार्ग &lt;b&gt;स्वतंत्रता और जवाबदेही&lt;/b&gt; के बीच संतुलन स्थापित करना है, जिसके लिये &lt;b&gt;पूर्व-घोषित रिक्तियाँ, वस्तुनिष्ठ मूल्यांकन मानदंड, पारदर्शी एमओपी&lt;/b&gt;, &lt;b&gt;संस्थागत जाँच व्यवस्था तथा कारणयुक्त निर्णय आवश्यक&lt;/b&gt; हैं, साथ ही संवेदनशील सूचनाओं की सुरक्षा भी सुनिश्चित की जानी चाहिये।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;न्यायिक नियुक्तियों की कॉलेजियम प्रणाली क्या है?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;व्यवस्था की प्रकृति:&lt;/b&gt; कॉलेजियम प्रणाली एक न्यायिक रूप से निर्मित व्यवस्था है, जिसका उल्लेख भारत के संविधान के मूल पाठ में नहीं किया गया है। यह सर्वोच्च न्यायालय और उच्च न्यायालयों में न्यायाधीशों की नियुक्ति एवं स्थानांतरण के लिये उत्तरदायी है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;संवैधानिक पृष्ठभूमि:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;अनुच्छेद 124(2):&lt;/b&gt; सर्वोच्च न्यायालय में नियुक्तियाँ राष्ट्रपति द्वारा सर्वोच्च न्यायालय और उच्च न्यायालयों के न्यायाधीशों से “परामर्श” के बाद की जाती हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अनुच्छेद 217(1):&lt;/b&gt; उच्च न्यायालयों में नियुक्तियाँ राष्ट्रपति द्वारा &lt;a href="https://www.drishtiias.com/hindi/state-pcs-current-affairs/justice-surya-kant-appointed-as-53rd-cji"&gt;&lt;b&gt;भारत के मुख्य न्यायाधीश (CJI)&lt;/b&gt;&lt;/a&gt;, संबंधित राज्य के राज्यपाल और उच्च न्यायालय के मुख्य न्यायाधीश से परामर्श के बाद की जाती हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;“तीन न्यायाधीश मामलों” के माध्यम से विकास:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;प्रथम न्यायाधीश मामला (&lt;/b&gt;&lt;b&gt;&lt;i&gt;S.P. Gupta बनाम भारत संघ, 1981&lt;/i&gt;&lt;/b&gt;&lt;b&gt;):&lt;/b&gt; सर्वोच्च न्यायालय ने निर्णय दिया कि “परामर्श” का अर्थ “सहमति” नहीं है, जिससे न्यायिक नियुक्तियों में संघ कार्यपालिका को प्राथमिकता प्राप्त हुई।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;द्वितीय न्यायाधीश मामला (&lt;/b&gt;&lt;b&gt;&lt;i&gt;सुप्रीम कोर्ट एडवोकेट्स-ऑन-रिकॉर्ड एसोसिएशन बनाम भारत संघ, 1993&lt;/i&gt;&lt;/b&gt;&lt;b&gt;):&lt;/b&gt; न्यायालय ने अपने पूर्व निर्णय को पलटते हुए “परामर्श” की व्याख्या “सहमति” के रूप में की और कॉलेजियम प्रणाली (CJI + दो वरिष्ठतम न्यायाधीश) का निर्माण किया।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;तृतीय न्यायाधीश मामला (&lt;/b&gt;&lt;b&gt;&lt;i&gt;विशेष संदर्भ 1, 1998&lt;/i&gt;&lt;/b&gt;&lt;b&gt;):&lt;/b&gt; कॉलेजियम के वर्तमान स्वरूप का विस्तार किया गया:
-&lt;ul&gt;
-&lt;li&gt;सर्वोच्च न्यायालय का कॉलेजियम भारत के मुख्य न्यायाधीश (CJI) के नेतृत्व में होता है और इसमें न्यायालय के चार अन्य वरिष्ठतम न्यायाधीश शामिल हैं।&lt;/li&gt;
-&lt;li&gt;उच्च न्यायालय का कॉलेजियम संबंधित उच्च न्यायालय के वर्तमान मुख्य न्यायाधीश और दो अन्य वरिष्ठतम न्यायाधीशों से मिलकर बनता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;चतुर्थ न्यायाधीश मामला (2015):&lt;/b&gt; सर्वोच्च न्यायालय ने 99वें संविधान संशोधन अधिनियम और &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/calls-for-a-national-judicial-policy-and-njac"&gt;&lt;b&gt;राष्ट्रीय न्यायिक नियुक्ति आयोग (NJAC) अधिनियम, 2014&lt;/b&gt;&lt;/a&gt; को निरस्त कर दिया तथा न्यायिक स्वतंत्रता की रक्षा के लिये कॉलेजियम प्रणाली को संविधान के &lt;a href="https://www.drishtiias.com/hindi/mains-practice-question/question-2667"&gt;&lt;b&gt;मूल ढाँचे&lt;/b&gt;&lt;/a&gt; के एक भाग के रूप में बरकरार रखा।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260827083208-98cda84a.png"&gt;&lt;img alt="Collegium" src="http://drishtiias.com/hindi/images/uploads/upload-20260827083208-98cda84a.png"/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;पारदर्शिता को लेकर कॉलेजियम की आलोचना क्यों हो रही है?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;तर्कसंगत प्रस्तावों और सदस्यों के विवरण का वापस लिया जाना: &lt;/b&gt;अक्तूबर 2017 में सर्वोच्च न्यायालय कॉलेजियम ने अपनी वेबसाइट पर ऐसे प्रस्ताव प्रकाशित करने का निर्णय लिया था, जिनमें सिफारिशों के लिये संक्षिप्त कारणों का विवरण दिया जाता था।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;नवंबर 2024&lt;/b&gt; में प्रस्तावों के प्रकाशन में निर्णयों के पीछे के कारणों और भाग लेने वाले कॉलेजियम सदस्यों के नामों, दोनों का उल्लेख बंद कर दिया गया।&lt;/li&gt;
-&lt;li&gt;नवंबर 2025 में तत्कालीन मुख्य न्यायाधीश ने पुष्टि की कि कॉलेजियम ने विस्तृत कारण प्रकाशित करना बंद करने का निर्णय लिया, ताकि चयनित न होने वाले उम्मीदवारों की कॅरियर संभावनाओं को संभावित नुकसान से बचाया जा सके &lt;b&gt;(आलोचकों का तर्क है कि ऐसा औचित्य अन्य सार्वजनिक पदों के लिये कभी स्वीकार नहीं किया जाएगा।)&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वस्तुनिष्ठ मूल्यांकन का अभाव:&lt;/b&gt; उम्मीदवारों के विधिक कौशल, सत्यनिष्ठा, निर्णय की गुणवत्ता, मामलों के निपटारे की दर और सामाजिक विविधता के आधार पर मूल्यांकन करने के लिये कोई संहिताबद्ध ढाँचा उपलब्ध नहीं है।
-&lt;ul&gt;
-&lt;li&gt;आगामी न्यायिक रिक्तियों को औपचारिक रूप से अधिसूचित नहीं किया जाता, जिससे योग्य अधिवक्ताओं को सीधे आवेदन करने का अवसर नहीं मिलता।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;पहली पीढ़ी के वकीलों के लिये असमानता:&lt;/b&gt; बंद-द्वार नामांकन प्रक्रिया संस्थागत संपर्कों से वंचित पहली पीढ़ी के अधिवक्ताओं को नुकसान पहुँचाती है, जबकि स्थापित नेटवर्क वाले लोगों को संरचनात्मक लाभ प्रदान करती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;“अंकल जज” विवाद और पारिवारिक संबंधों की धारणा: अपारदर्शिता के कारण यह बार-बार आरोप लगाया जाता है कि वर्तमान और सेवानिवृत्त न्यायाधीशों के रिश्तेदारों को प्राथमिकता दी जाती है।&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;इलाहाबाद उच्च न्यायालय (2018):&lt;/b&gt; केंद्र सरकार ने 33 अनुशंसित नामों में से 11 नामों पर वर्तमान या सेवानिवृत्त न्यायाधीशों से पारिवारिक संबंध होने के कारण आपत्ति जताई।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;सर्वोच्च न्यायालय की संरचना (2025):&lt;/b&gt; एक आकलन में पाया गया कि वर्तमान सर्वोच्च न्यायालय के लगभग 30% न्यायाधीशों (33 में से लगभग 10) के पूर्व न्यायाधीशों से पारिवारिक संबंध थे।&lt;/li&gt;
-&lt;li&gt;जनवरी 2025 में, कॉलेजियम ने न्यायाधीशों के रिश्तेदारों को नियुक्ति से रोकने के मुद्दे पर विचार किया और अंततः ऐसे उम्मीदवारों की अधिक कठोर जाँच करने के सिद्धांत पर सहमति व्यक्त की।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विविध मानदंड और लेखा-परीक्षण का अभाव:&lt;/b&gt; न्यायाधीशों की नियुक्ति के लिये वर्तमान ज्ञापन प्रक्रिया (MoP) में उम्मीदवारों के जनसांख्यिकीय आँकड़ों के प्रकटीकरण की आवश्यकता नहीं है। नियमित लेखा-परीक्षण के अभाव में प्रगति की निगरानी करना या समावेशिता के लिये जवाबदेही सुनिश्चित करना कठिन बना रहता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;आंतरिक न्यायिक सिद्धांतों में विरोधाभास:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;&lt;i&gt;मीडियावन जजमेंट (2023)&lt;/i&gt;&lt;/b&gt;&lt;b&gt;:&lt;/b&gt; सर्वोच्च न्यायालय ने कहा कि बंद लिफाफा प्रक्रिया और बिना बताए गए कारण &lt;b&gt;&lt;i&gt;“पारदर्शी एवं जवाबदेह प्रणाली के प्रतिकूल”&lt;/i&gt;&lt;/b&gt; हैं, फिर भी प्रशासनिक नियुक्तियाँ बंद-द्वार मॉडल के अनुसार जारी हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;i&gt;सचिव, कर्नाटक राज्य बनाम उमादेवी (2006):&lt;/i&gt;&lt;/b&gt; न्यायालय ने निर्देश दिया कि सार्वजनिक नियुक्तियाँ संविधान के अनुच्छेद 14 और 16 के अंतर्गत खुली एवं गैर-मनमानी प्रक्रियाओं के अनुसार होनी चाहिये।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;i&gt;सुभाष चंद्र अग्रवाल निर्णय (2019):&lt;/i&gt;&lt;/b&gt; यद्यपि भारत के मुख्य न्यायाधीश (CJI) के कार्यालय को &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/right-to-information-rti-act"&gt;&lt;b&gt;सूचना का अधिकार (RTI) अधिनियम, 2005&lt;/b&gt;&lt;/a&gt; के अंतर्गत लाया गया, लेकिन कॉलेजियम की वास्तविक विचार-विमर्श प्रक्रिया अभी भी प्रकटीकरण से बाहर है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;डिजिटल युग में संस्थागत वैधता का क्षरण: सोशल मीडिया ने न्यायिक कार्यप्रणाली को त्वरित और विकेंद्रीकृत सार्वजनिक निगरानी के अधीन कर दिया है। इससे सार्वजनिक विश्वास बनाए रखने तथा आलोचनाओं का रचनात्मक रूप से समाधान करने के लिये पारदर्शिता एवं स्पष्ट कारणों का महत्त्व और अधिक बढ़ गया है।&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;गोपनीयता के पक्ष में तर्क (गोपनीयता के समर्थन में) &lt;/b&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;व्यावसायिक प्रतिष्ठा की रक्षा:&lt;/b&gt; किसी अधिवक्ता या न्यायिक अधिकारी की अस्वीकृति के कारणों का प्रकटीकरण उनके वर्तमान पेशेवर कार्य, प्रतिष्ठा या न्यायिक मनोबल को नुकसान पहुँचा सकता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;कॉलेजियम सदस्यों के मध्य निर्भीक एवं स्वतंत्र विचार-विमर्श सुनिश्चित करना:&lt;/b&gt; बंद-द्वार प्रक्रिया न्यायाधीशों को सार्वजनिक दबाव से मुक्त होकर उम्मीदवारों की सत्यनिष्ठा, न्यायिक दृष्टिकोण और योग्यता का निष्पक्ष मूल्यांकन करने में सक्षम बनाती है। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;न्यायिक स्वतंत्रता की सुरक्षा:&lt;/b&gt; कार्यपालिका या सार्वजनिक हस्तक्षेप को रोकना &lt;b&gt;अनुच्छेद 50 के अंतर्गत शक्तियों के पृथक्करण&lt;/b&gt; के सिद्धांत को बनाए रखने में सहायता करता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;न्यायिक नियुक्तियों में वैश्विक प्रथाएँ&lt;/b&gt;&lt;/h2&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;देश&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;क्रियाविधि&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;पारदर्शिता और जवाबदेही की विशेषताएँ&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;यूनाइटेड किंगडम&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;न्यायिक नियुक्ति आयोग (JAC)&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;एक स्वतंत्र वैधानिक निकाय; सार्वजनिक रूप से रिक्तियों की घोषणा; मानकीकृत योग्यता परीक्षण; संरचित साक्षात्कार; तथा इसमें गैर-न्यायिक सदस्यों (Lay Members) को शामिल किया जाता है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;दक्षिण अफ्रीका&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;न्यायिक सेवा आयोग (JSC)&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;एक बहु-पक्षीय संवैधानिक निकाय; जो सार्वजनिक रूप से नामांकन आमंत्रित करता है और चयनित उम्मीदवारों के &lt;b&gt;दूरदर्शन पर प्रसारित सार्वजनिक साक्षात्कार&lt;/b&gt; आयोजित करता है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;संयुक्त राज्य अमेरिका&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;राष्ट्रपति द्वारा नामांकन एवं सीनेट द्वारा पुष्टि &lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;कार्यपालिका द्वारा खुला नामांकन, जिसके बाद &lt;b&gt;सीनेट न्यायपालिका समिति&lt;/b&gt; के समक्ष सार्वजनिक जाँच-पड़ताल और पुष्टि सुनवाई आयोजित की जाती है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;&lt;b&gt;कॉलेजियम प्रणाली को आधुनिक बनाने हेतु कौन-से संरचनात्मक सुधार किये जा सकते हैं?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;प्रत्याशित रिक्तियों की पूर्व-घोषणा:&lt;/b&gt; सभी योग्य उम्मीदवारों को आवेदन करने या अनुशंसा प्राप्त करने के लिये पर्याप्त समय उपलब्ध कराने हेतु संभावित रिक्तियों की व्यवस्थित रूप से पूर्व सूचना जारी करना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वस्तुनिष्ठ मूल्यांकन प्रणाली की स्थापना:&lt;/b&gt; विषय विशेषज्ञता, प्रकाशित निर्णयों, मामलों के निपटारे की दर, सत्यनिष्ठा और सामाजिक विविधता जैसे पहलुओं के मूल्यांकन के लिये मापनीय एवं स्पष्ट मानदंड निर्धारित करना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;संस्थागत अनुसंधान सचिवालय:&lt;/b&gt; कॉलेजियम बैठकों से पूर्व उम्मीदवारों की सत्यापन योग्य पृष्ठभूमि जाँच और आवश्यक आँकड़ों के संकलन के लिये एक स्थायी स्क्रीनिंग सचिवालय की स्थापना करना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;संशोधित तर्कसंगत निर्णयों का प्रकाशन:&lt;/b&gt; संवेदनशील खुफिया सूचनाओं और व्यक्तिगत विवरणों की गोपनीयता बनाए रखते हुए, नियुक्ति, पदोन्नति तथा अस्वीकृति के कारणों का संक्षिप्त एवं तार्किक विवरण सार्वजनिक करना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रक्रिया ज्ञापन (MoP) में संशोधन:&lt;/b&gt; एक स्पष्ट, पारदर्शी और नियम-आधारित प्रक्रिया ज्ञापन को अंतिम रूप देना, जो न्यायपालिका तथा केंद्रीय कार्यपालिका दोनों के लिये बाध्यकारी समय-सीमाएँ निर्धारित करे।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;निष्कर्ष&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;न्यायिक स्वतंत्रता और पारदर्शिता &lt;b&gt;एक-दूसरे की विरोधी नहीं, बल्कि परस्पर पूरक अवधारणाएँ हैं।&lt;/b&gt; न्यायिक स्वतंत्रता न्यायाधीशों को राजनीतिक एवं बाहरी दबावों से मुक्त रखती है, जबकि पारदर्शिता निष्पक्षता, जवाबदेही और जनता के विश्वास को सुदृढ़ करती है। इसलिये कॉलेजियम को संवेदनशील सूचनाओं का खुलासा करने की आवश्यकता नहीं है, किंतु नियुक्ति प्रक्रिया, चयन मानदंडों और निर्णयों के व्यापक आधारों में &lt;b&gt;अधिक पारदर्शिता एवं स्पष्टता&lt;/b&gt; सुनिश्चित करनी चाहिये। &lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;&lt;i&gt;दृष्टि मेन्स प्रश्न:&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;न्यायिक स्वतंत्रता संस्थागत अपारदर्शिता का औचित्य नहीं बन सकती। चर्चा कीजिये कि न्यायिक स्वतंत्रता से समझौता किये बिना कॉलेजियम प्रणाली को अधिक पारदर्शी कैसे बनाया जा सकता है। &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQs)&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;1. कॉलेजियम प्रणाली क्या है?&lt;/b&gt; यह सर्वोच्च न्यायालय और उच्च न्यायालयों के न्यायाधीशों की नियुक्ति एवं स्थानांतरण के लिये एक न्यायिक रूप से विकसित तंत्र है, जिसका विकास तीन न्यायाधीश मामलों के माध्यम से हुआ।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;2. अनुच्छेद 124(2) और 217(1) किससे संबंधित हैं?&lt;/b&gt; &lt;b&gt;अनुच्छेद 124(2)&lt;/b&gt; सर्वोच्च न्यायालय के न्यायाधीशों की नियुक्ति से संबंधित है, जबकि &lt;b&gt;अनुच्छेद 217(1)&lt;/b&gt; राष्ट्रपति द्वारा संवैधानिक रूप से निर्धारित परामर्श प्रक्रिया के बाद उच्च न्यायालय के न्यायाधीशों की नियुक्ति से संबंधित है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3. चौथे न्यायाधीश मामले (2015) का क्या महत्त्व था?&lt;/b&gt; सर्वोच्च न्यायालय ने &lt;b&gt;99वें संविधान संशोधन और राष्ट्रीय न्यायिक नियुक्ति आयोग (NJAC) अधिनियम, 2014&lt;/b&gt; को निरस्त कर दिया तथा यह माना कि न्यायिक स्वतंत्रता संविधान के मूल ढाँचे &lt;b&gt;(Basic Structure)&lt;/b&gt; का हिस्सा है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;4. कॉलेजियम प्रणाली से संबंधित प्रमुख पारदर्शिता संबंधी चिंताएँ क्या हैं?&lt;/b&gt; प्रमुख चिंताओं में कारणों का सीमित प्रकटीकरण, संहिताबद्ध चयन प्रक्रिया का अभाव, रिक्तियों की सार्वजनिक सूचना जारी न करना और भाई-भतीजावाद के आरोप शामिल हैं।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;5. कॉलेजियम प्रणाली में सुधार कैसे किये जा सकते हैं?&lt;/b&gt; सुधारों में &lt;b&gt;प्रत्याशित रिक्तियों की पूर्व-घोषणा, वस्तुनिष्ठ मूल्यांकन मानदंड, संस्थागत अनुसंधान सचिवालय, तर्कसंगत एवं संशोधित निर्णयों का प्रकाशन तथा स्पष्ट एवं समयबद्ध प्रक्रिया ज्ञापन (MoP)&lt;/b&gt; को शामिल किया जा सकता है।&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा विगत वर्ष के प्रश्न   (PYQ)  &lt;/b&gt;&lt;/h2&gt;
-&lt;h2&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;निम्नलिखित कथनों पर विचार कीजिये: (2019)&lt;/p&gt;
-&lt;p&gt;1. भारत के संविधान के 44वें संशोधन द्वारा लाए गए एक अनुच्छेद ने प्रधानमंत्री के चुनाव को न्यायिक पुनरावलोकन से परे कर दिया।&lt;/p&gt;
-&lt;p&gt;2. भारत के संविधान के 99वें संशोधन को भारत के सर्वोच्च न्यायालय ने विखंडित कर दिया क्योंकि यह न्यायपालिका की स्वतंत्रता का अतिक्रमण करता था।&lt;/p&gt;
-&lt;p&gt;उपर्युक्त कथनों में से कौन-सा/से सही है/हैं?&lt;/p&gt;
-&lt;p&gt;(a) केवल 1&lt;/p&gt;
-&lt;p&gt;(b) केवल 2  &lt;/p&gt;
-&lt;p&gt;(c) 1 और 2 दोनों&lt;/p&gt;
-&lt;p&gt;(d) न तो 1 और न ही 2&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर: (b)&lt;/b&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न:&lt;/b&gt; भारत के सर्वोच्च न्यायालय की स्वायत्तता की रक्षा हेतु क्या प्रावधान है? (2012)&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;सर्वोच्च न्यायालय के न्यायाधीशो की नियुक्ति करते समय भारत के राष्ट्रपति को भारत के मुख्य न्यायाधीश से विचार-विमर्श करना पड़ता है। &lt;/li&gt;
-&lt;li&gt;सर्वोच्च न्यायालय के न्यायाधीशों को केवल भारत के मुख्य न्यायाधीश द्वारा हटाया जा सकता है।&lt;/li&gt;
-&lt;li&gt;न्यायाधीशों का वेतन भारत की संचित निधि पर आरोंपिन होता है, जिस पर विधानमंडल को अपना मत नहीं देना होता है। &lt;/li&gt;
-&lt;li&gt;भारत के सर्वोच्च न्यायालय के अधिकारियों और कर्मचारियों की सभी नियुक्तियाँ सरकार द्वारा भारत के मुख्य न्यायाधीश से विचार-विमर्श के पश्चात ही की जाती हैं।&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;उपर्युक्त में से कौन-सा/से कथन सही है/हैं?&lt;/p&gt;
-&lt;p&gt;(a) केवल 1 और 3&lt;/p&gt;
-&lt;p&gt;(b) केवल 3 और 4&lt;/p&gt;
-&lt;p&gt;(c) केवल 4&lt;/p&gt;
-&lt;p&gt;(d) 1, 2, 3 और 4&lt;/p&gt;
-&lt;p&gt;उत्तर: (a)&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;&lt;em&gt;&lt;b&gt;मेन्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. &lt;/b&gt;भारत में उच्चतर न्यायपालिका में न्यायाधीशों की नियुक्ति के संदर्भ में 'राष्ट्रीय न्यायिक नियुक्ति आयोग अधिनियम, 2014' पर सर्वोच्च न्यायालय के निर्णय का समालोचनात्मक परीक्षण कीजिये। (2017)&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<title>भारत का नारियल क्षेत्र</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/indias-coconut-sector</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/indias-coconut-sector" rel="alternate"/>
-<published>2026-09-15T00:00:00+00:00</published>
-<updated>2026-09-15T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">भारत का नारियल क्षेत्र
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Agricultural-resources"&gt;कृषि संसाधन&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/E-technology-in-aid-of-Farmers"&gt;किसानों की सहायता में ई-टेक्नोलॉजी&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Food-Processing"&gt;खाद्य प्रसंस्करण&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=159590&amp;amp;ModuleId=3®=3&amp;amp;lang=1"&gt;&lt;b&gt;स्रोत: पीआईबी&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;नारियल जिसे प्रायः &lt;b&gt;“जीवन वृक्ष”&lt;/b&gt; कहा जाता है, भारत की कृषि अर्थव्यवस्था, ग्रामीण आजीविका और सांस्कृतिक विरासत में एक विशिष्ट स्थान रखता है। &lt;b&gt;नारियल संवर्द्धन योजना (बजट 2026–27)&lt;/b&gt; जैसी नीतिगत पहलों के माध्यम से यह क्षेत्र अधिक &lt;b&gt;सततता, मूल्य संवर्द्धन और किसानों की आय में वृद्धि&lt;/b&gt; की दिशा में आगे बढ़ रहा है। &lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;वैश्विक नारियल अर्थव्यवस्था में भारत का योगदान क्या है?&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;वैश्विक स्थिति:&lt;/b&gt; भारत &lt;b&gt;नारियल उत्पादन में प्रथम&lt;/b&gt; और &lt;b&gt;खेती क्षेत्रफल के मामले में तीसरे स्थान&lt;/b&gt; पर है। भारत वैश्विक नारियल उत्पादन में &lt;b&gt;31.24% का योगदान&lt;/b&gt; देता है तथा विश्व के कुल नारियल खेती क्षेत्र में इसकी हिस्सेदारी &lt;b&gt;17.90%&lt;/b&gt; है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;उत्पादन और उत्पादकता:&lt;/b&gt; भारत ने वर्ष &lt;b&gt;2024–25&lt;/b&gt; के दौरान &lt;b&gt;2.19 मिलियन हेक्टेयर&lt;/b&gt; क्षेत्र में लगभग &lt;b&gt;20,301.22 मिलियन नारियल फलों&lt;/b&gt; का उत्पादन किया। इस अवधि में भारत में नारियल की औसत उत्पादकता &lt;b&gt;9,249 फल प्रति हेक्टेयर&lt;/b&gt; रही।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;राज्यवार योगदान:&lt;/b&gt; &lt;b&gt;केरल&lt;/b&gt; में नारियल की खेती के अंतर्गत सबसे अधिक क्षेत्रफल है। &lt;b&gt;तमिलनाडु&lt;/b&gt; देश में नारियल उत्पादन में अग्रणी है, जबकि &lt;b&gt;आंध्र प्रदेश&lt;/b&gt; में सर्वाधिक उत्पादकता दर्ज की गई है, जिसके बाद &lt;b&gt;पश्चिम बंगाल और तमिलनाडु&lt;/b&gt; का स्थान है ।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260827112438-ed4a81f1.jpg"&gt;&lt;img src="http://drishtiias.com/hindi/images/uploads/upload-20260827112438-ed4a81f1.jpg"/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;कृषि निर्यात में बढ़ती भूमिका:&lt;/b&gt; नारियल क्षेत्र &lt;b&gt;भारत के कृषि निर्यात&lt;/b&gt; में एक महत्त्वपूर्ण योगदानकर्त्ता के रूप में उभरा है और देश के व्यापक निर्यात लक्ष्यों को समर्थन प्रदान करता है। 
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;नारियल उत्पादों का निर्यात:&lt;/b&gt; वर्ष &lt;b&gt;2025–26&lt;/b&gt; में नारियल उत्पादों का निर्यात &lt;b&gt;₹7,038.35 करोड़ (794.70 मिलियन अमेरिकी डॉलर)&lt;/b&gt; तक पहुँच गया, जो पिछले वर्ष के &lt;b&gt;₹4,349.03 करोड़&lt;/b&gt; की तुलना में &lt;b&gt;62% की वृद्धि&lt;/b&gt; दर्शाता है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;निर्यात संरचना में परिवर्तन:&lt;/b&gt; भारत का नारियल निर्यात पारंपरिक उत्पादों जैसे- नारियल तेल, खोपरा, सूखा नारियल (Desiccated Coconut) और नारियल छिलका कोयला (Coconut Shell Charcoal) तक सीमित नहीं रहा है। अब यह क्षेत्र वर्जिन नारियल तेल, नारियल दूध, नारियल पानी और सक्रिय कार्बन (Activated Carbon) जैसे उच्च मूल्य वर्द्धित उत्पादों में विविधीकरण की दिशा में आगे बढ़ रहा है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वैश्विक बाज़ारों का विस्तार:&lt;/b&gt; भारतीय नारियल उत्पादों का निर्यात पारंपरिक मध्य-पूर्वी बाज़ारों से आगे बढ़कर &lt;b&gt;यूरोप, अमेरिका और ऑस्ट्रेलिया जैसे विकसित बाज़ारों&lt;/b&gt; तक विस्तारित हुआ है। प्रमुख निर्यात गंतव्यों में &lt;b&gt;अमेरिका, संयुक्त अरब अमीरात, श्रीलंका, जर्मनी, रूस, तुर्की, बेल्जियम, ब्रिटेन और नीदरलैंड&lt;/b&gt; शामिल हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260827112602-65a07199.jpg"&gt;&lt;img src="http://drishtiias.com/hindi/images/uploads/upload-20260827112602-65a07199.jpg"/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;नारियल क्षेत्र के लिये सरकार के समर्थन के उपाय क्या हैं?&lt;/b&gt;&lt;/h2&gt;
-&lt;h3&gt;&lt;b&gt;नारियल विकास बोर्ड (CDB)&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/india-is-the-leading-country-in-coconut-production-and-productivity-in-the-world"&gt;&lt;b&gt;नारियल विकास बोर्ड (CDB)&lt;/b&gt;&lt;/a&gt; की स्थापना &lt;b&gt;12 जनवरी, 1981&lt;/b&gt; को की गई थी और यह &lt;b&gt;कृषि एवं किसान कल्याण मंत्रालय&lt;/b&gt; के अंतर्गत कार्य करता है। 
-&lt;ul&gt;
-&lt;li&gt;इसका मुख्यालय &lt;b&gt;कोच्चि&lt;/b&gt; में स्थित है और यह बोर्ड &lt;b&gt;22 राज्यों/केंद्रशासित प्रदेशों&lt;/b&gt; में नारियल क्षेत्र के विकास एवं रूपांतरण के लिये कार्य करता है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;समेकित विकास:&lt;/b&gt; नारियल विकास बोर्ड (CDB) उत्पादन, उत्पादकता वृद्धि, प्रसंस्करण और बाज़ार विकास को प्रोत्साहित करते हुए भारत में नारियल क्षेत्र के समग्र एवं समेकित विकास के लिये कार्य करता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;उत्पादन एवं सततता में वृद्धि:&lt;/b&gt; नारियल विकास बोर्ड (CDB) गुणवत्तापूर्ण रोपण सामग्री की उपलब्धता, खेती क्षेत्र के विस्तार, मौजूदा नारियल बागानों की उत्पादकता में सुधार तथा प्रमुख कीटों एवं रोगों के प्रभावी प्रबंधन के माध्यम से नारियल उत्पादन को बढ़ावा देने पर केंद्रित है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विविधीकरण:&lt;/b&gt; CDB उत्पाद विविधीकरण, नारियल उप-उत्पादों के बेहतर उपयोग तथा प्रौद्योगिकी अपनाने को बढ़ावा देता है, जिससे मूल्य संवर्द्धन, निर्यात क्षमता और नारियल किसानों के लिये आय के अवसरों को सुदृढ़ किया जा सके।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;खोपरा के लिये न्यूनतम समर्थन मूल्य (MSP) &lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;समावेशन:&lt;/b&gt; &lt;b&gt;खोपरा (Copra)&lt;/b&gt;, जो नारियल की सूखी गिरी (Kernel) होती है, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/minimum-support-prices-from-safety-net-to-self-sufficiency"&gt;&lt;b&gt;न्यूनतम समर्थन मूल्य&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (MSP) व्यवस्था के अंतर्गत शामिल 22 अनिवार्य कृषि फसलों&lt;/b&gt; में से एक है। नारियल उत्पादकों को लाभकारी मूल्य सुनिश्चित करने के लिये &lt;b&gt;केंद्रीय मंत्रिमंडल ने वर्ष 2026 सत्र हेतु खोपरा के बढ़े हुए MSP को भी मंज़ूरी दी है।&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भारत में उत्पादित खोपरा के प्रकार:&lt;/b&gt; भारत में मुख्य रूप से खोपरा के दो प्रकारों का उत्पादन किया जाता है:
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;मिलिंग खोपरा (Milling Copra):&lt;/b&gt; इसका प्रमुख उपयोग &lt;b&gt;तेल निष्कर्षण&lt;/b&gt; के लिये किया जाता है। इसे नारियल की गिरी को कठोर बाहरी आवरण से अलग कर सुखाने की प्रक्रिया के माध्यम से तैयार किया जाता है। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;बॉल खोपरा (खाद्य खोपरा) [Ball Copra (Edible Copra)]:&lt;/b&gt; इसका उपयोग सूखे मेवे के रूप में तथा धार्मिक उद्देश्यों के लिये किया जाता है। इसे पूर्ण परिपक्व नारियल गिरी को कठोर बाहरी आवरण सहित सुखाने की प्रक्रिया द्वारा तैयार किया जाता है, जब तक कि इसके अंदर की गिरी कठोर न हो जाए।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;खरीद:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/global-pulses-conference"&gt;&lt;b&gt;भारतीय राष्ट्रीय कृषि सहकारी विपणन संघ लिमिटेड (NAFED)&lt;/b&gt;&lt;/a&gt; और &lt;b&gt;राष्ट्रीय सहकारी उपभोक्ता महासंघ (NCCF)&lt;/b&gt; खोपरा खरीद के लिये &lt;b&gt;केंद्रीय नोडल एजेंसियों&lt;/b&gt; के रूप में कार्य करते हैं। खरीद कार्यों को सहयोग प्रदान करने के लिये राज्य स्तरीय एजेंसियों को भी इसमें शामिल किया जाता है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;नारियल क्षेत्र से संबंधित सरकारी योजनाएँ एवं पहलें क्या हैं?&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;सरकार, मुख्य रूप से नारियल विकास बोर्ड के माध्यम से, नारियल क्षेत्र को सुदृढ़ करने के लिये &lt;b&gt;विभिन्न योजनाओं का क्रियान्वयन करती है&lt;/b&gt;। ये योजनाएँ गुणवत्तापूर्ण रोपण सामग्री की उपलब्धता में सुधार, खेती के विस्तार, उत्पादकता में वृद्धि, प्रौद्योगिकी अपनाने को बढ़ावा देने तथा बाज़ार विकास को समर्थन प्रदान करने में सहायक हैं।&lt;/p&gt;
-&lt;h3&gt;&lt;b&gt;गुणवत्तापूर्ण रोपण सामग्री का उत्पादन&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;यह योजना &lt;b&gt;गुणवत्तापूर्ण रोपण सामग्री की उपलब्धता&lt;/b&gt; सुनिश्चित करके नारियल मूल्य शृंखला को आधारभूत स्तर पर सुदृढ़ करती है। इसका ध्यान &lt;b&gt;बीज उत्पादन फार्म, बीज उद्यान, नर्सरी तथा गुणवत्ता प्रमाणन प्रणालियों&lt;/b&gt; की स्थापना पर केंद्रित है, जिससे स्वस्थ नारियल पौधों की आपूर्ति में सुधार किया जा सके।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;प्रदर्शन सह बीज उत्पादन फार्म (DSPF)&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;DSPF की स्थापना:&lt;/b&gt; &lt;b&gt;नारियल विकास बोर्ड (CDB)&lt;/b&gt; विभिन्न राज्यों में &lt;b&gt;प्रदर्शन सह बीज उत्पादन फार्म (DSPF)&lt;/b&gt; की स्थापना करता है, ताकि &lt;b&gt;वैज्ञानिक नारियल खेती पद्धतियों&lt;/b&gt; का प्रदर्शन किया जा सके तथा व्यावसायिक रूप से व्यवहार्य &lt;b&gt;गुणवत्तापूर्ण नारियल रोपण सामग्री&lt;/b&gt; का उत्पादन किया जा सके।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;नवीन DSPF के लिये वित्तीय सहायता:&lt;/b&gt; नवनिर्मित DSPF के लिये फार्म की स्थापना एवं विकास को समर्थन प्रदान करने हेतु प्रथम &lt;b&gt;दो वर्षों&lt;/b&gt; के लिये बजट से &lt;b&gt;30 लाख रुपये&lt;/b&gt; की वित्तीय सहायता प्रदान की जाती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;मौजूदा DSPF के लिये अनुरक्षण सहायता:&lt;/b&gt; &lt;b&gt;तीसरे वर्ष से आगे&lt;/b&gt;, DSPF के अनुरक्षण के लिये उपज स्थिरीकरण तक, जो सामान्यतः &lt;b&gt;15-20 वर्षों&lt;/b&gt; में होता है, प्रतिवर्ष प्रति हेक्टेयर अधिकतम &lt;b&gt;1 लाख रुपये&lt;/b&gt; तक की वित्तीय सहायता प्रदान की जाती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;गुणवत्तापूर्ण रोपण सामग्री उत्पादन को समर्थन देने वाली अन्य पहलें&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;नाभिकीय नारियल बीज उद्यान की स्थापना:&lt;/b&gt; यह योजना उच्च गुणवत्ता वाले नारियल पौधों एवं उन्नत किस्मों के उत्पादन के लिये नारियल बीज उद्यानों की स्थापना को समर्थन प्रदान करती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;लघु नारियल नर्सरी की स्थापना:&lt;/b&gt; यह पहल सार्वजनिक एवं निजी नर्सरियों के माध्यम से गुणवत्तापूर्ण नारियल पौधों के उत्पादन को बढ़ावा देती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;नारियल नर्सरियों का प्रत्यायन एवं रेटिंग:&lt;/b&gt; यह योजना नर्सरी प्रत्यायन, गुणवत्ता मूल्यांकन एवं प्रमाणन तंत्रों के माध्यम से वास्तविक एवं उच्च गुणवत्ता वाली रोपण सामग्री की उपलब्धता सुनिश्चित करती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;सार्वजनिक क्षेत्र की नर्सरियों में गुणवत्तापूर्ण रोपण सामग्री उत्पादन हेतु सहायता:&lt;/b&gt; यह योजना पात्र सार्वजनिक क्षेत्र की नर्सरियों, जिनमें राज्य विभाग, राज्य कृषि विश्वविद्यालय (SAU), सार्वजनिक क्षेत्र के उपक्रम (PSUs), &lt;a href="https://www.drishtiias.com/hindi/state-pcs-current-affairs/icar-celebrated-golden-jubilee-of-krishi-vigyan-kendras"&gt;&lt;b&gt;कृषि विज्ञान केंद्र (KVK)&lt;/b&gt;&lt;/a&gt; तथा नारियल विकास बोर्ड के प्रदर्शन सह बीज उत्पादन फार्म (DSP Farms) शामिल हैं, को पौध उत्पादन को सुदृढ़ करने हेतु वित्तीय सहायता प्रदान करती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;नारियल खेती के अंतर्गत क्षेत्र विस्तार&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उद्देश्य:&lt;/b&gt; यह कार्यक्रम वैज्ञानिक खेती पद्धतियों के लिये &lt;b&gt;वित्तीय सहायता, प्रोत्साहन आधारित सब्सिडी एवं तकनीकी सहायता&lt;/b&gt; प्रदान करके उपयुक्त नए क्षेत्रों में नारियल खेती के विस्तार का उद्देश्य रखता है। यह समग्र उत्पादन बढ़ाने के लिये मौजूदा नारियल उत्पादक क्षेत्रों को स्थिर करने पर भी केंद्रित है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;नए बागानों के लिये वित्तीय सहायता:&lt;/b&gt; योजना के अंतर्गत नए क्षेत्रों में नारियल पौधों के रोपण के लिये &lt;b&gt;56,000 रुपये प्रति हेक्टेयर&lt;/b&gt; की वित्तीय सहायता प्रदान की जाती है। यह सहायता &lt;b&gt;दो समान वार्षिक किस्तों&lt;/b&gt; में जारी की जाती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;योजना के अंतर्गत पात्रता:&lt;/b&gt; किसानों की व्यापक भागीदारी को प्रोत्साहित करने के लिये प्रति लाभार्थी अधिकतम &lt;b&gt;2 हेक्टेयर&lt;/b&gt; तथा न्यूनतम &lt;b&gt;0.08 हेक्टेयर (20 सेंट)&lt;/b&gt; क्षेत्र के लिये सब्सिडी उपलब्ध है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वर्ष 2025-26 के दौरान नारियल क्षेत्र का विस्तार:&lt;/b&gt; वर्ष &lt;b&gt;2025-26&lt;/b&gt; के दौरान नारियल खेती के विस्तार पर विशेष बल दिया गया, जिसके अंतर्गत कई राज्यों में लगभग &lt;b&gt;2,175 हेक्टेयर नए क्षेत्र&lt;/b&gt; को नारियल खेती के अंतर्गत लाया गया।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विस्तार कार्यक्रम के अंतर्गत शामिल राज्य:&lt;/b&gt; इस विस्तार कार्यक्रम में प्रमुख नारियल उत्पादक एवं संभावित राज्य शामिल किये गए, जिनमें &lt;b&gt;केरल, तमिलनाडु, कर्नाटक, आंध्र प्रदेश, ओडिशा, पश्चिम बंगाल, गुजरात, असम एवं अरुणाचल प्रदेश&lt;/b&gt; शामिल हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260827112711-b6903e11.png"&gt;&lt;img src="http://drishtiias.com/hindi/images/uploads/upload-20260827112711-b6903e11.png"/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;b&gt;मौजूदा नारियल बागानों में सतत उत्पादकता सुधार हेतु व्यापक कार्यक्रम&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उद्देश्य:&lt;/b&gt; इस योजना का उद्देश्य &lt;b&gt;एकीकृत कृषि पद्धतियों&lt;/b&gt;, जिनमें &lt;b&gt;नारियल आधारित फसल प्रणाली&lt;/b&gt; शामिल है, को अपनाकर मौजूदा नारियल बागानों के &lt;b&gt;उत्पादन एवं उत्पादकता में सुधार&lt;/b&gt; करना है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;नारियल आधारित फसल प्रणाली के माध्यम से उत्पादकता सुधार (PICCS):&lt;/b&gt; &lt;b&gt;नारियल आधारित फसल प्रणाली के माध्यम से उत्पादकता सुधार (PICCS)&lt;/b&gt; इस कार्यक्रम का एक प्रमुख घटक है, जो नारियल बागानों में सतत उत्पादकता वृद्धि को प्रोत्साहित करता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;PICCS का क्रियान्वयन:&lt;/b&gt; यह कार्यक्रम &lt;b&gt;समूह (क्लस्टर) आधारित दृष्टिकोण&lt;/b&gt; के माध्यम से &lt;b&gt;राज्य सरकारों के कृषि/बागवानी विभागों&lt;/b&gt; तथा सीधे &lt;b&gt;नारियल विकास बोर्ड (CDB)&lt;/b&gt; द्वारा कार्यान्वित किया जाता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;PICCS के अंतर्गत वित्तीय सहायता:&lt;/b&gt; इस योजना के अंतर्गत लागत की &lt;b&gt;100% सब्सिडी&lt;/b&gt; अर्थात &lt;b&gt;42,000 रुपये प्रति हेक्टेयर&lt;/b&gt; तक की सहायता प्रदान की जाती है, जिसकी सीमा प्रति लाभार्थी &lt;b&gt;2 हेक्टेयर&lt;/b&gt; तक है। यह सहायता &lt;b&gt;दो समान वार्षिक किस्तों&lt;/b&gt; में जारी की जाती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;राज्य सरकारों के साथ अभिसरण सहायता:&lt;/b&gt; PICCS के अंतर्गत शामिल प्रमुख क्षेत्रों में &lt;b&gt;तमिलनाडु, आंध्र प्रदेश, केरल, असम, गोवा एवं पुडुचेरी &lt;/b&gt;शामिल हैं, जिनमें &lt;b&gt;वर्ष 2025-26 के दौरान केरल का योगदान उल्लेखनीय रहा।&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;कार्यक्रम के अंतर्गत अन्य घटक:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;जल संसाधन सृजन:&lt;/b&gt; यह योजना सिंचाई सुविधाओं में सुधार एवं नारियल बागानों में बेहतर जल उपलब्धता सुनिश्चित करने के लिये &lt;b&gt;सामुदायिक टैंकों, खेत तालाबों एवं जलाशयों&lt;/b&gt; के विकास को समर्थन प्रदान करती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जैविक खेती को बढ़ावा:&lt;/b&gt; यह कार्यक्रम जैविक उत्पादों के &lt;b&gt;उत्पादन, प्रमाणन, प्रसंस्करण एवं विपणन&lt;/b&gt; के लिये सहायता प्रदान करके किसानों को &lt;b&gt;जैविक कृषि पद्धतियों&lt;/b&gt; को अपनाने के लिये प्रोत्साहित करता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;कृषि यंत्रीकरण:&lt;/b&gt; यह योजना प्रशिक्षण, प्रदर्शन एवं उपकरणों की खरीद, कटाई उपरांत प्रबंधन तथा प्रसंस्करण गतिविधियों के लिये वित्तीय सहायता के माध्यम से &lt;b&gt;कृषि मशीनरी एवं आधुनिक प्रौद्योगिकियों&lt;/b&gt; को अपनाने को बढ़ावा देती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;नारियल उद्यानों का पुनःरोपण और पुनर्जीवन &lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उद्देश्य:&lt;/b&gt; इस योजना का उद्देश्य &lt;b&gt;गुणवत्तापूर्ण पौध सामग्री के माध्यम से रोगग्रस्त, अनुत्पादक, पुराने और जीर्ण नारियल पेड़ों को प्रतिस्थापित करके नारियल उत्पादन तथा उत्पादकता &lt;/b&gt;में वृद्धि करना है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;मौजूदा बागानों का पुनर्जीवन:&lt;/b&gt; यह योजना &lt;b&gt;उत्पादकता बहाल करने और नारियल उद्यानों के स्वास्थ्य में सुधार के लिये एकीकृत कृषि पद्धतियों &lt;/b&gt;के पैकेज के माध्यम से शेष नारियल पेड़ों के पुनर्जीवन पर केंद्रित है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;परियोजना-आधारित कार्यान्वयन:&lt;/b&gt; इस योजना को &lt;b&gt;परियोजना-दर-परियोजना आधार&lt;/b&gt; पर लागू किया जाता है, ताकि &lt;b&gt;राज्य-विशिष्ट चुनौतियों&lt;/b&gt; और बागान संबंधी समस्याओं का समाधान किया जा सके।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;योजना के अंतर्गत वित्तीय सहायता:&lt;/b&gt; पुनःरोपण और पुनर्जीवन गतिविधियों के लिये सहायता प्रदान करने हेतु दो वर्षों की अवधि में &lt;b&gt;प्रति हेक्टेयर ₹54,000&lt;/b&gt; तक की वित्तीय सहायता उपलब्ध कराई जाती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रमुख गतिविधियाँ:&lt;/b&gt; योजना के अंतर्गत प्रमुख गतिविधियों में शामिल हैं:
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;रोगग्रस्त और अनुत्पादक नारियल पेड़ों &lt;/b&gt;को हटाना।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;गुणवत्तापूर्ण नारियल पौधों&lt;/b&gt; का पुनःरोपण।&lt;/li&gt;
-&lt;li&gt;वैज्ञानिक पद्धतियों के माध्यम से मौजूदा &lt;b&gt;नारियल बागानों का पुनर्जीवन &lt;/b&gt;और सुधार।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;नारियल के पारिस्थितिकी तंत्र को सुदृढ़ करने वाली पूरक पहलें&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;नारियल पर प्रौद्योगिकी मिशन (TMOC):&lt;/b&gt; यह पहल कीट एवं रोग प्रबंधन, प्रसंस्करण, उत्पाद विविधीकरण तथा अन्य प्रौद्योगिकी आधारित हस्तक्षेपों के लिये &lt;b&gt;प्रौद्योगिकियों के विकास और अंगीकरण को समर्थन&lt;/b&gt; प्रदान करती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;केरा सुरक्षा बीमा योजना:&lt;/b&gt; यह योजना नारियल पेड़ पर चढ़ने वाले श्रमिकों, नीरा तकनीशियनों, संकरण कार्यकर्त्ताओं और नारियल क्षेत्र में कार्यरत अन्य श्रमिकों को दुर्घटना बीमा कवरेज प्रदान करती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;नारियल संवर्द्धन योजना&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;उद्देश्य:&lt;/b&gt; &lt;b&gt;नारियल संवर्द्धन योजना&lt;/b&gt; की घोषणा &lt;b&gt;केंद्रीय बजट 2026–27&lt;/b&gt; में की गई थी, जिसका उद्देश्य &lt;b&gt;कीट प्रकोप, जड़ गलन रोग और पुराने नारियल बागानों &lt;/b&gt;जैसी चुनौतियों का समाधान करते हुए क्षेत्र की स्थिरता में सुधार करना है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;उत्पादन और उत्पादकता में वृद्धि:&lt;/b&gt; यह योजना गुणवत्तापूर्ण &lt;b&gt;रोपण सामग्री के उत्पादन, उपयुक्त क्षेत्रों में नारियल खेती के विस्तार तथा पुराने एवं अनुत्पादक बागानों के पुनःरोपण/पुनर्जीवन&lt;/b&gt; पर केंद्रित है, जिससे उत्पादकता में वृद्धि हो सके।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;फसल स्वास्थ्य प्रबंधन:&lt;/b&gt; यह &lt;b&gt;कीटों और रोगों के नियंत्रण तथा नारियल बागानों &lt;/b&gt;की प्रतिरोधक क्षमता बढ़ाने के लिये एकीकृत फसल स्वास्थ्य प्रबंधन पद्धतियों को बढ़ावा देती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;मूल्य संवर्द्धन और वित्तीय सहायता:&lt;/b&gt; यह योजना मूल्य संवर्द्धन और निर्यात के लिये एकीकृत नारियल प्रसंस्करण इकाईयों को सहायता प्रदान करती है। यह उच्च-मूल्य कृषि के लिये ₹350 करोड़ के आवंटन के अंतर्गत नारियल, काजू और कोको को शामिल करती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;दीर्घकालिक दृष्टिकोण:&lt;/b&gt; इस पहल का उद्देश्य नारियल क्षेत्र की क्षमता को सुदृढ़ करना, किसानों की आजीविका में सुधार करना और वर्ष 2030 के दशक तक भारत को नारियल एवं कॉयर निर्यात में वैश्विक अग्रणी बनाना है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;कौशल विकास और उद्यम निर्माण पहलें&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;CDB द्वारा कौशल विकास कार्यक्रम:&lt;/b&gt; &lt;b&gt;नारियल विकास बोर्ड (CDB)&lt;/b&gt; नारियल कटाई, प्रसंस्करण तथा मूल्य संवर्द्धन जैसी गतिविधियों में &lt;b&gt;प्रशिक्षित, आत्मनिर्भर और उद्यम-उन्मुख कार्यबल&lt;/b&gt; तैयार करने के लिये प्रमुख कौशल विकास कार्यक्रमों का कार्यान्वयन करता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;नारियल आधारित सूक्ष्म उद्यमों को बढ़ावा:&lt;/b&gt; केरा कौशल केंद्र जैसी पहलों के माध्यम से CDB &lt;b&gt;नारियल आधारित सूक्ष्म उद्यमों, ग्रामीण उद्यमिता, सतत आजीविका और स्थानीय मूल्य संवर्द्धन&lt;/b&gt; को बढ़ावा देता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जागरूकता और क्षमता निर्माण:&lt;/b&gt; &lt;b&gt;वर्ष 2025–26&lt;/b&gt; के दौरान, नारियल विकास बोर्ड ने &lt;b&gt;414 जागरूकता प्रशिक्षण कार्यक्रम आयोजित&lt;/b&gt; किये, जिनमें &lt;b&gt;CDB योजनाएँ, वैज्ञानिक नारियल कृषि पद्धतियाँ&lt;/b&gt; और &lt;b&gt;नारियल मूल्य संवर्द्धन तकनीक&lt;/b&gt; शामिल थीं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260827112816-f3e2c425.jpg"&gt;&lt;img src="http://drishtiias.com/hindi/images/uploads/upload-20260827112816-f3e2c425.jpg"/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;निष्कर्ष&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;भारत का नारियल क्षेत्र &lt;b&gt;कृषि, संस्कृति, आजीविका सुरक्षा और निर्यात क्षमता&lt;/b&gt; के समन्वय का प्रतिनिधित्व करता है। पारंपरिक बागान फसल से आधुनिक मूल्य-संवर्द्धित उद्योग में इसका परिवर्तन एकीकृत नीतिगत समर्थन के महत्त्व को दर्शाता है। निरंतर नवाचार और संस्थागत समर्थन के साथ, नारियल &lt;b&gt;सतत कृषि, ग्रामीण समृद्धि और विकसित भारत@2047 के दृष्टिकोण &lt;/b&gt;में एक प्रमुख योगदानकर्त्ता बन सकता है।&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;दृष्टि मेन्स प्रश्न&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;प्रश्न. भारत का नारियल क्षेत्र पारंपरिक बागवानी गतिविधि से विकसित होकर विश्व स्तर पर प्रतिस्पर्द्धी मूल्य शृंखला बन गया है। चर्चा कीजिये।&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h3&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ)&lt;/b&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;1. नारियल को “ट्री ऑफ लाइफ” क्यों कहा जाता है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;नारियल को “ट्री ऑफ लाइफ” कहा जाता है क्योंकि नारियल के पेड़ के लगभग प्रत्येक भाग का उपयोग भोजन, रेशा, ईंधन, औषधि, निर्माण और औद्योगिक उद्देश्यों के लिये किया जाता है। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;2. भारत में नारियल की कृषि के अंतर्गत सर्वाधिक क्षेत्रफल किस राज्य में है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;केरल &lt;/b&gt;में भारत में नारियल की खेती के अंतर्गत सर्वाधिक क्षेत्रफल है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3. भारत में नारियल उत्पादन में कौन-सा राज्य अग्रणी है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;तमिलनाडु &lt;/b&gt;भारत में नारियल उत्पादन में अग्रणी है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;4. नारियल क्षेत्र के विकास के लिये कौन-सा संस्थान उत्तरदायी है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;नारियल विकास बोर्ड (CDB)&lt;/b&gt;, जिसकी स्थापना वर्ष 1981 में कृषि एवं किसान कल्याण मंत्रालय के अंतर्गत की गई थी, नारियल क्षेत्र के समेकित विकास के लिये उत्तरदायी है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;5. नारियल संवर्द्धन योजना क्या है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;नारियल संवर्द्धन योजना&lt;/b&gt;, जिसकी घोषणा केंद्रीय बजट 2026–27 में की गई थी, का उद्देश्य गुणवत्तापूर्ण पौध सामग्री, बागानों के पुनर्जीवन, फसल स्वास्थ्य प्रबंधन और प्रसंस्करण अवसंरचना के माध्यम से नारियल उत्पादकता में सुधार करना है।&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ)&lt;/b&gt;&lt;/h2&gt;
-&lt;h3&gt;&lt;b&gt;&lt;i&gt;प्रिलिम्स:&lt;/i&gt;&lt;/b&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. जलवायु-अनुकूल कृषि (क्लाइमेट-स्मार्ट एग्रीकल्चर) के लिये भारत की तैयारी के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये: (2021)&lt;/b&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;भारत में 'जलवायु-स्मार्ट ग्राम (क्लाइमेट-स्मार्ट विलेज)' दृष्टिकोण, अंतर्राष्ट्रीय अनुसंधान कार्यक्रम-जलवायु परिवर्तन, कृषि एवं खाद्य सुरक्षा (CCAFS) द्वारा संचालित परियोजना का एक भाग है।&lt;/li&gt;
-&lt;li&gt;CCAFS परियोजना, अंतर्राष्ट्रीय कृषि अनुसंधान हेतु परामर्शदात्री समूह (CGIAR) के अधीन संचालित किया जाता है, जिसका मुख्यालय फ्राँस में है। &lt;/li&gt;
-&lt;li&gt;भारत में स्थित अंतर्राष्ट्रीय अर्द्धशुष्क उष्णकटिबंधीय फसल अनुसंधान संस्थान  (ICRISAT), CGIAR के अनुसंधान केंद्रों में से एक है।&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;b&gt;उपर्युक्त कथनों में से कौन-से सही हैं?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;(a) केवल 1 और 2&lt;/p&gt;
-&lt;p&gt;(b) केवल 2 और 3&lt;/p&gt;
-&lt;p&gt;(c) केवल 1 और 3&lt;/p&gt;
-&lt;p&gt;(d) 1, 2 और 3&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर: (d)&lt;/b&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;&lt;b&gt;&lt;i&gt;मेन्स&lt;/i&gt;&lt;/b&gt;&lt;b&gt;:&lt;/b&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न.&lt;/b&gt; भारत में स्वतंत्रता के बाद कृषि में आई विभिन्न प्रकारों की क्रांतियों को स्पष्ट कीजिये। इन क्रांतियों ने भारत में गरीबी उन्मूलन और खाद्य सुरक्षा में किस प्रकार सहायता प्रदान की है? &lt;b&gt;(2017)&lt;/b&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
