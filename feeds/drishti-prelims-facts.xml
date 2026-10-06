@@ -2,15 +2,326 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Drishti IAS — प्रिलिम्स फैक्ट्स (Hindi)</title>
 <link href="https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials" rel="alternate"/>
-<updated>2026-10-06T06:38:38.017174+00:00</updated>
+<updated>2026-10-06T18:35:42.619723+00:00</updated>
 <id>urn:gs-magazine-rss:drishti-prelims-facts</id>
 <author><name>Drishti IAS</name></author>
+<entry>
+<title>भारत के पहले 5.56 किमी. के फ्री-स्पेस क्वांटम की डिस्ट्रिब्यूशन लिंक का प्रदर्शन</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-5-56-km-free-space-quantum-key-distribution-link-demonstrated</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-5-56-km-free-space-quantum-key-distribution-link-demonstrated" rel="alternate"/>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">भारत के पहले 5.56 किमी. के फ्री-स्पेस क्वांटम की डिस्ट्रिब्यूशन लिंक का प्रदर्शन
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Achievements-of-Indians-in-science-and-technology"&gt;विज्ञान और प्रौद्योगिकी में भारतीयों की उपलब्धियाँ&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Information-Technology-and-Computers"&gt;सूचना प्रौद्योगिकी और कंप्यूटर&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Indigenization-of-technology"&gt;प्रौद्योगिकी का स्वदेशीकरण&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2318656®=3&amp;amp;lang=1"&gt;&lt;b&gt;स्रोत: पीआईबी &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;चर्चा में क्यों?&lt;/b&gt; &lt;/h2&gt;
+&lt;p&gt;भारत ने अपने पहले &lt;b&gt;5.56 किमी. फ्री-स्पेस &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-demonstrates-500-km-quantum-key-distribution-network"&gt;&lt;b&gt;क्वांटम की डिस्ट्रिब्यूशन (QKD)&lt;/b&gt;&lt;/a&gt; लिंक का सफलतापूर्वक प्रदर्शन किया है। इस फील्ड परीक्षण के माध्यम से &lt;b&gt;BISAG-N&lt;/b&gt; (भास्कराचार्य राष्ट्रीय अंतरिक्ष अनुप्रयोग एवं भू-सूचना संस्थान) और &lt;b&gt;IIT गांधीनगर&lt;/b&gt; के बीच एक सुरक्षित क्वांटम संचार चैनल स्थापित किया गया। यह प्रदर्शन एक भारतीय डीप-टेक स्टार्टअप &lt;b&gt;QNu Labs&lt;/b&gt; के सहयोग से किया गया।&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;फ्री-स्पेस क्वांटम कुंजी वितरण (QKD) क्या है?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;क्वांटम की डिस्ट्रिब्यूशन (QKD):&lt;/b&gt; यह एक सुरक्षित संचार विधि है, जो दो दूरस्थ पक्षों के बीच क्रिप्टोग्राफिक कुंजियों के विनिमय के लिये &lt;b&gt;फोटॉनों के क्वांटम गुणों &lt;/b&gt;का उपयोग करती है।&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;यह &lt;b&gt;वास्तविक संदेश को क्वांटम अवस्थाओं के माध्यम से प्रसारित नहीं करता&lt;/b&gt;। इसके बजाय, QKD सुरक्षित रूप से एक &lt;b&gt;एन्क्रिप्शन कुंजी&lt;/b&gt; स्थापित करता है, जिसका उपयोग पारंपरिक प्रणालियों द्वारा &lt;b&gt;वास्तविक डेटा को एन्क्रिप्ट और डिक्रिप्ट करने &lt;/b&gt;के लिये किया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;फ्री-स्पेस QKD&lt;/b&gt; एक क्वांटम-सुरक्षित संचार प्रौद्योगिकी है, जो &lt;b&gt;खुले वातावरण में लेज़र किरणों&lt;/b&gt; के माध्यम से एन्क्रिप्शन कुंजियों का प्रसारण करती है, जिससे फिजिकल फाइबर-ऑप्टिक केबलों की आवश्यकता समाप्त हो जाती है।&lt;/li&gt;
+&lt;li&gt;QKD &lt;b&gt;हाइजेनबर्ग के अनिश्चितता सिद्धांत और नो-क्लोनिंग प्रमेय&lt;/b&gt; पर आधारित है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;हाइजेनबर्ग का अनिश्चितता सिद्धांत:&lt;/b&gt; क्वांटम मैकेनिक्स/यांत्रिकी के अनुसार, किसी क्वांटम सिस्टम का मापन स्वाभाविक रूप से उसमें परिवर्तन कर देता है। यदि कोई हमलावर फोटॉनों को अवरोधित करने का प्रयास करता है, तो क्वांटम अवस्था विघटित हो जाती है, जिससे संचार करने वाले पक्षों को तुरंत सुरक्षा उल्लंघन का पता चल जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;नो-क्लोनिंग प्रमेय:&lt;/b&gt; इसके अनुसार किसी अज्ञात क्वांटम अवस्था की &lt;b&gt;पूर्णतः समान प्रतिलिपि बनाना भौतिक रूप से असंभव&lt;/b&gt; है, जिससे हैकरों को प्रसारित कुंजियों की गुप्त रूप से प्रतिलिपि बनाने से रोका जा सकता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;हमलावर का पता लगाना:&lt;/b&gt; QKD वास्तविक संदेश का प्रसारण नहीं करता। इसके बजाय, यह डेटा को एन्क्रिप्ट करने के लिये एक सुरक्षित क्रिप्टोग्राफिक कुंजी का निर्माण और वितरण करता है।
+&lt;ul&gt;
+&lt;li&gt;क्वांटम अवस्थाओं को अवरोधित करने या मापने का कोई भी प्रयास उनमें परिवर्तन उत्पन्न करता है, जिससे ऐसी त्रुटियाँ उत्पन्न होती हैं जिनका पता लगाया जा सकता है। इस प्रकार, उपयोगकर्त्ता संभावित हमलावर की गतिविधि का पता लगाकर प्रभावित कुंजी को त्याग सकते हैं। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;वायुमंडलीय चुनौतियाँ: फाइबर-आधारित QKD के विपरीत, फ्री-स्पेस QKD में ट्रांसमीटर और रिसीवर के बीच सीधी दृष्टि रेखा (लाइन-ऑफ-साइट) आवश्यक होती है। इसमें सटीक संरेखण आवश्यक है, जबकि वायुमंडलीय अशांति और परिवेशीय प्रकाश प्रदूषण ऑप्टिकल सिग्नल को विकृत या कमज़ोर कर सकते हैं।&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;भारत की उल्लेखनीय उपलब्धि&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;हाल ही में किया गया 5.56 किमी. लंबी दूरी का परीक्षण पहले किये गए कम दूरी के परीक्षणों, जैसे वर्ष 2021 में किये गए 300 मीटर के परीक्षण, की तुलना में एक महत्त्वपूर्ण प्रगति को दर्शाता है। इसकी प्रमुख विशेषताएँ निम्नलिखित हैं:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;क्वांटम बिट एरर रेट (QBER):&lt;/b&gt; यह क्वांटम बिट्स (Qubits) में त्रुटियों के अनुपात को मापता है। कम QBER अधिक विश्वसनीय और सुरक्षित क्वांटम चैनल का संकेत देता है। 5.56 किमी. के परीक्षण में QBER 5% से कम रहा।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;उन्नत ट्रैकिंग:&lt;/b&gt; इस परीक्षण में &lt;b&gt;QNu Labs&lt;/b&gt; की सटीक &lt;b&gt;पॉइंटिंग, एक्विज़िशन और ट्रैकिंग (PAT) &lt;/b&gt;प्रणाली का सफलतापूर्वक उपयोग किया गया।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;दो-स्तरीय सुरक्षा संरचना:&lt;/b&gt; इस प्रदर्शन में QNu Labs के &lt;b&gt;हार्डवेयर (&lt;/b&gt;&lt;b&gt;&lt;i&gt;आर्मोस&lt;/i&gt;&lt;/b&gt;&lt;b&gt;) और BISAG-N के सॉफ्टवेयर (&lt;/b&gt;&lt;b&gt;&lt;i&gt;वैदिक कवच&lt;/i&gt;&lt;/b&gt;&lt;b&gt;)&lt;/b&gt; को एकीकृत किया गया।
+&lt;ul&gt;
+&lt;li&gt;इससे एक हाइब्रिड व्यवस्था तैयार हुई, जिसमें &lt;b&gt;QKD &lt;/b&gt;को &lt;b&gt;पोस्ट-क्वांटम क्रिप्टोग्राफी (PQC)&lt;/b&gt; (&lt;i&gt;क्वांटम कंप्यूटरों के विरुद्ध सुरक्षित बने रहने के लिये तैयार किये गए एन्क्रिप्शन एल्गोरिदम&lt;/i&gt;) के साथ जोड़ा गया।&lt;/li&gt;
+&lt;li&gt;यदि मौसम के कारण भौतिक वायुमंडलीय लिंक अस्थायी रूप से बाधित हो जाता है, तो गणितीय PQC सॉफ्टवेयर डेटा की सुरक्षा जारी रखता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भारत के लिये महत्त्व:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;उपग्रह-आधारित QKD का प्रीकर्सर: फ्री-स्पेस टेरेस्ट्रियल QKD उपग्रह-आधारित क्वांटम संचार की दिशा में एक महत्त्वपूर्ण कदम है, क्योंकि दोनों में लाइन-ऑफ-साइट ऑप्टिकल टर्मिनलों के बीच वायुमंडल के माध्यम से क्वांटम सिग्नल का प्रसारण किया जाता है।&lt;/li&gt;
+&lt;li&gt;राष्ट्रीय सुरक्षा: जैसे-जैसे क्वांटम कंप्यूटर इतने उन्नत होते जाएंगे कि वे पारंपरिक एन्क्रिप्शन एल्गोरिदम को विघटित कर सकें, यह प्रौद्योगिकी भविष्य के साइबर खतरों के विरुद्ध रक्षा, रणनीतिक अवसंरचना और वित्तीय नेटवर्क के लिये एक “क्वांटम-सेफ” सुरक्षा कवच प्रदान करती है।&lt;/li&gt;
+&lt;li&gt;राष्ट्रीय क्वांटम मिशन का लक्ष्य: भारत का &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-quantum-mission"&gt;राष्ट्रीय क्वांटम मिशन (NQM)&lt;/a&gt; 2,000 किमी. तक की दूरी पर स्थित ग्राउंड स्टेशनों के बीच उपग्रह-आधारित सुरक्षित क्वांटम संचार विकसित करने के साथ-साथ ऑप्टिकल फाइबर के माध्यम से 2,000 किमी. लंबा अंतर-शहरी QKD नेटवर्क विकसित करने का लक्ष्य रखता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;फ्री-स्पेस बनाम फाइबर-आधारित QKD &lt;/b&gt;&lt;/h2&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;विशेषता&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;फाइबर-आधारित QKD&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;फ्री-स्पेस QKD&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;प्रेषण माध्यम&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;फाइबर-ऑप्टिक केबल&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;खुली जगह, परिवेश या स्थान&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;दूरी&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;सिग्नल क्षति के कारण विश्वसनीय रिपीटर्स के बिना कुछ सौ किलोमीटर तक&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;विशेषकर उपग्रहों के माध्यम से हज़ारों किलोमीटर की दूरी तक कवरेज प्रदान कर सकता है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;पर्यावरण पर प्रभाव&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;अधिक स्थिर तथा मौसम संबंधी प्रभावों से सुरक्षित&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;कोहरे, वर्षा, वायुमंडलीय अशांति और दिन के प्रकाश से प्रभावित होता है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;संरेखण&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;स्थिर कनेक्शन; सक्रिय ट्रैकिंग की आवश्यकता नहीं होती।&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;सटीक दृष्टि-रेखा (Line-of-Sight—LoS) तथा सक्रिय पॉइंटिंग और ट्रैकिंग की आवश्यकता होती है।&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;नोट&lt;/b&gt;: इससे पहले, NQM के तहत स्टार्टअप QNu Labs ने मौजूदा ऑप्टिकल-फाइबर अवसंरचना का उपयोग करते हुए भारत के पहले &lt;b&gt;500 किमी. QKD नेटवर्क&lt;/b&gt; का प्रदर्शन किया था, जिससे &lt;b&gt;क्वांटम-सुरक्षित संचार और साइबर सुरक्षा&lt;/b&gt; को मज़बूती मिली।&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;वैश्विक स्तर पर, चीन ने वर्ष &lt;b&gt;2016 में विश्व का पहला क्वांटम-संचार उपग्रह ‘मिशियस’ (Micius)&lt;/b&gt; प्रक्षेपित किया। यह लगभग &lt;b&gt;500 किमी. की ऊँचाई पर निम्न-पृथ्वी कक्षा (Low-Earth Orbit)&lt;/b&gt; में संचालित होता है। बाद में, चीन ने वर्ष &lt;b&gt;2022 में ‘जिनान-1’ (Jinan-1)&lt;/b&gt; प्रक्षेपित किया, जिसने पोर्टेबल ग्राउंड स्टेशनों के साथ &lt;b&gt;रियल-टाइम QKD&lt;/b&gt; का प्रदर्शन किया।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;पढ़ने के लिये यहाँ क्लिक करें: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-demonstrates-500-km-quantum-key-distribution-network"&gt;&lt;b&gt;भारत ने 500 किमी. क्वांटम कुंजी वितरण नेटवर्क का प्रदर्शन किया&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQs)&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;1. क्वांटम कुंजी वितरण (QKD) क्या है?&lt;/b&gt;QKD &lt;b&gt;फोटॉनों के क्वांटम गुणों का उपयोग करके क्रिप्टोग्राफिक कुंजियों के आदान-प्रदान&lt;/b&gt; की एक सुरक्षित विधि है, जो अवरोधन के प्रयासों का पता लगाने में सक्षम बनाती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. फ्री-स्पेस QKD क्या है?&lt;/b&gt;फ्री-स्पेस QKD &lt;b&gt;भौतिक फाइबर-ऑप्टिक केबलों की आवश्यकता के बिना खुले वायुमंडल में लेज़र बीम के माध्यम से क्वांटम एन्क्रिप्शन कुंजियों का संचरण&lt;/b&gt; करता है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. भारत के 5.56 किमी. QKD परीक्षण का क्या महत्त्व था?&lt;/b&gt;इस परीक्षण ने &lt;b&gt;BISAG-N और IIT गांधीनगर के बीच 5.56 किमी. के सुरक्षित फ्री-स्पेस क्वांटम संचार लिंक&lt;/b&gt; का प्रदर्शन किया, जो भारत की भविष्य की &lt;b&gt;उपग्रह-आधारित QKD क्षमताओं&lt;/b&gt; के विकास में सहायक है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. पोस्ट-क्वांटम क्रिप्टोग्राफी (PQC) क्यों महत्त्वपूर्ण है?&lt;/b&gt;PQC &lt;b&gt;क्वांटम-प्रतिरोधी गणितीय एल्गोरिदम&lt;/b&gt; का उपयोग करती है, ताकि भविष्य में शक्तिशाली क्वांटम कंप्यूटरों द्वारा किये जाने वाले हमलों से पारंपरिक डेटा की सुरक्षा की जा सके।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. फ्री-स्पेस QKD की प्रमुख चुनौतियाँ क्या हैं?&lt;/b&gt;इसके कार्यान्वयन पर &lt;b&gt;वायुमंडलीय अशांति, कोहरा, वर्षा और दिन के प्रकाश&lt;/b&gt; का प्रभाव पड़ता है। साथ ही, इसके लिये अत्यधिक सटीक &lt;b&gt;दृष्टि-रेखा (Line-of-Sight)&lt;/b&gt; तथा &lt;b&gt;पॉइंटिंग, एक्विज़िशन और ट्रैकिंग (PAT)&lt;/b&gt; प्रणालियों की आवश्यकता होती है।&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ)&lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स &lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;प्रश्न. “क्यूबिट (Qubit)” शब्द का उल्लेख निम्नलिखित में से कौन-से एक प्रसंग में होता है? (2022)&lt;/p&gt;
+&lt;p&gt;(a) क्लाउड सेवाएँ&lt;/p&gt;
+&lt;p&gt;(b) क्वांटम संगणन &lt;/p&gt;
+&lt;p&gt;(c) दृश्य प्रकाश संचार प्रौद्योगिकियाँ &lt;/p&gt;
+&lt;p&gt;(d) बेतार संचार प्रौद्योगिकियाँ &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर: (b)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<title>फिजियोलॉजी या चिकित्सा में नोबेल पुरस्कार 2026: ऑप्टोजेनेटिक्स</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/2026-nobel-prize-in-physiology-or-medicine-optogenetics</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/2026-nobel-prize-in-physiology-or-medicine-optogenetics" rel="alternate"/>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">फिजियोलॉजी या चिकित्सा में नोबेल पुरस्कार 2026: ऑप्टोजेनेटिक्स
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Scientific-Innovations-&amp;amp;-Discoveries"&gt;वैज्ञानिक नवाचार और खोज&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.thehindu.com/sci-tech/health/nobel-prize-physiology-medicine-2026-winner/article71545941.ece/amp/"&gt;&lt;b&gt;स्रोत: द हिंदू&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;चर्चा में क्यों? &lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;फिजियोलॉजी &lt;/b&gt;&lt;b&gt;या&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/nobel-prize-in-physiology-or-medicine-2025"&gt;&lt;b&gt; चिकित्सा में वर्ष 2026&lt;/b&gt; &lt;b&gt;का नोबेल पुरस्कार&lt;/b&gt; &lt;/a&gt;संयुक्त रूप से तीन वैज्ञानिकों—&lt;b&gt;कार्ल डाइसेरोथ (यूएसए), पीटर हेगमैन (जर्मनी) तथा जॉर्ज नागेल (जर्मनी)&lt;/b&gt; को प्रदान किया गया।&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;उन्हें &lt;b&gt;"लाइट-गेटेड आयन चैनल और ऑप्टोजेनेटिक्स" से संबंधित&lt;/b&gt; उनकी क्रांतिकारी खोजों के लिये सम्मानित किया गया, जो एक ऐसी अभूतपूर्व प्रौद्योगिकी है जो वैज्ञानिकों को प्रकाश का उपयोग करके विशिष्ट मस्तिष्क कोशिकाओं को नियंत्रित करने की अनुमति देती है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;ऑप्टोजेनेटिक्स क्या है?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; ऑप्टोजेनेटिक्स (&lt;i&gt;ऑप्टो &lt;/i&gt;से तात्पर्य प्रकाश और जेनेटिक्स) एक जैविक तकनीक है जो जीवित ऊतकों में विशिष्ट तंत्रिका कोशिकाओं की विद्युत गतिविधि को नियंत्रित करने के लिये प्रकाश का उपयोग करती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;मूल अवधारणा:&lt;/b&gt; मानव मस्तिष्क में लगभग 90 अरब तंत्रिका कोशिकाएँ होती हैं, जो जटिल तंत्रिका परिपथों के माध्यम से एक-दूसरे से जुड़ी होती हैं।
+&lt;ul&gt;
+&lt;li&gt;मस्तिष्क का अध्ययन करने की पारंपरिक पद्धतियाँ (जैसे इलेक्ट्रोड या औषधियाँ) स्थूल रूप से कार्य करती हैं, जो बिना किसी भेद के मस्तिष्क के व्यापक क्षेत्रों को उत्तेजित करती हैं।&lt;/li&gt;
+&lt;li&gt;ऑप्टोजेनेटिक्स प्रकाश के फ्लैश का उपयोग करके वैज्ञानिकों को मिलीसेकंड की सटीकता के साथ व्यक्तिगत तंत्रिका परिपथों को ऑन या ऑफ करने की अनुमति देकर इस समस्या का समाधान करता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;ऐतिहासिक संदर्भ:&lt;/b&gt; 1970 के दशक में &lt;b&gt;नोबेल पुरस्कार विजेता फ्रांसिस क्रिक&lt;/b&gt; ने यह अनुमान व्यक्त किया था कि चूँकि तंत्रिका संकेत अत्यंत तीव्र गति से संचरित होते हैं, इसलिये उन्हें नियंत्रित करने के लिये  प्रकाश एक आदर्श और तात्कालिक साधन हो सकता है। &lt;b&gt;वैज्ञानिकों की इस तिकड़ी ने क्रिक के इस “काल्पनिक प्रतीत होने वाले” दृष्टिकोण को वास्तविकता में बदल दिया।&lt;/b&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;फिजियोलॉजी या चिकित्सा में वर्ष 2026 के नोबेल पुरस्कार से संबंधित प्रमुख तथ्य क्या हैं?&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;पीटर हेगमैन एवं जॉर्ज नागेल (सूक्ष्मजीव विज्ञानी):&lt;/b&gt; हेगमैन (हंबोल्ट यूनिवर्सिटी ऑफ बर्लिन, जर्मनी) तथा नागेल (यूनिवर्सिटी ऑफ वुर्ज़बर्ग, जर्मनी) ने &lt;b&gt;शैवाल में पाए जाने वाले&lt;/b&gt; एक प्रकाश-संवेदनशील प्रोटीन &lt;b&gt;'चैनलरोडोप्सिन' &lt;/b&gt;की खोज की।
+&lt;ul&gt;
+&lt;li&gt;उन्होंने यह पहचान की कि जब चैनलरोडोप्सिन को नीले प्रकाश के संपर्क में लाया जाता है, तो यह एक&lt;b&gt; भौतिक द्वार (एक आयन चैनल)&lt;/b&gt; के रूप में कार्य करता है जो खुल जाता है, जिससे धनात्मक आयनों का प्रवाह होता है तथा एक विद्युत आवेग उत्पन्न होता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;कार्ल डाइसेरोथ (तंत्रिका विज्ञानी):&lt;/b&gt; डाइसेरोथ (स्टैनफोर्ड यूनिवर्सिटी एवं NHMI अन्वेषक, यूएसए) ने &lt;b&gt;शैवालीय चैनलरोडोप्सिन जीन को स्तनधारी (चूहे) के न्यूरॉन्स&lt;/b&gt; में प्रविष्ट कराया।
+&lt;ul&gt;
+&lt;li&gt;जीवित चूहों के मस्तिष्क में नीला प्रकाश पहुँचाने के लिये सूक्ष्म &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/fibre-optic-cables"&gt;&lt;b&gt;ऑप्टिकल फाइबर&lt;/b&gt;&lt;/a&gt; का उपयोग किया गया। नीले प्रकाश द्वारा सक्रिय होने पर, चैनलरोडोप्सिन ने आयन चैनलों को खोल दिया और विद्युत आवेगों को प्रेरित किया, जिससे वैज्ञानिक विशिष्ट तंत्रिका परिपथों तथा व्यवहारों को सटीकता से नियंत्रित करने में सक्षम हुए। &lt;/li&gt;
+&lt;li&gt;मुख्य सफलता यह थी कि यह प्रोटीन स्वयं प्रकाश संवेदन और &lt;b&gt;आयन-चैनल गतिविधि&lt;/b&gt; को संयोजित करता है, जो &lt;b&gt;विद्युत रूप से सक्रिय कोशिकाओं के लिये प्रभावी रूप से एक आणविक प्रकाश स्विच के रूप में कार्य करता है।&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20261006121802-992b9894.png"&gt;&lt;b&gt;&lt;img alt="Nobel_Prize_Medicine" src="http://drishtiias.com/hindi/images/uploads/upload-20261006121802-992b9894.png"/&gt;&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;महत्त्व&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;अभूतपूर्व मस्तिष्क मानचित्रण:&lt;/b&gt; विशिष्ट न्यूरॉन्स को चयनात्मक रूप से ऑन या ऑफ करके, ऑप्टोजेनेटिक्स वैज्ञानिकों को &lt;b&gt;स्मृति, भावनाओं और गतिशीलता के लिये उत्तरदायी तंत्रिका परिपथों का मानचित्रण करने की अनुमति देता है।&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;यह तंत्रिका गतिविधि और व्यवहार के बीच कार्य-कारण संबंधों को स्थापित करने में मदद कर सकता है। यह मस्तिष्क मानचित्रण की पुरानी पद्धतियों की सीमाओं को दूर करता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;तंत्रिका संबंधी विकारों की समझ:&lt;/b&gt; ऑप्टोजेनेटिक्स वर्तमान विद्युत कॉक्लियर इम्प्लांट की तुलना में श्रवण तंत्रिका के अधिक सटीक उद्दीपन की अनुमति दे सकता है।
+&lt;ul&gt;
+&lt;li&gt;क्षतिग्रस्त तंत्रिका परिपथों को पृथक करके, शोधकर्त्ता  &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/parkinson-s-disease"&gt;&lt;b&gt;पार्किंसंस रोग&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/alzheimer-s-disease-1"&gt;&lt;b&gt;अल्ज़ाइमर,&lt;/b&gt;&lt;/a&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/indians-affected-by-mental-disorders"&gt;&lt;b&gt;सिज़ोफ्रेनिया&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, अवसाद और मिर्गी जैसे मनोचिकित्सकीय एवं तंत्रिका संबंधी विकारों &lt;/b&gt;के विषय में गहरी समझ प्राप्त कर सकते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;उन्नत न्यूरल इंटरफेस:&lt;/b&gt; शोधकर्त्ताओं को यह भी उम्मीद है कि ऑप्टोजेनेटिक्स श्रवण तंत्रिका के अधिक सटीक उद्दीपन को सक्षम बनाकर कॉक्लियर इम्प्लांट जैसी प्रौद्योगिकियों में सुधार कर सकता है। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;मस्तिष्क से परे:&lt;/b&gt; इस तकनीक का उपयोग अब यह अध्ययन करने के लिये किया जा रहा है कि तंत्रिका तंत्र शरीर के अन्य अंगों, जिनमें हृदय और आँत (एंटेरिक नर्वस सिस्टम) शामिल हैं, के साथ किस प्रकार अंतःक्रिया करता है।
+&lt;ul&gt;
+&lt;li&gt;ऑप्टोजेनेटिक्स रेटिनाइटिस पिगमेंटोसा जैसे रेटिना विकारों से पीड़ित रोगियों में दृष्टि की पुनर्वापसी में मदद कर सकता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;चुनौतियाँ और मानवीय अनुप्रयोग&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;जीन थेरेपी की आवश्यकता:&lt;/b&gt; इसमें प्रकाश-संवेदी प्रोटीन की अभिव्यक्ति के लिये मस्तिष्क की कोशिकाओं में &lt;b&gt;आनुवंशिक संशोधन&lt;/b&gt; करना पड़ता है, जिससे चिकित्सकीय जोखिम उत्पन्न हो सकते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रकाश का प्रवेश:&lt;/b&gt; मानव &lt;b&gt;खोपड़ी और सिर की त्वचा दृश्य प्रकाश को अवरुद्ध करती है&lt;/b&gt;।  वर्तमान में मस्तिष्क के गहरे हिस्सों तक प्रकाश पहुँचाने के लिये &lt;b&gt;फाइबर-ऑप्टिक केबल को शल्यक्रिया द्वारा प्रत्यारोपित&lt;/b&gt; करना पड़ता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20261006121622-f3d1c46b.png"&gt;&lt;img alt="Nobel_Prize" src="http://drishtiias.com/hindi/images/uploads/upload-20261006121622-f3d1c46b.png"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQs)&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;1. ऑप्टोजेनेटिक्स क्या है?&lt;/b&gt; &lt;b&gt;ऑप्टोजेनेटिक्स&lt;/b&gt; एक जैव-प्रौद्योगिकी तकनीक है, जिसमें &lt;b&gt;प्रकाश-संवेदी प्रोटीन और आनुवंशिक संशोधन&lt;/b&gt; का उपयोग करके विशिष्ट न्यूरॉन्स की विद्युत गतिविधि को अत्यधिक सटीक समय-नियंत्रण के साथ नियंत्रित किया जाता है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. चैनलरोडोप्सिन क्या है?&lt;/b&gt; &lt;b&gt;चैनलरोडोप्सिन&lt;/b&gt; एक &lt;b&gt;प्रकाश-संवेदी आयन चैनल&lt;/b&gt; है, जिसकी पहचान मूल रूप से शैवाल में की गई थी। नीली रोशनी के संपर्क में आने पर यह खुल जाता है और आयनों को प्रवाहित होने देता है, जिससे न्यूरॉन्स की गतिविधि शुरू हो जाती है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. ऑप्टोजेनेटिक्स में कार्ल डीसेरोथ का क्या योगदान था?&lt;/b&gt; &lt;b&gt;कार्ल डीसेरोथ&lt;/b&gt; ने यह प्रदर्शित करने में महत्त्वपूर्ण भूमिका निभाई कि &lt;b&gt;स्तनधारियों के न्यूरॉन्स में चैनलरोडोप्सिन को आनुवंशिक रूप से प्रविष्ट&lt;/b&gt; कराने से उन्हें प्रकाश-संवेदी बनाया जा सकता है। इससे ऑप्टिकल फाइबर के माध्यम से तंत्रिका परिपथों को सटीक रूप से नियंत्रित करना संभव हुआ।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. ऑप्टोजेनेटिक्स के प्रमुख अनुप्रयोग क्या हैं?&lt;/b&gt; यह &lt;b&gt;मस्तिष्क मानचित्रण और तंत्रिका परिपथों के अनुसंधान&lt;/b&gt; में सहायक है तथा &lt;b&gt;पार्किंसंस रोग, अल्ज़ाइमर रोग, मिर्गी, अवसाद और सिज़ोफ्रेनिया&lt;/b&gt; सहित विभिन्न विकारों के अध्ययन में उपयोगी है।&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. मनुष्यों में ऑप्टोजेनेटिक्स के अनुप्रयोग की प्रमुख चुनौतियाँ क्या हैं?&lt;/b&gt; प्रमुख चुनौतियों में &lt;b&gt;न्यूरॉन्स का आनुवंशिक संशोधन, सुरक्षा संबंधी जोखिम, खोपड़ी के माध्यम से प्रकाश का सीमित प्रवेश तथा गहरे मस्तिष्क में अनुप्रयोगों के लिये इनवेसिव फाइबर-ऑप्टिक इम्प्लांट की आवश्यकता&lt;/b&gt; शामिल हैं।&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt; UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQs)&lt;/b&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स&lt;/b&gt;&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;प्रश्न. नोबेल पुरस्कार विजेता वैज्ञानिक जेम्स डी. वाटसन किस क्षेत्र में अपने काम के लिये जाने जाते हैं? (2008)&lt;/p&gt;
+&lt;p&gt;(a) धातु विज्ञान&lt;/p&gt;
+&lt;p&gt;(b) मौसम विज्ञान&lt;/p&gt;
+&lt;p&gt;(c) पर्यावरण संरक्षण&lt;/p&gt;
+&lt;p&gt;(d) आनुवंशिकी&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;उत्तर: (d)&lt;/b&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<title>आंध्र प्रदेश में भारत का पहला 3D-प्रिंटेड ग्रामीण आवास पायलट प्रोजेक्ट</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-3d-printed-rural-housing-pilot-launched-in-andhra-pradesh</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-3d-printed-rural-housing-pilot-launched-in-andhra-pradesh" rel="alternate"/>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">आंध्र प्रदेश में भारत का पहला 3D-प्रिंटेड ग्रामीण आवास पायलट प्रोजेक्ट
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Achievements-of-Indians-in-science-and-technology"&gt;विज्ञान और प्रौद्योगिकी में भारतीयों की उपलब्धियाँ&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/infrastructure"&gt;आधारिक संरचना&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.thehindu.com/news/cities/Visakhapatnam/3d-concrete-printing-houses-breaking-ground-in-andhra-pradesh-explained/article71539887.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;भारत की &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pradhan-mantri-awaas-yojana-gramin-2"&gt;&lt;b&gt;प्रधानमंत्री आवास योजना-ग्रामीण (PMAY-G)&lt;/b&gt;&lt;/a&gt; के अंतर्गत &lt;b&gt;3D कंक्रीट प्रिंटिंग (3DCP) का उपयोग करके ग्रामीण आवासों के निर्माण के लिये भारत का पहला राष्ट्रीय स्तर का पायलट &lt;/b&gt;प्रोजेक्ट आंध्र प्रदेश में शुरू किया गया है।&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;उद्देश्य:&lt;/b&gt; इसका उद्देश्य लगभग &lt;b&gt;₹14 करोड़ की लागत से 177 आवासों का निर्माण&lt;/b&gt; करना है, जिन्हें छह माह के भीतर पूरा करने का लक्ष्य रखा गया है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;3D कंक्रीट प्रिंटिंग:&lt;/b&gt; यह निर्माण-स्तरीय एडिटिव मैन्युफैक्चरिंग का एक रूप है, जिसमें कंप्यूटर-नियंत्रित रोबोटिक प्रिंटर &lt;b&gt;डिजिटल बिल्डिंग इंफॉर्मेशन मॉडलिंग (BIM) डिज़ाइनों&lt;/b&gt; को विशेष रूप से तैयार किये गए कंक्रीट को क्रमिक परतों में जमा करके भौतिक संरचनाओं में परिवर्तित करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;सामग्री संबंधी आवश्यकताएँ और स्वचालन:&lt;/b&gt; यह तकनीक पदार्थ विज्ञान और स्वचालन पर निर्भर करती है तथा इसके लिये ऐसे कंक्रीट मिश्रण की आवश्यकता होती है जिसमें उपयुक्त &lt;b&gt;एक्सट्रूडिबिलिटी, बिल्डेबिलिटी और रैपिड-सेटिंग&lt;/b&gt; जैसे गुण हों, ताकि क्रमिक परतें अपना आकार बनाए रख सकें।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;महत्त्व:&lt;/b&gt; यह &lt;b&gt;तकनीक निर्माण समय, सामग्री की बर्बादी, श्रम की आवश्यकता और पारंपरिक फॉर्मवर्क&lt;/b&gt; पर निर्भरता को कम कर सकती है, जिससे किफायती आवासों का तीव्र, लागत-प्रभावी और मानकीकृत निर्माण संभव हो सकता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;व्यापक अनुप्रयोग:&lt;/b&gt; ग्रामीण आवासों के अतिरिक्त &lt;b&gt;3DCP आपदा-राहत आश्रयों, दूर-दराज़ के क्षेत्रों में आवास, रक्षा सुदृढ़ीकरण संरचनाओं&lt;/b&gt; और तेज़ी से तैनात की जा सकने वाली सार्वजनिक अवसंरचना के निर्माण में सहायक हो सकती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;चुनौतियाँ:&lt;/b&gt; 3DCP में अभी भी बुनियादी, संरचनात्मक सुदृढ़ीकरण, छत, विद्युत प्रणालियों और प्लंबिंग जैसे घटकों के लिये पारंपरिक या हाइब्रिड निर्माण विधियों पर निर्भरता बनी हुई है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भारत का पहला 3D-मुद्रित आवास:&lt;/b&gt; भारत में निर्माण क्षेत्र में 3D प्रिंटिंग के उपयोग का वर्ष 2021 से तेज़ी से विस्तार हुआ, जब &lt;b&gt;IIT मद्रास और स्टार्टअप Tvasta ने IIT मद्रास परिसर में देश के पहले एक-मंज़िला 3D-मुद्रित आवास&lt;/b&gt; का अनावरण किया। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;वैश्विक विकास:&lt;/b&gt; निर्माण-स्तरीय 3D प्रिंटिंग प्रायोगिक अनुप्रयोगों से आगे बढ़कर &lt;b&gt;अमेरिका, चीन, यूरोप और पश्चिम एशिया&lt;/b&gt; जैसे क्षेत्रों में व्यावसायिक उपयोग तक पहुँच गई है, जिसमें दुबई बड़े पैमाने पर विनिर्माण 3D प्रिंटिंग के एक प्रमुख केंद्र के रूप में उभर रहा है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;और पढ़ें :&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/formulation-of-policy-for-3d-printing"&gt;&lt;b&gt;3D प्रिंटिंग तकनीक के विकास हेतु नीति&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+</entry>
+<entry>
+<title>सूर्य: भारतीय नौसेना का पहला स्वदेशी रूप से निर्मित बेड़ा सहायता पोत</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/surya-indian-navy-s-1st-indigenously-built-fleet-support-ship</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/surya-indian-navy-s-1st-indigenously-built-fleet-support-ship" rel="alternate"/>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">सूर्य: भारतीय नौसेना का पहला स्वदेशी रूप से निर्मित बेड़ा सहायता पोत
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Defense-technology"&gt;रक्षा प्रौद्योगिकी&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319156®=48&amp;amp;lang=1"&gt;&lt;b&gt;स्रोत: पीआईबी &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;रक्षा मंत्री ने &lt;b&gt;सूर्य (FSS-1), भारतीय नौसेना के पहले स्वदेशी रूप से निर्मित बेड़ा सहायता पोत&lt;/b&gt; का &lt;b&gt;हिंदुस्तान शिपयार्ड लिमिटेड (HSL), विशाखापत्तनम&lt;/b&gt; में जलावतरण किया। उन्होंने &lt;b&gt;FSS-5 की कील भी स्थापित की&lt;/b&gt; और उन्नत &lt;b&gt;जहाज़ निर्माण सुविधाओं&lt;/b&gt; का उद्घाटन किया।&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;बेड़ा सहायता पोत (FSS) के संबंध में:&lt;/b&gt; FSS बड़े &lt;b&gt;सहायक नौसैनिक पोत&lt;/b&gt; होते हैं, जिन्हें समुद्र में &lt;b&gt;युद्धपोतों और पनडुब्बियों को ईंधन, स्नेहक, गोला-बारूद, भोजन, रसद सामग्री तथा कर्मियों की पुनःपूर्ति&lt;/b&gt; प्रदान करने के लिये डिज़ाइन किया जाता है। इससे नौसैनिक बेड़े को बार-बार बंदरगाह लौटे बिना लंबे समय तक समुद्र में तैनात रहने में सक्षम बनाया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;FSS कार्यक्रम:&lt;/b&gt; HSL एक ही अनुबंध के तहत &lt;b&gt;भारतीय नौसेना के लिये पाँच बेड़ा सहायता पोत&lt;/b&gt; का निर्माण कर रहा है। इन पोतों का &lt;b&gt;विस्थापन लगभग 43,500 टन&lt;/b&gt; और &lt;b&gt;स्वदेशी सामग्री लगभग 82%&lt;/b&gt; है, जिससे &lt;b&gt;आत्मनिर्भर भारत&lt;/b&gt; के तहत घरेलू रक्षा जहाज़ निर्माण को सुदृढ़ता मिलती है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Surya की विशेषताएँ:&lt;/b&gt; यह पोत लगभग &lt;b&gt;223.6 मीटर लंबा और 31.5 मीटर चौड़ा&lt;/b&gt; है, लगभग &lt;b&gt;20 नॉट&lt;/b&gt; की गति प्राप्त कर सकता है तथा लगभग &lt;b&gt;60 दिनों&lt;/b&gt; तक चलने वाले अभियानों के लिये डिज़ाइन किया गया है। यह &lt;b&gt;20,000 टन डीज़ल, 2,500 टन विमानन टर्बाइन ईंधन और 1,000 टन ताज़े जल&lt;/b&gt; के साथ-साथ &lt;b&gt;गोला-बारूद एवं अन्य आवश्यक सामग्रियों&lt;/b&gt; का परिवहन कर सकता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;परिचालन क्षमताएँ:&lt;/b&gt; Surya समुद्र में &lt;b&gt;कई नौसैनिक पोतों को पुनःपूर्ति&lt;/b&gt; प्रदान कर सकता है, जिसमें &lt;b&gt;साथ-साथ (Alongside), पोत के पिछले हिस्से (Stern) तथा हेलीकॉप्टर-आधारित स्थानांतरण&lt;/b&gt; शामिल हैं। इसमें &lt;b&gt;ऑनबोर्ड रखरखाव सुविधाएँ, हेलीकॉप्टर डेक और मिसाइलों, टॉरपीडो तथा बारूदी सुरंगों के विरुद्ध आत्मरक्षा प्रणालियाँ&lt;/b&gt; हैं, जिससे यह &lt;b&gt;हिंद महासागर क्षेत्र&lt;/b&gt; तथा उससे आगे के क्षेत्रों में संचालन करने में सक्षम है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;रणनीतिक महत्त्व:&lt;/b&gt; FSS बेड़ा भारतीय नौसेना की &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/india-s-blue-economy-potential"&gt;&lt;b&gt;ब्लू-वॉटर क्षमता&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, परिचालन सहनशक्ति और समुद्री पहुँच&lt;/b&gt; को उल्लेखनीय रूप से बढ़ाएगा, विशेष रूप से भारतीय तटों से दूर संचालित होने वाले विमानवाहक युद्धक समूहों एवं सतही कार्रवाई समूहों के लिये।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;जहाज़ निर्माण अवसंरचना:&lt;/b&gt; HSL का उन्नत &lt;b&gt;235 मीटर लंबा स्लिपवे नंबर 4&lt;/b&gt; और &lt;b&gt;300 टन क्षमता वाली गोलियाथ क्रेन&lt;/b&gt; &lt;b&gt;45,000 DWT&lt;/b&gt; तक के बड़े पोतों के निर्माण एवं जलावतरण को संभव बनाएंगे। इससे भारत की &lt;b&gt;बड़े और अधिक जटिल नौसैनिक प्लेटफॉर्म के निर्माण की क्षमता&lt;/b&gt; और मज़बूत होगी।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;और पढ़ें :&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/india-s-renewed-focus-on-indian-ocean-region"&gt;&lt;b&gt;हिंद महासागर क्षेत्र पर भारत का फोकस&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+</entry>
+<entry>
+<title>भारत का पहला वॉश (WASH)-केंद्रित सोशल बॉण्ड</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-wash-focused-social-bond</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-wash-focused-social-bond" rel="alternate"/>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">भारत का पहला वॉश (WASH)-केंद्रित सोशल बॉण्ड
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Banking-sector-and-NBFCs"&gt;बैंकिंग क्षेत्र और एनबीएफसी&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Growth-and-development"&gt;वृद्धि एवं विकास&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Government-Policies-&amp;amp;-Interventions"&gt;सरकारी नीतियाँ और हस्तक्षेप&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2318568®=48&amp;amp;lang=1"&gt;&lt;b&gt;स्रोत: पीआईबी&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;नाबकिसान फाइनेंस लिमिटेड ने &lt;b&gt;नेशनल स्टॉक एक्सचेंज (NSE)&lt;/b&gt; पर विशेष रूप से &lt;a href="https://www.drishtiias.com/hindi/summary-of-important-reports/who-wash-strategy"&gt;&lt;b&gt;जल, स्वच्छता एवं हाइजीन (WASH)&lt;/b&gt;&lt;/a&gt;  क्षेत्र को समर्पित भारत का &lt;b&gt;पहला सोशल बॉण्ड&lt;/b&gt; सूचीबद्ध किया है।&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;वॉश बॉण्ड के संबंध में:&lt;/b&gt; NABKISAN बॉण्ड&lt;b&gt; 8.10% कूपन दर वाला एक 5-वर्षीय बॉण्ड &lt;/b&gt;है जो &lt;b&gt;सितंबर 2031 में परिपक्व होगा।&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;क्रेडिट रेटिंग:&lt;/b&gt; इस निर्गम को रेटिंग एजेंसियों द्वारा यथा मूल्यांकित उच्च स्तर की साख क्षमता को दर्शाते हुए &lt;b&gt;क्रिसिल AAA (स्थिर) और केयर AAA (स्थिर) &lt;/b&gt;की सर्वोच्च घरेलू क्रेडिट रेटिंग प्राप्त हुई।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्राप्तियों का उपयोग:&lt;/b&gt; जुटाए गए ₹180 करोड़ का उपयोग &lt;b&gt;स्वास्थ्य, आजीविका और जीवन की गुणवत्ता में सुधार के उद्देश्य से ग्रामीण एवं वंचित समुदायों में सुरक्षित पेयजल, स्वच्छता तथा हाइजीन समाधानों &lt;/b&gt;तक पहुँच का विस्तार करने के लिये किया जाएगा।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;सोशल बॉण्ड के बारे में:&lt;/b&gt; सोशल बॉण्ड ऐसे&lt;b&gt; ऋण साधन (डेट इंस्ट्रूमेंट्स) हैं जिनकी प्राप्तियाँ परिभाषित सामाजिक उद्देश्यों&lt;/b&gt;, जैसे कि किफायती आवास, स्वास्थ्य देखभाल, शिक्षा, आजीविका या इस मामले में जल, स्वच्छता एवं हाइजीन वाली परियोजनाओं के लिये निर्धारित होती हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;संस्थागत ढाँचा:&lt;/b&gt; &lt;b&gt;नाबकिसान फाइनेंस लिमिटेड&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/important-institution/national-organization/national-bank-for-agriculture-and-rural-development"&gt;&lt;b&gt;राष्ट्रीय कृषि और ग्रामीण विकास बैंक (नाबार्ड)&lt;/b&gt;&lt;/a&gt; की एक सहायक कंपनी है, जबकि &lt;b&gt;वॉटर.ऑर्ग (Water.org)&lt;/b&gt; ने &lt;b&gt;तकनीकी विशेषज्ञता एवं ज्ञान साझेदार&lt;/b&gt; के रूप में इस सौदे में सहयोग प्रदान किया। &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;महत्त्व:&lt;/b&gt; वॉश बॉण्ड यह दर्शाता है कि &lt;b&gt;पूंजी बाज़ार के साधन किस प्रकार विकास प्राथमिकताओं के लिये निजी निवेश को जुटा सकते हैं, &lt;/b&gt;सतत वित्त को सुदृढ़ कर सकते हैं और &lt;b&gt;समावेशी एवं सतत ग्रामीण विकास &lt;/b&gt;का समर्थन कर सकते हैं।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;और पढ़ें: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/sustainability-bonds"&gt;&lt;b&gt;सस्टेनेबिलिटी बॉण्ड&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+</entry>
 <entry>
 <title>पाकिस्तान में आयोजित SCO बैठक में भारत की भागीदारी</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-attends-sco-meeting-in-pakistan</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-attends-sco-meeting-in-pakistan" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">पाकिस्तान में आयोजित SCO बैठक में भारत की भागीदारी
 
@@ -49,8 +360,8 @@
 <title>राष्ट्रीय तटीय मिशन 2.0</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/national-coastal-mission-2-0</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/national-coastal-mission-2-0" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">राष्ट्रीय तटीय मिशन 2.0
 
@@ -91,8 +402,8 @@
 <title>मुंबई का जवाहर द्वीप भारत का पहला प्लास्टिक-फ्री ऑयल टर्मिनल बना</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/mumbai-s-jawahar-dweep-becomes-india-s-1st-plastic-free-oil-terminal</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/mumbai-s-jawahar-dweep-becomes-india-s-1st-plastic-free-oil-terminal" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">मुंबई का जवाहर द्वीप भारत का पहला प्लास्टिक-फ्री ऑयल टर्मिनल बना
 
@@ -120,8 +431,8 @@
 <title>भारत में विदेशी नागरिकों के लिये नियामक ढाँचा</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/framework-governing-foreign-nationals-in-india</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/framework-governing-foreign-nationals-in-india" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत में विदेशी नागरिकों के लिये नियामक ढाँचा
 
@@ -172,8 +483,8 @@
 <title>श्यामजी कृष्ण वर्मा की जयंती</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/birth-anniversary-of-shyamji-krishna-varma-2</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/birth-anniversary-of-shyamji-krishna-varma-2" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">श्यामजी कृष्ण वर्मा की जयंती
 
@@ -220,8 +531,8 @@
 <title>महात्मा गांधी और लाल बहादुर शास्त्री की जयंती</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/birth-anniversary-of-mahatma-gandhi-and-shri-lal-bahadur-shastri-1</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/birth-anniversary-of-mahatma-gandhi-and-shri-lal-bahadur-shastri-1" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">महात्मा गांधी और लाल बहादुर शास्त्री की जयंती
 
@@ -314,8 +625,8 @@
 <title>नई NCERT पाठ्यपुस्तक में सेंगोल</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/sengol-in-new-ncert-textbook</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/sengol-in-new-ncert-textbook" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">नई NCERT पाठ्यपुस्तक में सेंगोल
 
@@ -404,8 +715,8 @@
 <title>PM ई-ड्राइव योजना</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/pm-e-drive-scheme-3</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/pm-e-drive-scheme-3" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">PM ई-ड्राइव योजना
 
@@ -471,8 +782,8 @@
 <title>GOBARdhan योजना</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/gobardhan-scheme-1</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/gobardhan-scheme-1" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">GOBARdhan योजना
 
@@ -515,8 +826,8 @@
 <title>कज़िंद-2026</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/kazind-2026</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/kazind-2026" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">कज़िंद-2026
 
@@ -552,8 +863,8 @@
 <title>बुक्सा टाइगर रिज़र्व में बाघिन को लाया गया</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/tigress-released-in-buxa-tiger-reserve</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/tigress-released-in-buxa-tiger-reserve" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">बुक्सा टाइगर रिज़र्व में बाघिन को लाया गया
 
@@ -589,8 +900,8 @@
 <title>इराक में ऑपरेशन इनहेरेंट रिज़ॉल्व का समापन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/end-of-operation-inherent-resolve-in-iraq</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/end-of-operation-inherent-resolve-in-iraq" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">इराक में ऑपरेशन इनहेरेंट रिज़ॉल्व का समापन
 
@@ -640,8 +951,8 @@
 <title>सल्फर की बढ़ती कीमतें: भारत पर प्रभाव</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/surging-sulphur-prices-impact-on-india</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/surging-sulphur-prices-impact-on-india" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">सल्फर की बढ़ती कीमतें: भारत पर प्रभाव
 
@@ -684,8 +995,8 @@
 <title>ग्रीन एनर्जी कॉरिडोर चरण-III</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/green-energy-corridor-phase-iii</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/green-energy-corridor-phase-iii" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">ग्रीन एनर्जी कॉरिडोर चरण-III
 
@@ -776,8 +1087,8 @@
 <title>नियमगिरि की पहाड़ियाँ</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/niyamgiri-hills</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/niyamgiri-hills" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">नियमगिरि की पहाड़ियाँ
 
@@ -811,8 +1122,8 @@
 <title>बिहार में गंडक नदी की बाढ़</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/gandak-river-floods-in-bihar</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/gandak-river-floods-in-bihar" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">बिहार में गंडक नदी की बाढ़
 
@@ -842,8 +1153,8 @@
 <title>भारत का पहला जियोलॉजिकल म्यूज़ियम</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-geological-museum</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-geological-museum" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत का पहला जियोलॉजिकल म्यूज़ियम
 
@@ -874,8 +1185,8 @@
 <title>झारखंड के पारंपरिक वाद्ययंत्र मांदर को मिला GI टैग</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/jharkhand-s-traditional-musical-instrument-mandar-gets-gi-tag</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/jharkhand-s-traditional-musical-instrument-mandar-gets-gi-tag" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">झारखंड के पारंपरिक वाद्ययंत्र मांदर को मिला GI टैग
 
@@ -905,8 +1216,8 @@
 <title>FAO की वानिकी समिति का 28वाँ  सत्र (COFO 28)</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/28th-session-of-the-fao-committee-on-forestry-cofo-28-</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/28th-session-of-the-fao-committee-on-forestry-cofo-28-" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">FAO की वानिकी समिति का 28वाँ  सत्र (COFO 28)
 
@@ -958,8 +1269,8 @@
 <title>पंडित ईश्वर चंद्र विद्यासागर की 207वीं जयंती</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/207th-birth-anniversary-of-pandit-ishwar-chandra-vidyasagar</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/207th-birth-anniversary-of-pandit-ishwar-chandra-vidyasagar" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">पंडित ईश्वर चंद्र विद्यासागर की 207वीं जयंती
 
@@ -1000,8 +1311,8 @@
 <title>दूसरा आसियान-भारत समुद्री अभ्यास (AIME) 2026</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/2nd-asean-india-maritime-exercise-aime-2026</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/2nd-asean-india-maritime-exercise-aime-2026" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">दूसरा आसियान-भारत समुद्री अभ्यास (AIME) 2026
 
@@ -1033,8 +1344,8 @@
 <title>इस्पात उद्योग सुरक्षा परिषद</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/steel-industry-safety-council</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/steel-industry-safety-council" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">इस्पात उद्योग सुरक्षा परिषद
 
@@ -1064,8 +1375,8 @@
 <title>संयुक्त राष्ट्र चार्टर में ‘शत्रु राज्य’ उपबंध</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/the-enemy-state-clauses-in-the-un-charter</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/the-enemy-state-clauses-in-the-un-charter" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">संयुक्त राष्ट्र चार्टर में ‘शत्रु राज्य’ उपबंध
 
@@ -1122,8 +1433,8 @@
 <title>भारत ने IWC-70 में सिटेशियन संरक्षण के प्रति अपनी प्रतिबद्धता की पुनः पुष्टि की</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-reaffirms-commitment-to-cetacean-conservation-at-iwc-70</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-reaffirms-commitment-to-cetacean-conservation-at-iwc-70" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत ने IWC-70 में सिटेशियन संरक्षण के प्रति अपनी प्रतिबद्धता की पुनः पुष्टि की
 
@@ -1154,8 +1465,8 @@
 <title>दिल्ली का सक्रिय वायु गुणवत्ता प्रबंधन ढाँचा 2026-27</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/delhi-s-proactive-air-quality-management-framework-2026-27</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/delhi-s-proactive-air-quality-management-framework-2026-27" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">दिल्ली का सक्रिय वायु गुणवत्ता प्रबंधन ढाँचा 2026-27
 
@@ -1250,8 +1561,8 @@
 <title>अभ्यास तरंग शक्ति 2026</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/exercise-tarang-shakti-2026</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/exercise-tarang-shakti-2026" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">अभ्यास तरंग शक्ति 2026
 
@@ -1282,8 +1593,8 @@
 <title>कांडला में भारत की पहली पोर्ट-बेस्ड ई-मेथनॉल फैसिलिटी</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-port-based-e-methanol-facility-at-kandla</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/india-s-1st-port-based-e-methanol-facility-at-kandla" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">कांडला में भारत की पहली पोर्ट-बेस्ड ई-मेथनॉल फैसिलिटी
 
@@ -1320,8 +1631,8 @@
 <title>समुद्र के जलस्तर में वृद्धि पर संयुक्त राष्ट्र की घोषणा</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/un-declaration-on-sea-level-rise</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/un-declaration-on-sea-level-rise" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">समुद्र के जलस्तर में वृद्धि पर संयुक्त राष्ट्र की घोषणा
 
@@ -1358,8 +1669,8 @@
 <title>शहीद भगत सिंह की 119वीं जयंती</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/119th-birth-anniversary-of-shaheed-bhagat-singh</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/119th-birth-anniversary-of-shaheed-bhagat-singh" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">शहीद भगत सिंह की 119वीं जयंती
 
@@ -1417,8 +1728,8 @@
 <title>सशस्त्र बल (विशेष शक्तियाँ) अधिनियम, 1958</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/armed-forces-special-powers-act,-1958-1</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/armed-forces-special-powers-act,-1958-1" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">सशस्त्र बल (विशेष शक्तियाँ) अधिनियम, 1958
 
@@ -1457,8 +1768,8 @@
 <title>कुनो राष्ट्रीय उद्यान में चार चीता शावकों का जन्म</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/4-cheetah-cubs-born-at-kuno-national-park</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/4-cheetah-cubs-born-at-kuno-national-park" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">कुनो राष्ट्रीय उद्यान में चार चीता शावकों का जन्म
 
@@ -1488,8 +1799,8 @@
 <title>अभ्यास वरुण</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/exercise-varuna-2-1</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/exercise-varuna-2-1" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">अभ्यास वरुण
 
@@ -1517,8 +1828,8 @@
 <title>SWIFT के विकल्प</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/alternatives-to-swift</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/alternatives-to-swift" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">SWIFT के विकल्प
 
@@ -1634,8 +1945,8 @@
 <title>भारत का पहला ब्लू बॉण्ड</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/indias-1st-blue-bond</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/indias-1st-blue-bond" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">भारत का पहला ब्लू बॉण्ड
 
@@ -1668,8 +1979,8 @@
 <title>धर्म संपरिवर्तन के पश्चात अनुसूचित जनजाति (ST) की स्थिति का बना रहना</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/retention-of-scheduled-tribe-st-status-post-conversion</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/retention-of-scheduled-tribe-st-status-post-conversion" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">धर्म संपरिवर्तन के पश्चात अनुसूचित जनजाति (ST) की स्थिति का बना रहना 
 
@@ -1708,8 +2019,8 @@
 <title>MoD ने IAF के लिये SAT-SAAW ग्लाइड बम के अनुबंध पर हस्ताक्षर किये</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/mod-signs-contract-for-sat-saaw-glide-bombs-for-iaf</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/mod-signs-contract-for-sat-saaw-glide-bombs-for-iaf" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">MoD ने IAF के लिये SAT-SAAW ग्लाइड बम के अनुबंध पर हस्ताक्षर किये
 
@@ -1741,8 +2052,8 @@
 <title>जय मीणा ने सॉफ्ट टेनिस में भारत का पहला एशियाई खेल पदक जीता</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/jay-meena-wins-indias-1st-ever-asian-games-medal-in-soft-tennis</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/jay-meena-wins-indias-1st-ever-asian-games-medal-in-soft-tennis" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">जय मीणा ने सॉफ्ट टेनिस में भारत का पहला एशियाई खेल पदक जीता 
 
@@ -1779,8 +2090,8 @@
 <title>कैनाल-टॉप फोटोवोल्टिक</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/canal-top-photovoltaics</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/canal-top-photovoltaics" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">कैनाल-टॉप फोटोवोल्टिक
 
@@ -1896,8 +2207,8 @@
 <title>आरबीआई की विदेशी मुद्रा स्वैप सुविधा और VRRR परिचालन</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/rbis-forex-swap-facility-and-vrrr-operations</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/rbis-forex-swap-facility-and-vrrr-operations" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">आरबीआई की विदेशी मुद्रा स्वैप सुविधा और VRRR परिचालन
 
@@ -1933,8 +2244,8 @@
 <title>अमेरिका, डेनमार्क और ग्रीनलैंड ने आर्कटिक सुरक्षा के समझौते पर हस्ताक्षर किये</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/us-denmark-and-greenland-sign-agreement-on-arctic-security</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/us-denmark-and-greenland-sign-agreement-on-arctic-security" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">अमेरिका, डेनमार्क और ग्रीनलैंड ने आर्कटिक सुरक्षा के समझौते पर हस्ताक्षर किये
 
@@ -1965,8 +2276,8 @@
 <title>पूर्वोत्तर भारत का सबसे बड़ा थर्मल पावर प्रोजेक्ट</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/northeast-indias-largest-thermal-power-project</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/northeast-indias-largest-thermal-power-project" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">पूर्वोत्तर भारत का सबसे बड़ा थर्मल पावर प्रोजेक्ट
 
@@ -1994,8 +2305,8 @@
 <title>G20 देशों ने ऊर्जा, जल और महत्त्वपूर्ण खनिजों पर 4 आम सर्वसम्मत परिणाम अपनाए</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/g20-nations-adopt-4-consensus-outcomes-on-energy-water-and-critical-minerals</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/g20-nations-adopt-4-consensus-outcomes-on-energy-water-and-critical-minerals" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">G20 देशों ने ऊर्जा, जल और महत्त्वपूर्ण खनिजों पर 4 आम सर्वसम्मत परिणाम अपनाए
 
@@ -2024,8 +2335,8 @@
 <title>विश्व गैंडा दिवस 2026</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/world-rhino-day-2026</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/world-rhino-day-2026" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">विश्व गैंडा दिवस 2026
 
@@ -2115,8 +2426,8 @@
 <title>बढ़ती एंटीफंगल रेजिस्टेंस</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/rising-antifungal-resistance</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/rising-antifungal-resistance" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">बढ़ती एंटीफंगल रेजिस्टेंस
 
@@ -2297,8 +2608,8 @@
 <title>सर्वोच्च न्यायालय ने गिरफ्तारी और पुन:-गिरफ्तारी के लिये  कड़े सुरक्षात्मक प्रावधान अनिवार्य किये</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/sc-mandates-strict-safeguards-for-arrest-and-re-arrest</id>
 <link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/sc-mandates-strict-safeguards-for-arrest-and-re-arrest" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
+<published>2026-10-06T00:00:00+00:00</published>
+<updated>2026-10-06T00:00:00+00:00</updated>
 <author><name>Drishti IAS</name></author>
 <content type="html">सर्वोच्च न्यायालय ने गिरफ्तारी और पुन:-गिरफ्तारी के लिये  कड़े सुरक्षात्मक प्रावधान अनिवार्य किये
 
@@ -2320,279 +2631,6 @@
 &lt;tr&gt;
 &lt;td&gt;
 &lt;p&gt;&lt;b&gt;और पढ़ें: सर्वोच्च न्यायालय गिरफ्तारी के आधार से जुड़े मुद्दे को वृहद पीठ को संदर्भित करेगा&lt;/b&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content>
-</entry>
-<entry>
-<title>विश्व चक्रीय अर्थव्यवस्था मंच 2026</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/world-circular-economy-forum-2026</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/world-circular-economy-forum-2026" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">विश्व चक्रीय अर्थव्यवस्था मंच 2026
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/environment-ecology"&gt;जैव विविधता एवं पर्यावरण&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310349®=48&amp;amp;lang=1"&gt;&lt;b&gt;स्रोत: पीआईबी &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;हाल ही में &lt;b&gt;विश्व चक्रीय अर्थव्यवस्था मंच (World Circular Economy Forum - WCEF) 2026 का आयोजन गांधीनगर, गुजरात में&lt;/b&gt; &lt;b&gt;“चक्रीय अर्थव्यवस्था: लोगों और समृद्धि के लिये परिवर्तन (Circular Economy: Transition for People and Prosperity)”&lt;/b&gt; विषय के अंतर्गत किया गया। यह &lt;b&gt;पहली बार था जब WCEF का आयोजन दक्षिण एशिया में किया गया&lt;/b&gt;, जिसमें व्यावहारिक और बड़े स्तर पर लागू किये जा सकने वाले चक्रीय अर्थव्यवस्था समाधानों पर ध्यान केंद्रित किया गया।&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;विश्व चक्रीय अर्थव्यवस्था मंच (WCEF) 2026&lt;/b&gt; का संयुक्त आयोजन &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/cpcb-riport"&gt;&lt;b&gt;केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB)&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय (MoEF&amp;amp;CC), गुजरात सरकार, गुजरात प्रदूषण नियंत्रण बोर्ड (GPCB) तथा फिनिश इनोवेशन फंड सित्रा (Finnish Innovation Fund Sitra)&lt;/b&gt; द्वारा किया गया।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विश्व चक्रीय अर्थव्यवस्था मंच (WCEF)&lt;/b&gt; एक वैश्विक मंच है, जो चक्रीय अर्थव्यवस्था के लिये समाधानों पर चर्चा और उन्हें बढ़ावा देने हेतु सरकारों, व्यवसायों, शोधकर्त्ताओं, नवाचारकर्त्ताओं और नागरिक समाज को एक साथ लाता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;कार्यक्रम संरचना:&lt;/b&gt; WCEF 2026 में &lt;b&gt;लोग, व्यवसाय, शासन और विकास&lt;/b&gt; जैसे चार प्रमुख विषयों पर ध्यान केंद्रित किया गया। इसके अंतर्गत पूर्ण सत्र (Plenary Sessions), समानांतर चर्चाएँ (Parallel Discussions), त्वरक सत्र (Accelerator Sessions) और व्यावहारिक चक्रीय अर्थव्यवस्था समाधानों को प्रदर्शित करने वाली प्रदर्शनियाँ आयोजित की गईं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;चक्रीय अर्थव्यवस्था:&lt;/b&gt; चक्रीय अर्थव्यवस्था &lt;b&gt;उत्पादन और उपभोग का एक सतत मॉडल&lt;/b&gt; है, जो &lt;b&gt;अपशिष्ट को कम करने और उत्पादों के जीवन चक्र को बढ़ाने&lt;/b&gt; पर केंद्रित है। इसके लिये पुन: उपयोग (Reuse), मरम्मत (Repair), नवीनीकरण (Refurbishment), पुनर्निर्माण (Remanufacturing) और पुनर्चक्रण (Recycling) जैसी प्रक्रियाओं को अपनाया जाता है।
-&lt;ul&gt;
-&lt;li&gt;इसका उद्देश्य सामग्रियों और संसाधनों को यथासंभव लंबे समय तक चक्र में बनाए रखना है, जिससे अतिरिक्त मूल्य का सृजन हो सके तथा पारंपरिक &lt;b&gt;रैखिक “लेना–बनाना–उपभोग करना–निपटान करना (take–make–consume–dispose)” मॉडल&lt;/b&gt; पर निर्भरता कम की जा सके। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;चक्रीय अर्थव्यवस्था दृष्टिकोण:&lt;/b&gt; भारत सतत जीवनशैली और कुशल संसाधन प्रबंधन पर केंद्रित आधुनिक रणनीतियों के साथ मरम्मत, पुन: उपयोग तथा संसाधन संरक्षण जैसी पारंपरिक प्रथाओं को एकीकृत करके चक्रीय अर्थव्यवस्था के सिद्धांतों को बढ़ावा देता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;नीतिगत ढाँचा:&lt;/b&gt; भारत ने नियामक सुधारों, बेहतर अपशिष्ट प्रबंधन नियमों, &lt;b&gt;विस्तारित उत्पादक उत्तरदायित्व (EPR)&lt;/b&gt; ढाँचे और डिजिटल अनुपालन प्रणालियों के माध्यम से चक्रीय अर्थव्यवस्था के प्रयासों को सुदृढ़ किया है, जिससे पुनर्चक्रण एवं संसाधन पुनर्प्राप्ति (Resource Recovery) को बढ़ावा मिल सके।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;विस्तारित उत्पादक उत्तरदायित्व (EPR) का कार्यान्वयन:&lt;/b&gt; विभिन्न EPR ढाँचों के अंतर्गत &lt;b&gt;83,000 से अधिक उत्पादक और 4,802 पुनर्चक्रणकर्त्ता पंजीकृत किये गए हैं तथा लगभग 482.24 लाख मीट्रिक टन&lt;/b&gt; विनियमित अपशिष्ट का प्रसंस्करण किया गया है। इससे अपशिष्ट निपटान से संसाधन पुनर्प्राप्ति की दिशा में परिवर्तन को बढ़ावा मिला है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;मिशन LiFE से संबद्धता:&lt;/b&gt; मंच ने सतत उपभोग की प्रवृत्तियों को बढ़ावा देने और चक्रीय प्रथाओं को दैनिक जीवन का हिस्सा बनाने के लिये &lt;b&gt;पर्यावरण के लिये जीवनशैली (LiFE)&lt;/b&gt; को आधार के रूप में रेखांकित किया।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अंतर्राष्ट्रीय सहयोग:&lt;/b&gt; भारत ने अपनी &lt;b&gt;G20 अध्यक्षता&lt;/b&gt; के दौरान प्रारंभ किये गए &lt;b&gt;संसाधन दक्षता और चक्रीय अर्थव्यवस्था उद्योग गठबंधन (Resource Efficiency and Circular Economy Industry Coalition - RECEIC)&lt;/b&gt; जैसी पहलों के माध्यम से वैश्विक सहयोग को रेखांकित किया।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;और पढ़ें: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/circular-economy-in-mobility"&gt;&lt;b&gt;चक्रीय अर्थव्यवस्था में हो रहे परिवर्तन&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content>
-</entry>
-<entry>
-<title>9वाँ भारत अंतर्राष्ट्रीय जल सप्ताह 2026</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/9th-india-international-water-week-2026</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/9th-india-international-water-week-2026" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">9वाँ भारत अंतर्राष्ट्रीय जल सप्ताह 2026
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Environmental-Pollution-&amp;amp;-Degradation"&gt;पर्यावरण प्रदूषण और गिरावट&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/climate-change"&gt;जलवायु परिवर्तन&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313599®=3&amp;amp;lang=1"&gt;&lt;b&gt;स्रोत: पीआईबी&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.drishtiias.com/hindi/state-pcs-current-affairs/india-to-host-9th-international-water-week-in-september-2026"&gt;&lt;b&gt;9वें भारत अंतर्राष्ट्रीय जल सप्ताह 2026&lt;/b&gt;&lt;/a&gt; &lt;i&gt;का समापन नई दिल्ली के &lt;/i&gt;&lt;b&gt;&lt;i&gt;भारत मंडपम&lt;/i&gt;&lt;/b&gt;&lt;i&gt; में हुआ। इसका विषय &lt;/i&gt;&lt;b&gt;&lt;i&gt;“जलवायु-अनुकूल जल प्रबंधन (Climate-Resilient Water Management)”&lt;/i&gt;&lt;/b&gt;&lt;i&gt; था। &lt;/i&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;भारत अंतर्राष्ट्रीय जल सप्ताह (IIWW): इसे वर्ष 2012 में भारत जल सप्ताह के रूप में अवधारित किया गया था। जल शक्ति मंत्रालय की इस प्रमुख पहल को वर्ष 2026 में भारत अंतर्राष्ट्रीय जल सप्ताह (IIWW) के रूप में पुनः नामित किया गया, ताकि इसकी बढ़ती वैश्विक भूमिका को प्रतिबिंबित किया जा सके। &lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;यह &lt;b&gt;नीति निर्माताओं, शोधकर्त्ताओं, उद्योग जगत, बहुपक्षीय संगठनों और समुदायों&lt;/b&gt; को एक साथ लाने वाला एक बहु-विषयक मंच है, जिसका उद्देश्य &lt;b&gt;सतत जल प्रबंधन तथा नवाचारपूर्ण समाधानों&lt;/b&gt; को बढ़ावा देना है। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;डिजिटल सार्वजनिक अवसंरचना (DPI) पर ध्यान:&lt;/b&gt; इस आयोजन में इस बात को रेखांकित किया गया कि DPI पारंपरिक &lt;b&gt;डेटा विभाजनों (Data Silos)&lt;/b&gt; को दूर करने के लिये &lt;b&gt;“वॉटर ऐज़ वन डेटा (Water as One Data)”&lt;/b&gt; दृष्टिकोण अपनाकर जल शासन में क्रांतिकारी परिवर्तन ला सकता है। 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/sujalam-bharat-summit-2025"&gt;&lt;b&gt;“सुजलाम भारत”&lt;/b&gt;&lt;/a&gt;&lt;b&gt; पर ध्यान:&lt;/b&gt; इसे ग्रामीण पेयजल प्रबंधन के लिये एक आधारभूत और &lt;b&gt;इंटरऑपरेबल डिजिटल आर्किटेक्चर&lt;/b&gt; के रूप में प्रस्तुत किया गया है। इसका उद्देश्य &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/unified-payments-interface-upi-"&gt;&lt;b&gt;UPI तथा  डिजिलॉकर&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (DigiLocker)&lt;/b&gt; जैसे बुनियादी सार्वजनिक डिजिटल प्लेटफॉर्मों को क्षेत्रीय स्तर के &lt;b&gt;IoT सेंसर&lt;/b&gt; और &lt;b&gt;SCADA नेटवर्क&lt;/b&gt; के साथ एकीकृत करना है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जल सेवा एनालिटिक्स&lt;/b&gt; और &lt;b&gt;ग्रामीण डेटा स्टैक (Rural Data Stack)&lt;/b&gt; जैसी प्रणालियों का उपयोग करके सरकार का उद्देश्य &lt;b&gt;पूर्वानुमान आधारित परिसंपत्ति रखरखाव, वास्तविक समय में रिसाव का पता लगाना&lt;/b&gt; और &lt;b&gt;पारदर्शी टैरिफ प्रशासन &lt;/b&gt;को सक्षम बनाना है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;ज़मीनी स्तर पर:&lt;/b&gt; &lt;b&gt;“&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/driving-digital-transformation-in-gram-panchayats"&gt;&lt;b&gt;मेरी पंचायत&lt;/b&gt;&lt;/a&gt;&lt;b&gt;”&lt;/b&gt; भू-टैग आधारित रिपोर्टिंग के माध्यम से नागरिक भागीदारी को सशक्त बना सकती है, जबकि &lt;b&gt;“ग्लोबल फ्लड हब”&lt;/b&gt; जैसे &lt;b&gt;AI-आधारित प्लेटफॉर्म&lt;/b&gt; बाढ़ के पूर्वानुमान और मार्ग निर्धारण (Routing) में सहायता कर सकते हैं। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;SURM फ्रेमवर्क:&lt;/b&gt; &lt;b&gt;सतत शहरी नदी प्रबंधन (SURM) फ्रेमवर्क&lt;/b&gt; और &lt;b&gt;AI/ML (कृत्रिम बुद्धिमत्ता/मशीन लर्निंग) आधारित एकीकृत जलाशय अवसाद प्रबंधन &lt;/b&gt;की शुरुआत की गई।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;SURM फ्रेमवर्क&lt;/b&gt; शहरी नदी प्रबंधन योजना (&lt;b&gt;URMP&lt;/b&gt;) का विस्तार करते हुए इसे एक वैश्विक मॉडल के रूप में विकसित करता है। यह शहरों को &lt;b&gt;प्रदूषण नियंत्रण, शहरी विकास के प्रबंधन और नदी स्वास्थ्य के संरक्षण&lt;/b&gt; के लिये उपकरण एवं मानदंड (Metrics) प्रदान करता है।&lt;/li&gt;
-&lt;li&gt;वहीं, &lt;b&gt;AI/ML आधारित जलाशय पहल &lt;/b&gt;तकनीक का उपयोग &lt;b&gt;अवसाद (Sediment) के संचय का पूर्वानुमान लगाने और उसके प्रबंधन&lt;/b&gt; के लिये करती है, जिससे &lt;b&gt;बांधों की दीर्घायु, जल भंडारण क्षमता एवं विद्युत उत्पादन&lt;/b&gt; में सुधार करने में सहायता मिलती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रमुख शुरुआत:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;सिंचाई संबंधी एटलस:&lt;/b&gt; इसे &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/rebuilding-india-s-water-resilience"&gt;&lt;b&gt;केंद्रीय जल आयोग&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (Central Water Commission - CWC)&lt;/b&gt; द्वारा विकसित किया गया है। यह बेसिन स्तर की योजना (Basin-level Planning) के लिये नदी बेसिनों और जल अवसंरचना का &lt;b&gt;GIS-आधारित मानचित्रण (GIS-based Mapping)&lt;/b&gt; प्रदान करता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;रिवराइन मैक्रोप्लास्टिक्स मॉनिटरिंग प्रोटोकॉल (Riverine Macroplastics Monitoring Protocol):&lt;/b&gt; इसे &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-mission-for-clean-ganga-2"&gt;&lt;b&gt;राष्ट्रीय स्वच्छ गंगा मिशन&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (National Mission for Clean Ganga - NMCG)&lt;/b&gt; द्वारा विकसित किया गया है। यह नदियों में &lt;b&gt;मैक्रोप्लास्टिक प्रदूषण (Macroplastic Pollution)&lt;/b&gt; की निगरानी को मानकीकृत करता है और लक्षित प्रदूषण नियंत्रण उपायों को समर्थन प्रदान करता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;दूसरा भारत अंतर्राष्ट्रीय WASH सम्मेलन:&lt;/b&gt; यह सम्मेलन भी इसी दौरान आयोजित किया गया, जिसमें &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/9th-india-international-water-week-2026"&gt;&lt;b&gt;जल, स्वच्छता और स्वच्छता व्यवहार&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (Water, Sanitation, and Hygiene - WASH)&lt;/b&gt; पर ध्यान केंद्रित किया गया।
-&lt;ul&gt;
-&lt;li&gt;इसमें &lt;b&gt;भारत-अफ्रीका WASH गोलमेज़ सम्मेलन &lt;/b&gt;आयोजित किया गया, जिसमें 22 अफ्रीकी देशों के राजनयिकों ने भाग लिया। इसमें &lt;b&gt;क्षमता निर्माण, जल गुणवत्ता निगरानी और डिजिटल प्लेटफॉर्मों&lt;/b&gt; पर ध्यान केंद्रित किया गया। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भारत की जल सुरक्षा पहलें:&lt;/b&gt; केंद्रीय जल शक्ति मंत्री ने &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/jal-jeevan-mission-26"&gt;&lt;b&gt;जल जीवन मिशन&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/pradhan-mantri-krishi-sinchayee-yojana-1"&gt;&lt;b&gt;प्रधानमंत्री कृषि सिंचाई योजना,&lt;/b&gt;&lt;/a&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/jal-sanchay-jan-bhagidari-4"&gt;&lt;b&gt;जल संचय जन भागीदारी&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/namami-gange-programme-4"&gt;&lt;b&gt;नमामि गंगे&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/atal-bhujal-yojana-and-ground-water-management"&gt;&lt;b&gt;अटल भूजल योजना&lt;/b&gt;&lt;/a&gt;&lt;b&gt;, &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/national-aquifer-mapping-and-management-programme"&gt;&lt;b&gt;राष्ट्रीय जलभृत प्रबंधन योजना' (NAQUIM),&lt;/b&gt;&lt;/a&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/ken-betwa-link-project-4"&gt;&lt;b&gt;केन-बेतवा लिंक परियोजना &lt;/b&gt;&lt;/a&gt;&lt;b&gt;तथा &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/dam-rehabilitation-and-improvement-project-1"&gt;&lt;b&gt;बांध पुनर्वास और सुधार परियोजना (DRIP) &lt;/b&gt;&lt;/a&gt;सहित प्रमुख पहलों को रेखांकित किया।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;और पढ़ें: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/world-water-day-2026"&gt;&lt;b&gt;विश्व जल दिवस, 2026 &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<title>‘पर्यावरण और जलवायु गतिशीलता का भविष्य’ पर अंतर्राष्ट्रीय सम्मेलन</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/international-conference-on-the-future-of-environment-and-climate-dynamics</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/international-conference-on-the-future-of-environment-and-climate-dynamics" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">‘पर्यावरण और जलवायु गतिशीलता का भविष्य’ पर अंतर्राष्ट्रीय सम्मेलन
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Tribunals"&gt;न्यायाधिकरण&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Quasi-Judicial-Bodies"&gt;अर्ध-न्यायिक निकाय&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://newsonair.gov.in/pm-modi-to-inaugurate-international-conference-on-environment-and-climate-dynamics-tomorrow/"&gt;&lt;b&gt;स्रोत: ऑल इंडिया रेडियो&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;चर्चा में क्यों? &lt;/h2&gt;
-&lt;p&gt;भारत के प्रधानमंत्री ने नई दिल्ली में &lt;b&gt;‘पर्यावरण और जलवायु गतिशीलता का भविष्य’&lt;/b&gt; पर दो दिवसीय अंतर्राष्ट्रीय सम्मेलन का उद्घाटन किया। इस कार्यक्रम का आयोजन &lt;a href="https://www.drishtiias.com/hindi/important-institution/national-organization/national-green-tribunal"&gt;&lt;b&gt;राष्ट्रीय हरित अधिकरण (NGT)&lt;/b&gt; &lt;/a&gt;द्वारा किया गया था।&lt;/p&gt;
-&lt;h2&gt;सम्मेलन की प्रमुख विशेषताएँ क्या हैं?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; यह सम्मेलन &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/unep-foresight-report-2024"&gt;&lt;b&gt;संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP)&lt;/b&gt;&lt;/a&gt;&lt;b&gt; और &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/adb-development-financing-to-support-india"&gt;&lt;b&gt;एशियाई विकास बैंक (ADB)&lt;/b&gt;&lt;/a&gt;&lt;b&gt; के साथ-साथ 17 देशों के विधि-विशेषज्ञों (जूरिस्टों), विशेषज्ञों, नीति-निर्माताओं और हितधारकों&lt;/b&gt; को एक साथ लाता है।
-&lt;ul&gt;
-&lt;li&gt;यह न्यायिक, वैज्ञानिक और नीतिगत क्षेत्रों में &lt;b&gt;ज्ञान के आदान-प्रदान एवं सर्वोत्तम प्रथाओं &lt;/b&gt;पर ध्यान केंद्रित करता है।&lt;/li&gt;
-&lt;li&gt;यह वै&lt;b&gt;श्विक पर्यावरणीय और जलवायु चुनौतियों &lt;/b&gt;से निपटने के लिये &lt;b&gt;सहयोगात्मक कार्रवाई &lt;/b&gt;को बढ़ावा देता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;थीम:&lt;/b&gt; इसने पर्यावरण, जलवायु परिवर्तन, विकास और पर्यावरणीय न्याय के बीच जटिल संबंधों पर संवाद को बढ़ावा दिया।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;प्रधानमंत्री के संबोधन के प्रमुख बिंदु&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;प्रति व्यक्ति कार्बन उत्सर्जन और समानता:&lt;/b&gt; भारत का &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/gas-emission-intensity-gei-target-rules,-2025"&gt;&lt;b&gt;प्रति व्यक्ति ग्रीनहाउस गैस&lt;/b&gt;&lt;/a&gt; (GHG) उत्सर्जन वैश्विक औसत के आधे से भी कम बना हुआ है, जबकि विकसित देश प्रति व्यक्ति छह गुना तक अधिक उत्सर्जन करते हैं।
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/emissions-gap-report-2024"&gt;&lt;b&gt;संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) की उत्सर्जन अंतराल रिपोर्ट 2024&lt;/b&gt;&lt;/a&gt; के अनुसार, &lt;b&gt;2022 में भारत का प्रति व्यक्ति ग्रीनहाउस गैस उत्सर्जन 2.9 मीट्रिक टन कार्बन डाइऑक्साइड तुल्यांक (tCO₂e) था, जिसकी तुलना में वैश्विक औसत प्रति व्यक्ति 6.6 मीट्रिक टन कार्बन डाइऑक्साइड तुल्यांक प्रति वर्ष था।&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;प्रधानमंत्री ने &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/principle-of-common-but-differentiated-responsibilities"&gt;&lt;b&gt;समान परंतु विभेदित उत्तरदायित्व तथा संबंधित क्षमताएँ&lt;/b&gt;&lt;/a&gt; (CBDR-RC) के सिद्धांत को दोहराया और इस बात पर बल दिया कि ऐतिहासिक उत्सर्जनों के लिये विकासशील देशों पर अनुचित रूप से जुर्माना नहीं लगाया जाना चाहिये।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;कॉप-21 (COP21) पेरिस एनडीसी (NDCs) की समय से पहले उपलब्धि:&lt;/b&gt; भारत एकमात्र &lt;b&gt;जी-20 &lt;/b&gt;(G20) देश है, जिसने 2030 की समय-सीमा से काफी पहले अपने मूल &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/10-years-of-paris-agreement"&gt;&lt;b&gt;पेरिस समझौते (कॉप-21) के राष्ट्रीय स्तर पर निर्धारित योगदान (NDCs)&lt;/b&gt;&lt;/a&gt; को पूरा किया है (जिसमें 50% गैर-जीवाश्म ईंधन विद्युत क्षमता मील के पत्थर को पार करना और कार्बन तीव्रता में अत्यधिक कमी लाना शामिल है)।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वैश्विक हरित गठबंधनों में अग्रणी भूमिका:&lt;/b&gt; इस बात पर बल दिया गया कि भारत स्वदेशी वैश्विक रूपरेखाओं के माध्यम से बहुपक्षीय जलवायु कूटनीति का नेतृत्व करना जारी रखे हुए है:
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;अंतर्रा&lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/8th-session-of-the-international-solar-alliance-isa"&gt;&lt;b&gt;ष्ट्रीय सौर गठबंधन (ISA) &lt;/b&gt;&lt;/a&gt;और &lt;a href="https://www.drishtiias.com/hindi/loksabha-rajyasabha-discussions/one-sun-one-world-one-grid"&gt;&lt;b&gt;एक सूर्य, एक विश्व, एक ग्रिड&lt;/b&gt;&lt;/a&gt; (OSOWOG)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-editorials/biofuels-and-global-biofuels-alliance"&gt;वैश्विक जैव ईंधन गठबंधन (GBA)&lt;/a&gt;&lt;/b&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/international-big-cat-alliance-3"&gt;इंटरनेशनल बिग कैट अलायंस (IBCA)&lt;/a&gt; &lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;बड़े पैमाने पर व्यवहार परिवर्तन हेतु &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/lifestyle-for-the-environment-life-movement"&gt;&lt;b&gt;मिशन लाइफ (पर्यावरण के लिये जीवन शैली - LiFE) &lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;स्वच्छ ऊर्जा का तीव्र विस्तार:&lt;/b&gt; पिछले 12 वर्षों में गैर-जीवाश्म ऊर्जा क्षमता में लगभग 400% की वृद्धि हुई है। 
-&lt;ul&gt;
-&lt;li&gt;सौर क्षमता में लगभग 2 गीगावाट (2014) से बढ़कर 160 गीगावाट (2026) से अधिक की तीव्र वृद्धि हुई है, इसके साथ ही पवन ऊर्जा में तीन गुना वृद्धि और परमाणु ऊर्जा के लिये रणनीतिक प्रयास किये गए हैं। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;पर्यावरण के लिये न्यायिक सुलभता:&lt;/b&gt; कानूनी उपायों का लोकतंत्रीकरण करने, विवाद समाधान में तेज़ी  लाने और पारदर्शी पर्यावरणीय शासन को मज़बूत करने के लिये &lt;b&gt;राष्ट्रीय हरित अधिकरण (NGT) मोबाइल ऐप&lt;/b&gt; का उद्घाटन किया गया।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;b&gt;राष्ट्रीय हरित अधिकरण (NGT)&lt;/b&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; &lt;b&gt;राष्ट्रीय हरित अधिकरण (National Green Tribunal-NGT)&lt;/b&gt; एक विशेषीकृत वैधानिक निकाय है, जिसकी स्थापना &lt;b&gt;राष्ट्रीय हरित अधिकरण अधिनियम, 2010&lt;/b&gt; के तहत बहु-विषयक पर्यावरणीय विवादों के त्वरित और प्रभावी समाधान के लिये की गई है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रक्रियात्मक अनुकूलनशीलता:&lt;/b&gt; NGT अधिनियम की &lt;b&gt;धारा 19&lt;/b&gt; के अनुसार, अधिकरण &lt;b&gt;सिविल प्रक्रिया संहिता, 1908&lt;/b&gt; या &lt;b&gt;भारतीय साक्ष्य अधिनियम, 1872&lt;/b&gt; में निर्धारित कठोर प्रक्रियाओं से बाध्य नहीं है। इसके स्थान पर इसे अपनी प्रक्रिया को स्वयं विनियमित करने की स्वायत्तता प्राप्त है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;न्यायिक ढाँचा:&lt;/b&gt; यह कठोर सिविल प्रक्रिया संहिता के स्थान पर &lt;b&gt;प्राकृतिक न्याय के सिद्धांतों&lt;/b&gt; के आधार पर कार्य करता है। NGT का उद्देश्य मामलों का निपटारा &lt;b&gt;6 माह के भीतर&lt;/b&gt; करना है। &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अधिकरण की संरचना:&lt;/b&gt; इसका नेतृत्व एक &lt;b&gt;अध्यक्ष (सर्वोच्च न्यायालय के सेवानिवृत्त न्यायाधीश या उच्च न्यायालय के मुख्य न्यायाधीश)&lt;/b&gt; द्वारा किया जाता है। इनके साथ &lt;b&gt;10 से 20 न्यायिक सदस्य&lt;/b&gt; तथा &lt;b&gt;10 से 20 विशेषज्ञ सदस्य&lt;/b&gt; होते हैं, जिनके पास पर्यावरण या विज्ञान के क्षेत्र में विशेषीकृत योग्यता होती है।  &lt;/li&gt;
-&lt;li&gt;&lt;b&gt;शक्तियाँ और प्रवर्तन:&lt;/b&gt; यह &lt;b&gt;सिविल न्यायालय के अधिकारों&lt;/b&gt; के साथ कार्य करता है तथा इसे &lt;b&gt;स्वतः संज्ञान (suo motu) लेने की शक्ति&lt;/b&gt; प्राप्त है, जिसके अंतर्गत यह औपचारिक शिकायत के बिना भी स्वयं मामलों की शुरुआत कर सकता है।
-&lt;ul&gt;
-&lt;li&gt;भारत के &lt;b&gt;सर्वोच्च न्यायालय&lt;/b&gt; ने ऐतिहासिक मामले &lt;b&gt;&lt;i&gt;म्युनिसिपल कॉर्पोरेशन ऑफ ग्रेटर मुंबई बनाम अंकिता सिन्हा (2021)&lt;/i&gt;&lt;/b&gt; में NGT के &lt;b&gt;स्वतः संज्ञान (suo motu) क्षेत्राधिकार&lt;/b&gt; को बरकरार रखा तथा NGT को &lt;b&gt;&lt;i&gt;सुई जेनेरिस&lt;/i&gt;&lt;/b&gt;&lt;b&gt; (अद्वितीय) संस्था&lt;/b&gt; के रूप में मान्यता दी, जिसका उद्देश्य पर्यावरणीय क्षरण को सक्रिय रूप से संबोधित करना है।&lt;/li&gt;
-&lt;li&gt;इसके अतिरिक्त, इसे &lt;b&gt;प्रदूषक भुगतान सिद्धांत (Polluter Pays Principle)&lt;/b&gt; और &lt;b&gt;सावधानी के सिद्धांत (Precautionary Principle)&lt;/b&gt; के तहत कठोर दंड लगाने, पर्यावरणीय पुनर्स्थापन का आदेश देने तथा पीड़ितों को मुआवज़ा प्रदान करने का अधिकार प्राप्त है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अपील तंत्र:&lt;/b&gt; NGT द्वारा दिये गए निर्णय विधिक रूप से बाध्यकारी होते हैं, हालाँकि इनके विरुद्ध &lt;b&gt;90 दिनों के भीतर सीधे भारत के सर्वोच्च न्यायालय&lt;/b&gt; में अपील दायर की जा सकती है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;महत्त्व:&lt;/b&gt; यह &lt;b&gt;अनुच्छेद 21&lt;/b&gt; के तहत स्वस्थ पर्यावरण के मूल अधिकार को लागू करता है, &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/right-to-safe-travel-on-national-highways-under-article-21"&gt;&lt;b&gt;पर्यावरण प्रभाव आकलन&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (Environmental Impact Assessments-EIA)&lt;/b&gt; के कड़े अनुपालन को सुनिश्चित करता है तथा नियमित न्यायालयों पर पर्यावरणीय मुकदमों के भार को काफी हद तक कम करता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20260922104152-4722a230.png"&gt;&lt;img src="http://drishtiias.com/hindi/images/uploads/upload-20260922104152-4722a230.png"/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;/h3&gt;
-&lt;h3&gt;&lt;b&gt;अक्सर पूछे जाने वाले प्रश्न (FAQ)&lt;/b&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;1. राष्ट्रीय हरित अधिकरण (NGT) क्या है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;राष्ट्रीय हरित अधिकरण (NGT) अधिनियम, 2010 &lt;/b&gt;के राष्ट्रीय हरित अधिकरण अधिनियम के अंतर्गत स्थापित एक विशेषज्ञ वैधानिक निकाय है, जिसका प्रमुख कार्य पर्यावरण संबंधी विवादों का शीघ्र समाधान सुनिश्चित करना है।&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;2. NGT का मार्गदर्शन करने वाले सिद्धांत कौन-से हैं?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;NGT कठोर &lt;b&gt;सिविल प्रक्रिया संहिता (CPC)&lt;/b&gt; की प्रक्रिया की बजाय &lt;b&gt;प्राकृतिक न्याय के सिद्धांतों&lt;/b&gt; द्वारा निर्देशित होता है तथा &lt;b&gt;प्रदूषक भुगतान सिद्धांत, सावधानी के सिद्धांत और सतत विकास&lt;/b&gt; जैसे सिद्धांतों को लागू करता है। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3. जलवायु शासन में CBDR-RC का क्या महत्त्व है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;साझा किंतु विभेदित उत्तरदायित्व एवं संबंधित क्षमताएँ (Common But Differentiated Responsibilities and Respective Capabilities)&lt;/b&gt; देशों के ऐतिहासिक योगदान और संबंधित क्षमताओं के आधार पर विभेदित उत्तरदायित्वों को मान्यता देता है। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;4. पेरिस समझौते के तहत भारत ने क्या प्रगति की है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;भारत की गैर-जीवाश्म ईंधन आधारित स्थापित विद्युत क्षमता &lt;b&gt;50% से अधिक हो गई है&lt;/b&gt;, जो फरवरी 2026 तक &lt;b&gt;52.57%&lt;/b&gt; तक पहुँच गई, जो 2030 के लक्ष्य की समय-सीमा से पहले है। &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;5. पर्यावरणीय शासन के लिये NGT क्यों महत्त्वपूर्ण है?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;यह &lt;b&gt;विशेषीकृत पर्यावरणीय न्याय-निर्णयन&lt;/b&gt; प्रदान करता है, पर्यावरणीय न्याय तक पहुँच को सुगम बनाता है तथा जटिल &lt;b&gt;वैज्ञानिक और पारिस्थितिक मुद्दों&lt;/b&gt; से जुड़े विवादों के समाधान में सहायता करता है। &lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;UPSC सिविल सेवा परीक्षा, विगत वर्ष के प्रश्न (PYQ)&lt;/b&gt;&lt;/h2&gt;
-&lt;h3&gt;&lt;em&gt;&lt;b&gt;प्रिलिम्स &lt;/b&gt;&lt;/em&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;प्रश्न. राष्ट्रीय हरित अधिकरण (एन.जी.टी.) किस प्रकार केंद्रीय प्रदूषण नियंत्रण बोर्ड (सी.पी.सी.बी.) से भिन्न है?  (2018)&lt;/b&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;एन.जी.टी. का गठन एक अधिनियम द्वारा किया गया है, जबकि सी.पी.सी.बी. का गठन सरकार के कार्यपालक आदेश से किया गया है। &lt;/li&gt;
-&lt;li&gt;एन.जी.टी. पर्यावरणीय न्याय उपलब्ध कराता है और उच्चतर न्यायालयों में मुकदमों के भार को कम करने में सहायता करता है, जबकि सी.पी.सी.बी. झरनों तथा कुँओं की सफाई को प्रोत्साहित करता है एवं देश में वायु की गुणवत्ता में सुधार लाने का लक्ष्य रखता है।&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;b&gt;उपर्युक्त में से कौन-सा/से कथन सही है/हैं?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;(a) केवल 1&lt;/p&gt;
-&lt;p&gt;(b) केवल 2&lt;/p&gt;
-&lt;p&gt;(c) 1 और 2 दोनों&lt;/p&gt;
-&lt;p&gt;(d) न तो 1, न ही 2&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;उत्तर: (b)&lt;/b&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<title>कर्नाटक में तुलु को दूसरी आधिकारिक भाषा का दर्जा दिया गया</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/tulu-accorded-2nd-official-language-status-in-karnataka</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/tulu-accorded-2nd-official-language-status-in-karnataka" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">कर्नाटक में तुलु को दूसरी आधिकारिक भाषा का दर्जा दिया गया
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies - I"&gt;सामान्य अध्ययन-I&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -II"&gt;सामान्य अध्ययन-II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Indian-Constitution"&gt;भारतीय संविधान&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/news/national/karnataka/karnataka-accords-second-official-language-status-to-tulu-language/article71480530.ece#:~:text=Renaming%20Dakshina%20Kannada%20as%20Mangaluru.%20Noting%20that,to%20get%20feedback%20from%20the%20general%20public."&gt;&lt;b&gt;स्रोत: द हिंदू&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;कर्नाटक सरकार ने राज्य में &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/tulu-language"&gt;&lt;b&gt;तुलु&lt;/b&gt;&lt;/a&gt;&lt;b&gt; को दूसरी अतिरिक्त प्रशासनिक भाषा का दर्जा प्रदान किया है।&lt;/b&gt; यह दर्जा विशेष रूप से तटीय ज़िलों &lt;b&gt;दक्षिण कन्नड़ और उडुपी&lt;/b&gt; पर लागू होगा, जहाँ व्यापक रूप से तुलु भाषा बोली जाती है।&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;सरकार तुलु के उपयोग से संबंधित अनुवाद, प्रशिक्षण और अन्य गतिविधियों के लिये सालाना ₹82 लाख आवंटित करेगी।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;पृष्ठभूमि:&lt;/b&gt; यह निर्णय शिक्षाविद &lt;b&gt;एम. मोहन अल्वा&lt;/b&gt; की अध्यक्षता वाली समिति की सिफारिशों को लागू करता है। इस समिति को तुलुव संस्कृति और भाषा की स्थिति का अध्ययन करने तथा इसकी आधिकारिक मान्यता के लिये मार्गों की सिफारिश करने हेतु वर्ष 2023 में गठित किया गया था।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;संवैधानिक प्रावधान:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/official-language-in-courts"&gt;&lt;b&gt;भारतीय संविधान के अनुच्छेद 345&lt;/b&gt;&lt;/a&gt; के तहत, एक राज्य विधायिका को प्रशासनिक उद्देश्यों के लिये हिंदी या राज्य के भीतर उपयोग में आने वाली किसी भी क्षेत्रीय भाषा को अपनी आधिकारिक भाषा के रूप में औपचारिक रूप से अपनाने का अधिकार दिया गया है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;अनुच्छेद 347 &lt;/b&gt;भारत के राष्ट्रपति को पूरे राज्य या किसी विशिष्ट ज़िले में किसी भाषा को आधिकारिक मान्यता देने का निर्देश देने का अधिकार प्रदान करता है, यदि जनसंख्या का एक बड़ा हिस्सा इसकी मांग करता है।&lt;/li&gt;
-&lt;li&gt;राष्ट्रीय स्तर पर,&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/eighth-schedule-of-the-indian-constitution"&gt; &lt;b&gt;भारतीय संविधान की आठवीं अनुसूची&lt;/b&gt; &lt;/a&gt;वर्तमान में &lt;b&gt;22 भाषाओं &lt;/b&gt;को मान्यता देती है, जबकि इसे &lt;b&gt;शामिल करने और अधिक मान्यता देने की मांगों के बावजूद तुलु इससे बाहर बनी हुई है।&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;तुलु भाषा&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;भाषाई वंशक्रम:&lt;/b&gt; तुलु एक अत्यंत प्रमुख &lt;b&gt;द्रविड़ भाषा&lt;/b&gt; है, जिसे अक्सर तमिल, कन्नड़, तेलुगु और मलयालम के साथ &lt;b&gt;'पंच-द्रविड़' (आदि-द्रविड़) भाषाओं&lt;/b&gt; में गिना जाता है।&lt;/li&gt;
-&lt;li&gt;अपनी समृद्ध साहित्यिक और धार्मिक विरासत को दर्ज करने के लिये, इस क्षेत्र ने अपनी स्वयं की स्वदेशी लेखन प्रणाली विकसित की, जिसे &lt;b&gt;तुलु लिपि (या तिगलारी)&lt;/b&gt; के रूप में जाना जाता है। यह एक दक्षिणी ब्राह्मी लिपि है, जो &lt;b&gt;मध्यकालीन ग्रंथ लिपि&lt;/b&gt; से विकसित हुई है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;भौगोलिक विस्तार:&lt;/b&gt; यह व्यापक रूप से &lt;b&gt;‘तुलुनाडु’ क्षेत्र&lt;/b&gt; में बोली जाती है, जिसमें मुख्य रूप से &lt;b&gt;कर्नाटक के तटीय ज़िले (कासरगोड/करावेली क्षेत्र) और उत्तरी केरल के कासरगोड ज़िले के कुछ हिस्से &lt;/b&gt;शामिल हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;सांस्कृतिक महत्त्व:&lt;/b&gt; तुलु में एक समृद्ध मौखिक परंपरा है, जो स्थानीय लोककथाओं, रंगमंच (जैसे- &lt;b&gt;यक्षगान)&lt;/b&gt;, भूता कोला जैसे अनुष्ठानों और प्राचीन महाकाव्य कविता के साथ गहराई से जुड़ी हुई है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;ऐतिहासिक संदर्भ:&lt;/b&gt; वर्ष &lt;a href="https://www.drishtiias.com/hindi/pcs-parikshan-answer-writing-practice/papers/UP-PCS-Mains-2024/uppcs-states-reorganisation-act/print/manual"&gt;&lt;b&gt;1956 के राज्य पुनर्गठन अधिनियम&lt;/b&gt; &lt;/a&gt;से पहले, तुलु भाषी क्षेत्र एकीकृत मैसूर राज्य (अब कर्नाटक) में विलय होने से पहले मद्रास प्रेसीडेंसी के अधीन थे।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;और पढ़ें: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/tulu"&gt;&lt;b&gt;तुलु भाषा&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content>
-</entry>
-<entry>
-<title>अगस्त्यमलाई जीवमंडल अभयारण्य में पुष्पीय पादपों की 3,261 प्रजातियाँ</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/3261-flowering-plant-species-in-agasthyamalai-biosphere-reserve</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/3261-flowering-plant-species-in-agasthyamalai-biosphere-reserve" rel="alternate"/>
-<published>2026-10-03T00:00:00+00:00</published>
-<updated>2026-10-03T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">अगस्त्यमलाई जीवमंडल अभयारण्य में पुष्पीय पादपों की 3,261 प्रजातियाँ
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/environment-ecology"&gt;जैव विविधता एवं पर्यावरण&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/ Conservation"&gt;संरक्षण&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.thehindu.com/news/national/kerala/new-checklist-by-keralam-research-team-records-3261-flowering-plant-species-in-agasthyamalai-biosphere-reserve/article71490560.ece"&gt;&lt;b&gt;स्रोत: द हिंदू &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;जवाहरलाल नेहरू ट्रॉपिकल बॉटेनिक गार्डन एंड रिसर्च इंस्टीट्यूट (JNTBGRI), तिरुवनंतपुरम ने [&lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/agasthyamalai-biosphere-reserve"&gt;&lt;b&gt;अगस्त्यमलाई बायोस्फीयर रिज़र्व (ABR)&lt;/b&gt;&lt;/a&gt;] में पुष्पीय पादपों की एक नई सूची तैयार की है, जो पश्चिमी घाट के वैश्विक जैव विविधता महत्त्व को रेखांकित करती है।&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;पुष्पीय विविधता:&lt;/b&gt; अध्ययन में ABR की समृद्ध पुष्पीय विविधता को दर्शाते हुए &lt;b&gt;1,139 वंशों और 190 कुलों से संबंधित 3,261 प्रजातियाँ, 26 उप-प्रजातियाँ एवं 28 किस्में&lt;/b&gt; दर्ज की गईं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;स्थानिकता:&lt;/b&gt; स्थानिकता का उच्च स्तर दर्ज किया गया, जिसमें 1,018 टैक्सा (31.2%) भारत के लिये स्थानिक थे, जिनमें 245 स्टेनो-स्थानिक टैक्सा शामिल हैं, जो विशिष्ट आवासों तक सीमित हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;प्रजाति-समृद्ध कुल:&lt;/b&gt; फैबेसी (Fabaceae) सबसे अधिक प्रजाति-समृद्ध कुल था, जिसके बाद रुबिएसी (Rubiaceae), पोएसी (Poaceae) और ऑर्किडेसी (Orchidaceae) का स्थान रहा।&lt;/li&gt;
-&lt;li&gt;जैव-भौगोलिक महत्त्व: ऐतिहासिक भूवैज्ञानिक और जलवायवीय संबंधों के कारण ABR में श्रीलंका के साथ पुष्पीय समानता दिखाई देती है, जहाँ 347 टैक्सा समान रूप से पाए जाते हैं।
-&lt;ul&gt;
-&lt;li&gt;कुछ प्रजातियाँ &lt;b&gt;उष्णकटिबंधीय अमेरिकी वनस्पतियों&lt;/b&gt; के साथ भी समानता दर्शाती हैं, जो संभवतः लंबी दूरी के प्रसार या अखिल-उष्णकटिबंधीय वितरण प्रतिरूपों के कारण हो सकती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;b&gt;अगस्त्यमलाई बायोस्फीयर रिज़र्व (ABR)&lt;/b&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;परिचय:&lt;/b&gt; यह &lt;b&gt;3,500 वर्ग किमी क्षेत्रफल वाला एक विशाल जैवमंडल आरक्षित क्षेत्र (Biosphere Reserve)&lt;/b&gt; है, जो पश्चिमी घाट के दक्षिणी छोर पर स्थित है और तमिलनाडु एवं केरल राज्यों में फैला हुआ है। 
-&lt;ul&gt;
-&lt;li&gt;यह दक्षिण भारत के चार जैवमंडल आरक्षित क्षेत्रों में से एक है, अन्य तीन &lt;b&gt;नीलगिरि जैवमंडल आरक्षित क्षेत्र, मन्नार की खाड़ी जैवमंडल आरक्षित क्षेत्र और शेषाचलम पहाड़ियाँ जैवमंडल आरक्षित क्षेत्र&lt;/b&gt; हैं। &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वनस्पति और जीव:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;नीलकुरिंजी (&lt;/b&gt;&lt;b&gt;&lt;i&gt;Strobilanthes kunthiana&lt;/i&gt;&lt;/b&gt;&lt;b&gt;)&lt;/b&gt; फूल, जो प्रत्येक &lt;b&gt;12 वर्ष में एक बार खिलता है&lt;/b&gt;, इस परिदृश्य में पाया जाता है।&lt;/li&gt;
-&lt;li&gt;इस क्षेत्र में &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/lion-tailed-macaques"&gt;&lt;b&gt;लायन-टेल्ड मेकाक&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (Lion-Tailed Macaque), &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/buxa-tiger-reserve-west-bengal"&gt;&lt;b&gt;बंगाल टाइगर&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (Bengal Tiger), &lt;/b&gt;नीलगिरि मार्टेन, नीलगिरि तहर, मालाबार स्पाइनी डॉर्माउस, ग्रेट पाइड हॉर्नबिल, गौर (भारतीय बाइसन) और &lt;a href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/sloth-bear-1"&gt;&lt;b&gt;स्लॉथ बीयर&lt;/b&gt; &lt;/a&gt;भी पाए जाते हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;पारिस्थितिकीय और सांस्कृतिक महत्त्व:&lt;/b&gt; इसे &lt;b&gt;वर्ष 2016 में यूनेस्को के विश्व जैवमंडल आरक्षित क्षेत्र नेटवर्क&lt;/b&gt; में शामिल किया गया था।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;जनजातीय आबादी:&lt;/b&gt; यह आरक्षित क्षेत्र कई स्वदेशी समुदायों का निवास स्थान है, जिनमें &lt;b&gt;कानी जनजाति (Kani Tribe)&lt;/b&gt; भी शामिल है, जो अपनी आजीविका और संस्कृति के लिये मुख्य रूप से वनों पर निर्भर हैं।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;संरक्षण संबंधी चिंताएँ:&lt;/b&gt; &lt;b&gt;अगस्त्यपर्वतम् जैवमंडल आरक्षित क्षेत्र (ABR)&lt;/b&gt; के समक्ष &lt;b&gt;आवास विखंडन, जलवायु परिवर्तन, जैविक आक्रमण और पारिस्थितिकीय क्षरण&lt;/b&gt; जैसी चुनौतियाँ हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;और पढ़ें: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/to-the-points/paper1/western-ghats-12"&gt;&lt;b&gt;पश्चिमी घाट&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
