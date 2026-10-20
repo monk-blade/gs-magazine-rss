@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Drishti IAS — प्रिलिम्स फैक्ट्स (Hindi)</title>
 <link href="https://www.drishtiias.com/hindi/current-affairs-news-analysis-editorials" rel="alternate"/>
-<updated>2026-10-20T05:06:10.915235+00:00</updated>
+<updated>2026-10-20T11:56:12.492343+00:00</updated>
 <id>urn:gs-magazine-rss:drishti-prelims-facts</id>
 <author><name>Drishti IAS</name></author>
+<entry>
+<title>भाषिणी और IISc द्वारा सौराष्ट्र भाषा के लिये टेक्स्ट-टू-स्पीच मॉडल विकसित</title>
+<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/bhashini-and-iisc-develop-text-to-speech-models-for-sourashtra</id>
+<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/bhashini-and-iisc-develop-text-to-speech-models-for-sourashtra" rel="alternate"/>
+<published>2026-10-19T00:00:00+00:00</published>
+<updated>2026-10-19T00:00:00+00:00</updated>
+<author><name>Drishti IAS</name></author>
+<content type="html">भाषिणी और IISc द्वारा सौराष्ट्र भाषा के लिये टेक्स्ट-टू-स्पीच मॉडल विकसित
+
+&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Technology-Missions"&gt;प्रौद्योगिकी मिशन&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://newsonair.gov.in/bhashini-and-iisc-bengaluru-develop-text-to-speech-models-for-sourashtra-community-in-tamil-nadu/"&gt;&lt;b&gt;स्रोत: ऑल इंडिया रेडियो &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;इलेक्ट्रॉनिकी एवं सूचना प्रौद्योगिकी मंत्रालय (MeitY)&lt;/b&gt; के अंतर्गत &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/digital-india-bhashini"&gt;&lt;b&gt;डिजिटल इंडिया भाषिणी&lt;/b&gt;&lt;/a&gt;&lt;b&gt; प्रभाग&lt;/b&gt; ने &lt;b&gt;भारतीय विज्ञान संस्थान (IISc), बंगलूरू &lt;/b&gt;के सहयोग से तमिलनाडु में मुख्यतः बोली जाने वाली एक अल्पसंख्यक इंडो-आर्यन भाषा &lt;b&gt;सौराष्ट्र के लिये AI-आधारित टेक्स्ट-टू-स्पीच (TTS) &lt;/b&gt;मॉडल विकसित किये हैं।&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;सौराष्ट्र:&lt;/b&gt; &lt;b&gt;इंडो-आर्यन भाषा&lt;/b&gt;, जो मुख्यतः &lt;b&gt;तमिलनाडु&lt;/b&gt; में सौराष्ट्र समुदाय द्वारा बोली जाती है और इसको बोलने वाले लोगों की संख्या लगभग &lt;b&gt;2.48 लाख (जनगणना 2011)&lt;/b&gt; है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;प्रौद्योगिकी:&lt;/b&gt; &lt;b&gt;VITS आर्किटेक्चर &lt;/b&gt;(वेरिएशनल इन्फेरेंस विद एडवर्सेरियल लर्निंग फॉर एंड-टू-एंड TTS) का उपयोग लिखित पाठ को सीधे वॉयस में परिवर्तित करने के लिये किया जाता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भाषा और आवाज़ें:&lt;/b&gt; ये मॉडल पुरुष और महिला वॉयस का समर्थन करते हैं तथा&lt;b&gt; तमिल और सौराष्ट्र दोनों लिपियों में लिखे पाठ &lt;/b&gt;को संसाधित कर सकते हैं।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;एआईकोश :&lt;/b&gt; भाषिणी का एआईकोश  प्लेटफॉर्म भारतीय भाषा संबंधी AI अनुसंधान को समर्थन देने के लिये &lt;b&gt;SPICOR TTS 3.0 सौराष्ट्र&lt;/b&gt; कॉर्पस को होस्ट करता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;भाषिणी:&lt;/b&gt; यह &lt;b&gt;डिजिटल इंडिया कॉर्पोरेशन (DIC), MeitY&lt;/b&gt; के अंतर्गत कार्य करता है और AI-संचालित बहुभाषी डिजिटल समावेशन को बढ़ावा देता है।&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;महत्त्व:&lt;/b&gt; यह डिजिटल अनुप्रयोगों, भाषा शिक्षण, सुगम्यता समाधानों, दस्तावेज़ीकरण और अनुसंधान में &lt;b&gt;कम-संसाधन वाली भाषाओं&lt;/b&gt; के उपयोग को बढ़ावा देता है।&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;और पढ़ें: &lt;/b&gt;&lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/digital-india-bhashini"&gt;&lt;b&gt;डिजिटल इंडिया भाषिणी&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+</entry>
 <entry>
 <title>कुफरी जामुनिया: भारत का बायोफोर्टिफाइड बैंगनी आलू</title>
 <id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/kufri-jamunia-india-s-biofortified-purple-potato</id>
@@ -3013,47 +3043,5 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<title>गैर-कानूनी रूप से बड़े पैमाने पर GM कपास की खेती</title>
-<id>https://www.drishtiias.com/hindi/daily-updates/prelims-facts/study-flags-widespread-illegal-gm-cotton-cultivation</id>
-<link href="https://www.drishtiias.com/hindi/daily-updates/prelims-facts/study-flags-widespread-illegal-gm-cotton-cultivation" rel="alternate"/>
-<published>2026-10-19T00:00:00+00:00</published>
-<updated>2026-10-19T00:00:00+00:00</updated>
-<author><name>Drishti IAS</name></author>
-<content type="html">गैर-कानूनी रूप से बड़े पैमाने पर GM कपास की खेती
-
-&lt;ul&gt;टैग्स: &lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/rapid fire current affairs"&gt;रैपिड फायर करेंट अफेयर्स&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/preliminary-examination"&gt;प्रारंभिक परीक्षा&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/General-Studies -III"&gt;सामान्य अध्ययन-III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.drishtiias.com/hindi/tags/Achievements-of-Indians-in-science-and-technology"&gt;विज्ञान और प्रौद्योगिकी में भारतीयों की उपलब्धियाँ&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://indianexpress.com/article/india/cotton-area-illegal-gm-hybrids-study-10911544/?utm_source=chatgpt.com"&gt;&lt;b&gt;स्रोत: इंडियन एक्सप्रेस &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;एक क्षेत्रीय अध्ययन में पाया गया कि वर्ष &lt;b&gt;2025–26&lt;/b&gt; में &lt;b&gt;अनुमोदन-रहित आनुवंशिक रूप से संशोधित (GM) लक्षणों&lt;/b&gt; वाले कपास संकरों (Cotton Hybrids) की खेती भारत के &lt;b&gt;कपास उत्पादक क्षेत्र के 24–30% हिस्से&lt;/b&gt; में की गई। भारत के कुल &lt;b&gt;114.8 लाख हेक्टेयर कपास क्षेत्र&lt;/b&gt; में से लगभग &lt;b&gt;26.2–29 लाख हेक्टेयर&lt;/b&gt; क्षेत्र में ऐसे संकर उगाए गए।&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;GM लक्षणों की पहचान:&lt;/b&gt; इन संकरों में निम्नलिखित जीन पाए गए:
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;cp4-epsps&lt;/b&gt;, जो कपास को शाकनाशी &lt;b&gt;ग्लाइफोसेट&lt;/b&gt; के प्रति अनुकूल बनाता है।&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Vip3A&lt;/b&gt;, जो फसल को बोलवॉर्म के लार्वा की अधिक व्यापक श्रेणी से सुरक्षा प्रदान करता है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;वर्तमान प्रचलन:&lt;/b&gt; भारत में किसानों को केवल &lt;b&gt;cry1Ac और cry2Ab जीन&lt;/b&gt; वाले &lt;b&gt;GM कपास संकरों तथा किस्मों&lt;/b&gt; की खेती करने की अनुमति है। ये जीन मृदा जीवाणु &lt;b&gt;Bt&lt;/b&gt; से प्राप्त होते हैं।
-&lt;ul&gt;
-&lt;li&gt;ये जीन कपास के पौधों में ऐसे प्रोटीन उत्पन्न करने में सहायता करते हैं, जो कुछ &lt;b&gt;बोलवॉर्म कीटों&lt;/b&gt; के लिये विषैले होते हैं।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;नियामकीय स्थिति:&lt;/b&gt; भारत में &lt;b&gt;Bt कपास&lt;/b&gt; व्यावसायिक कृषि के लिये अनुमोदित एकमात्र GM फसल है। इन संकरों में पाए गए अननुमोदित लक्षणों को &lt;b&gt;आनुवंशिक अभियांत्रिकी मूल्यांकन समिति (GEAC)&lt;/b&gt; से स्वीकृति प्राप्त नहीं हुई है।
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;GEAC&lt;/b&gt;, &lt;b&gt;पर्यावरण, वन एवं जलवायु परिवर्तन मंत्रालय (MoEF&amp;amp;CC)&lt;/b&gt; के अंतर्गत कार्य करती है।&lt;/li&gt;
-&lt;li&gt;यह अनुसंधान और उद्योग में &lt;b&gt;खतरनाक सूक्ष्मजीवों तथा आनुवंशिक रूप से संशोधित जीवों (GMO)&lt;/b&gt; के बड़े पैमाने पर उपयोग की &lt;b&gt;पर्यावरणीय सुरक्षा&lt;/b&gt; का आकलन करती है।&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://drishtiias.com/hindi/images/uploads/upload-20261012065522-92dbb5f5.png"&gt;&lt;img alt="Study Flags Widespread Illegal GM Cotton Cultivation" src="http://drishtiias.com/hindi/images/uploads/upload-20261012065522-92dbb5f5.png"/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;b&gt;और पढ़ें:&lt;/b&gt; &lt;a href="https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/herbicide-tolerant-bt-cotton"&gt;&lt;b&gt;हर्बिसाइड टॉलरेंट (HT) बीटी कॉटन&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content>
 </entry>
 </feed>
